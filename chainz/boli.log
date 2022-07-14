@@ -39,6 +39,8 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 185.82.203.241|/BolivarCore:2.0.0.2/|70211|60117|185.82.203.0/24|AE|ripencc|2014-12-31|HS, AE
 186.14.2.173|/BolivarCore:2.0.0.2/|70212|21826|186.14.0.0/21|VE|lacnic|2008-09-10|Corporacion Telemic C.A., VE
 186.14.2.173|/BolivarCore:2.0.0.2/|70211|21826|186.14.0.0/21|VE|lacnic|2008-09-10|Corporacion Telemic C.A., VE
+186.152.110.231|/BolivarCore:2.0.0.2/|70212|7303|186.152.0.0/16|AR|lacnic|2010-05-24|Telecom Argentina S.A., AR
+186.152.110.231|/BolivarCore:2.0.0.2/|70211|7303|186.152.0.0/16|AR|lacnic|2010-05-24|Telecom Argentina S.A., AR
 186.90.11.165|/BolivarCore:2.0.0.2/|70212|8048|186.90.0.0/19|VE|lacnic|2009-11-18|CANTV Servicios, Venezuela, VE
 186.90.11.165|/BolivarCore:2.0.0.2/|70211|8048|186.90.0.0/19|VE|lacnic|2009-11-18|CANTV Servicios, Venezuela, VE
 186.90.219.48|/BolivarCore:2.0.0.2/|70212|8048|186.90.192.0/19|VE|lacnic|2009-11-18|CANTV Servicios, Venezuela, VE
@@ -55,8 +57,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 194.34.232.192|/BolivarCore:2.0.0.2/|70211|51167|194.34.232.0/24|DE|ripencc|2018-10-29|CONTABO, DE
 200.35.93.68|/BolivarCore:2.0.0.2/|70212|6306|200.35.92.0/22|VE|lacnic|1999-06-03|TELEFONICA VENEZOLANA, C.A., VE
 200.35.93.68|/BolivarCore:2.0.0.2/|70211|6306|200.35.92.0/22|VE|lacnic|1999-06-03|TELEFONICA VENEZOLANA, C.A., VE
-201.208.214.132|/BolivarCore:2.0.0.2/|70212|8048|201.208.192.0/19|VE|lacnic|2005-08-09|CANTV Servicios, Venezuela, VE
-201.208.214.132|/BolivarCore:2.0.0.2/|70211|8048|201.208.192.0/19|VE|lacnic|2005-08-09|CANTV Servicios, Venezuela, VE
 201.209.9.111|/BolivarCore:2.0.0.2/|70212|8048|201.209.0.0/19|VE|lacnic|2005-08-09|CANTV Servicios, Venezuela, VE
 201.209.9.111|/BolivarCore:2.0.0.2/|70211|8048|201.209.0.0/19|VE|lacnic|2005-08-09|CANTV Servicios, Venezuela, VE
 201.210.124.194|/BolivarCore:2.0.0.2/|70212|8048|201.210.96.0/19|VE|lacnic|2005-08-09|CANTV Servicios, Venezuela, VE
