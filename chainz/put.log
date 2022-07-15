@@ -51,7 +51,9 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 34.72.253.248|/Satoshi:1.0.0/|60013|396982|34.72.240.0/20|US|arin|2018-09-28|GOOGLE-CLOUD-PLATFORM, US
 35.226.21.65|/Satoshi:1.0.0/|60013|396982|35.226.16.0/20|US|arin|2017-09-29|GOOGLE-CLOUD-PLATFORM, US
 36.70.56.155|/Satoshi:1.0.0/|60013|7713|36.70.48.0/20|ID|apnic|2011-01-14|TELKOMNET-AS-AP PT Telekomunikasi Indonesia, ID
+37.111.141.188|/Satoshi:1.0.0/|60013|24499|37.111.141.0/24|PK|apnic|2012-02-08|TPP-AS-PK Telenor Pakistan, PK
 37.111.141.245|/Satoshi:1.0.0/|60013|24499|37.111.141.0/24|PK|apnic|2012-02-08|TPP-AS-PK Telenor Pakistan, PK
+37.120.204.189|/Satoshi:1.0.0/|60013|9009|37.120.204.0/24|RO|ripencc|2012-02-13|M247, GB
 45.126.209.106|Satoshi:1.0.0|60013|23470|45.126.209.0/24|SG|apnic|2015-09-08|RELIABLESITE, US
 45.63.1.153|/Satoshi:1.0.0/|60013|20473|45.63.0.0/20|US|arin|2015-01-02|AS-CHOOPA, US
 46.134.134.59|/Satoshi:1.0.0/|60013|5617|46.134.0.0/16|PL|ripencc|2010-11-08|TPNET, PL
@@ -104,7 +106,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 92.116.98.72|/Satoshi:1.0.0/|60013|8881|92.116.96.0/19|DE|ripencc|2007-10-25|VERSATEL, DE
 92.37.143.57|/Satoshi:1.0.0/|60013|12389|92.37.142.0/23|RU|ripencc|2008-01-18|ROSTELECOM-AS, RU
 92.86.39.175|/Satoshi:1.0.0/|60013|9050|92.86.0.0/16|RO|ripencc|2007-08-15|RTD Bucharest, Romania, RO
-92.86.51.158|/Satoshi:1.0.0/|60013|9050|92.86.0.0/16|RO|ripencc|2007-08-15|RTD Bucharest, Romania, RO
 93.201.212.207|/Satoshi:1.0.0/|60013|3320|93.192.0.0/10|DE|ripencc|2008-02-12|DTAG Internet service provider operations, DE
 93.206.18.76|/Satoshi:1.0.0/|60013|3320|93.192.0.0/10|DE|ripencc|2008-02-12|DTAG Internet service provider operations, DE
 93.206.19.228|/Satoshi:1.0.0/|60013|3320|93.192.0.0/10|DE|ripencc|2008-02-12|DTAG Internet service provider operations, DE

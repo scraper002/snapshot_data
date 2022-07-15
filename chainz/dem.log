@@ -3,7 +3,6 @@
 IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 107.152.33.4|/eMark:1.6.1.2/|60012|11878|107.152.33.0/24|US|arin|2013-12-03|TZULO, US
 109.108.34.172|/eMark:1.6.1.2/|60012|12389|109.108.32.0/21|RU|ripencc|2009-10-26|ROSTELECOM-AS, RU
-109.236.86.71|/eMark:1.5.1/|60011|49981|109.236.80.0/20|NL|ripencc|2009-12-04|WORLDSTREAM, NL
 113.177.117.144|/eMark:1.6.1.2/|60012|45899|113.177.112.0/20|VN|apnic|2008-11-04|VNPT-AS-VN VNPT Corp, VN
 121.36.61.114|/eMark:1.6.1.1/|60012|55990|121.36.0.0/17|CN|apnic|2006-05-23|HWCSNET Huawei Cloud Service data center, CN
 122.59.8.177|/eMark:1.5.0/|60011|4771|122.59.8.0/21|NZ|apnic|2008-09-16|SPARKNZ Spark New Zealand Trading Ltd., NZ
@@ -74,6 +73,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 87.184.123.224|/eMark:1.6.1.2/|60012|3320|87.128.0.0/10|DE|ripencc|2006-03-30|DTAG Internet service provider operations, DE
 87.184.124.137|/eMark:1.6.1.2/|60012|3320|87.128.0.0/10|DE|ripencc|2006-03-30|DTAG Internet service provider operations, DE
 87.211.227.205|/eMark:1.5.1/|60011|13127|87.211.0.0/16|NL|ripencc|2005-06-02|T-MOBILE AS for the Trans-European T-Mobile IP Transport backbone, NL
+87.249.132.181|/eMark:1.6.1.2/|60012|212238|87.249.132.0/24|CZ|ripencc|2005-08-30|CDNEXT, GB
 87.78.5.24|/eMark:1.6.1.2/|60012|8422|87.78.0.0/15|DE|ripencc|2005-05-31|NETCOLOGNE, DE
 89.163.242.207|/eMark:1.5.1/|60011|24961|89.163.128.0/17|DE|ripencc|2006-02-17|MYLOC-AS IP Backbone of myLoc managed IT AG, DE
 89.163.255.142|/eMark:1.5.1/|60011|24961|89.163.128.0/17|DE|ripencc|2006-02-17|MYLOC-AS IP Backbone of myLoc managed IT AG, DE
@@ -81,6 +81,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 89.183.61.188|/eMark:1.6.1.2/|60012|13045|89.183.0.0/16|DE|ripencc|2006-04-06|HTP-AS, DE
 90.188.245.207|/eMark:1.5.1/|60011|12389|90.188.245.0/24|RU|ripencc|2006-10-18|ROSTELECOM-AS, RU
 91.206.16.214|/eMark:1.6.1/|60012|13259|91.206.16.0/23|RU|ripencc|2008-06-09|DELTA-TELESYSTEMS-AS, RU
+91.64.135.66|/eMark:1.5.0/|60011|3209|91.64.0.0/14|DE|ripencc|2006-07-10|VODANET International IP-Backbone of Vodafone, DE
 92.117.86.92|/eMark:1.6.1.2/|60012|8881|92.117.64.0/19|DE|ripencc|2007-10-25|VERSATEL, DE
 92.117.87.119|/eMark:1.6.1.2/|60012|8881|92.117.64.0/19|DE|ripencc|2007-10-25|VERSATEL, DE
 92.81.31.104|/eMark:1.6.1.2/|60012|9050|92.81.0.0/16|RO|ripencc|2007-08-15|RTD Bucharest, Romania, RO
