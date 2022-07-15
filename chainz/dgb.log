@@ -2,6 +2,7 @@
 # DigiByte
 IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 103.10.66.65|/digiwallet:1.0.0/|70017|45727|103.10.66.0/24|ID|apnic|2011-06-08|THREE-AS-ID Hutchison CP Telecommunications, PT, ID
+103.120.203.113|/DigiByte:7.17.2/|70017|63526|103.120.203.0/24|BD|apnic|2018-08-08|SSDTL-BD Systems Solutions & development Technologies Limited, BD
 103.16.129.95|/open-nodes:0.1/|70019|133159|103.16.128.0/22|AU|apnic|2013-02-06|MAMMOTHMEDIA-AS-AP Mammoth Media Pty Ltd, AU
 103.179.54.44|/DigiByte:7.17.2/|70017|136395|103.179.54.0/24|BD|apnic|2022-01-07|EXPERT-AS-AP Mahfujul Haque ta Expert Online, BD
 104.218.52.222|/DigiByte:7.17.3/|70017|19318|104.218.48.0/21|US|arin|2014-10-02|IS-AS-1, US
@@ -154,7 +155,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 86.126.9.42|/DigiByte:7.17.3/|70017|8708|86.120.0.0/13|RO|ripencc|2005-03-16|RCS-RDS 73-75 Dr. Staicovici, RO
 86.177.87.134|/DigiByte:7.17.3/|70017|2856|86.128.0.0/10|GB|ripencc|2005-02-07|BT-UK-AS BTnet UK Regional network, GB
 87.178.183.29|/DigiByte:7.17.3/|70017|3320|87.128.0.0/10|DE|ripencc|2006-03-30|DTAG Internet service provider operations, DE
-88.109.160.237|/DigiByte:7.17.2/|70017|9105|88.108.0.0/15|GB|ripencc|2005-08-05|TISCALI-UK TalkTalk Communications Limited, GB
 88.64.137.169|/DigiByte:7.17.2/|70017|3209|88.64.0.0/12|DE|ripencc|2005-08-15|VODANET International IP-Backbone of Vodafone, DE
 89.255.97.202|/DigiByte:7.17.3/|70017|41601|89.255.97.0/24|RU|ripencc|2006-09-14|OBLTEL-AS, RU
 91.251.138.43|/digiwallet:1.0.0/|70017|197207|91.251.128.0/18|IR|ripencc|2012-09-14|MCCI-AS, IR
