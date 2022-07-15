@@ -22,6 +22,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 193.25.22.35|/Satoshi:2.1.8/|70005|680|193.25.16.0/20|DE|ripencc|1993-02-11|DFN Verein zur Foerderung eines Deutschen Forschungsnetzes e.V., DE
 193.80.101.156|/Satoshi:2.1.8/|70005|1901|193.80.0.0/15|AT|ripencc|1993-09-01|EUNETAT-AS A1 Telekom Austria AG, AT
 194.78.56.17|/Satoshi:2.1.8/|70005|5432|194.78.0.0/16|BE|ripencc|1996-02-13|PROXIMUS-ISP-AS, BE
+194.95.83.201|/Satoshi:2.1.8/|70005|680|194.94.0.0/15|DE|ripencc|1995-08-04|DFN Verein zur Foerderung eines Deutschen Forschungsnetzes e.V., DE
 195.65.248.82|/Satoshi:2.1.8/|70005|3303|195.65.0.0/16|CH|ripencc|1997-01-20|SWISSCOM Swisscom Switzerland Ltd, CH
 203.185.182.55|/Satoshi:2.1.8/|70005|9471|203.185.182.0/24|PF|apnic|2005-11-29|ONATI-AS-AP ONATI, PF
 212.197.190.252|/Satoshi:2.1.8/|70005|1901|212.197.128.0/18|AT|ripencc|2000-10-13|EUNETAT-AS A1 Telekom Austria AG, AT
@@ -37,7 +38,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 65.242.59.210|/Satoshi:2.1.8/|70005|701|65.240.0.0/13|US|arin|2002-02-13|UUNET, US
 69.119.193.9|/Satoshi:2.1.8/|70005|6128|69.116.0.0/14|US|arin|2004-01-15|CABLE-NET-1, US
 72.107.40.139|/Satoshi:2.1.8/|70005|6167|72.107.40.0/21|US|arin|2005-06-28|CELLCO-PART, US
-75.198.166.33|/Satoshi:2.1.8/|70005|6167|75.198.128.0/18|US|arin|2006-01-18|CELLCO-PART, US
 76.100.207.21|/Satoshi:2.1.8/|70005|7922|76.96.0.0/11|US|arin|2007-01-02|COMCAST-7922, US
 77.251.8.160|/Satoshi:2.1.8/|70005|33915|77.250.0.0/15|NL|ripencc|2007-01-26|TNF-AS, NL
 78.77.192.159|/Satoshi:2.1.8/|70005|3301|78.64.0.0/12|SE|ripencc|2007-03-09|TELIANET-SWEDEN Telia Company, SE

@@ -20,6 +20,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 115.36.226.159|/eXperience Points Core:5.2.0.2/|70922|18126|115.36.0.0/16|JP|apnic|2008-07-08|CTCX Chubu Telecommunications Company, Inc., JP
 118.156.228.173|/eXperience Points Core:5.2.0.3/|70922|2516|118.156.0.0/16|JP|apnic|2008-07-30|KDDI KDDI CORPORATION, JP
 118.7.66.3|/eXperience Points Core:5.2.0.2/|70922|4713|118.0.0.0/12|JP|apnic|2007-08-01|OCN NTT Communications Corporation, JP
+119.172.208.65|/eXperience Points Core:5.2.0.2/|70922|9824|119.172.128.0/17|JP|apnic|2008-02-26|JTCL-JP-AS JCOM Co., Ltd., JP
 119.173.3.103|/eXperience Points Core:5.2.0.2/|70922|9824|119.173.0.0/17|JP|apnic|2008-02-26|JTCL-JP-AS JCOM Co., Ltd., JP
 119.231.228.84|/eXperience Points Core:5.2.0.2/|70922|17511|119.228.0.0/14|JP|apnic|2008-02-28|OPTAGE OPTAGE Inc., JP
 121.102.76.104|/eXperience Points Core:5.2.0.3/|70922|2497|121.102.0.0/16|JP|apnic|2006-07-27|IIJ Internet Initiative Japan Inc., JP
@@ -69,7 +70,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 153.246.183.47|/eXperience Points Core:5.2.0.2/|70922|4713|153.240.0.0/13|JP|apnic|2011-02-28|OCN NTT Communications Corporation, JP
 154.20.114.244|/eXperience Points Core:5.2.0.3/|70922|852|154.20.0.0/16|CA|arin|1992-02-05|TELUS Communications, CA
 157.7.97.96|/eXperience Points Core:5.2.0.3/|70922|7506|157.7.64.0/18|JP|apnic|1992-08-14|INTERQ GMO Internet,Inc, JP
-159.28.194.82|/eXperience Points Core:5.2.0.2/|70922|2527|159.28.128.0/17|JP|apnic|1992-03-02|SO-NET Sony Network Communications Inc., JP
 159.65.239.15|/eXperience Points Core:5.2.0.2/|70922|14061|159.65.224.0/20|US|arin|2017-10-24|DIGITALOCEAN-ASN, US
 159.89.130.92|/eXperience Points Core:5.2.0.3/|70922|14061|159.89.128.0/20|US|arin|2017-07-07|DIGITALOCEAN-ASN, US
 160.16.94.56|/XP2-Core-CVMU:5.2.0.2/|70922|9370|160.16.0.0/17|JP|apnic|1992-06-10|SAKURA-B SAKURA Internet Inc., JP
@@ -95,7 +95,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 161.97.176.215|/eXperience Points Core:5.2.0.3/|70922|51167|161.97.176.0/21|DE|ripencc|1992-06-23|CONTABO, DE
 161.97.176.216|/eXperience Points Core:5.2.0.3/|70922|51167|161.97.176.0/21|DE|ripencc|1992-06-23|CONTABO, DE
 161.97.176.217|/eXperience Points Core:5.2.0.3/|70922|51167|161.97.176.0/21|DE|ripencc|1992-06-23|CONTABO, DE
-161.97.73.119|/eXperience Points Core:5.2.0.3/|70922|51167|161.97.72.0/23|DE|ripencc|1992-06-23|CONTABO, DE
+161.97.176.219|/eXperience Points Core:5.2.0.3/|70922|51167|161.97.176.0/21|DE|ripencc|1992-06-23|CONTABO, DE
 161.97.92.137|/eXperience Points Core:5.2.0.3/|70922|51167|161.97.92.0/23|DE|ripencc|1992-06-23|CONTABO, DE
 161.97.94.144|/eXperience Points Core:5.2.0.3/|70922|51167|161.97.94.0/23|DE|ripencc|1992-06-23|CONTABO, DE
 161.97.95.41|/eXperience Points Core:5.2.0.3/|70922|51167|161.97.94.0/23|DE|ripencc|1992-06-23|CONTABO, DE
@@ -237,7 +237,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 2.95.68.234|/eXperience Points Core:5.2.0.3/|70922|3216|2.95.0.0/16|RU|ripencc|2010-05-21|SOVAM-AS, RU
 200.236.199.116|/eXperience Points Core:5.2.0.2/|70922|28649|200.236.192.0/20|BR|lacnic|2011-02-22|Desktop Sigmanet Comunicacao Multimidia SA, BR
 203.152.212.105|/eXperience Points Core:5.2.0.3/|70922|2514|203.152.192.0/19|JP|apnic|2005-08-04|INFOSPHERE NTT PC Communications, Inc., JP
-207.180.193.27|/eXperience Points Core:5.2.0.3/|70922|51167|207.180.192.0/23|DE|ripencc|1996-08-21|CONTABO, DE
 207.180.200.217|/eXperience Points Core:5.2.0.3/|70922|51167|207.180.200.0/23|DE|ripencc|1996-08-21|CONTABO, DE
 207.180.200.78|/eXperience Points Core:5.2.0.2/|70922|51167|207.180.200.0/23|DE|ripencc|1996-08-21|CONTABO, DE
 207.180.203.197|/eXperience Points Core:5.2.0.3/|70922|51167|207.180.202.0/23|DE|ripencc|1996-08-21|CONTABO, DE
@@ -254,6 +253,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 207.180.248.52|/eXperience Points Core:5.2.0.3/|70922|51167|207.180.248.0/23|DE|ripencc|1996-08-21|CONTABO, DE
 207.180.249.87|/eXperience Points Core:5.2.0.3/|70922|51167|207.180.248.0/23|DE|ripencc|1996-08-21|CONTABO, DE
 207.180.250.15|/eXperience Points Core:5.2.0.3/|70922|51167|207.180.250.0/23|DE|ripencc|1996-08-21|CONTABO, DE
+210.198.201.165|/eXperience Points Core:5.2.0.2/|70922|2516|210.198.128.0/17|JP|apnic|1999-06-09|KDDI KDDI CORPORATION, JP
 211.23.128.57|/eXperience Points Core:5.2.0.3/|70922|3462|211.23.0.0/16|TW|apnic|2000-06-30|HINET Data Communication Business Group, TW
 211.244.165.36|/eXperience Points Core:5.2.0.2/|70922|9318|211.244.0.0/16|KR|apnic|2000-09-08|SKB-AS SK Broadband Co Ltd, KR
 213.136.75.61|/eXperience Points Core:5.2.0.3/|70922|51167|213.136.74.0/23|DE|ripencc|2000-02-28|CONTABO, DE
