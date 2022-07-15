@@ -1,6 +1,7 @@
 # https://chainz.cryptoid.info/ and whois results
 # VeriCoin
 IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
+107.185.174.246|/Vericonomy:2.0.0/|90000|20001|107.184.0.0/15|US|arin|2014-02-12|TWC-20001-PACWEST, US
 110.148.165.63|/Vericonomy:2.0.1.5/|90001|1221|110.144.0.0/13|AU|apnic|2009-04-20|ASN-TELSTRA Telstra Corporation Ltd, AU
 115.78.96.182|/Vericonomy:2.0.0/|90000|7552|115.78.96.0/21|VN|apnic|2008-07-17|VIETEL-AS-AP Viettel Group, VN
 118.69.234.211|/Vericonomy:2.0.0/|90000|18403|118.69.224.0/20|VN|apnic|2007-08-08|FPT-AS-AP FPT Telecom Company, VN
@@ -10,6 +11,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 174.68.170.27|/Veritoshi:1.7.2/|70012|22773|174.68.128.0/18|US|arin|2009-02-19|ASN-CXA-ALL-CCI-22773-RDC, US
 188.26.130.169|/Vericonomy:2.0.0.4/|90000|8708|188.26.128.0/18|RO|ripencc|2009-02-11|RCS-RDS 73-75 Dr. Staicovici, RO
 194.110.112.182|/Vericonomy:2.0.0/|90000|9009|194.110.112.0/24|RO|ripencc|2018-05-24|M247, GB
+2.44.143.70|/Vericonomy:2.0.0/|90000|30722|2.44.128.0/18|IT|ripencc|2010-04-29|VODAFONE-IT-ASN, IT
 202.180.87.142|/Vericonomy:2.0.1.5/|90001|9790|202.180.64.0/18|NZ|apnic|1999-07-22|VOCUSGROUPNZ VocusGroup, NZ
 207.213.184.245|/Vericonomy:2.0.0/|90000|7018|207.212.0.0/14|US|arin|1996-09-25|ATT-INTERNET4, US
 207.213.184.250|/Vericonomy:2.0.0/|90000|7018|207.212.0.0/14|US|arin|1996-09-25|ATT-INTERNET4, US
@@ -19,9 +21,11 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 37.201.116.202|/Vericonomy:2.0.0/|90000|3209|37.201.0.0/17|DE|ripencc|2012-03-22|VODANET International IP-Backbone of Vodafone, DE
 41.138.89.226|???|0|37136|41.138.89.0/24|BJ|afrinic|2009-08-14|ETISALAT-AS, BJ
 41.193.1.234|/Vericonomy:2.0.0/|90000|11845|41.193.0.0/16|ZA|afrinic|2006-04-03|Vox-Telecom, ZA
+5.58.121.56|/Vericonomy:2.0.0/|90000|16223|5.58.96.0/19|UA|ripencc|2012-06-01|LANET-TE, UA
 51.7.167.6|/Vericonomy:2.0.0/|90000|6871|51.6.0.0/15|GB|ripencc|1993-09-01|PLUSNET UK Internet Service Provider, GB
 71.46.113.174|/Vericonomy:2.0.0/|90000|33363|71.46.64.0/18|US|arin|2005-06-08|BHN-33363, US
 71.88.106.199|/Vericonomy:2.0.0/|90000|20115|71.88.96.0/20|US|arin|2005-05-19|CHARTER-20115, US
+72.39.89.111|/Vericonomy:2.0.0/|90000|7992|72.38.0.0/15|CA|arin|2005-07-22|COGECOWAVE, CA
 73.211.186.45|/Vericonomy:2.0.1.5/|90001|7922|73.0.0.0/8|US|arin|2005-04-19|COMCAST-7922, US
 73.41.255.117|/Vericonomy:2.0.0/|90000|7922|73.0.0.0/8|US|arin|2005-04-19|COMCAST-7922, US
 74.101.92.20|/Vericonomy:2.0.0/|90000|701|74.101.0.0/16|US|arin|2009-01-26|UUNET, US
@@ -40,5 +44,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 91.64.135.66|/Vericonomy:2.0.0/|90000|3209|91.64.0.0/14|DE|ripencc|2006-07-10|VODANET International IP-Backbone of Vodafone, DE
 92.220.86.6|/Vericonomy:2.0.0.1/|90000|29695|92.220.0.0/15|NO|ripencc|2007-10-17|ALTIBOX_AS Norway, NO
 94.39.4.247|/Vericonomy:2.0.0/|90000|8612|94.36.0.0/14|IT|ripencc|2008-05-14|TISCALI-, IT
+95.175.104.139|/Vericonomy:2.0.0/|90000|49282|95.175.96.0/19|FI|ripencc|2009-04-02|FICOLO, FI
 95.175.104.20|/Vericonomy:2.0.0/|90000|49282|95.175.96.0/19|FI|ripencc|2009-04-02|FICOLO, FI
 95.217.78.168|/Veritoshi:1.7.2/|70012|24940|95.217.0.0/16|DE|ripencc|2009-02-24|HETZNER-AS, DE
