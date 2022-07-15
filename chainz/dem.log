@@ -14,8 +14,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 178.37.95.120|/eMark:1.6.1.2/|60012|12741|178.36.0.0/15|PL|ripencc|2010-01-28|AS-NETIA Warszawa 02-822, PL
 184.190.135.207|/eMark:1.6.1.2/|60012|22773|184.190.128.0/18|US|arin|2010-05-14|ASN-CXA-ALL-CCI-22773-RDC, US
 185.205.246.221|/eMark:1.6.1.2/|60012|51167|185.205.246.0/24|DE|ripencc|2017-05-30|CONTABO, DE
-188.23.153.155|/eMark Android:1.0.0/|60011|8447|188.20.0.0/14|AT|ripencc|2009-02-03|A1TELEKOM-AT A1 Telekom Austria AG, AT
-188.36.201.17|/eMark:1.5.1/|60011|5483|188.36.0.0/16|HU|ripencc|2009-03-27|MAGYAR-TELEKOM-MAIN-AS Magyar Telekom Nyrt., HU
 195.90.208.175|/eMark:1.6.1.2/|60012|42730|195.90.192.0/18|DE|ripencc|1997-04-22|EVANZOAS, DE
 195.90.211.174|/eMark:1.6.1.2/|60012|42730|195.90.192.0/18|DE|ripencc|1997-04-22|EVANZOAS, DE
 206.72.198.107|/eMark:1.6.1/|60012|19318|206.72.192.0/20|US|arin|2011-10-03|IS-AS-1, US
@@ -49,7 +47,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 77.32.60.150|/eMark:1.6.1.2/|60012|35612|77.32.48.0/20|IT|ripencc|2006-12-13|NGI-AS, IT
 78.26.176.4|/eMark:1.6.1.2/|60012|34187|78.26.128.0/18|UA|ripencc|2007-08-29|RENOME-AS, UA
 79.209.234.176|/eMark:1.6.1.2/|60012|3320|79.192.0.0/10|DE|ripencc|2007-06-06|DTAG Internet service provider operations, DE
-79.209.235.233|/eMark:1.6.1.2/|60012|3320|79.192.0.0/10|DE|ripencc|2007-06-06|DTAG Internet service provider operations, DE
 79.226.205.133|/eMark:1.5.1/|60011|3320|79.192.0.0/10|DE|ripencc|2007-06-06|DTAG Internet service provider operations, DE
 79.230.69.72|/eMark:1.6.1.2/|60012|3320|79.192.0.0/10|DE|ripencc|2007-06-06|DTAG Internet service provider operations, DE
 79.30.96.171|/eMark:1.6.1.2/|60012|3269|79.30.0.0/15|IT|ripencc|2007-02-21|ASN-IBSNAZ, IT
@@ -64,6 +61,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 85.140.117.21|/eMark:1.6.1.2/|60012|8359|85.140.116.0/22|RU|ripencc|2004-12-13|MTS, RU
 85.19.25.38|/eMark:1.6.1/|60012|25400|85.19.0.0/16|NO|ripencc|2005-03-16|TELIA-NORWAY-AS Telia Norway Core Networks, NO
 87.123.244.102|/eMark:1.6.1.2/|60012|8881|87.123.240.0/21|DE|ripencc|2005-07-27|VERSATEL, DE
+87.123.244.4|/eMark:1.5.1/|60011|8881|87.123.240.0/21|DE|ripencc|2005-07-27|VERSATEL, DE
 87.123.244.96|/eMark:1.6.1.2/|60012|8881|87.123.240.0/21|DE|ripencc|2005-07-27|VERSATEL, DE
 87.123.245.101|/eMark:1.6.1.2/|60012|8881|87.123.240.0/21|DE|ripencc|2005-07-27|VERSATEL, DE
 87.123.245.124|/eMark:1.6.1.2/|60012|8881|87.123.240.0/21|DE|ripencc|2005-07-27|VERSATEL, DE
@@ -78,10 +76,10 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 89.163.242.207|/eMark:1.5.1/|60011|24961|89.163.128.0/17|DE|ripencc|2006-02-17|MYLOC-AS IP Backbone of myLoc managed IT AG, DE
 89.163.255.142|/eMark:1.5.1/|60011|24961|89.163.128.0/17|DE|ripencc|2006-02-17|MYLOC-AS IP Backbone of myLoc managed IT AG, DE
 89.183.10.221|/eMark:1.6.1.2/|60012|13045|89.183.0.0/16|DE|ripencc|2006-04-06|HTP-AS, DE
-89.183.61.188|/eMark:1.6.1.2/|60012|13045|89.183.0.0/16|DE|ripencc|2006-04-06|HTP-AS, DE
 90.188.245.207|/eMark:1.5.1/|60011|12389|90.188.245.0/24|RU|ripencc|2006-10-18|ROSTELECOM-AS, RU
 91.206.16.214|/eMark:1.6.1/|60012|13259|91.206.16.0/23|RU|ripencc|2008-06-09|DELTA-TELESYSTEMS-AS, RU
 91.64.135.66|/eMark:1.5.0/|60011|3209|91.64.0.0/14|DE|ripencc|2006-07-10|VODANET International IP-Backbone of Vodafone, DE
+91.7.242.65|/eMark:1.6.1.2/|60012|3320|91.0.0.0/10|DE|ripencc|2006-07-03|DTAG Internet service provider operations, DE
 91.7.246.211|/eMark:1.6.1.2/|60012|3320|91.0.0.0/10|DE|ripencc|2006-07-03|DTAG Internet service provider operations, DE
 92.117.86.92|/eMark:1.6.1.2/|60012|8881|92.117.64.0/19|DE|ripencc|2007-10-25|VERSATEL, DE
 92.117.87.119|/eMark:1.6.1.2/|60012|8881|92.117.64.0/19|DE|ripencc|2007-10-25|VERSATEL, DE
@@ -92,5 +90,4 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 95.217.78.79|/eMark:1.6.1.2/|60012|24940|95.217.0.0/16|DE|ripencc|2009-02-24|HETZNER-AS, DE
 95.90.168.168|/eMark:1.5.1/|60011|3209|95.88.0.0/14|DE|ripencc|2008-12-15|VODANET International IP-Backbone of Vodafone, DE
 95.91.252.106|/eMark:1.5.1/|60011|3209|95.88.0.0/14|DE|ripencc|2008-12-15|VODANET International IP-Backbone of Vodafone, DE
-95.91.252.110|/eMark:1.5.1/|60011|3209|95.88.0.0/14|DE|ripencc|2008-12-15|VODANET International IP-Backbone of Vodafone, DE
 99.148.47.138|/eMark:1.6.1.2/|60012|7018|99.148.0.0/15|US|arin|2007-08-29|ATT-INTERNET4, US
