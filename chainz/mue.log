@@ -13,7 +13,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 161.81.34.41|/MonetaryUnit Core:2.3.0/|70706|137872|161.81.32.0/21|HK|apnic|1992-06-22|PEOPLESPHONE-HK China Mobile Hong Kong Company Limited, HK
 167.86.127.48|/MonetaryUnit Core:2.3.0/|70706|51167|167.86.126.0/23|DE|ripencc|1993-05-14|CONTABO, DE
 173.212.223.117|/MonetaryUnit Core:2.3.0/|70706|51167|173.212.192.0/19|DE|ripencc|2009-10-26|CONTABO, DE
-173.249.5.41|/MonetaryUnit Core:2.3.0/|70706|51167|173.249.4.0/23|DE|ripencc|2010-05-26|CONTABO, DE
 178.83.130.73|/MonetaryUnit Core:2.3.0/|70706|6830|178.83.0.0/16|CH|ripencc|2009-12-14|LIBERTYGLOBAL Liberty Global formerly UPC Broadband Holding, aka AORTA, NL
 185.242.112.23|/MonetaryUnit Core:2.3.0/|70706|48314|185.242.112.0/24|DE|ripencc|2018-01-18|IP-PROJECTS, DE
 185.242.112.9|/MonetaryUnit Core:2.3.0/|70706|48314|185.242.112.0/24|DE|ripencc|2018-01-18|IP-PROJECTS, DE
@@ -27,17 +26,17 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 213.149.8.181|/MonetaryUnit Core:2.3.0/|70706|31214|213.149.0.0/19|RU|ripencc|2008-04-15|TIS-DIALOG-AS, RU
 220.238.58.197|/MonetaryUnit Core:2.3.0/|70706|4804|220.238.0.0/17|AU|apnic|2004-07-08|MPX-AS Microplex PTY LTD, AU
 23.116.244.230|/MonetaryUnit Core:2.3.0/|70706|7018|23.112.0.0/12|US|arin|2013-08-09|ATT-INTERNET4, US
-23.227.150.229|/MonetaryUnit Core:2.3.0/|70706|55081|23.227.128.0/19|US|arin|2013-09-23|24SHELLS, US
+23.227.150.229|/MonetaryUnit Core:2.3.0/|70706||||||
 24.134.107.237|/MonetaryUnit Core:2.3.0/|70706|3209|24.134.0.0/16|DE|ripencc|2012-04-25|VODANET International IP-Backbone of Vodafone, DE
 31.153.91.111|/MonetaryUnit Core:2.3.0/|70706|6866|31.153.80.0/20|CY|ripencc|2011-02-23|CYTA-NETWORK Internet Services, CY
 45.76.63.94|/MonetaryUnit Core:2.3.0/|70706|20473|45.76.60.0/22|US|arin|2015-04-24|AS-CHOOPA, US
 46.251.251.19|/MonetaryUnit Core:2.3.0/|70706|48314|46.251.251.0/24|DE|ripencc|2011-02-09|IP-PROJECTS, DE
 46.251.251.34|/MonetaryUnit Core:2.3.0/|70706|48314|46.251.251.0/24|DE|ripencc|2011-02-09|IP-PROJECTS, DE
-46.83.231.191|/MonetaryUnit Core:2.3.0/|70706|3320|46.80.0.0/12|DE|ripencc|2010-06-07|DTAG Internet service provider operations, DE
 47.156.113.146|/MonetaryUnit Core:2.3.0/|70706|5650|47.156.0.0/16|US|arin|2015-08-28|FRONTIER-FRTR, US
 49.12.203.205|/MonetaryUnit Core:2.3.0/|70706|24940|49.12.0.0/16|DE|ripencc|2010-10-21|HETZNER-AS, DE
-50.220.121.211|/MonetaryUnit Core:2.3.0/|70706|7922|50.128.0.0/9|US|arin|2010-10-21|COMCAST-7922, US
+50.220.121.211|/MonetaryUnit Core:2.3.0/|70706||||||
 50.5.236.135|/MonetaryUnit Core:2.3.0/|70706|6181|50.5.128.0/17|US|arin|2010-09-09|FUSE-NET, US
+54.37.85.61|/MonetaryUnit Core:2.3.0/|70706|16276|54.37.0.0/16|FR|ripencc|1992-03-17|OVH, FR
 58.168.119.236|/MonetaryUnit Core:2.3.0/|70706|1221|58.160.0.0/12|AU|apnic|2006-01-24|ASN-TELSTRA Telstra Corporation Ltd, AU
 65.108.93.55|/MonetaryUnit Core:2.3.0/|70706|24940|65.108.0.0/16|DE|ripencc|2001-02-09|HETZNER-AS, DE
 65.186.33.100|/MonetaryUnit Core:2.3.0/|70706|10796|65.186.0.0/18|US|arin|2004-04-07|TWC-10796-MIDWEST, US
@@ -51,7 +50,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 83.215.142.159|/MonetaryUnit Core:2.3.0/|70706|8445|83.215.0.0/16|AT|ripencc|2004-03-26|SALZBURG-AG-AS, AT
 83.68.128.148|/MonetaryUnit Core:2.3.0/|70706|1764|83.68.128.0/19|AT|ripencc|2004-05-14|NEXTLAYER-AS, AT
 84.247.48.166|/MonetaryUnit Core:2.3.0/|70706|16247|84.247.48.0/24|RO|ripencc|2004-10-08|M247-UK M247 UK Ltd, trading as M247, GB
-88.212.55.252|/MonetaryUnit Core:2.3.0/|70706|42841|88.212.48.0/20|SK|ripencc|2005-12-08|ANTIK, SK
+88.212.55.252|/MonetaryUnit Core:2.3.0/|70706||||||
 91.218.58.6|/MonetaryUnit Core:2.3.0/|70706|3170|91.218.58.0/24|GB|ripencc|2020-06-04|VELOXSERV VeloxServ Communications Ltd, GB
 91.246.66.175|/MonetaryUnit Core:2.3.0/|70706|42673|91.246.64.0/21|PL|ripencc|2012-08-27|SKYWARE-AS, PL
 92.21.169.35|/MonetaryUnit Core:2.3.0/|70706|13285|92.20.0.0/15|GB|ripencc|2007-06-28|OPALTELECOM-AS TalkTalk Communications Limited, GB
@@ -69,5 +68,5 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 98.169.92.173|/MonetaryUnit Core:2.3.0/|70706|22773|98.169.0.0/16|US|arin|2007-07-20|ASN-CXA-ALL-CCI-22773-RDC, US
 98.215.160.113|/MonetaryUnit Core:2.3.0/|70706|7922|98.192.0.0/10|US|arin|2007-04-20|COMCAST-7922, US
 98.250.175.53|/MonetaryUnit Core:2.3.0/|70706|7922|98.192.0.0/10|US|arin|2007-04-20|COMCAST-7922, US
-98.60.211.180|/MonetaryUnit Core:2.3.0/|70706|7922|98.32.0.0/11|US|arin|2007-06-06|COMCAST-7922, US
+98.60.211.180|/MonetaryUnit Core:2.3.0/|70706||||||
 99.9.57.174|/MonetaryUnit Core:2.3.0/|70706|7018|99.8.0.0/15|US|arin|2008-02-25|ATT-INTERNET4, US
