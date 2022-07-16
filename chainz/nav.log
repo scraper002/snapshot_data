@@ -43,8 +43,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 31.14.85.9|/Navcoin:7.0.1/|80021|58224|31.14.80.0/20|IR|ripencc|2011-04-18|TCI, IR
 31.14.88.23|/Navcoin:7.0.1/|80021|58224|31.14.80.0/20|IR|ripencc|2011-04-18|TCI, IR
 31.14.88.33|/Navcoin:7.0.1/|80021|58224|31.14.80.0/20|IR|ripencc|2011-04-18|TCI, IR
-31.14.89.1|/Navcoin:7.0.1/|80021|58224|31.14.80.0/20|IR|ripencc|2011-04-18|TCI, IR
-31.14.93.17|/Navcoin:7.0.1/|80021|58224|31.14.80.0/20|IR|ripencc|2011-04-18|TCI, IR
 36.227.145.240|/Navcoin:7.0.3/|80021|3462|36.227.0.0/16|TW|apnic|2011-01-20|HINET Data Communication Business Group, TW
 45.138.143.96|/Navcoin:7.0.1/|80021|205199|45.138.140.0/22|SE|ripencc|2019-08-07|BITCOM, SE
 5.172.232.112|/Navcoin:7.0.3/|80021|8374|5.172.224.0/19|PL|ripencc|2012-08-01|PLUSNET Plus network operator in Poland, PL
@@ -73,6 +71,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 85.14.123.2|/Navcoin:7.0.1/|80021|31242|85.14.64.0/18|PL|ripencc|2005-04-06|TKPSA-AS, PL
 85.166.88.146|/Navcoin:7.0.1/|80021|2119|85.164.0.0/14|NO|ripencc|2004-11-18|TELENOR-NEXTEL Telenor Norge AS, NO
 86.123.229.245|/Navcoin:7.0.1/|80021|8708|86.120.0.0/13|RO|ripencc|2005-03-16|RCS-RDS 73-75 Dr. Staicovici, RO
+89.187.164.242|/Navcoin:7.0.1/|80021|60068|89.187.164.0/24|CZ|ripencc|2006-04-28|CDN77 ^_^, GB
 89.64.79.2|/Navcoin:7.0.1/|80021|6830|89.64.0.0/13|PL|ripencc|2006-02-22|LIBERTYGLOBAL Liberty Global formerly UPC Broadband Holding, aka AORTA, NL
 91.205.41.233|/Navcoin:7.0.0/|80021|207582|91.205.41.0/24|TR|ripencc|2020-01-10|BUULDY, TR
 91.246.66.175|/Navcoin:7.0.1/|80021|42673|91.246.64.0/21|PL|ripencc|2012-08-27|SKYWARE-AS, PL
