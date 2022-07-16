@@ -11,7 +11,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 157.211.99.66|/m-core:1.4.6.2/|71065|58507|157.211.96.0/21|AU|apnic|1992-01-30|WL-AS-AP Wireline, AU
 158.69.25.32|/m-core:1.4.6.2/|71065|16276|158.69.0.0/16|CA|arin|2015-06-15|OVH, FR
 161.53.40.242|/m-core:1.4.6.2/|71065|2108|161.53.0.0/16|HR|ripencc|1993-09-01|CARNET-AS J.Marohnica 5, 10000 Zagreb, HR
-161.97.112.55|/m-core:1.4.6.2/|71065|51167|161.97.112.0/23|DE|ripencc|1992-06-23|CONTABO, DE
 173.72.40.236|/m-core:1.4.6.2/|71065|701|173.72.0.0/17|US|arin|2008-08-11|UUNET, US
 178.121.39.189|/m-core:1.4.6.2/|71065|6697|178.121.32.0/21|BY|ripencc|2009-12-10|BELPAK-AS BELPAK, BY
 185.148.3.233|/m-core:1.4.6.2/|71065|203003|185.148.0.0/22|FI|ripencc|2016-04-18|MAGNA-CAPAX, FI
@@ -46,6 +45,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 82.64.32.163|/m-core:1.4.6.2/|71065|12322|82.64.0.0/14|FR|ripencc|2003-04-03|PROXAD, FR
 84.198.102.174|/m-core:1.4.6.2/|71065|6848|84.192.0.0/13|BE|ripencc|2004-04-21|TELENET-AS, BE
 84.40.106.95|/m-core:1.4.6.2/|71065|8866|84.40.64.0/18|BG|ripencc|2009-10-02|BTC-AS BULGARIA, BG
+87.142.170.202|/m-core:1.4.6.2/|71065|3320|87.128.0.0/10|DE|ripencc|2005-05-03|DTAG Internet service provider operations, DE
 87.162.123.139|/m-core:1.4.6.2/|71065|3320|87.128.0.0/10|DE|ripencc|2006-03-30|DTAG Internet service provider operations, DE
 88.117.123.83|/m-core:1.4.6.2/|71065|8447|88.116.0.0/15|AT|ripencc|2005-09-16|A1TELEKOM-AT A1 Telekom Austria AG, AT
 88.159.198.1|/m-core:1.4.6.2/|71065|1136|88.159.0.0/16|NL|ripencc|2006-01-27|KPN KPN National, NL
