@@ -44,7 +44,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 42.191.229.98|/ColossusXT Core:1.2.4/|70911|4788|42.191.224.0/19|MY|apnic|2011-03-09|TMNET-AS-AP TM Net, Internet Service Provider, MY
 45.29.44.202|/ColossusXT Core:1.2.4/|70911|7018|45.16.0.0/12|US|arin|2014-12-11|ATT-INTERNET4, US
 45.77.208.164|/ColossusXT Core:1.2.4/|70911|20473|45.77.208.0/21|US|arin|2015-04-24|AS-CHOOPA, US
-46.59.129.208|/ColossusXT Core:1.2.4/|70911|15943|46.59.128.0/17|DE|ripencc|2010-10-21|WTNET-AS wilhelm.tel GmbH, DE
 47.209.26.54|/ColossusXT Core:1.2.4/|70911|19108|47.208.0.0/15|US|arin|2015-09-08|SUDDENLINK-COMMUNICATIONS, US
 49.12.66.98|/ColossusXT Core:1.2.4/|70911|24940|49.12.0.0/16|DE|ripencc|2010-10-21|HETZNER-AS, DE
 5.172.234.71|/ColossusXT Core:1.2.4/|70911|8374|5.172.224.0/19|PL|ripencc|2012-08-01|PLUSNET Plus network operator in Poland, PL
@@ -59,6 +58,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 78.47.83.59|/ColossusXT Core:1.2.4/|70911|24940|78.46.0.0/15|DE|ripencc|2007-04-16|HETZNER-AS, DE
 80.241.217.68|/ColossusXT Core:1.2.3/|70911|51167|80.241.216.0/23|DE|ripencc|2011-02-14|CONTABO, DE
 81.169.221.142|/ColossusXT Core:1.2.4/|70911|6724|81.169.128.0/17|DE|ripencc|2003-04-17|STRATO STRATO AG, DE
+81.25.164.224|/ColossusXT Core:1.2.4/|70911|15943|81.25.160.0/20|DE|ripencc|2002-03-25|WTNET-AS wilhelm.tel GmbH, DE
 82.207.240.249|/ColossusXT Core:1.2.4/|70911|8881|82.207.240.0/20|DE|ripencc|2003-12-02|VERSATEL, DE
 83.81.104.120|/ColossusXT Core:1.2.4/|70911|33915|83.80.0.0/14|NL|ripencc|2003-11-28|TNF-AS, NL
 91.18.29.245|/ColossusXT Core:1.2.4/|70911|3320|91.0.0.0/10|DE|ripencc|2006-07-03|DTAG Internet service provider operations, DE

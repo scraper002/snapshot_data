@@ -6,7 +6,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 106.53.150.104|/GlobalToken:3.3.0.1/|80002|45090|106.53.144.0/20|CN|apnic|2011-04-06|TENCENT-NET-AP Shenzhen Tencent Computer Systems Company Limited, CN
 114.67.105.16|/GlobalToken:3.3.0.1/|80002|4812|114.67.64.0/18|CN|apnic|2008-05-07|CHINANET-SH-AP China Telecom Group, CN
 114.67.113.237|/GlobalToken:3.3.0.1/|80002|4812|114.67.64.0/18|CN|apnic|2008-05-07|CHINANET-SH-AP China Telecom Group, CN
-121.37.186.161|/GlobalToken:3.3.0.1/|80002|55990|121.37.160.0/19|CN|apnic|2006-07-26|HWCSNET Huawei Cloud Service data center, CN
 122.112.184.149|/GlobalToken:3.3.0.1/|80002|55990|122.112.160.0/19|CN|apnic|2007-09-18|HWCSNET Huawei Cloud Service data center, CN
 128.1.49.213|/GlobalToken:3.3.0.1/|80002|135377|128.1.49.0/24|US|arin|2016-09-07|UCLOUD-HK-AS-AP UCLOUD INFORMATION TECHNOLOGY HK LIMITED, HK
 135.181.183.40|/GlobalToken:3.3.0/|80002|24940|135.181.0.0/16|DE|ripencc|1996-04-30|HETZNER-AS, DE
@@ -36,6 +35,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 223.247.148.13|/GlobalToken:3.3.0.1/|80002|4134|223.240.0.0/13|CN|apnic|2010-08-03|CHINANET-BACKBONE No.31,Jin-rong Street, CN
 37.120.167.36|/GlobalToken:3.3.0.1/|80002|197540|37.120.160.0/19|DE|ripencc|2012-02-13|NETCUP-AS netcup GmbH, DE
 37.120.184.138|/GlobalToken:3.3.0.1/|80002|197540|37.120.160.0/19|DE|ripencc|2012-02-13|NETCUP-AS netcup GmbH, DE
+37.120.185.202|/GlobalToken:3.3.0.1/|80002|197540|37.120.160.0/19|DE|ripencc|2012-02-13|NETCUP-AS netcup GmbH, DE
 37.120.187.173|/GlobalToken:3.3.0.1/|80002|197540|37.120.160.0/19|DE|ripencc|2012-02-13|NETCUP-AS netcup GmbH, DE
 37.120.187.191|/GlobalToken:3.3.0.1/|80002|197540|37.120.160.0/19|DE|ripencc|2012-02-13|NETCUP-AS netcup GmbH, DE
 37.221.192.153|/GlobalToken:3.3.0.1/|80002|197540|37.221.192.0/21|DE|ripencc|2012-04-10|NETCUP-AS netcup GmbH, DE
@@ -46,7 +46,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 46.232.250.195|/GlobalToken:3.3.0.1/|80002|197540|46.232.248.0/22|DE|ripencc|2018-06-15|NETCUP-AS netcup GmbH, DE
 5.188.173.19|/GlobalToken:3.3.0.1/|80002|56630|5.188.173.0/24|LT|ripencc|2012-08-09|MELBICOM-EU-AS Melbikomas UAB, LT
 66.70.182.1|/GlobalToken:3.3.0.1/|80002|16276|66.70.128.0/17|CA|arin|2017-02-13|OVH, FR
-77.173.177.79|/GlobalToken:3.3.0.1/|80002|1136|77.173.0.0/16|NL|ripencc|2006-11-02|KPN KPN National, NL
 79.143.179.12|/GlobalToken:3.3.0.1/|80002|51167|79.143.178.0/23|DE|ripencc|2010-01-08|CONTABO, DE
 79.201.44.247|/GlobalToken:3.3.0.1/|80002|3320|79.192.0.0/10|DE|ripencc|2007-06-06|DTAG Internet service provider operations, DE
 81.15.179.42|/GlobalToken:3.3.0.1/|80002|199715|81.15.179.0/24|PL|ripencc|2002-08-05|ASN-MSITELEKOM, PL
