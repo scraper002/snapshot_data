@@ -21,7 +21,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 46.94.86.140|/Veritoshi:1.7.2/|70012|3320|46.80.0.0/12|DE|ripencc|2010-06-07|DTAG Internet service provider operations, DE
 46.94.92.22|/Veritoshi:1.7.2/|70012|3320|46.80.0.0/12|DE|ripencc|2010-06-07|DTAG Internet service provider operations, DE
 5.58.121.56|/Vericonomy:2.0.0/|90000|16223|5.58.96.0/19|UA|ripencc|2012-06-01|LANET-TE, UA
-51.7.167.6|/Vericonomy:2.0.0/|90000|6871|51.6.0.0/15|GB|ripencc|1993-09-01|PLUSNET UK Internet Service Provider, GB
+51.7.167.6|/Vericonomy:2.0.0/|90000||||||
 71.88.106.199|/Vericonomy:2.0.0/|90000|20115|71.88.96.0/20|US|arin|2005-05-19|CHARTER-20115, US
 72.39.89.111|/Vericonomy:2.0.0/|90000|7992|72.38.0.0/15|CA|arin|2005-07-22|COGECOWAVE, CA
 73.211.186.45|/Vericonomy:2.0.1.5/|90001|7922|73.0.0.0/8|US|arin|2005-04-19|COMCAST-7922, US
@@ -29,6 +29,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 74.101.92.20|/Vericonomy:2.0.0/|90000|701|74.101.0.0/16|US|arin|2009-01-26|UUNET, US
 74.194.156.4|/Vericonomy:2.0.0/|90000|19108|74.194.128.0/19|US|arin|2006-09-27|SUDDENLINK-COMMUNICATIONS, US
 78.154.13.145|/Veritoshi:1.7.2/|70012|8866|78.154.13.0/24|BG|ripencc|2007-07-13|BTC-AS BULGARIA, BG
+79.178.21.96|/Vericonomy:2.0.0/|90000|8551|79.178.21.0/24|IL|ripencc|2007-06-14|BEZEQ-INTERNATIONAL-AS Bezeqint Internet Backbone, IL
 81.155.229.76|/Vericonomy:2.0.0/|90000|2856|81.128.0.0/11|GB|ripencc|2002-07-25|BT-UK-AS BTnet UK Regional network, GB
 83.33.139.239|/Vericonomy:2.0.0/|90000|3352|83.33.0.0/16|ES|ripencc|2003-12-02|TELEFONICA_DE_ESPANA, ES
 84.113.159.205|/Vericonomy:2.0.0/|90000|8412|84.112.0.0/15|AT|ripencc|2004-04-07|TMA Magenta Telekom, AT
@@ -41,6 +42,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 91.121.221.200|/Vericonomy:2.0.0/|90000|16276|91.121.0.0/16|FR|ripencc|2006-09-20|OVH, FR
 91.64.135.66|/Vericonomy:2.0.0/|90000|3209|91.64.0.0/14|DE|ripencc|2006-07-10|VODANET International IP-Backbone of Vodafone, DE
 91.64.215.114|/Vericonomy:2.0.0/|90000|3209|91.64.0.0/14|DE|ripencc|2006-07-10|VODANET International IP-Backbone of Vodafone, DE
+92.137.168.235|/Vericonomy:2.0.0/|90000|3215|92.137.128.0/17|FR|ripencc|2007-07-12|France Telecom - Orange, FR
 92.220.86.6|/Vericonomy:2.0.0.1/|90000|29695|92.220.0.0/15|NO|ripencc|2007-10-17|ALTIBOX_AS Norway, NO
 94.39.4.247|/Vericonomy:2.0.0/|90000|8612|94.36.0.0/14|IT|ripencc|2008-05-14|TISCALI-, IT
 95.175.104.139|/Vericonomy:2.0.0/|90000|49282|95.175.96.0/19|FI|ripencc|2009-04-02|FICOLO, FI
