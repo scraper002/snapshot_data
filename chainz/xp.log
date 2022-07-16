@@ -10,7 +10,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 104.28.224.99|/eXperience Points Core:5.2.0.3/|70922|13335|104.28.224.0/24|US|arin|2014-03-28|CLOUDFLARENET, US
 109.115.37.19|/eXperience Points Core:5.2.0.2/|70922|30722|109.114.0.0/15|IT|ripencc|2009-06-12|VODAFONE-IT-ASN, IT
 109.205.181.214|/eXperience Points Core:5.2.0.3/|70922|51167|109.205.180.0/22|DE|ripencc|2010-02-16|CONTABO, DE
-109.64.235.91|/eXperience Points Core:5.2.0.3/|70922|8551|109.64.235.0/24|IL|ripencc|2009-08-10|BEZEQ-INTERNATIONAL-AS Bezeqint Internet Backbone, IL
 109.66.203.229|/eXperience Points Core:5.2.0.3/|70922|8551|109.66.203.0/24|IL|ripencc|2009-08-10|BEZEQ-INTERNATIONAL-AS Bezeqint Internet Backbone, IL
 110.131.217.146|/eXperience Points Core:5.2.0.2/|70922|9824|110.131.0.0/16|JP|apnic|2009-04-16|JTCL-JP-AS JCOM Co., Ltd., JP
 114.165.101.82|/eXperience Points Core:5.2.0.3/|70922|4713|114.160.0.0/11|JP|apnic|2008-06-12|OCN NTT Communications Corporation, JP
@@ -144,6 +143,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 167.86.93.186|/eXperience Points Core:5.2.0.2/|70922|51167|167.86.92.0/23|DE|ripencc|1993-05-14|CONTABO, DE
 167.86.96.209|/eXperience Points Core:5.2.0.3/|70922|51167|167.86.96.0/23|DE|ripencc|1993-05-14|CONTABO, DE
 167.86.96.249|/eXperience Points Core:5.2.0.3/|70922|51167|167.86.96.0/23|DE|ripencc|1993-05-14|CONTABO, DE
+167.86.97.19|/eXperience Points Core:5.2.0.3/|70922|51167|167.86.96.0/23|DE|ripencc|1993-05-14|CONTABO, DE
 167.86.97.26|/eXperience Points Core:5.2.0.2/|70922|51167|167.86.96.0/23|DE|ripencc|1993-05-14|CONTABO, DE
 167.86.97.5|/eXperience Points Core:5.2.0.3/|70922|51167|167.86.96.0/23|DE|ripencc|1993-05-14|CONTABO, DE
 173.212.193.6|/eXperience Points Core:5.2.0.3/|70922|51167|173.212.192.0/19|DE|ripencc|2009-10-26|CONTABO, DE
@@ -237,7 +237,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 207.180.208.104|/eXperience Points Core:5.2.0.2/|70922|51167|207.180.208.0/23|DE|ripencc|1996-08-21|CONTABO, DE
 207.180.208.123|/eXperience Points Core:5.2.0.3/|70922|51167|207.180.208.0/23|DE|ripencc|1996-08-21|CONTABO, DE
 207.180.214.74|/eXperience Points Core:5.2.0.2/|70922|51167|207.180.214.0/23|DE|ripencc|1996-08-21|CONTABO, DE
-207.180.216.178|/eXperience Points Core:5.2.0.2/|70922|51167|207.180.216.0/23|DE|ripencc|1996-08-21|CONTABO, DE
 207.180.218.133|/eXperience Points Core:5.2.0.3/|70922|51167|207.180.218.0/23|DE|ripencc|1996-08-21|CONTABO, DE
 207.180.225.117|/eXperience Points Core:5.2.0.2/|70922|51167|207.180.224.0/23|DE|ripencc|1996-08-21|CONTABO, DE
 207.180.227.207|/eXperience Points Core:5.2.0.3/|70922|51167|207.180.226.0/23|DE|ripencc|1996-08-21|CONTABO, DE
@@ -252,6 +251,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 212.73.34.148|/eXperience Points Core:5.2.0.2/|70922|12430|212.73.32.0/19|ES|ripencc|1999-06-17|VODAFONE_ES, ES
 213.136.71.135|/eXperience Points Core:5.2.0.3/|70922|51167|213.136.70.0/23|DE|ripencc|2000-02-28|CONTABO, DE
 213.136.75.61|/eXperience Points Core:5.2.0.3/|70922|51167|213.136.74.0/23|DE|ripencc|2000-02-28|CONTABO, DE
+213.136.85.58|/eXperience Points Core:5.2.0.3/|70922|51167|213.136.84.0/23|DE|ripencc|2000-02-28|CONTABO, DE
 213.178.34.183|/eXperience Points Core:5.2.0.3/|70922|8439|213.178.32.0/21|RU|ripencc|2008-01-17|AIST Togliatti, Russia, RU
 217.178.137.40|/eXperience Points Core:5.2.0.2/|70922|55391|217.178.128.0/18|JP|apnic|2001-03-02|MF-NATIVE6-E INTERNET MULTIFEED CO., JP
 217.241.9.16|/eXperience Points Core:5.2.0.3/|70922|3320|217.224.0.0/11|DE|ripencc|2001-04-04|DTAG Internet service provider operations, DE
@@ -304,7 +304,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 62.42.58.93|/eXperience Points Core:5.2.0.3/|70922|6739|62.42.0.0/16|ES|ripencc|2000-05-03|ONO-AS Cableuropa - ONO, ES
 64.66.195.101|/eXperience Points Core:5.2.0.2/|70922|53913|64.66.192.0/19|CA|arin|2018-04-30|CITY-WIDE-COMMUNICATIONS, CA
 66.228.51.166|/eXperience Points Core:5.2.0.3/|70922|63949|66.228.48.0/21|US|arin|2011-02-25|LINODE-AP Linode, LLC, US
-68.133.101.237|/eXperience Points Core:5.2.0.3/|70922|701|68.133.0.0/16|US|arin|2002-05-13|UUNET, US
 70.106.229.116|/eXperience Points Core:5.2.0.3/|70922|701|70.106.192.0/18|US|arin|2004-09-21|UUNET, US
 71.196.70.246|/eXperience Points Core:5.2.0.3/|70922|7922|71.192.0.0/12|US|arin|2005-07-27|COMCAST-7922, US
 72.84.106.21|/eXperience Points Core:5.2.0.2/|70922|701|72.84.64.0/18|US|arin|2005-06-24|UUNET, US
