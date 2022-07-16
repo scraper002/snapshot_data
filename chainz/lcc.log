@@ -42,7 +42,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 217.79.189.71|/LitecoinCashCore:0.16.3/|70015|24961|217.79.176.0/20|DE|ripencc|2003-11-17|MYLOC-AS IP Backbone of myLoc managed IT AG, DE
 24.67.205.102|/LitecoinCashCore:0.16.3/|70015|6327|24.67.204.0/22|CA|arin|1996-06-03|SHAW, CA
 31.25.241.224|/LitecoinCashCore:0.16.3/|70015|39741|31.25.241.0/24|RU|ripencc|2011-03-10|DCE-AS, RU
-36.71.86.248|/LitecoinCashCore:0.16.3/|70015|7713|36.71.80.0/20|ID|apnic|2011-01-14|TELKOMNET-AS-AP PT Telekomunikasi Indonesia, ID
 37.222.164.184|/LitecoinCashCore:0.16.3/|70015|12430|37.222.0.0/15|ES|ripencc|2012-04-05|VODAFONE_ES, ES
 37.24.91.227|/LitecoinCashCore:0.16.3/|70015|3209|37.24.0.0/17|DE|ripencc|2011-12-22|VODANET International IP-Backbone of Vodafone, DE
 37.73.86.250|/LitecoinCashCore:0.16.3/|70015|34058|37.73.80.0/20|UA|ripencc|2012-01-27|LIFECELL-AS, UA
@@ -75,6 +74,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 79.166.132.60|/LitecoinCashCore:0.16.3/|70015|3329|79.166.128.0/19|GR|ripencc|2007-08-08|HOL-GR Athens, Greece, GR
 79.191.136.225|/LitecoinCashCore:0.16.3/|70015|5617|79.184.0.0/13|PL|ripencc|2007-06-15|TPNET, PL
 80.219.190.80|/LitecoinCashCore:0.16.3/|70015|6830|80.219.0.0/16|CH|ripencc|2002-04-04|LIBERTYGLOBAL Liberty Global formerly UPC Broadband Holding, aka AORTA, NL
+83.195.190.81|/LitecoinCashCore:0.16.3/|70015|3215|83.195.128.0/17|FR|ripencc|2003-12-12|France Telecom - Orange, FR
 84.226.120.115|/LitecoinCashCore:0.16.3/|70015|6730|84.226.0.0/15|CH|ripencc|2004-07-02|SUNRISE, CH
 84.28.132.168|/LitecoinCashCore:0.16.3/|70015|33915|84.28.0.0/14|NL|ripencc|2004-07-01|TNF-AS, NL
 85.14.6.58|/LitecoinCashCore:0.16.3/|70015|8262|85.14.0.0/18|BG|ripencc|2005-04-06|EVOLINK-AS, BG
@@ -85,6 +85,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 89.143.41.24|/LitecoinCashCore:0.16.3/|70015|5603|89.143.0.0/18|SI|ripencc|2006-03-03|SIOL-NET Telekom Slovenije d.d., SI
 89.163.135.58|/LitecoinCashCore:0.16.3/|70015|24961|89.163.128.0/17|DE|ripencc|2006-02-17|MYLOC-AS IP Backbone of myLoc managed IT AG, DE
 89.212.249.4|/LitecoinCashCore:0.16.3/|70015|34779|89.212.192.0/18|SI|ripencc|2006-05-03|T-2-AS AS set propagated by T-2 d.o.o., SI
+89.40.26.30|/LitecoinCashCore:0.16.3/|70015|35512|89.40.26.0/24|RO|ripencc|2005-11-29|TELEMEDIA-AS, RO
 89.6.178.232|/LitecoinCashCore:0.16.3/|70015|12430|89.6.0.0/15|ES|ripencc|2006-06-12|VODAFONE_ES, ES
 89.84.171.109|/LitecoinCashCore:0.16.3/|70015|5410|89.80.0.0/12|FR|ripencc|2006-02-23|BOUYGTEL-ISP, FR
 91.92.61.116|/LitecoinCashCore:0.16.3/|70015|62106|91.92.61.0/24|BG|ripencc|2006-08-15|CISBG-AS, BG
