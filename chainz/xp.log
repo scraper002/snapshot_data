@@ -1,17 +1,15 @@
 # https://chainz.cryptoid.info/ and whois results
 # Experience Points
 IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
-101.173.94.29|/eXperience Points Core:5.2.0.2/|70922|1221|101.160.0.0/11|AU|apnic|2010-12-23|ASN-TELSTRA Telstra Corporation Ltd, AU
 101.51.10.134|/eXperience Points Core:5.2.0.3/|70922|23969|101.51.0.0/20|TH|apnic|2010-12-13|TOT-NET TOT Public Company Limited, TH
 104.165.250.202|/eXperience Points Core:5.2.0.2/|70922|141039|104.165.250.0/24|US|arin|2014-07-22|TEFINCOMHOST-AS-AP Packethub s.a., PA
 104.28.192.95|/eXperience Points Core:5.2.0.3/|70922|13335|104.28.192.0/24|US|arin|2014-03-28|CLOUDFLARENET, US
 104.28.192.99|/eXperience Points Core:5.2.0.3/|70922|13335|104.28.192.0/24|US|arin|2014-03-28|CLOUDFLARENET, US
 104.28.224.95|/eXperience Points Core:5.2.0.3/|70922|13335|104.28.224.0/24|US|arin|2014-03-28|CLOUDFLARENET, US
-104.28.224.99|/eXperience Points Core:5.2.0.3/|70922|13335|104.28.224.0/24|US|arin|2014-03-28|CLOUDFLARENET, US
-106.150.78.61|/eXperience Points Core:5.2.0.2/|70922|2516|106.128.0.0/11|JP|apnic|2011-03-15|KDDI KDDI CORPORATION, JP
 109.115.37.19|/eXperience Points Core:5.2.0.2/|70922|30722|109.114.0.0/15|IT|ripencc|2009-06-12|VODAFONE-IT-ASN, IT
 109.205.181.214|/eXperience Points Core:5.2.0.3/|70922|51167|109.205.180.0/22|DE|ripencc|2010-02-16|CONTABO, DE
 109.64.235.91|/eXperience Points Core:5.2.0.3/|70922|8551|109.64.235.0/24|IL|ripencc|2009-08-10|BEZEQ-INTERNATIONAL-AS Bezeqint Internet Backbone, IL
+109.66.203.229|/eXperience Points Core:5.2.0.3/|70922|8551|109.66.203.0/24|IL|ripencc|2009-08-10|BEZEQ-INTERNATIONAL-AS Bezeqint Internet Backbone, IL
 110.131.217.146|/eXperience Points Core:5.2.0.2/|70922|9824|110.131.0.0/16|JP|apnic|2009-04-16|JTCL-JP-AS JCOM Co., Ltd., JP
 113.186.203.125|/eXperience Points Core:5.2.0.2/|70922|45899|113.186.192.0/20|VN|apnic|2008-11-04|VNPT-AS-VN VNPT Corp, VN
 114.165.101.82|/eXperience Points Core:5.2.0.3/|70922|4713|114.160.0.0/11|JP|apnic|2008-06-12|OCN NTT Communications Corporation, JP
@@ -20,7 +18,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 119.172.208.65|/eXperience Points Core:5.2.0.2/|70922|9824|119.172.128.0/17|JP|apnic|2008-02-26|JTCL-JP-AS JCOM Co., Ltd., JP
 119.173.3.103|/eXperience Points Core:5.2.0.2/|70922|9824|119.173.0.0/17|JP|apnic|2008-02-26|JTCL-JP-AS JCOM Co., Ltd., JP
 119.231.137.233|/eXperience Points Core:5.2.0.3/|70922|17511|119.228.0.0/14|JP|apnic|2008-02-28|OPTAGE OPTAGE Inc., JP
-119.231.228.84|/eXperience Points Core:5.2.0.2/|70922|17511|119.228.0.0/14|JP|apnic|2008-02-28|OPTAGE OPTAGE Inc., JP
 121.102.76.104|/eXperience Points Core:5.2.0.3/|70922|2497|121.102.0.0/16|JP|apnic|2006-07-27|IIJ Internet Initiative Japan Inc., JP
 121.83.33.77|/eXperience Points Core:5.2.0.2/|70922|17511|121.80.0.0/14|JP|apnic|2006-06-13|OPTAGE OPTAGE Inc., JP
 121.93.195.151|/eXperience Points Core:5.2.0.2/|70922|2510|121.92.0.0/15|JP|apnic|2006-07-12|INFOWEB FUJITSU LIMITED, JP
@@ -89,6 +86,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 161.97.166.84|/eXperience Points Core:5.2.0.3/|70922|51167|161.97.160.0/20|DE|ripencc|1992-06-23|CONTABO, DE
 161.97.169.243|/eXperience Points Core:5.2.0.3/|70922|51167|161.97.160.0/20|DE|ripencc|1992-06-23|CONTABO, DE
 161.97.169.245|/eXperience Points Core:5.2.0.3/|70922|51167|161.97.160.0/20|DE|ripencc|1992-06-23|CONTABO, DE
+161.97.176.211|/eXperience Points Core:5.2.0.3/|70922|51167|161.97.176.0/21|DE|ripencc|1992-06-23|CONTABO, DE
 161.97.176.212|/eXperience Points Core:5.2.0.3/|70922|51167|161.97.176.0/21|DE|ripencc|1992-06-23|CONTABO, DE
 161.97.176.214|/eXperience Points Core:5.2.0.3/|70922|51167|161.97.176.0/21|DE|ripencc|1992-06-23|CONTABO, DE
 161.97.176.215|/eXperience Points Core:5.2.0.3/|70922|51167|161.97.176.0/21|DE|ripencc|1992-06-23|CONTABO, DE
@@ -96,7 +94,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 161.97.176.217|/eXperience Points Core:5.2.0.3/|70922|51167|161.97.176.0/21|DE|ripencc|1992-06-23|CONTABO, DE
 161.97.176.219|/eXperience Points Core:5.2.0.3/|70922|51167|161.97.176.0/21|DE|ripencc|1992-06-23|CONTABO, DE
 161.97.73.119|/eXperience Points Core:5.2.0.3/|70922|51167|161.97.72.0/23|DE|ripencc|1992-06-23|CONTABO, DE
-161.97.92.137|/eXperience Points Core:5.2.0.3/|70922|51167|161.97.92.0/23|DE|ripencc|1992-06-23|CONTABO, DE
 161.97.94.144|/eXperience Points Core:5.2.0.3/|70922|51167|161.97.94.0/23|DE|ripencc|1992-06-23|CONTABO, DE
 161.97.95.41|/eXperience Points Core:5.2.0.3/|70922|51167|161.97.94.0/23|DE|ripencc|1992-06-23|CONTABO, DE
 161.97.97.29|/eXperience Points Core:5.2.0.3/|70922|51167|161.97.96.0/23|DE|ripencc|1992-06-23|CONTABO, DE
@@ -115,7 +112,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 164.68.112.229|/eXperience Points Core:5.2.0.2/|70922|51167|164.68.112.0/23|DE|ripencc|1992-12-17|CONTABO, DE
 164.68.112.235|/eXperience Points Core:5.2.0.3/|70922|51167|164.68.112.0/23|DE|ripencc|1992-12-17|CONTABO, DE
 167.172.85.197|/eXperience Points Core:5.2.0.2/|70922|14061|167.172.80.0/20|US|ripencc|1993-08-30|DIGITALOCEAN-ASN, US
-167.86.102.234|/eXperience Points Core:5.2.0.2/|70922|51167|167.86.102.0/23|DE|ripencc|1993-05-14|CONTABO, DE
 167.86.103.113|/eXperience Points Core:5.2.0.3/|70922|51167|167.86.102.0/23|DE|ripencc|1993-05-14|CONTABO, DE
 167.86.108.226|/eXperience Points Core:5.2.0.3/|70922|51167|167.86.108.0/23|DE|ripencc|1993-05-14|CONTABO, DE
 167.86.109.7|/eXperience Points Core:5.2.0.3/|70922|51167|167.86.108.0/23|DE|ripencc|1993-05-14|CONTABO, DE
@@ -129,6 +125,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 167.86.124.246|/eXperience Points Core:5.2.0.3/|70922|51167|167.86.124.0/23|DE|ripencc|1993-05-14|CONTABO, DE
 167.86.71.165|/eXperience Points Core:5.2.0.3/|70922|51167|167.86.70.0/23|DE|ripencc|1993-05-14|CONTABO, DE
 167.86.79.35|/eXperience Points Core:5.2.0.3/|70922|51167|167.86.78.0/23|DE|ripencc|1993-05-14|CONTABO, DE
+167.86.79.45|/eXperience Points Core:5.2.0.3/|70922|51167|167.86.78.0/23|DE|ripencc|1993-05-14|CONTABO, DE
 167.86.82.36|/eXperience Points Core:5.2.0.3/|70922|51167|167.86.82.0/23|DE|ripencc|1993-05-14|CONTABO, DE
 167.86.85.147|/eXperience Points Core:5.2.0.2/|70922|51167|167.86.84.0/23|DE|ripencc|1993-05-14|CONTABO, DE
 167.86.85.148|/eXperience Points Core:5.2.0.3/|70922|51167|167.86.84.0/23|DE|ripencc|1993-05-14|CONTABO, DE
@@ -154,9 +151,11 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 173.212.208.86|/eXperience Points Core:5.2.0.3/|70922|51167|173.212.192.0/19|DE|ripencc|2009-10-26|CONTABO, DE
 173.212.211.148|/eXperience Points Core:5.2.0.3/|70922|51167|173.212.192.0/19|DE|ripencc|2009-10-26|CONTABO, DE
 173.212.223.75|/eXperience Points Core:5.2.0.3/|70922|51167|173.212.192.0/19|DE|ripencc|2009-10-26|CONTABO, DE
+173.212.232.75|/eXperience Points Core:5.2.0.3/|70922|51167|173.212.224.0/20|DE|ripencc|2009-10-26|CONTABO, DE
 173.212.236.11|/eXperience Points Core:5.2.0.3/|70922|51167|173.212.224.0/20|DE|ripencc|2009-10-26|CONTABO, DE
 173.212.238.73|/eXperience Points Core:5.2.0.3/|70922|51167|173.212.224.0/20|DE|ripencc|2009-10-26|CONTABO, DE
 173.212.240.197|/eXperience Points Core:5.2.0.3/|70922|51167|173.212.240.0/21|DE|ripencc|2009-10-26|CONTABO, DE
+173.212.243.102|/eXperience Points Core:5.2.0.3/|70922|51167|173.212.240.0/21|DE|ripencc|2009-10-26|CONTABO, DE
 173.212.245.136|/eXperience Points Core:5.2.0.3/|70922|51167|173.212.240.0/21|DE|ripencc|2009-10-26|CONTABO, DE
 173.212.249.144|/eXperience Points Core:5.2.0.3/|70922|51167|173.212.248.0/22|DE|ripencc|2009-10-26|CONTABO, DE
 173.212.250.101|/eXperience Points Core:5.2.0.3/|70922|51167|173.212.248.0/22|DE|ripencc|2009-10-26|CONTABO, DE
@@ -174,6 +173,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 173.249.22.26|/eXperience Points Core:5.2.0.3/|70922|51167|173.249.22.0/23|DE|ripencc|2010-05-26|CONTABO, DE
 173.249.23.129|/eXperience Points Core:5.2.0.3/|70922|51167|173.249.22.0/23|DE|ripencc|2010-05-26|CONTABO, DE
 173.249.23.219|/eXperience Points Core:5.2.0.3/|70922|51167|173.249.22.0/23|DE|ripencc|2010-05-26|CONTABO, DE
+173.249.23.24|/eXperience Points Core:5.2.0.3/|70922|51167|173.249.22.0/23|DE|ripencc|2010-05-26|CONTABO, DE
 173.249.27.214|/eXperience Points Core:5.2.0.3/|70922|51167|173.249.26.0/23|DE|ripencc|2010-05-26|CONTABO, DE
 173.249.32.84|/eXperience Points Core:5.2.0.3/|70922|51167|173.249.32.0/23|DE|ripencc|2010-05-26|CONTABO, DE
 173.249.33.239|/eXperience Points Core:5.2.0.3/|70922|51167|173.249.32.0/23|DE|ripencc|2010-05-26|CONTABO, DE
@@ -234,7 +234,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 207.180.200.217|/eXperience Points Core:5.2.0.3/|70922|51167|207.180.200.0/23|DE|ripencc|1996-08-21|CONTABO, DE
 207.180.200.78|/eXperience Points Core:5.2.0.2/|70922|51167|207.180.200.0/23|DE|ripencc|1996-08-21|CONTABO, DE
 207.180.203.197|/eXperience Points Core:5.2.0.3/|70922|51167|207.180.202.0/23|DE|ripencc|1996-08-21|CONTABO, DE
-207.180.206.21|/eXperience Points Core:5.2.0.3/|70922|51167|207.180.206.0/23|DE|ripencc|1996-08-21|CONTABO, DE
 207.180.208.104|/eXperience Points Core:5.2.0.2/|70922|51167|207.180.208.0/23|DE|ripencc|1996-08-21|CONTABO, DE
 207.180.208.123|/eXperience Points Core:5.2.0.3/|70922|51167|207.180.208.0/23|DE|ripencc|1996-08-21|CONTABO, DE
 207.180.214.74|/eXperience Points Core:5.2.0.2/|70922|51167|207.180.214.0/23|DE|ripencc|1996-08-21|CONTABO, DE
@@ -254,7 +253,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 213.136.71.135|/eXperience Points Core:5.2.0.3/|70922|51167|213.136.70.0/23|DE|ripencc|2000-02-28|CONTABO, DE
 213.136.75.61|/eXperience Points Core:5.2.0.3/|70922|51167|213.136.74.0/23|DE|ripencc|2000-02-28|CONTABO, DE
 213.136.85.58|/eXperience Points Core:5.2.0.3/|70922|51167|213.136.84.0/23|DE|ripencc|2000-02-28|CONTABO, DE
-213.178.34.183|/eXperience Points Core:5.2.0.3/|70922|8439|213.178.32.0/21|RU|ripencc|2008-01-17|AIST Togliatti, Russia, RU
 217.178.137.40|/eXperience Points Core:5.2.0.2/|70922|55391|217.178.128.0/18|JP|apnic|2001-03-02|MF-NATIVE6-E INTERNET MULTIFEED CO., JP
 217.241.9.16|/eXperience Points Core:5.2.0.3/|70922|3320|217.224.0.0/11|DE|ripencc|2001-04-04|DTAG Internet service provider operations, DE
 221.191.160.166|/eXperience Points Core:5.2.0.2/|70922|4713|221.184.0.0/13|JP|apnic|2003-07-24|OCN NTT Communications Corporation, JP
@@ -282,6 +280,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 5.189.177.8|/eXperience Points Core:5.2.0.3/|70922|51167|5.189.176.0/20|DE|ripencc|2012-08-09|CONTABO, DE
 51.171.181.46|/eXperience Points Core:5.2.0.3/|70922|5466|51.171.0.0/16|IE|ripencc|1993-09-01|EIRCOM Internet House, IE
 58.191.174.174|/eXperience Points Core:5.2.0.2/|70922|17511|58.188.0.0/14|JP|apnic|2005-07-11|OPTAGE OPTAGE Inc., JP
+60.100.231.44|/eXperience Points Core:5.2.0.3/|70922|17676|60.100.0.0/16|JP|apnic|2004-05-20|GIGAINFRA Softbank BB Corp., JP
 60.124.90.128|/eXperience Points Core:5.2.0.2/|70922|17676|60.124.0.0/16|JP|apnic|2004-05-20|GIGAINFRA Softbank BB Corp., JP
 62.171.132.110|/eXperience Points Core:5.2.0.2/|70922|51167|62.171.132.0/23|DE|ripencc|2000-08-18|CONTABO, DE
 62.171.132.114|/eXperience Points Core:5.2.0.2/|70922|51167|62.171.132.0/23|DE|ripencc|2000-08-18|CONTABO, DE
@@ -327,9 +326,12 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 75.119.153.137|/eXperience Points Core:5.2.0.2/|70922|51167|75.119.128.0/19|DE|ripencc|2006-05-12|CONTABO, DE
 78.137.56.7|/eXperience Points Core:5.2.0.3/|70922|25133|78.137.48.0/20|UA|ripencc|2007-05-16|MCLAUT-AS, UA
 79.176.196.122|/eXperience Points Core:5.2.0.3/|70922|8551|79.176.196.0/24|IL|ripencc|2007-06-14|BEZEQ-INTERNATIONAL-AS Bezeqint Internet Backbone, IL
+79.176.199.125|/eXperience Points Core:5.2.0.3/|70922|8551|79.176.199.0/24|IL|ripencc|2007-06-14|BEZEQ-INTERNATIONAL-AS Bezeqint Internet Backbone, IL
 79.179.105.7|/eXperience Points Core:5.2.0.3/|70922|8551|79.179.105.0/24|IL|ripencc|2007-06-14|BEZEQ-INTERNATIONAL-AS Bezeqint Internet Backbone, IL
+79.179.115.20|/eXperience Points Core:5.2.0.3/|70922|8551|79.179.115.0/24|IL|ripencc|2007-06-14|BEZEQ-INTERNATIONAL-AS Bezeqint Internet Backbone, IL
 79.180.48.255|/eXperience Points Core:5.2.0.3/|70922|8551|79.180.48.0/24|IL|ripencc|2007-06-14|BEZEQ-INTERNATIONAL-AS Bezeqint Internet Backbone, IL
 79.183.16.13|/eXperience Points Core:5.2.0.3/|70922|8551|79.183.16.0/24|IL|ripencc|2007-06-14|BEZEQ-INTERNATIONAL-AS Bezeqint Internet Backbone, IL
+79.183.229.51|/eXperience Points Core:5.2.0.3/|70922|8551|79.183.229.0/24|IL|ripencc|2007-06-14|BEZEQ-INTERNATIONAL-AS Bezeqint Internet Backbone, IL
 80.241.213.200|/eXperience Points Core:5.2.0.3/|70922|51167|80.241.212.0/23|DE|ripencc|2011-02-14|CONTABO, DE
 80.241.217.68|/eXperience Points Core:5.2.0.3/|70922|51167|80.241.216.0/23|DE|ripencc|2011-02-14|CONTABO, DE
 81.2.191.48|/eXperience Points Core:5.2.0.3/|70922|200736|81.2.191.0/24|US|ripencc|2002-03-15|INALAN, GR
@@ -345,6 +347,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 95.111.228.127|/eXperience Points Core:5.2.0.3/|70922|51167|95.111.228.0/23|DE|ripencc|2008-12-30|CONTABO, DE
 95.111.229.100|/eXperience Points Core:5.2.0.3/|70922|51167|95.111.228.0/23|DE|ripencc|2008-12-30|CONTABO, DE
 95.111.232.89|/eXperience Points Core:5.2.0.3/|70922|51167|95.111.232.0/23|DE|ripencc|2008-12-30|CONTABO, DE
+95.111.251.51|/eXperience Points Core:5.2.0.2/|70922|51167|95.111.250.0/23|DE|ripencc|2008-12-30|CONTABO, DE
 95.217.73.169|/eXperience Points Core:5.2.0.2/|70922|24940|95.217.0.0/16|DE|ripencc|2009-02-24|HETZNER-AS, DE
 95.88.46.56|/eXperience Points Core:5.2.0.3/|70922|3209|95.88.0.0/14|DE|ripencc|2008-12-15|VODANET International IP-Backbone of Vodafone, DE
 96.19.79.196|/eXperience Points Core:5.2.0.2/|70922|11492|96.19.79.0/24|US|arin|2007-12-10|CABLEONE, US
