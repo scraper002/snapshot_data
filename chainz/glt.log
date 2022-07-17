@@ -3,11 +3,13 @@
 IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 101.91.220.218|/GlobalToken:3.3.0.1/|80002|4812|101.88.0.0/13|CN|apnic|2011-01-03|CHINANET-SH-AP China Telecom Group, CN
 106.53.139.236|/GlobalToken:3.3.0.1/|80002|45090|106.53.128.0/20|CN|apnic|2011-04-06|TENCENT-NET-AP Shenzhen Tencent Computer Systems Company Limited, CN
+106.53.150.104|/GlobalToken:3.3.0.1/|80002|45090|106.53.144.0/20|CN|apnic|2011-04-06|TENCENT-NET-AP Shenzhen Tencent Computer Systems Company Limited, CN
 121.37.186.161|/GlobalToken:3.3.0.1/|80002|55990|121.37.160.0/19|CN|apnic|2006-07-26|HWCSNET Huawei Cloud Service data center, CN
 122.112.184.149|/GlobalToken:3.3.0.1/|80002|55990|122.112.160.0/19|CN|apnic|2007-09-18|HWCSNET Huawei Cloud Service data center, CN
 128.1.49.213|/GlobalToken:3.3.0.1/|80002|135377|128.1.49.0/24|US|arin|2016-09-07|UCLOUD-HK-AS-AP UCLOUD INFORMATION TECHNOLOGY HK LIMITED, HK
 135.181.183.40|/GlobalToken:3.3.0/|80002|24940|135.181.0.0/16|DE|ripencc|1996-04-30|HETZNER-AS, DE
 138.201.57.148|/GlobalToken:3.3.0.1/|80002|24940|138.201.0.0/16|DE|ripencc|1990-05-23|HETZNER-AS, DE
+142.93.115.23|/GlobalToken:3.2.1/|80002|14061|142.93.112.0/20|US|arin|2018-07-12|DIGITALOCEAN-ASN, US
 144.91.76.92|/GlobalToken:3.2.1/|80002|51167|144.91.76.0/23|DE|ripencc|1990-11-20|CONTABO, DE
 147.135.97.55|/GlobalToken:3.2.1/|80002|16276|147.135.0.0/17|US|arin|2017-03-22|OVH, FR
 150.158.147.23|/GlobalToken:3.3.0.1/|80002|45090|150.158.128.0/18|CN|apnic|1991-05-20|TENCENT-NET-AP Shenzhen Tencent Computer Systems Company Limited, CN
@@ -52,3 +54,4 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 87.197.190.26|/GlobalToken:3.2.1/|80002|6855|87.197.0.0/16|SK|ripencc|2005-06-29|SK-TELEKOM Slovak Telekom T-Mobile CZ, SK
 91.206.16.214|/GlobalToken:3.2.1/|80002|13259|91.206.16.0/23|RU|ripencc|2008-06-09|DELTA-TELESYSTEMS-AS, RU
 92.60.37.172|/GlobalToken:3.2.0/|80002|197540|92.60.36.0/22|DE|ripencc|2018-08-23|NETCUP-AS netcup GmbH, DE
+93.81.220.136|/GlobalToken:3.3.0.1/|80002|3216|93.81.208.0/20|RU|ripencc|2008-02-05|SOVAM-AS, RU
