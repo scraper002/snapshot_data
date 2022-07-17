@@ -8,8 +8,8 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 139.59.236.221|/Phore Core:1.8.0/|70009||||||
 139.59.41.244|/Phore Core:1.8.0/|70009||||||
 143.110.210.49|/Phore Core:1.8.0/|70009|14061|143.110.208.0/20|US|arin|2020-01-17|DIGITALOCEAN-ASN, US
-144.91.106.129|/Phore Core:1.8.0/|70009||||||
-144.91.106.92|/Phore Core:1.8.0/|70009||||||
+144.91.106.129|/Phore Core:1.8.0/|70009|51167|144.91.106.0/23|DE|ripencc|1990-11-20|CONTABO, DE
+144.91.106.92|/Phore Core:1.8.0/|70009|51167|144.91.106.0/23|DE|ripencc|1990-11-20|CONTABO, DE
 144.91.116.146|/Phore Core:1.7.0/|70008||||||
 149.56.148.202|/Phore Core:1.7.0/|70008||||||
 152.228.135.232|/Phore Core:1.8.0/|70009||||||
@@ -44,7 +44,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 185.203.117.34|/Phore Core:1.7.0/|70008||||||
 185.203.117.43|/Phore Core:1.7.0/|70008||||||
 185.205.210.163|/Phore Core:1.7.0/|70008||||||
-185.206.144.207|/Phore Core:1.7.0/|70008|44901|185.206.144.0/24|CY|ripencc|2017-06-01|BELCLOUD, BG
+185.206.144.207|/Phore Core:1.7.0/|70008||||||
 185.83.110.40|/Phore Core:1.8.0/|70009||||||
 185.83.110.42|/Phore Core:1.8.0/|70009||||||
 185.83.110.43|/Phore Core:1.8.0/|70009||||||
@@ -57,7 +57,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 193.160.245.212|/Phore Core:1.7.0/|70008||||||
 193.26.157.215|/Phore Core:1.7.1/|70009||||||
 193.37.214.68|/Phore Core:1.7.0/|70008||||||
-194.163.131.219|/Phore Core:1.8.0/|70009|51167|194.163.128.0/18|DE|ripencc|1995-05-16|CONTABO, DE
+194.163.131.219|/Phore Core:1.8.0/|70009||||||
 194.163.143.68|/Phore Core:1.8.0/|70009||||||
 2.207.36.229|/Phore Core:1.8.0/|70009||||||
 2.56.190.187|/Phore Core:1.7.1/|70009||||||
@@ -68,15 +68,15 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 209.126.81.52|/Phore Core:1.7.1/|70009||||||
 209.126.9.201|/Phore Core:1.7.1/|70009||||||
 213.239.209.41|/Phore Core:1.7.0/|70008||||||
-27.121.109.199|/Phore Core:1.8.0/|70009||||||
-27.96.212.61|/Phore Core:1.7.1/|70009||||||
+27.121.109.199|/Phore Core:1.8.0/|70009|56111|27.121.109.0/24|MY|apnic|2011-03-01|AGARTO-MY Agarto Sdn Bhd, MY
+27.96.212.61|/Phore Core:1.7.1/|70009|18390|27.96.212.0/22|AU|apnic|2010-05-20|SPINTEL-AS-AP Spintel Pty Ltd, AU
 43.227.255.121|/Phore Core:1.7.0/|70008||||||
-45.140.185.56|/Phore Core:1.8.0/|70009||||||
+45.140.185.56|/Phore Core:1.8.0/|70009|51167|45.140.185.0/24|DE|ripencc|2019-08-13|CONTABO, DE
 45.32.164.84|/Phore Core:1.7.0/|70008||||||
 45.63.89.210|/Phore Core:1.7.0/|70008||||||
 46.151.159.53|/Phore Core:1.7.0/|70008||||||
-46.165.62.127|/Phore Core:1.7.1/|70009||||||
-50.117.77.110|/Phore Core:1.7.1/|70009||||||
+46.165.62.127|/Phore Core:1.7.1/|70009|49218|46.165.0.0/18|RU|ripencc|2010-12-10|NTKS-AS, RU
+50.117.77.110|/Phore Core:1.7.1/|70009|136787|50.117.77.0/24|US|arin|2011-09-01|TEFINCOMSA-AS-AP TEFINCOM S.A., PA
 62.138.3.131|/Phore Core:1.7.0/|70008||||||
 62.138.6.9|/Phore Core:1.7.0/|70008||||||
 62.138.7.229|/Phore Core:1.7.0/|70008||||||
@@ -87,7 +87,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 65.108.129.116|/Phore Core:1.8.0/|70009||||||
 65.21.139.183|/Phore Core:1.8.0/|70009||||||
 65.21.148.238|/Phore Core:1.7.0/|70008||||||
-65.21.228.89|/Phore Core:1.7.1/|70009||||||
+65.21.228.89|/Phore Core:1.7.1/|70009|24940|65.21.0.0/16|DE|ripencc|2001-09-26|HETZNER-AS, DE
 68.183.202.24|/Phore Core:1.8.0/|70009||||||
 69.109.238.146|/Phore Core:1.8.0/|70009||||||
 70.77.85.179|/Phore Core:1.8.0/|70009||||||
@@ -101,11 +101,11 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 80.221.46.73|/Phore Core:1.8.0/|70009||||||
 80.241.213.200|/Phore Core:1.8.0/|70009||||||
 82.132.186.42|/Phore Core:1.8.0/|70009||||||
-84.165.166.55|/Phore Core:1.8.0/|70009||||||
+84.165.166.55|/Phore Core:1.8.0/|70009|3320|84.128.0.0/10|DE|ripencc|2004-03-10|DTAG Internet service provider operations, DE
 84.166.32.238|/Phore Core:1.7.1/|70009||||||
-85.194.207.118|/Phore Core:1.7.1/|70009||||||
+85.194.207.118|/Phore Core:1.7.1/|70009|49282|85.194.204.0/22|FI|ripencc|2005-01-04|FICOLO, FI
 86.1.113.199|/Phore Core:1.7.0/|70008||||||
-87.79.86.52|/Phore Core:1.7.1/|70009||||||
+87.79.86.52|/Phore Core:1.7.1/|70009|8422|87.78.0.0/15|DE|ripencc|2005-05-31|NETCOLOGNE, DE
 89.101.225.26|/Phore Core:1.7.1/|70009||||||
 92.204.53.227|/Phore Core:1.7.0/|70008||||||
 92.60.44.23|/Phore Core:1.8.0/|70009||||||
