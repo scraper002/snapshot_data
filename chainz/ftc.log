@@ -10,7 +10,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 14.200.85.121|/Feathercoin:0.19.1/|70016||||||
 143.110.159.82|/Feathercoin:0.19.1/|70016||||||
 143.198.121.253|Feathercoin:0.19.1|70016||||||
-148.59.149.52|/Feathercoin:0.18.2/|70016||||||
+148.59.149.52|/Feathercoin:0.18.2/|70016|396477|148.59.149.0/24|CA|arin|2017-08-01|DNSNETWORKS, CA
 149.202.78.163|/Feathercoin:0.19.1/|70016||||||
 149.56.155.28|/Feathercoin:0.19.1/|70016||||||
 161.97.172.98|/Feathercoin:0.19.1/|70016||||||
@@ -32,14 +32,14 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 216.154.12.55|/FeathercoinJ:0.99/Feathercoin Wallet:3.05/|70006||||||
 217.155.198.217|/Feathercoin:0.13.0/|70015||||||
 217.219.183.227|/Feathercoin:0.19.1/|70016||||||
-220.240.4.81|/Feathercoin:0.19.1/|70016||||||
+220.240.4.81|/Feathercoin:0.19.1/|70016|7545|220.240.4.0/24|AU|apnic|2003-04-30|TPG-INTERNET-AP TPG Telecom Limited, AU
 23.227.150.229|/Feathercoin:0.18.2/|70016||||||
-37.24.199.18|/Feathercoin:0.19.1/|70016||||||
+37.24.199.18|/Feathercoin:0.19.1/|70016|3209|37.24.128.0/17|DE|ripencc|2011-12-22|VODANET International IP-Backbone of Vodafone, DE
 45.126.209.106|Feathercoin:0.19.1|70016||||||
 46.101.143.71|/Feathercoin:0.13.3/|70015||||||
-5.188.173.19|/Feathercoin:0.19.1/|70016|56630|5.188.173.0/24|LT|ripencc|2012-08-09|MELBICOM-EU-AS Melbikomas UAB, LT
-5.200.137.4|/Feathercoin:0.19.1/|70016||||||
-51.210.32.161|/Feathercoin:0.19.1/|70016||||||
+5.188.173.19|/Feathercoin:0.19.1/|70016||||||
+5.200.137.4|/Feathercoin:0.19.1/|70016|58224|5.200.128.0/20|IR|ripencc|2012-08-29|TCI, IR
+51.210.32.161|/Feathercoin:0.19.1/|70016|16276|51.210.0.0/16|FR|ripencc|1993-09-01|OVH, FR
 64.98.75.19|/Feathercoin:0.19.1/|70016||||||
 67.199.179.49|/Feathercoin:0.18.3/|70016||||||
 69.30.211.114|/Feathercoin:0.18.3/|70016||||||
@@ -49,14 +49,14 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 79.73.23.122|/Feathercoin:0.19.1/|70016||||||
 81.169.141.19|/Feathercoin:0.19.1/|70016||||||
 82.64.185.60|/Feathercoin:0.18.2/|70016||||||
-82.66.94.6|/Feathercoin:0.19.1/|70016|12322|82.64.0.0/14|FR|ripencc|2003-04-03|PROXAD, FR
+82.66.94.6|/Feathercoin:0.19.1/|70016||||||
 82.73.114.29|/Feathercoin:0.19.1/|70016||||||
 83.233.2.125|/Feathercoin:0.19.1/|70016||||||
 86.27.68.54|/Feathercoin:0.19.1/|70016||||||
 93.146.9.105|/Feathercoin:0.19.1/|70016||||||
 93.228.78.164|/Feathercoin:0.13.1/|70015||||||
 95.215.160.76|/FeathercoinJ:0.99/Feathercoin Wallet:3.05/|70006||||||
-95.217.78.168|/Feathercoin:0.13.0/|70015||||||
+95.217.78.168|/Feathercoin:0.13.0/|70015|24940|95.217.0.0/16|DE|ripencc|2009-02-24|HETZNER-AS, DE
 95.79.111.243|/Feathercoin:0.19.1/|70016||||||
 96.37.112.186|/Feathercoin:0.19.1/|70016||||||
 98.202.227.110|/Feathercoin:0.18.3/|70016||||||

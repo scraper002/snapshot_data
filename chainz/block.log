@@ -22,10 +22,10 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 173.249.39.140|/Blocknet:4.3.1/|70713||||||
 173.249.9.77|/Blocknet:4.3.3/|70713||||||
 174.0.61.19|/Blocknet:4.2.0/|70713||||||
-176.223.141.232|/Blocknet:4.3.2/|70713||||||
+176.223.141.232|/Blocknet:4.3.2/|70713|212531|176.223.128.0/20|LT|ripencc|2011-11-29|INTERNETO-VIZIJA, LT
 176.9.8.76|/Blocknet:4.3.2/|70713||||||
 178.18.254.12|/Blocknet:4.3.2/|70713||||||
-178.191.140.72|/Blocknet:4.3.3/|70713|8447|178.188.0.0/14|AT|ripencc|2010-02-08|A1TELEKOM-AT A1 Telekom Austria AG, AT
+178.191.140.72|/Blocknet:4.3.3/|70713||||||
 178.198.47.111|/Blocknet:4.3.3/|70713||||||
 178.62.114.74|Blocknet:4.3.3|70713||||||
 181.41.202.41|/Blocknet:4.3.3/|70713||||||
@@ -71,7 +71,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 75.105.17.234|/Blocknet:4.3.1/|70713||||||
 75.119.157.65|/Blocknet:4.3.2/|70713||||||
 76.105.64.55|/Blocknet:3.13.1/|70712||||||
-76.23.118.178|/Blocknet:4.3.3/|70713||||||
+76.23.118.178|/Blocknet:4.3.3/|70713|7922|76.16.0.0/12|US|arin|2006-06-28|COMCAST-7922, US
 76.94.228.210|/Blocknet:4.3.3/|70713||||||
 77.161.255.69|/Blocknet:4.3.3/|70713||||||
 77.168.11.100|/Blocknet:4.3.2/|70713||||||
@@ -84,9 +84,9 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 81.196.253.7|/Blocknet:4.3.2/|70713||||||
 83.135.243.74|/Blocknet:4.3.2/|70713||||||
 83.135.243.76|/Blocknet:4.3.2/|70713||||||
-85.10.49.190|/Blocknet:4.3.3/|70713|29485|85.10.48.0/20|HR|ripencc|2005-02-18|AMIS, HR
+85.10.49.190|/Blocknet:4.3.3/|70713||||||
 85.156.17.194|/Blocknet:4.3.2/|70713||||||
-85.237.194.224|/Blocknet:4.3.3/|70713|206092|85.237.194.0/24|PL|ripencc|2005-05-27|SECFIREWALLAS, GB
+85.237.194.224|/Blocknet:4.3.3/|70713||||||
 85.24.106.29|/Blocknet:4.3.3/|70713||||||
 85.76.84.91|???|0||||||
 86.121.119.155|/Blocknet:4.3.3/|70713||||||
@@ -102,7 +102,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 89.23.224.35|/Blocknet:4.3.3/|70713||||||
 89.45.90.116|/Blocknet:4.3.3/|70713||||||
 89.64.33.214|/Blocknet:4.3.2/|70713||||||
-90.127.124.158|/Blocknet:4.2.0/|70713||||||
+90.127.124.158|/Blocknet:4.2.0/|70713|3215|90.127.0.0/16|FR|ripencc|2006-03-02|France Telecom - Orange, FR
 91.100.31.98|/Blocknet:4.3.3/|70713||||||
 93.92.60.187|/Blocknet:4.3.3/|70713||||||
 95.111.229.38|/Blocknet:4.3.2/|70713||||||
