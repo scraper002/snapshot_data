@@ -1,7 +1,7 @@
 # https://chainz.cryptoid.info/ and whois results
 # Dimecoin
 IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
-103.249.89.20|/dimecoin:2.0.0/|70005||||||
+103.249.89.20|/dimecoin:2.0.0/|70005|134055|103.249.89.0/24|IN|apnic|2013-05-31|INTERMEDIACABLE-AS Intermedia Cable Communication Pvt Ltd, IN
 104.248.244.51|/dimecoin:2.0.0/|70005||||||
 108.5.158.5|/dimecoin:2.0.0/|70005||||||
 119.192.52.219|/dimecoin:2.0.0/|70005||||||
@@ -12,7 +12,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 140.82.2.166|/dimecoin:2.0.0/|70005||||||
 144.202.80.72|/dimecoin:2.0.0/|70005||||||
 146.198.168.165|/dimecoin:2.0.0/|70005||||||
-146.59.18.4|/dimecoin:2.0.0/|70005|16276|146.59.0.0/17|FR|ripencc|1994-03-08|OVH, FR
+146.59.18.4|/dimecoin:2.0.0/|70005||||||
 147.182.223.214|/dimecoin:2.0.0/|70005||||||
 147.251.16.170|/dimecoin:2.0.0/|70005||||||
 149.248.18.69|/dimecoin:2.0.0/|70005||||||
@@ -51,7 +51,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 38.242.146.121|/dimecoin:2.0.0/|70005||||||
 49.183.16.178|/dimecoin:2.0.0/|70005||||||
 5.161.96.112|/dimecoin:2.0.0/|70005||||||
-5.188.173.19|/dimecoin:2.0.0/|70005||||||
+5.188.173.19|/dimecoin:2.0.0/|70005|56630|5.188.173.0/24|LT|ripencc|2012-08-09|MELBICOM-EU-AS Melbikomas UAB, LT
 5.196.91.94|/dimecoin:2.0.0/|70005||||||
 5.35.76.215|/dimecoin:2.0.0/|70005||||||
 51.75.32.194|/dimecoin:2.0.0/|70005||||||
@@ -63,7 +63,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 54.38.198.152|/dimecoin:2.0.0/|70005||||||
 54.38.198.153|/dimecoin:2.0.0/|70005||||||
 54.38.198.154|/dimecoin:2.0.0/|70005||||||
-54.38.198.155|/dimecoin:2.0.0/|70005||||||
+54.38.198.155|/dimecoin:2.0.0/|70005|16276|54.38.0.0/16|FR|ripencc|1992-03-17|OVH, FR
 54.38.198.157|/dimecoin:2.0.0/|70005||||||
 54.38.198.158|/dimecoin:2.0.0/|70005||||||
 54.38.198.159|/dimecoin:2.0.0/|70005||||||
@@ -79,7 +79,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 77.68.113.211|/dimecoin:2.0.0/|70005||||||
 79.137.57.54|/dimecoin:2.0.0/|70005||||||
 82.43.217.151|/dimecoin:2.0.0/|70005||||||
-85.19.25.38|/dimecoin:2.0.0/|70005||||||
+85.19.25.38|/dimecoin:2.0.0/|70005|25400|85.19.0.0/16|NO|ripencc|2005-03-16|TELIA-NORWAY-AS Telia Norway Core Networks, NO
 87.123.244.122|/dimecoin:2.0.0/|70005||||||
 88.99.164.174|/dimecoin:2.0.0/|70005||||||
 93.138.152.26|/dimecoin:2.0.0/|70005||||||
