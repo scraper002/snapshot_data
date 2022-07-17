@@ -2,7 +2,6 @@
 # Vertcoin
 IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 101.167.26.205|/Satoshi:0.17.1/|70015||||||
-102.141.187.8|/Satoshi:0.17.1/|70015||||||
 104.173.88.141|/Satoshi:0.18.0/|70016||||||
 104.2.98.167|/Satoshi:0.18.0/|70016||||||
 104.238.221.41|Satoshi:0.18.0|70016||||||
@@ -10,7 +9,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 110.52.156.94|/Satoshi:0.18.0/|70016||||||
 113.193.42.158|/Satoshi:0.18.0/|70016||||||
 12.131.52.172|/Satoshi:19.0.0/|70016||||||
-120.155.215.189|/Satoshi:0.17.1/|70015||||||
+120.155.215.189|/Satoshi:0.17.1/|70015|1221|120.152.0.0/14|AU|apnic|2008-04-09|ASN-TELSTRA Telstra Corporation Ltd, AU
 13.37.70.104|/Satoshi:19.0.0/|70016||||||
 136.37.202.140|/Satoshi:0.18.0/|70016||||||
 136.53.88.111|/Satoshi:0.12.0/|70015||||||
@@ -20,8 +19,8 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 150.249.184.229|/Satoshi:0.18.0/|70016||||||
 153.139.176.135|/Satoshi:0.18.0/|70016||||||
 155.4.221.64|/Satoshi:0.18.0/|70016||||||
-159.196.182.235|/Satoshi:0.17.1/|70015||||||
-161.8.26.1|/Satoshi:0.17.1/|70015||||||
+159.196.182.235|/Satoshi:0.17.1/|70015|4764|159.196.180.0/22|AU|apnic|1992-05-26|WIDEBAND-AS-AP Aussie Broadband, AU
+161.8.26.1|/Satoshi:0.17.1/|70015|58507|161.8.0.0/19|US|ripencc|1992-05-04|WL-AS-AP Wireline, AU
 162.43.213.183|/Satoshi:0.17.1/|70015||||||
 168.119.147.118|/Satoshi:0.17.1/|70015||||||
 172.86.182.86|/Satoshi:0.18.0/|70016||||||
@@ -29,6 +28,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 173.198.248.34|/Satoshi:0.18.0/|70016||||||
 173.21.125.207|/Satoshi:0.18.0/|70016||||||
 174.103.141.169|/Satoshi:0.17.1/|70015||||||
+177.45.101.196|/Satoshi:0.18.0/|70016||||||
 178.176.213.60|/Satoshi:0.18.0/|70016||||||
 178.238.224.213|/Satoshi:0.14.0/|70015||||||
 178.62.114.74|Satoshi:0.18.0|70016||||||
