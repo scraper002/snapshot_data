@@ -4,6 +4,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 1.116.179.24|9321|/Satoshi:0.14.3.2/|45090|1.116.128.0/18|CN|apnic|2010-06-11|TENCENT-NET-AP Shenzhen Tencent Computer Systems Company Limited, CN
 1.117.152.114|9321|/Satoshi:0.14.3.2/|45090|1.117.128.0/18|CN|apnic|2010-06-11|TENCENT-NET-AP Shenzhen Tencent Computer Systems Company Limited, CN
 1.117.188.192|9321|/Satoshi:0.14.3.2/|45090|1.117.128.0/18|CN|apnic|2010-06-11|TENCENT-NET-AP Shenzhen Tencent Computer Systems Company Limited, CN
+1.83.200.59|9333|/LitecoinCore:0.18.1/|4134|1.80.0.0/13|CN|apnic|2010-08-05|CHINANET-BACKBONE No.31,Jin-rong Street, CN
 100.2.53.133|9333|/LitecoinCore:0.21.2/|701|100.2.0.0/16|US|arin|2010-12-28|UUNET, US
 101.32.14.156|9333|/LitecoinCore:0.21.2/|132203|101.32.0.0/20|SG|apnic|2010-12-14|TENCENT-NET-AP-CN Tencent Building, Kejizhongyi Avenue, CN
 101.99.94.225|9333|/LitecoinCore:0.18.1/|201133|101.99.94.0/24|MY|apnic|2011-03-15|VERDINA, BZ
@@ -429,7 +430,6 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 2001:b030:2422::2475|9333|/LitecoinCore:0.21.2/|3462|2001:b030:2000::/36|TW|apnic|2006-03-15|HINET Data Communication Business Group, TW
 2001:bc8:47a4:1119::1|9532|/LitecoinCore:0.18.1/|12876|2001:bc8::/32|FR|ripencc|2003-04-15|Online SAS, FR
 2003:cb:8713:6102:aaa1:59ff:fe57:7779|9333|/LitecoinCore:0.21.2.1/|3320|2003::/19|DE|ripencc|2005-01-13|DTAG Internet service provider operations, DE
-202.142.136.91|9333|/LitecoinCore:0.18.1/|4764|202.142.136.0/22|AU|apnic|2004-01-21|WIDEBAND-AS-AP Aussie Broadband, AU
 202.61.248.197|9333|/LitecoinCore:0.18.1/|197540|202.61.240.0/20|AT|ripencc|2003-07-07|NETCUP-AS netcup GmbH, DE
 206.75.7.136|9333|/LitecoinCore:0.18.1/|852|206.75.0.0/16|CA|arin|1995-08-01|TELUS Communications, CA
 207.134.216.145|9333|/LitecoinCore:0.21.2/|852|207.134.0.0/16|CA|arin|1996-05-09|TELUS Communications, CA
@@ -479,6 +479,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 23.88.64.248|9333|/LitecoinCore:0.18.1/|24940|23.88.0.0/17|DE|ripencc|2013-06-07|HETZNER-AS, DE
 23.95.209.165|9333|/LitecoinCore:0.18.1/|36352|23.95.209.0/24|US|arin|2013-08-16|AS-COLOCROSSING, US
 23.98.42.32|9333|/LitecoinCore:0.21.2/|8075|23.96.0.0/14|US|arin|2013-06-18|MICROSOFT-CORP-MSN-AS-BLOCK, US
+24.124.49.30|9333|/LitecoinCore:0.14.2/|11232|24.124.0.0/17|US|arin|1996-07-31|MIDCO-NET, US
 24.17.159.53|9333|/LitecoinCore:0.16.3/|7922|24.16.0.0/13|US|arin|2003-10-06|COMCAST-7922, US
 24.6.89.155|9333|/LitecoinCore:0.18.1/|7922|24.0.0.0/12|US|arin|2003-10-06|COMCAST-7922, US
 24.87.152.197|9333|/LitecoinCore:0.18.1/|6327|24.87.152.0/22|CA|arin|2001-07-12|SHAW, CA
@@ -486,7 +487,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 2400:8904::f03c:93ff:fe18:8d88|9333|/LitecoinCore:0.18.1/|63949|2400:8904::/32|US|apnic|2018-03-16|LINODE-AP Linode, LLC, US
 2401:c080:1c01:482:5400:3ff:fedb:60c5|9321|/Satoshi:0.14.3/|20473|2401:c080:1c00::/38|JP|apnic|2014-11-19|AS-CHOOPA, US
 2402:1f00:8100:181::|9333|/LitecoinCore:0.16.3/|16276|2402:1f00:8100::/40|HK|apnic|2011-10-04|OVH, FR
-2403:6200:88a8:ae74:25a0:2cbe:ea07:7d13|9333|/LitecoinCore:0.21.2.1/|45629|2403:6200::/32|TH|apnic|2010-07-14|JASTEL-NETWORK-TH-AP JasTel Network International Gateway, TH
+2403:6200:88a8:ae74:25a0:2cbe:ea07:7d13|9333|/LitecoinCore:0.21.2.1/|45758|2403:6200::/32|TH|apnic|2010-07-14|TTBP-AS-AP Triple T Broadband Public Company Limited, TH
 2409:8a1e:2a63:7ac0:1c:3912:a24f:b3ca|9321|/Satoshi:0.14.3.2/|24400|2409:8a1e::/32|CN|apnic|2011-08-23|CMNET-V4SHANGHAI-AS-AP Shanghai Mobile Communications Co.,Ltd., CN
 240e:3b5:30d8:c991:70c4:e4:97c9:1fe|9333|/LitecoinCore:0.21.2/|134774|240e:3b5:3000::/37|CN|apnic|2011-12-14|CHINANET-GUANGDONG-SHENZHEN-MAN CHINANET Guangdong province Shenzhen MAN network, CN
 2600:3c00::f03c:92ff:fe92:2745|9333|/LitecoinCore:0.21.2/|63949|2600:3c00::/32|US|arin|2011-02-07|LINODE-AP Linode, LLC, US
