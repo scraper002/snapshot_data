@@ -41,6 +41,8 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 186.93.136.169|/BolivarCore:2.0.0.2/|70211|8048|186.93.128.0/19|VE|lacnic|2009-11-18|CANTV Servicios, Venezuela, VE
 190.153.126.220|/BolivarCore:2.0.0.2/|70212|11562|190.153.126.0/24|VE|lacnic|2007-12-26|Net Uno, C.A., VE
 190.153.126.220|/BolivarCore:2.0.0.2/|70211|11562|190.153.126.0/24|VE|lacnic|2007-12-26|Net Uno, C.A., VE
+190.37.184.11|/BolivarCore:2.0.0.2/|70212|8048|190.37.160.0/19|VE|lacnic|2006-06-05|CANTV Servicios, Venezuela, VE
+190.37.184.11|/BolivarCore:2.0.0.2/|70211|8048|190.37.160.0/19|VE|lacnic|2006-06-05|CANTV Servicios, Venezuela, VE
 190.78.224.7|/BolivarCore:2.0.0.2/|70212|8048|190.78.224.0/19|VE|lacnic|2007-06-13|CANTV Servicios, Venezuela, VE
 190.78.224.7|/BolivarCore:2.0.0.2/|70211|8048|190.78.224.0/19|VE|lacnic|2007-06-13|CANTV Servicios, Venezuela, VE
 190.79.217.78|/BolivarCore:2.0.0.2/|70212|8048|190.79.192.0/19|VE|lacnic|2007-06-13|CANTV Servicios, Venezuela, VE
@@ -96,5 +98,3 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 91.206.16.214|/BolivarCore:2.0.0.2/|70211|13259|91.206.16.0/23|RU|ripencc|2008-06-09|DELTA-TELESYSTEMS-AS, RU
 95.216.4.72|/BolivarCore:2.0.0.2/|70212|24940|95.216.0.0/16|DE|ripencc|2009-02-24|HETZNER-AS, DE
 95.216.4.72|/BolivarCore:2.0.0.2/|70211|24940|95.216.0.0/16|DE|ripencc|2009-02-24|HETZNER-AS, DE
-99.148.47.138|/BolivarCore:2.0.0.2/|70212|7018|99.148.0.0/15|US|arin|2007-08-29|ATT-INTERNET4, US
-99.148.47.138|/BolivarCore:2.0.0.2/|70211|7018|99.148.0.0/15|US|arin|2007-08-29|ATT-INTERNET4, US
