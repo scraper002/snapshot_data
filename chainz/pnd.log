@@ -20,7 +20,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 184.66.250.228|/Satoshi:0.20.2/Pandacoin:4.11.7/|70016|6327|184.66.248.0/22|CA|arin|2010-01-15|SHAW, CA
 185.201.201.95|/Satoshi:0.20.2/Pandacoin:4.11.7/|70016|202120|185.201.200.0/22|NL|ripencc|2017-05-04|COMSAVE-AS, NL
 188.167.65.13|/Satoshi:0.20.2/Pandacoin:4.11.7/|70016|6830|188.167.0.0/17|SK|ripencc|2009-06-11|LIBERTYGLOBAL Liberty Global formerly UPC Broadband Holding, aka AORTA, NL
-2.205.43.242|/Satoshi:0.20.2/Pandacoin:4.11.7/|70016|3209|2.200.0.0/13|DE|ripencc|2010-11-18|VODANET International IP-Backbone of Vodafone, DE
+2.205.43.242|/Satoshi:0.20.2/Pandacoin:4.10.5/|70015|3209|2.200.0.0/13|DE|ripencc|2010-11-18|VODANET International IP-Backbone of Vodafone, DE
 212.228.16.35|/Satoshi:0.20.2/Pandacoin:4.11.7/|70016|5378|212.228.0.0/15|GB|ripencc|1998-03-12|Vodafone, GB
 223.24.169.31|/Satoshi:0.20.2/Pandacoin:4.10.5/|70015|132061|223.24.169.0/24|TH|apnic|2010-08-10|REALMOVE-AS-AP Realmove Company Limited, TH
 24.118.50.219|/Satoshi:0.20.2/Pandacoin:4.11.7/|70016|7922|24.118.0.0/16|US|arin|2001-09-17|COMCAST-7922, US
@@ -31,6 +31,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 47.53.93.81|/Satoshi:0.20.2/Pandacoin:4.11.7/|70016|30722|47.53.64.0/19|US|arin|2012-05-15|VODAFONE-IT-ASN, IT
 49.12.76.104|/Satoshi:0.20.2/Pandacoin:4.11.7/|70016|24940|49.12.0.0/16|DE|ripencc|2010-10-21|HETZNER-AS, DE
 49.237.22.59|/Satoshi:0.20.2/Pandacoin:4.10.5/|70015|132618|49.237.22.0/24|TH|apnic|2010-12-06|REALFUTURE-AS-AP Real Future Company Limited, TH
+49.237.38.74|/Satoshi:0.20.2/Pandacoin:4.10.5/|70015|7470|49.237.0.0/16|TH|apnic|2010-12-06|TRUEINTERNET-AS-AP TRUE INTERNET Co.,Ltd., TH
 49.237.41.32|/Satoshi:0.20.2/Pandacoin:4.10.5/|70015|132618|49.237.41.0/24|TH|apnic|2010-12-06|REALFUTURE-AS-AP Real Future Company Limited, TH
 67.187.220.126|/Satoshi:0.20.2/Pandacoin:4.10.5/|70015|7922|67.160.0.0/11|US|arin|2002-12-16|COMCAST-7922, US
 68.227.129.224|/Satoshi:0.20.2/Pandacoin:4.10.5/|70015|22773|68.227.128.0/20|US|arin|2003-03-19|ASN-CXA-ALL-CCI-22773-RDC, US

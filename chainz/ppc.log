@@ -6,7 +6,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 111.38.43.37|/Satoshi:0.20.2/Peercoin:0.11.4/|70016|9808|111.38.0.0/16|CN|apnic|2009-05-06|CHINAMOBILE-CN China Mobile Communications Group Co., Ltd., CN
 111.85.64.108|/Satoshi:0.20.2/Peercoin:0.11.0/|70016|4837|111.85.0.0/16|CN|apnic|2009-06-11|CHINA169-BACKBONE CHINA UNICOM China169 Backbone, CN
 111.85.68.21|/Satoshi:0.20.2/Peercoin:0.11.0/|70016|4837|111.85.0.0/16|CN|apnic|2009-06-11|CHINA169-BACKBONE CHINA UNICOM China169 Backbone, CN
-111.85.71.73|/Satoshi:0.20.2/Peercoin:0.11.0/|70016|4837|111.85.0.0/16|CN|apnic|2009-06-11|CHINA169-BACKBONE CHINA UNICOM China169 Backbone, CN
 114.125.20.187|/Satoshi:0.20.2/Peercoin:0.11.3/|70016|23693|114.125.0.0/19|ID|apnic|2008-05-22|TELKOMSEL-ASN-ID PT. Telekomunikasi Selular, ID
 118.208.180.220|/Satoshi:0.20.2/Peercoin:0.11.7/|70016|7545|118.208.160.0/19|AU|apnic|2007-10-24|TPG-INTERNET-AP TPG Telecom Limited, AU
 12.162.195.195|/Satoshi:0.20.2/Peercoin:0.11.3/|70016|7018|12.128.0.0/9|US|arin|1983-08-23|ATT-INTERNET4, US
@@ -41,7 +40,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 199.127.62.235|Satoshi:0.20.2/Peercoin:0.11.4|70016|23470|199.127.62.0/24|US|arin|2017-05-24|RELIABLESITE, US
 213.152.161.211|/Satoshi:0.20.2/Peercoin:0.11.8/|70016|49453|213.152.161.0/24|NL|ripencc|2010-07-09|GLOBALLAYER, NL
 213.159.81.229|/Satoshi:0.20.2/Peercoin:0.11.7/|70016|43284|213.159.80.0/20|CH|ripencc|2000-03-01|IWB-TELEKOM Industrielle Werke Basel, CH
-23.128.248.39|/Satoshi:0.20.2/Peercoin:0.11.4/|70016|398355|23.128.248.0/24|US|arin|2021-12-01|DATAIDEAS-LLC, US
 23.17.130.103|/Satoshi:0.20.2/Peercoin:0.11.8/|70016|852|23.17.0.0/16|CA|arin|2011-09-29|TELUS Communications, CA
 24.114.42.3|/Satoshi:0.20.2/Peercoin:0.11.1/|70016|812|24.114.42.0/23|CA|arin|1999-04-14|ROGERS-COMMUNICATIONS, CA
 24.229.236.161|/Satoshi:0.20.2/Peercoin:0.11.0/|70016|3737|24.229.0.0/16|US|arin|1997-05-02|AS-PTD, US
@@ -73,8 +71,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 88.99.235.240|/Satoshi:0.20.2/Peercoin:0.11.0/|70016|24940|88.99.0.0/16|DE|ripencc|2005-08-03|HETZNER-AS, DE
 89.40.26.30|/Satoshi:0.20.2/Peercoin:0.11.4/|70016|35512|89.40.26.0/24|RO|ripencc|2005-11-29|TELEMEDIA-AS, RO
 90.126.103.37|/Satoshi:0.20.2/Peercoin:0.11.7/|70016|3215|90.126.0.0/16|FR|ripencc|2006-03-02|France Telecom - Orange, FR
-91.152.121.179|/Satoshi:0.20.2/Peercoin:0.11.7/|70016|719|91.152.0.0/13|FI|ripencc|2006-09-06|ELISA-AS Helsinki, Finland, FI
-91.152.122.248|/Satoshi:0.20.2/Peercoin:0.11.7/|70016|719|91.152.0.0/13|FI|ripencc|2006-09-06|ELISA-AS Helsinki, Finland, FI
 91.44.94.23|/Satoshi:0.20.2/Peercoin:0.11.8/|70016|3320|91.0.0.0/10|DE|ripencc|2006-07-03|DTAG Internet service provider operations, DE
 92.240.100.175|/Satoshi:0.20.2/Peercoin:0.11.4/|70016|15547|92.240.96.0/19|CH|ripencc|2007-11-20|NETPLUS, CH
 95.223.75.229|/Satoshi:0.20.2/Peercoin:0.11.3/|70016|3209|95.223.0.0/16|DE|ripencc|2009-03-24|VODANET International IP-Backbone of Vodafone, DE
