@@ -5,7 +5,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 113.177.117.144|/eMark:1.6.1.2/|60012|45899|113.177.112.0/20|VN|apnic|2008-11-04|VNPT-AS-VN VNPT Corp, VN
 121.36.61.114|/eMark:1.6.1.1/|60012|55990|121.36.0.0/17|CN|apnic|2006-05-23|HWCSNET Huawei Cloud Service data center, CN
 122.59.8.177|/eMark:1.5.0/|60011||||||
-144.91.120.189|/eMark:1.6.1.2/|60012|51167|144.91.120.0/23|DE|ripencc|1990-11-20|CONTABO, DE
+144.91.120.189|/eMark:1.6.1.2/|60012||||||
 147.135.97.55|/eMark:1.6.1/|60012||||||
 167.86.116.187|/eMark:1.6.1/|60012||||||
 172.105.182.91|/eMark:1.6.1.1/|60012|63949|172.105.160.0/19|US|arin|2015-06-19|LINODE-AP Linode, LLC, US
@@ -46,7 +46,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 79.215.19.98|/eMark:1.6.1.2/|60012|3320|79.192.0.0/10|DE|ripencc|2007-06-06|DTAG Internet service provider operations, DE
 79.226.205.133|/eMark:1.5.1/|60011|3320|79.192.0.0/10|DE|ripencc|2007-06-06|DTAG Internet service provider operations, DE
 79.230.64.108|/eMark:1.6.1.2/|60012|3320|79.192.0.0/10|DE|ripencc|2007-06-06|DTAG Internet service provider operations, DE
-79.30.96.171|/eMark:1.6.1.2/|60012|3269|79.30.0.0/15|IT|ripencc|2007-02-21|ASN-IBSNAZ, IT
+79.30.96.171|/eMark:1.6.1.2/|60012||||||
 80.134.208.76|/eMark:1.6.1.2/|60012|3320|80.128.0.0/12|DE|ripencc|2001-08-06|DTAG Internet service provider operations, DE
 81.19.208.55|/eMark:1.5.1/|60011|25369|81.19.208.0/23|GB|ripencc|2006-01-03|BANDWIDTH-AS, GB
 82.212.178.47|/eMark:1.6.1.2/|60012|12392|82.212.176.0/20|BE|ripencc|2003-10-16|ASBRUTELE VOO, BE
@@ -58,7 +58,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 84.162.161.133|/eMark:1.6.1.2/|60012||||||
 84.162.165.72|/eMark:1.6.1.2/|60012||||||
 85.19.25.38|/eMark:1.6.1/|60012||||||
-87.123.244.122|/eMark:1.6.1.2/|60012|8881|87.123.240.0/21|DE|ripencc|2005-07-27|VERSATEL, DE
+87.123.244.122|/eMark:1.6.1.2/|60012||||||
 87.123.244.97|/eMark:1.6.1.2/|60012||||||
 87.123.245.114|/eMark:1.6.1.2/|60012||||||
 87.123.245.96|/eMark:1.6.1.2/|60012||||||
