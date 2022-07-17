@@ -1,7 +1,7 @@
 # https://chainz.cryptoid.info/ and whois results
 # NavCoin
 IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
-1.64.50.155|/Navcoin:7.0.1/|80021||||||
+1.64.50.155|/Navcoin:7.0.1/|80021|4760|1.64.32.0/19|HK|apnic|2010-06-29|HKTIMS-AP HKT Limited, HK
 103.62.49.234|/Navcoin:7.0.0/|80021||||||
 103.62.49.236|/Navcoin:7.0.0/|80021||||||
 109.86.81.235|/Navcoin:7.0.3/|80021||||||
@@ -24,12 +24,12 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 188.171.253.252|/Navcoin:7.0.1/|80021||||||
 199.115.192.19|/Navcoin:7.0.1/|80021||||||
 202.142.121.108|/Navcoin:7.0.1/|80021||||||
-202.90.245.232|/Navcoin:7.0.3/|80021||||||
-203.211.111.250|/Navcoin:7.0.3/|80021||||||
+202.90.245.232|/Navcoin:7.0.3/|80021|4764|202.90.244.0/23|AU|apnic|2010-07-07|WIDEBAND-AS-AP Aussie Broadband, AU
+203.211.111.250|/Navcoin:7.0.3/|80021|45177|203.211.64.0/18|NZ|apnic|2006-08-22|DEVOLI-AS-AP Devoli, NZ
 212.106.64.123|/Navcoin:7.0.1/|80021||||||
 212.106.66.139|/Navcoin:7.0.1/|80021||||||
 212.106.66.166|/Navcoin:7.0.1/|80021||||||
-213.233.216.158|/Navcoin:7.0.3/|80021||||||
+213.233.216.158|/Navcoin:7.0.3/|80021|12414|213.233.192.0/18|NL|ripencc|2003-05-15|NL-SOLCON SOLCON, NL
 216.165.247.20|/Navcoin:7.0.3/|80021||||||
 23.97.222.172|/Navcoin:7.0.1/|80021||||||
 24.15.160.121|/Navcoin:7.0.0/|80021||||||
@@ -48,7 +48,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 51.77.196.201|/Navcoin:7.0.1/|80021||||||
 62.171.145.238|/Navcoin:7.0.0/|80021||||||
 62.45.82.26|/Navcoin:7.0.2/|80021||||||
-64.64.117.240|/Navcoin:7.0.1/|80021||||||
 65.21.73.207|/Navcoin:7.0.3/|80021||||||
 69.90.132.75|/Navcoin:7.0.2/|80021||||||
 70.164.120.17|/Navcoin:7.0.1/|80021||||||
