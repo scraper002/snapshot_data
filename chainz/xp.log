@@ -4,7 +4,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 101.173.94.29|/eXperience Points Core:5.2.0.2/|70922|1221|101.160.0.0/11|AU|apnic|2010-12-23|ASN-TELSTRA Telstra Corporation Ltd, AU
 101.51.10.134|/eXperience Points Core:5.2.0.3/|70922|23969|101.51.0.0/20|TH|apnic|2010-12-13|TOT-NET TOT Public Company Limited, TH
 104.165.250.202|/eXperience Points Core:5.2.0.2/|70922|141039|104.165.250.0/24|US|arin|2014-07-22|TEFINCOMHOST-AS-AP Packethub s.a., PA
-104.28.192.95|/eXperience Points Core:5.2.0.3/|70922|13335|104.28.192.0/24|US|arin|2014-03-28|CLOUDFLARENET, US
 104.28.224.95|/eXperience Points Core:5.2.0.3/|70922|13335|104.28.224.0/24|US|arin|2014-03-28|CLOUDFLARENET, US
 104.28.224.99|/eXperience Points Core:5.2.0.3/|70922|13335|104.28.224.0/24|US|arin|2014-03-28|CLOUDFLARENET, US
 109.115.37.19|/eXperience Points Core:5.2.0.2/|70922|30722|109.114.0.0/15|IT|ripencc|2009-06-12|VODAFONE-IT-ASN, IT
@@ -13,8 +12,8 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 110.131.217.146|/eXperience Points Core:5.2.0.2/|70922|9824|110.131.0.0/16|JP|apnic|2009-04-16|JTCL-JP-AS JCOM Co., Ltd., JP
 114.178.79.210|/eXperience Points Core:5.2.0.3/|70922|4713|114.160.0.0/11|JP|apnic|2008-06-12|OCN NTT Communications Corporation, JP
 115.36.226.159|/eXperience Points Core:5.2.0.2/|70922|18126|115.36.0.0/16|JP|apnic|2008-07-08|CTCX Chubu Telecommunications Company, Inc., JP
+116.70.223.217|/eXperience Points Core:5.2.0.2/|70922|4685|116.70.192.0/18|JP|apnic|2011-01-19|ASAHI-NET Asahi Net, JP
 116.70.223.5|/eXperience Points Core:5.2.0.2/|70922|4685|116.70.192.0/18|JP|apnic|2011-01-19|ASAHI-NET Asahi Net, JP
-118.156.228.173|/eXperience Points Core:5.2.0.3/|70922|2516|118.156.0.0/16|JP|apnic|2008-07-30|KDDI KDDI CORPORATION, JP
 118.243.178.151|/eXperience Points Core:5.2.0.2/|70922|4685|118.243.0.0/16|JP|apnic|2007-11-19|ASAHI-NET Asahi Net, JP
 118.7.66.3|/eXperience Points Core:5.2.0.2/|70922|4713|118.0.0.0/12|JP|apnic|2007-08-01|OCN NTT Communications Corporation, JP
 119.172.208.65|/eXperience Points Core:5.2.0.2/|70922|9824|119.172.128.0/17|JP|apnic|2008-02-26|JTCL-JP-AS JCOM Co., Ltd., JP
@@ -94,6 +93,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 161.97.176.217|/eXperience Points Core:5.2.0.3/|70922|51167|161.97.176.0/21|DE|ripencc|1992-06-23|CONTABO, DE
 161.97.176.219|/eXperience Points Core:5.2.0.3/|70922|51167|161.97.176.0/21|DE|ripencc|1992-06-23|CONTABO, DE
 161.97.73.119|/eXperience Points Core:5.2.0.3/|70922|51167|161.97.72.0/23|DE|ripencc|1992-06-23|CONTABO, DE
+161.97.92.137|/eXperience Points Core:5.2.0.3/|70922|51167|161.97.92.0/23|DE|ripencc|1992-06-23|CONTABO, DE
 161.97.94.144|/eXperience Points Core:5.2.0.3/|70922|51167|161.97.94.0/23|DE|ripencc|1992-06-23|CONTABO, DE
 161.97.95.41|/eXperience Points Core:5.2.0.3/|70922|51167|161.97.94.0/23|DE|ripencc|1992-06-23|CONTABO, DE
 161.97.97.29|/eXperience Points Core:5.2.0.3/|70922|51167|161.97.96.0/23|DE|ripencc|1992-06-23|CONTABO, DE
@@ -195,10 +195,10 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 183.76.102.108|/eXperience Points Core:5.2.0.2/|70922|4685|183.76.0.0/15|JP|apnic|2009-10-30|ASAHI-NET Asahi Net, JP
 185.191.188.225|/eXperience Points Core:5.2.0.2/|70922|60673|185.191.188.0/23|HU|ripencc|2017-02-24|ACTIVCOM, HU
 185.206.146.68|???|0|44901|185.206.146.0/24|CY|ripencc|2017-06-01|BELCLOUD, BG
+185.207.251.130|/eXperience Points Core:5.2.0.3/|70922|51167|185.207.251.0/24|DE|ripencc|2017-06-12|CONTABO, DE
 185.211.5.116|/eXperience Points Core:5.2.0.2/|70922|51167|185.211.5.0/24|DE|ripencc|2017-06-30|CONTABO, DE
 185.211.5.18|/eXperience Points Core:5.2.0.2/|70922|51167|185.211.5.0/24|DE|ripencc|2017-06-30|CONTABO, DE
 185.211.6.241|/eXperience Points Core:5.2.0.2/|70922|51167|185.211.6.0/24|DE|ripencc|2017-06-30|CONTABO, DE
-185.217.125.167|/eXperience Points Core:5.2.0.2/|70922|51167|185.217.125.0/24|DE|ripencc|2017-08-14|CONTABO, DE
 185.237.252.116|/eXperience Points Core:5.2.0.2/|70922|51167|185.237.252.0/23|DE|ripencc|2017-12-20|CONTABO, DE
 185.237.252.222|/eXperience Points Core:5.2.0.2/|70922|51167|185.237.252.0/23|DE|ripencc|2017-12-20|CONTABO, DE
 185.237.253.11|/eXperience Points Core:5.2.0.2/|70922|51167|185.237.252.0/23|DE|ripencc|2017-12-20|CONTABO, DE
@@ -226,6 +226,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 194.242.56.191|/eXperience Points Core:5.2.0.3/|70922|51167|194.242.56.0/24|DE|ripencc|2019-11-01|CONTABO, DE
 2.3.5.12|/eXperience Points Core:5.2.0.3/|70922|3215|2.3.0.0/16|FR|ripencc|2010-07-12|France Telecom - Orange, FR
 2.95.68.234|/eXperience Points Core:5.2.0.3/|70922|3216|2.95.0.0/16|RU|ripencc|2010-05-21|SOVAM-AS, RU
+2.96.251.231|/eXperience Points Core:5.2.0.3/|70922|13285|2.96.0.0/15|GB|ripencc|2010-04-21|OPALTELECOM-AS TalkTalk Communications Limited, GB
 203.152.212.105|/eXperience Points Core:5.2.0.3/|70922|2514|203.152.192.0/19|JP|apnic|2005-08-04|INFOSPHERE NTT PC Communications, Inc., JP
 207.180.193.27|/eXperience Points Core:5.2.0.3/|70922|51167|207.180.192.0/23|DE|ripencc|1996-08-21|CONTABO, DE
 207.180.200.217|/eXperience Points Core:5.2.0.3/|70922|51167|207.180.200.0/23|DE|ripencc|1996-08-21|CONTABO, DE
@@ -235,6 +236,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 207.180.208.104|/eXperience Points Core:5.2.0.2/|70922|51167|207.180.208.0/23|DE|ripencc|1996-08-21|CONTABO, DE
 207.180.208.123|/eXperience Points Core:5.2.0.3/|70922|51167|207.180.208.0/23|DE|ripencc|1996-08-21|CONTABO, DE
 207.180.214.74|/eXperience Points Core:5.2.0.2/|70922|51167|207.180.214.0/23|DE|ripencc|1996-08-21|CONTABO, DE
+207.180.216.178|/eXperience Points Core:5.2.0.2/|70922|51167|207.180.216.0/23|DE|ripencc|1996-08-21|CONTABO, DE
 207.180.218.133|/eXperience Points Core:5.2.0.3/|70922|51167|207.180.218.0/23|DE|ripencc|1996-08-21|CONTABO, DE
 207.180.225.117|/eXperience Points Core:5.2.0.2/|70922|51167|207.180.224.0/23|DE|ripencc|1996-08-21|CONTABO, DE
 207.180.227.207|/eXperience Points Core:5.2.0.3/|70922|51167|207.180.226.0/23|DE|ripencc|1996-08-21|CONTABO, DE
