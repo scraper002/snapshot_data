@@ -1,6 +1,7 @@
 # https://chainz.cryptoid.info/ and whois results
 # DigiByte
 IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
+1.145.44.86|/digiwallet:1.0.0/|70017||||||
 1.52.41.27|/digiwallet:1.0.0/|70017||||||
 100.18.16.66|/DigiByte:7.17.2/|70017||||||
 102.89.41.29|/digiwallet:1.0.0/|70017||||||
@@ -12,7 +13,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 105.112.122.21|???|0||||||
 106.196.91.27|/digiwallet:1.0.0/|70017||||||
 112.96.225.111|/DigiByte:7.17.3/|70017||||||
-116.206.29.13|/digiwallet:1.0.0/|70017||||||
+116.206.29.13|/digiwallet:1.0.0/|70017|45727|116.206.29.0/24|ID|apnic|2017-02-03|THREE-AS-ID Hutchison CP Telecommunications, PT, ID
 116.96.77.206|/digiwallet:1.0.0/|70017||||||
 121.98.231.94|/digiwallet:1.0.0/|70017||||||
 124.150.6.202|/DigiByte:7.17.2/|70017||||||
@@ -65,7 +66,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 213.167.79.24|/DigiByte:7.17.2/|70017||||||
 213.232.124.121|/DigiByte:7.17.2/|70017||||||
 216.137.116.136|/DigiByte:7.17.2/|70017||||||
-216.209.170.119|/DigiByte:7.17.3/|70017|577|216.209.0.0/16|CA|arin|1999-03-12|BACOM, CA
+216.209.170.119|/DigiByte:7.17.3/|70017||||||
 217.23.74.145|/DigiByte:7.17.3/|70017||||||
 217.72.4.157|/DigiByte:7.17.2/|70017||||||
 220.240.4.81|/DigiByte:7.17.2/|70017||||||
@@ -111,6 +112,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 71.47.187.250|/DigiByte:7.17.3/|70017||||||
 72.49.12.202|/DigiByte:7.17.3/|70017||||||
 73.126.228.130|/DigiByte:7.17.2/|70017||||||
+74.194.156.4|/DigiByte:7.17.3/|70017||||||
 77.75.36.104|/DigiByte:7.17.2/|70017||||||
 79.249.211.223|/DigiByte:7.17.2/|70017||||||
 8.135.100.61|/DigiByte:7.17.2/|70017||||||
