@@ -1,7 +1,7 @@
 # https://chainz.cryptoid.info/ and whois results
 # Phore
 IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
-116.203.82.110|/Phore Core:1.7.1/|70009||||||
+116.203.82.110|/Phore Core:1.7.1/|70009|24940|116.203.0.0/16|DE|ripencc|2011-01-17|HETZNER-AS, DE
 135.181.7.113|/Phore Core:1.7.1/|70009||||||
 135.181.7.118|/Phore Core:1.7.1/|70009||||||
 135.181.98.85|/Phore Core:1.8.0/|70009||||||
@@ -10,8 +10,8 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 143.110.185.100|/Phore Core:1.8.0/|70009||||||
 143.110.210.49|/Phore Core:1.8.0/|70009||||||
 144.91.106.129|/Phore Core:1.8.0/|70009||||||
-144.91.106.92|/Phore Core:1.8.0/|70009|51167|144.91.106.0/23|DE|ripencc|1990-11-20|CONTABO, DE
-144.91.116.146|/Phore Core:1.7.0/|70008||||||
+144.91.106.92|/Phore Core:1.8.0/|70009||||||
+144.91.116.146|/Phore Core:1.7.0/|70008|51167|144.91.116.0/23|DE|ripencc|1990-11-20|CONTABO, DE
 149.56.148.202|/Phore Core:1.7.0/|70008||||||
 152.228.135.232|/Phore Core:1.8.0/|70009||||||
 157.90.106.242|/Phore Core:1.8.0/|70009||||||
@@ -54,7 +54,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 193.26.157.215|/Phore Core:1.7.1/|70009||||||
 193.37.214.68|/Phore Core:1.7.0/|70008||||||
 194.163.131.219|/Phore Core:1.8.0/|70009||||||
-194.163.143.68|/Phore Core:1.8.0/|70009||||||
+194.163.143.68|/Phore Core:1.8.0/|70009|51167|194.163.128.0/18|DE|ripencc|1995-05-16|CONTABO, DE
 2.207.36.229|/Phore Core:1.8.0/|70009||||||
 2.56.190.187|/Phore Core:1.7.1/|70009||||||
 206.81.20.184|/Phore Core:1.8.0/|70009||||||
@@ -72,7 +72,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 45.63.89.210|/Phore Core:1.7.0/|70008||||||
 46.151.159.53|/Phore Core:1.7.0/|70008||||||
 46.165.62.127|/Phore Core:1.7.1/|70009||||||
-50.117.77.110|/Phore Core:1.7.1/|70009|136787|50.117.77.0/24|US|arin|2011-09-01|TEFINCOMSA-AS-AP TEFINCOM S.A., PA
 62.138.3.131|/Phore Core:1.7.0/|70008||||||
 62.138.6.9|/Phore Core:1.7.0/|70008||||||
 62.138.7.229|/Phore Core:1.7.0/|70008||||||
@@ -87,7 +86,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 68.183.202.24|/Phore Core:1.8.0/|70009||||||
 69.109.238.146|/Phore Core:1.8.0/|70009||||||
 71.190.78.98|/Phore Core:1.8.0/|70009||||||
-75.119.157.65|/Phore Core:1.8.0/|70009||||||
+75.119.157.65|/Phore Core:1.8.0/|70009|51167|75.119.128.0/19|DE|ripencc|2006-05-12|CONTABO, DE
 75.119.159.160|/Phore Core:1.7.0/|70008||||||
 76.243.195.173|/Phore Core:1.8.0/|70009||||||
 77.117.171.96|/Phore Core:1.7.1/|70009||||||
@@ -113,9 +112,9 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 95.216.228.253|/Phore Core:1.7.0/|70008||||||
 95.216.73.176|/Phore Core:1.7.0/|70008||||||
 95.217.78.168|/Phore Core:1.7.0/|70008||||||
-95.78.156.132|/Phore Core:1.7.0/|70008|41661|95.78.128.0/18|RU|ripencc|2008-12-10|ERTH-CHEL-AS, RU
+95.78.156.132|/Phore Core:1.7.0/|70008||||||
 96.61.101.148|/Phore Core:1.7.1/|70009||||||
-98.172.83.62|/Phore Core:1.8.0/|70009||||||
+98.172.83.62|/Phore Core:1.8.0/|70009|22773|98.172.64.0/19|US|arin|2007-07-20|ASN-CXA-ALL-CCI-22773-RDC, US
 98.215.160.113|/Phore Core:1.8.0/|70009||||||
 98.248.117.114|/Phore Core:1.7.0/|70008||||||
 98.250.175.53|/Phore Core:1.7.1/|70009||||||

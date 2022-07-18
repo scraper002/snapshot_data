@@ -2,7 +2,7 @@
 # Mooncoin
 IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 104.173.76.242|/Mooncoin:0.10.5/|70002||||||
-106.38.92.46|/Mooncoin:0.13.9/|70016|4847|106.38.0.0/16|CN|apnic|2011-03-18|CNIX-AP China Networks Inter-Exchange, CN
+106.38.92.46|/Mooncoin:0.13.9/|70016||||||
 108.56.234.22|/MooncoinCore:0.17.1/|70017||||||
 111.229.221.109|/MooncoinCore:0.17.1/|70017||||||
 112.102.216.133|/MooncoinCore:0.17.1/|70017||||||
@@ -17,7 +17,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 172.102.174.50|/MooncoinCore:0.17.1/|70017||||||
 176.114.249.250|/MooncoinCore:0.17.1/|70017||||||
 178.18.247.153|/MooncoinCore:0.17.1/|70017||||||
-185.82.203.241|/MooncoinCore:0.17.1/|70017||||||
+185.82.203.241|/MooncoinCore:0.17.1/|70017|60117|185.82.203.0/24|AE|ripencc|2014-12-31|HS, AE
 218.230.173.233|/Mooncoin:0.13.9/|70016||||||
 221.207.191.255|/MooncoinCore:0.17.1/|70017||||||
 223.72.54.87|/MooncoinCore:0.17.1/|70017||||||
@@ -27,7 +27,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 45.63.86.125|/MooncoinCore:0.17.1/|70017||||||
 5.45.105.66|/MooncoinCore:0.17.1/|70017||||||
 50.125.224.254|/MooncoinCore:0.17.1/|70017||||||
-50.220.121.211|/MooncoinCore:0.17.1/|70017||||||
+50.220.121.211|/MooncoinCore:0.17.1/|70017|7922|50.128.0.0/9|US|arin|2010-10-21|COMCAST-7922, US
 51.38.57.53|/MooncoinCore:0.17.1/|70017||||||
 64.20.63.133|/MooncoinCore:0.17.1/|70017||||||
 66.70.182.1|/Mooncoin:0.13.9/|70016||||||
@@ -42,13 +42,13 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 82.29.154.199|/MooncoinCore:0.17.1/|70017||||||
 82.64.185.60|/MooncoinCore:0.17.1/|70017||||||
 84.234.52.190|/MooncoinCore:0.17.1/|70017||||||
-85.15.179.171|/Mooncoin:0.13.9/|70016|12389|85.15.128.0/18|RU|ripencc|2005-04-26|ROSTELECOM-AS, RU
+85.15.179.171|/Mooncoin:0.13.9/|70016||||||
 88.99.68.228|/Mooncoin:0.13.9/|70016||||||
 89.144.221.43|/MooncoinCore:0.17.1/|70017||||||
 90.222.52.198|/MooncoinCore:0.17.1/|70017||||||
 91.127.24.125|/MooncoinCore:0.17.1/|70017||||||
 91.200.41.32|/MooncoinCore:0.17.1/|70017||||||
-91.206.16.214|/Mooncoin:0.13.9/|70016|13259|91.206.16.0/23|RU|ripencc|2008-06-09|DELTA-TELESYSTEMS-AS, RU
+91.206.16.214|/Mooncoin:0.13.9/|70016||||||
 93.216.156.9|/MooncoinCore:0.17.1/|70017||||||
 94.10.242.72|/MooncoinCore:0.17.1/|70017||||||
 94.23.2.215|/Mooncoin:0.13.9/|70016||||||
