@@ -6,7 +6,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 134.209.145.235|/Wagerr Core:4.0.0/|70928||||||
 142.93.157.86|/Wagerr Core:4.0.0/|70928||||||
 144.217.164.88|/Wagerr Core:4.0.0/|70928||||||
-149.202.56.33|/Wagerr Core:4.0.0/|70928||||||
+149.202.56.33|/Wagerr Core:4.0.0/|70928|16276|149.202.0.0/16|FR|ripencc|1999-04-26|OVH, FR
 157.230.30.39|/Wagerr Core:4.0.0/|70928||||||
 165.22.85.88|/Wagerr Core:4.0.0/|70928||||||
 165.232.109.250|/Wagerr Core:4.0.0/|70928||||||
@@ -14,7 +14,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 168.119.80.9|/Wagerr Core:4.0.0/|70928||||||
 172.83.9.69|/Wagerr Core:4.0.0/|70928||||||
 178.128.230.194|/Wagerr Core:4.0.0/|70928||||||
-185.177.59.105|???|0||||||
+185.177.59.105|???|0|44901|185.177.59.0/24|BG|ripencc|2016-11-10|BELCLOUD, BG
 188.40.205.12|/Wagerr Core:4.0.0/|70928||||||
 188.40.205.16|/Wagerr Core:4.0.0/|70928||||||
 188.40.205.26|/Wagerr Core:4.0.0/|70928||||||
@@ -24,7 +24,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 213.239.209.41|/Wagerr Core:4.0.0/|70928||||||
 50.213.167.123|/Wagerr Core:4.0.0/|70928||||||
 54.37.18.181|/Wagerr Core:4.0.0/|70928||||||
-54.39.149.186|/Wagerr Core:4.0.0/|70928||||||
-65.21.139.183|/Wagerr Core:4.0.0/|70928||||||
-95.183.50.62|/Wagerr Core:4.0.0/|70928||||||
-95.217.130.212|/Wagerr Core:4.0.0/|70928||||||
+54.39.149.186|/Wagerr Core:4.0.0/|70928|16276|54.39.0.0/16|CA|arin|2017-10-16|OVH, FR
+65.21.139.183|/Wagerr Core:4.0.0/|70928|24940|65.21.0.0/16|DE|ripencc|2001-09-26|HETZNER-AS, DE
+95.183.50.62|/Wagerr Core:4.0.0/|70928|197988|95.183.48.0/20|CH|ripencc|2009-02-10|SOLARCOM, CH
+95.217.130.212|/Wagerr Core:4.0.0/|70928|24940|95.217.0.0/16|DE|ripencc|2009-02-24|HETZNER-AS, DE

@@ -28,7 +28,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 178.18.254.12|/Blocknet:4.3.2/|70713||||||
 178.191.140.72|/Blocknet:4.3.3/|70713||||||
 178.198.47.111|/Blocknet:4.3.3/|70713||||||
-178.62.114.74|Blocknet:4.3.3|70713|14061|178.62.64.0/18|US|ripencc|2010-02-26|DIGITALOCEAN-ASN, US
+178.62.114.74|Blocknet:4.3.3|70713||||||
 181.41.202.41|/Blocknet:4.3.3/|70713||||||
 181.58.38.229|/Blocknet:4.3.3/|70713||||||
 184.187.182.51|/Blocknet:4.3.2/|70713||||||
@@ -44,7 +44,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 195.201.141.173|/Blocknet:4.3.2/|70713||||||
 197.245.125.253|/Blocknet:4.3.2/|70713||||||
 199.127.62.235|Blocknet:4.3.3|70713||||||
-206.189.131.144|Blocknet:4.3.3|70713|14061|206.189.128.0/20|US|arin|1995-11-15|DIGITALOCEAN-ASN, US
+206.189.131.144|Blocknet:4.3.3|70713||||||
 206.189.230.107|/Blocknet:4.3.2/|70713||||||
 207.180.193.54|/Blocknet:4.3.3/|70713||||||
 219.109.197.149|/Blocknet:4.3.2/|70713||||||
@@ -89,6 +89,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 89.23.224.35|/Blocknet:4.3.3/|70713||||||
 89.45.90.116|/Blocknet:4.3.3/|70713||||||
 89.64.33.214|/Blocknet:4.3.2/|70713||||||
+89.64.45.174|/Blocknet:4.3.3/|70713||||||
 90.127.124.158|/Blocknet:4.2.0/|70713||||||
 91.100.31.98|/Blocknet:4.3.3/|70713||||||
 93.225.13.37|/Blocknet:4.3.2/|70713||||||
