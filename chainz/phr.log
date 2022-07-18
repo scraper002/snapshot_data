@@ -6,12 +6,12 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 135.181.7.118|/Phore Core:1.7.1/|70009||||||
 135.181.98.85|/Phore Core:1.8.0/|70009||||||
 139.59.236.221|/Phore Core:1.8.0/|70009||||||
-139.59.41.244|/Phore Core:1.8.0/|70009|14061|139.59.32.0/20|SG|apnic|1990-06-27|DIGITALOCEAN-ASN, US
+139.59.41.244|/Phore Core:1.8.0/|70009||||||
 143.110.185.100|/Phore Core:1.8.0/|70009||||||
 143.110.210.49|/Phore Core:1.8.0/|70009||||||
 144.91.106.129|/Phore Core:1.8.0/|70009||||||
 144.91.106.92|/Phore Core:1.8.0/|70009||||||
-144.91.116.146|/Phore Core:1.7.0/|70008||||||
+144.91.116.146|/Phore Core:1.7.0/|70008|51167|144.91.116.0/23|DE|ripencc|1990-11-20|CONTABO, DE
 149.56.148.202|/Phore Core:1.7.0/|70008||||||
 152.228.135.232|/Phore Core:1.8.0/|70009||||||
 157.90.106.242|/Phore Core:1.8.0/|70009||||||
@@ -22,7 +22,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 161.97.97.30|/Phore Core:1.8.0/|70009||||||
 162.55.232.81|/Phore Core:1.8.0/|70009||||||
 165.22.76.130|/Phore Core:1.8.0/|70009||||||
-167.179.115.39|/Phore Core:1.7.0/|70008|20473|167.179.64.0/18|US|apnic|1993-09-08|AS-CHOOPA, US
+167.179.115.39|/Phore Core:1.7.0/|70008||||||
 167.86.124.248|/Phore Core:1.8.0/|70009||||||
 167.86.88.138|/Phore Core:1.8.0/|70009||||||
 172.116.112.145|/Phore Core:1.7.0/|70008||||||
@@ -74,7 +74,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 45.63.89.210|/Phore Core:1.7.0/|70008||||||
 46.151.159.53|/Phore Core:1.7.0/|70008||||||
 46.165.62.127|/Phore Core:1.7.1/|70009||||||
-50.117.77.110|/Phore Core:1.7.1/|70009|136787|50.117.77.0/24|US|arin|2011-09-01|TEFINCOMSA-AS-AP TEFINCOM S.A., PA
+50.117.77.110|/Phore Core:1.7.1/|70009||||||
 62.138.3.131|/Phore Core:1.7.0/|70008||||||
 62.138.6.9|/Phore Core:1.7.0/|70008||||||
 62.138.7.229|/Phore Core:1.7.0/|70008||||||
@@ -88,7 +88,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 65.21.228.89|/Phore Core:1.7.1/|70009||||||
 68.183.202.24|/Phore Core:1.8.0/|70009||||||
 69.109.238.146|/Phore Core:1.8.0/|70009||||||
-70.77.85.179|/Phore Core:1.8.0/|70009||||||
 71.190.78.98|/Phore Core:1.8.0/|70009||||||
 75.119.157.65|/Phore Core:1.8.0/|70009||||||
 75.119.159.160|/Phore Core:1.7.0/|70008||||||
@@ -97,11 +96,11 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 78.46.36.209|/Phore Core:1.7.0/|70008||||||
 78.46.37.50|/Phore Core:1.8.0/|70009||||||
 80.221.46.73|/Phore Core:1.8.0/|70009||||||
-80.241.213.200|/Phore Core:1.8.0/|70009||||||
+80.241.213.200|/Phore Core:1.8.0/|70009|51167|80.241.212.0/23|DE|ripencc|2011-02-14|CONTABO, DE
 82.132.186.42|/Phore Core:1.8.0/|70009||||||
 84.165.166.55|/Phore Core:1.8.0/|70009||||||
 84.166.32.238|/Phore Core:1.7.1/|70009||||||
-85.194.207.118|/Phore Core:1.7.1/|70009||||||
+85.194.207.118|/Phore Core:1.7.1/|70009|49282|85.194.204.0/22|FI|ripencc|2005-01-04|FICOLO, FI
 86.1.113.199|/Phore Core:1.7.0/|70008||||||
 87.79.86.52|/Phore Core:1.7.1/|70009||||||
 89.101.225.26|/Phore Core:1.7.1/|70009||||||

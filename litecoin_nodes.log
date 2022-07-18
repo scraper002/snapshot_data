@@ -460,7 +460,6 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 217.115.120.70|9333|/LitecoinCore:0.18.1/|30900|217.115.112.0/20|IE|ripencc|2003-12-24|WEBWORLD-AS ta Web World Ireland, IE
 217.170.124.170|9333|/LitecoinCore:0.18.1/|35401|217.170.120.0/21|RU|ripencc|2004-08-12|SUNLINK-AS Sunlink Telecom ISP, Tula, Russia, RU
 217.182.200.177|9333|/LitecoinCore:0.18.1/|16276|217.182.0.0/16|FR|ripencc|2001-03-02|OVH, FR
-217.73.90.222|8833|/Ladacoshi:0.10.4.12/|44291|217.73.80.0/20|UA|ripencc|2009-05-29|INFOMIR-NET INFOMIR AS, UA
 218.52.245.112|9333|/LitecoinCore:0.16.0/|9318|218.52.0.0/14|KR|apnic|2001-11-22|SKB-AS SK Broadband Co Ltd, KR
 218.79.218.215|9333|/LitecoinCore:0.14.2/|4812|218.79.0.0/16|CN|apnic|2001-06-28|CHINANET-SH-AP China Telecom Group, CN
 220.132.100.42|9333|/LitecoinCore:0.21.2.1/|3462|220.132.64.0/18|TW|apnic|2003-06-09|HINET Data Communication Business Group, TW
@@ -743,7 +742,6 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 41.72.158.202|9333|/LitecoinCore:0.18.1/|37153|41.72.128.0/19|ZA|afrinic|2009-11-25|xneelo, ZA
 42.192.235.164|9333|/LitecoinCore:0.18.1/|45090|42.192.192.0/18|CN|apnic|2011-03-04|TENCENT-NET-AP Shenzhen Tencent Computer Systems Company Limited, CN
 44.199.98.249|9333|/LitecoinCore:0.18.1/|14618|44.192.0.0/11|US|arin|2019-07-18|AMAZON-AES, US
-44.200.227.119|9333|/LitecoinCore:0.21.2/|14618|44.192.0.0/11|US|arin|2019-07-18|AMAZON-AES, US
 44.204.242.241|9333|/LitecoinCore:0.21.2/|14618|44.192.0.0/11|US|arin|2019-07-18|AMAZON-AES, US
 44.225.254.244|9333|/LitecoinCore:0.21.2/|16509|44.224.0.0/11|US|arin|2019-07-18|AMAZON-02, US
 45.11.57.69|9333|/LitecoinCore:0.18.1/|43180|45.11.57.0/24|UA|ripencc|2019-04-26|CLOUDNETWORKS-AS, UA

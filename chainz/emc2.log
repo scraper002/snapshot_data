@@ -2,8 +2,8 @@
 # Einsteinium
 IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 104.238.221.61|/EinsteiniumCore:0.13.9/|70015||||||
-109.177.253.32|/EinsteiniumCore:0.13.8/|70015||||||
-116.202.80.59|/EinsteiniumCore:0.13.8/|70015||||||
+109.177.253.32|/EinsteiniumCore:0.13.8/|70015|5384|109.177.192.0/18|AE|ripencc|2012-09-07|EMIRATES-INTERNET Emirates Internet, AE
+116.202.80.59|/EinsteiniumCore:0.13.8/|70015|24940|116.202.0.0/16|DE|ripencc|2011-01-17|HETZNER-AS, DE
 139.45.250.102|/EinsteiniumCore:0.13.9/|70015||||||
 149.56.17.57|/EinsteiniumCore:0.13.9/|70015||||||
 164.160.95.228|/EinsteiniumCore:0.13.5/|70015||||||
@@ -13,15 +13,15 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 198.244.200.29|/EinsteiniumCore:0.13.9/|70015||||||
 2.56.153.182|/EinsteiniumCore:0.13.9/|70015||||||
 217.28.222.162|/EinsteiniumCore:0.13.9/|70015||||||
-23.227.150.229|/EinsteiniumCore:0.13.5/|70015||||||
+23.227.150.229|/EinsteiniumCore:0.13.5/|70015|55081|23.227.128.0/19|US|arin|2013-09-23|24SHELLS, US
 5.181.255.48|/EinsteiniumCore:0.13.9/|70015||||||
 5.31.153.144|/EinsteiniumCore:0.13.8/|70015||||||
 51.161.131.60|/EinsteiniumCore:0.13.9/|70015||||||
 51.161.196.23|/EinsteiniumCore:0.13.9/|70015||||||
 51.210.182.223|/EinsteiniumCore:0.13.9/|70015||||||
 51.222.139.44|/EinsteiniumCore:0.13.9/|70015||||||
-51.79.241.214|/EinsteiniumCore:0.13.9/|70015||||||
-51.79.99.22|/EinsteiniumCore:0.13.9/|70015||||||
+51.79.241.214|/EinsteiniumCore:0.13.9/|70015|16276|51.79.128.0/17|CA|arin|2019-01-10|OVH, FR
+51.79.99.22|/EinsteiniumCore:0.13.9/|70015|16276|51.79.0.0/17|CA|arin|2019-01-10|OVH, FR
 51.89.149.234|/EinsteiniumCore:0.13.9/|70015||||||
 54.37.234.18|/EinsteiniumCore:0.13.9/|70015||||||
 54.38.156.27|/EinsteiniumCore:0.13.9/|70015||||||

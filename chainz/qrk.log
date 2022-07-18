@@ -21,8 +21,8 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 121.5.74.6|/Satoshi:0.10.7.7/|70004||||||
 124.221.106.34|/Satoshi:0.10.7.7/|70004||||||
 124.221.109.103|/Satoshi:0.10.7.7/|70004||||||
-124.221.109.196|/Satoshi:0.10.7.7/|70004||||||
-124.221.170.160|/Satoshi:0.10.7.7/|70004||||||
+124.221.109.196|/Satoshi:0.10.7.7/|70004|45090|124.221.64.0/18|CN|apnic|2006-04-25|TENCENT-NET-AP Shenzhen Tencent Computer Systems Company Limited, CN
+124.221.170.160|/Satoshi:0.10.7.7/|70004|45090|124.221.128.0/18|CN|apnic|2006-04-25|TENCENT-NET-AP Shenzhen Tencent Computer Systems Company Limited, CN
 124.222.1.7|/Satoshi:0.10.7.7/|70004||||||
 124.222.114.155|/Satoshi:0.10.7.7/|70004||||||
 124.222.114.221|/Satoshi:0.10.7.7/|70004||||||
@@ -74,5 +74,5 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 81.69.58.66|/Satoshi:0.10.7.7/|70004||||||
 82.157.44.243|/Satoshi:0.10.7.7/|70004||||||
 94.23.169.116|/Satoshi:0.10.7.7/|70004||||||
-95.217.78.79|/Satoshi:0.10.7.7/|70004||||||
+95.217.78.79|/Satoshi:0.10.7.7/|70004|24940|95.217.0.0/16|DE|ripencc|2009-02-24|HETZNER-AS, DE
 99.35.14.202|/Satoshi:0.10.7.4/|70004||||||
