@@ -21,7 +21,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 188.131.162.86|/btc-seeder:0.0001/|70013||||||
 188.166.227.187|/Feathercoin:0.19.1/|70016||||||
 188.166.72.211|/Feathercoin:0.18.3/|70016||||||
-188.18.226.231|/Feathercoin:0.9.6.2/|70006|12389|188.18.224.0/20|RU|ripencc|2009-02-03|ROSTELECOM-AS, RU
 195.201.160.242|/Feathercoin:0.19.1/|70016||||||
 198.100.149.160|/Feathercoin:0.19.1/|70016||||||
 199.127.62.235|Feathercoin:0.19.1|70016||||||
@@ -50,8 +49,8 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 82.64.185.60|/Feathercoin:0.18.2/|70016||||||
 82.66.94.6|/Feathercoin:0.19.1/|70016||||||
 82.73.114.29|/Feathercoin:0.19.1/|70016||||||
-83.233.2.125|/Feathercoin:0.19.1/|70016||||||
-86.27.68.54|/Feathercoin:0.19.1/|70016||||||
+83.233.2.125|/Feathercoin:0.19.1/|70016|29518|83.233.0.0/16|SE|ripencc|2004-02-06|BREDBAND2, SE
+86.27.68.54|/Feathercoin:0.19.1/|70016|5089|86.24.0.0/13|GB|ripencc|2005-03-29|NTL, GB
 93.146.9.105|/Feathercoin:0.19.1/|70016||||||
 93.228.78.164|/Feathercoin:0.13.1/|70015||||||
 95.215.160.76|/FeathercoinJ:0.99/Feathercoin Wallet:3.05/|70006||||||

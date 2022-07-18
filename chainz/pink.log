@@ -2,9 +2,9 @@
 # Pinkcoin
 IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 100.1.222.63|/Pinkcoin:2.3.1/|60018||||||
-102.182.98.181|/Pinkcoin:2.4.0/|60019||||||
-108.17.53.39|/Pinkcoin:2.4.0/|60019||||||
-108.41.37.10|/Pinkcoin:2.4.0/|60019||||||
+102.182.98.181|/Pinkcoin:2.4.0/|60019|37611|102.182.0.0/16|ZA|afrinic|2017-06-02|Afrihost, ZA
+108.17.53.39|/Pinkcoin:2.4.0/|60019|701|108.17.0.0/18|US|arin|2009-06-05|UUNET, US
+108.41.37.10|/Pinkcoin:2.4.0/|60019|701|108.41.0.0/16|US|arin|2009-06-05|UUNET, US
 116.65.11.9|/Pinkcoin:2.4.0/|60019||||||
 118.243.28.238|/Pinkcoin:2.4.0/|60019||||||
 120.154.76.224|/Pinkcoin:2.4.0/|60019||||||
@@ -75,7 +75,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 88.198.238.126|/Pinkcoin:2.3.1/|60018||||||
 90.80.53.82|/Pinkcoin:2.4.0/|60019||||||
 91.0.158.10|/Pinkcoin:2.3.1/|60018||||||
-93.219.173.57|/Pinkcoin:2.3.1/|60018||||||
+93.219.173.57|/Pinkcoin:2.3.1/|60018|3320|93.192.0.0/10|DE|ripencc|2008-02-12|DTAG Internet service provider operations, DE
 95.179.165.154|/Pinkcoin:2.4.0/|60019||||||
 95.217.78.169|/Pinkcoin:2.3.1/|60018||||||
 95.82.133.144|/Pinkcoin:2.4.0/|60019||||||
