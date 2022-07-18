@@ -1,9 +1,10 @@
 # https://chainz.cryptoid.info/ and whois results
 # Litecoin
 IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
+101.224.224.13|/Satoshi:0.13.2/|70015||||||
 104.236.136.96|/Node:0.18.0/|70015||||||
 107.115.33.241|/BitcoinKit:0.1.0/|70015|7018|107.64.0.0/10|US|arin|2011-02-04|ATT-INTERNET4, US
-107.116.13.193|/BitcoinKit:0.1.0/|70015||||||
+107.116.13.193|/BitcoinKit:0.1.0/|70015|7018|107.64.0.0/10|US|arin|2011-02-04|ATT-INTERNET4, US
 107.127.59.17|/WalletKit:0.1.0/|70015||||||
 107.191.119.170|/DefcoinCore:1.0.0/|70015||||||
 107.213.31.242|/BitcoinKit:0.1.0/|70015||||||
@@ -63,7 +64,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 184.100.240.247|/BitcoinKit:0.1.0/|70015||||||
 184.97.218.184|/BitcoinKit:0.1.0/|70015||||||
 185.125.223.33|/BitcoinKit:0.1.0/|70015||||||
-185.220.101.179|/BitcoinKit:0.1.0/|70015||||||
 185.239.56.157|/WalletKit:0.1.0/|70015||||||
 186.167.248.138|/BitcoinKit:0.1.0/|70015||||||
 187.190.191.172|/LitecoinCore:0.18.1/|70015||||||
@@ -75,12 +75,14 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 2.140.251.131|/WalletKit:0.1.0/|70015||||||
 2.141.166.89|/BitcoinKit:0.1.0/|70015||||||
 200.146.201.153|/B2CCoinCore:0.16.3/|70015||||||
+205.185.117.149|/BitcoinKit:0.1.0/|70015|53667|205.185.112.0/20|US|arin|2010-09-03|PONYNET, US
 209.209.8.31|/LitecoinCore:0.18.1/|70015||||||
 212.102.33.147|/LitecoinCore:0.18.1/|70015||||||
 212.72.155.48|/LitecoinCore:0.18.1/|70015||||||
 213.136.91.45|/LitecoinCore:0.18.1/|70015||||||
 213.32.6.132|/DigitaleuroCore:0.16.3/|70015||||||
 213.45.83.234|/WalletKit:0.1.0/|70015||||||
+217.155.62.20|/LitecoinCore:0.17.1/|70015||||||
 217.28.222.162|/LitecoinCore:0.16.3/|70015||||||
 217.64.153.50|/LitecoinCore:0.18.1/|70015||||||
 220.196.192.81|/LitecoinCore:0.18.1/|70015||||||
@@ -102,7 +104,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 35.188.88.172|/LitecoinCore:0.16.3/|70015||||||
 37.214.38.37|/LitecoinCore:0.18.1/|70015||||||
 37.29.88.74|/WalletKit:0.1.0/|70015||||||
-37.30.33.52|/BitcoinKit:0.1.0/|70015||||||
+37.30.33.52|/BitcoinKit:0.1.0/|70015|12912|37.30.32.0/19|PL|ripencc|2011-12-30|TM, PL
 39.103.125.195|/open-nodes:0.1/|70015||||||
 41.13.12.240|/BitcoinKit:0.1.0/|70015||||||
 41.221.189.39|/loaf-android:175/|70015||||||
@@ -140,7 +142,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 70.180.125.62|/LitecoinCore:0.18.1/|70015||||||
 70.34.198.136|/LitecoinCore:0.18.1/|70015||||||
 70.91.250.149|/DigitaleuroCore:0.16.3/|70015||||||
-74.208.139.140|/BitcoinKit:0.1.0/|70015|8560|74.208.0.0/16|US|arin|2006-11-22|IONOS-AS This is the joint network for IONOS, Fasthosts, Arsys, 1&1 Mail and Media and 1&1 Telecom. Formerly known as 1&1 Internet SE., DE
+74.208.139.140|/BitcoinKit:0.1.0/|70015||||||
 75.23.224.118|/BitcoinKit:0.1.0/|70015||||||
 77.104.223.12|/BitcoinKit:0.1.0/|70015||||||
 77.75.36.104|/LitecoinCore:0.17.1/|70015||||||
@@ -151,15 +153,15 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 79.168.241.113|/B2CCoinCore:0.16.3/|70015||||||
 8.38.147.69|/WalletKit:0.1.0/|70015||||||
 80.235.74.37|/LitecoinCore:0.18.1/|70015||||||
-80.29.201.240|/WalletKit:0.1.0/|70015||||||
+80.29.201.240|/WalletKit:0.1.0/|70015|3352|80.29.0.0/16|ES|ripencc|2001-07-09|TELEFONICA_DE_ESPANA, ES
 82.113.99.252|/BitcoinKit:0.1.0/|70015||||||
-82.207.253.249|/BitcoinKit:0.1.0/|70015||||||
+82.207.253.249|/BitcoinKit:0.1.0/|70015|8881|82.207.240.0/20|DE|ripencc|2003-12-02|VERSATEL, DE
 85.174.204.241|/LitecoinCore:0.18.1/|70015||||||
 85.222.233.183|/litecoinj:0.15.2-SNAPSHOT/|70002||||||
 85.249.22.68|/LitecoinCore:0.18.1/|70015||||||
 86.106.2.173|/BitcoinKit:0.1.0/|70015||||||
 86.107.21.10|/BitcoinKit:0.1.0/|70015||||||
-86.32.40.100|/WalletKit:0.1.0/|70015||||||
+86.32.40.100|/WalletKit:0.1.0/|70015|205714|86.32.0.0/15|HR|ripencc|2005-04-15|TELE2HR Telemach Hrvatska d.o.o, HR
 88.26.40.182|/WalletKit:0.1.0/|70015||||||
 88.99.150.139|/LitecoinCore:0.16.3/|70015||||||
 88.99.68.228|/LitecoinCore:0.18.1/|70015||||||

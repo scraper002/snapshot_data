@@ -5,6 +5,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 110.52.156.94|/Satoshi:0.20.2/Peercoin:0.11.1/|70016||||||
 111.38.43.37|/Satoshi:0.20.2/Peercoin:0.11.4/|70016||||||
 111.85.64.108|/Satoshi:0.20.2/Peercoin:0.11.0/|70016||||||
+111.85.66.195|/Satoshi:0.20.2/Peercoin:0.11.0/|70016||||||
 114.125.20.187|/Satoshi:0.20.2/Peercoin:0.11.3/|70016||||||
 118.208.180.220|/Satoshi:0.20.2/Peercoin:0.11.7/|70016||||||
 12.162.195.195|/Satoshi:0.20.2/Peercoin:0.11.3/|70016||||||
@@ -19,11 +20,11 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 145.224.125.157|/Satoshi:0.20.2/Peercoin:0.11.3/|70016||||||
 151.80.22.47|/Satoshi:0.20.2/Peercoin:0.11.2/|70016||||||
 154.56.193.160|/Satoshi:0.20.2/Peercoin:0.11.0/|70016||||||
-156.146.62.148|/Satoshi:0.20.2/Peercoin:0.11.1/|70016||||||
+156.146.62.148|/Satoshi:0.20.2/Peercoin:0.11.1/|70016|212238|156.146.62.0/24|GB|ripencc|1990-02-05|CDNEXT, GB
 159.196.168.27|/Satoshi:0.20.2/Peercoin:0.11.8/|70016||||||
-159.69.37.17|/Satoshi:0.20.2/Peercoin:0.11.1/|70016||||||
-165.227.133.165|/Satoshi:0.20.2/Peercoin:0.11.1/|70016||||||
-167.71.138.50|/Satoshi:0.20.2/Peercoin:0.11.1/|70016||||||
+159.69.37.17|/Satoshi:0.20.2/Peercoin:0.11.1/|70016|24940|159.69.0.0/16|DE|ripencc|1992-03-13|HETZNER-AS, DE
+165.227.133.165|/Satoshi:0.20.2/Peercoin:0.11.1/|70016|14061|165.227.128.0/20|US|arin|2016-10-06|DIGITALOCEAN-ASN, US
+167.71.138.50|/Satoshi:0.20.2/Peercoin:0.11.1/|70016|14061|167.71.128.0/20|US|arin|2019-04-24|DIGITALOCEAN-ASN, US
 172.58.157.206|/Satoshi:0.20.2/Peercoin:0.11.0/|70016||||||
 174.28.24.134|/Satoshi:0.20.2/Peercoin:0.11.8/|70016||||||
 176.101.2.205|/Satoshi:0.20.2/Peercoin:0.11.4/|70016||||||
@@ -31,13 +32,13 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 178.64.71.23|/Satoshi:0.20.2/Peercoin:0.11.7/|70016||||||
 184.181.35.187|/Satoshi:0.20.2/Peercoin:0.11.8/|70016||||||
 185.220.101.178|/Satoshi:0.20.2/Peercoin:0.11.5/|70016||||||
-185.244.193.79|/Satoshi:0.20.2/Peercoin:0.11.8/|70016|197540|185.244.192.0/22|DE|ripencc|2018-02-02|NETCUP-AS netcup GmbH, DE
+185.244.193.79|/Satoshi:0.20.2/Peercoin:0.11.8/|70016||||||
 188.166.12.97|/Satoshi:0.20.2/Peercoin:0.11.7/|70016||||||
 193.142.146.213|/Satoshi:0.20.2/Peercoin:0.11.8/|70016||||||
 198.23.221.6|/Satoshi:0.20.2/Peercoin:0.11.0/|70016||||||
 199.102.155.227|/Satoshi:0.20.2/Peercoin:0.11.1/|70016||||||
 199.127.62.235|Satoshi:0.20.2/Peercoin:0.11.4|70016||||||
-203.91.242.55|/Satoshi:0.20.2/Peercoin:0.11.8/|70016|9443|203.91.224.0/19|AU|apnic|1998-02-13|VOCUS-RETAIL-AU Vocus Retail, AU
+203.91.242.55|/Satoshi:0.20.2/Peercoin:0.11.8/|70016||||||
 213.152.161.211|/Satoshi:0.20.2/Peercoin:0.11.8/|70016||||||
 213.159.81.229|/Satoshi:0.20.2/Peercoin:0.11.7/|70016||||||
 23.17.130.103|/Satoshi:0.20.2/Peercoin:0.11.8/|70016||||||
