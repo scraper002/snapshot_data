@@ -70,8 +70,9 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 187.190.191.172|/LitecoinCore:0.18.1/|70015||||||
 187.21.112.55|/B2CCoinCore:0.16.3/|70015||||||
 191.6.165.114|/B2CCoinCore:0.16.3/|70015||||||
+192.145.118.94|/LitecoinCore:0.18.1/|70015||||||
 194.145.247.227|/BitcoinKit:0.1.0/|70015||||||
-197.210.226.219|/BitcoinKit:0.1.0/|70015||||||
+197.210.226.219|/BitcoinKit:0.1.0/|70015|29465|197.210.226.0/24|NG|afrinic|2013-03-06|VCG-AS, NG
 197.245.223.170|/BitCoinJ:0.11-SNAPSHOT/Litecoin Wallet:3.30.10/|70002||||||
 2.140.251.131|/WalletKit:0.1.0/|70015||||||
 2.141.166.89|/BitcoinKit:0.1.0/|70015||||||
@@ -90,7 +91,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 220.196.193.144|/LitecoinCore:0.18.1/|70015||||||
 220.196.193.180|/LitecoinCore:0.18.1/|70015||||||
 24.210.255.165|/WalletKit:0.1.0/|70015||||||
-3.114.211.253|/btcwire:0.5.0/bitmarkd-payment-lightclient:0.1.0/|70013|16509|3.112.0.0/14|US|arin|2017-12-20|AMAZON-02, US
+3.114.211.253|/btcwire:0.5.0/bitmarkd-payment-lightclient:0.1.0/|70013||||||
 3.114.211.49|/btcwire:0.5.0/bitmarkd-payment-lightclient:0.1.0/|70013||||||
 3.69.98.35|/LitecoinCore:0.18.1/|70015||||||
 3.88.40.5|/Dain:0.1.0/|70003||||||
@@ -99,21 +100,21 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 31.4.203.136|/WalletKit:0.1.0/|70015||||||
 34.207.192.86|/Dain:0.1.0/|70003||||||
 34.233.95.55|/bitcore:8.25.12/|70011||||||
-34.84.217.110|/LitecoinCore:0.18.1/|70015|396982|34.84.208.0/20|US|arin|2018-09-28|GOOGLE-CLOUD-PLATFORM, US
-34.88.190.19|/LitecoinCore:0.18.1/|70015|396982|34.88.176.0/20|US|arin|2018-09-28|GOOGLE-CLOUD-PLATFORM, US
+34.84.217.110|/LitecoinCore:0.18.1/|70015||||||
+34.88.190.19|/LitecoinCore:0.18.1/|70015||||||
 35.188.88.172|/LitecoinCore:0.16.3/|70015||||||
 37.214.38.37|/LitecoinCore:0.18.1/|70015||||||
 37.29.88.74|/WalletKit:0.1.0/|70015||||||
 37.30.33.52|/BitcoinKit:0.1.0/|70015||||||
 39.103.125.195|/open-nodes:0.1/|70015||||||
-41.13.12.240|/BitcoinKit:0.1.0/|70015||||||
+41.13.12.240|/BitcoinKit:0.1.0/|70015|29975|41.13.0.0/18|ZA|afrinic|2007-11-26|VODACOM-, ZA
 41.221.189.39|/loaf-android:175/|70015||||||
-41.254.43.72|/BitcoinKit:0.1.0/|70015||||||
+41.254.43.72|/BitcoinKit:0.1.0/|70015|21003|41.254.43.0/24|LY|afrinic|2007-06-12|GPTC-AS, LY
 44.203.109.248|/btcwire:0.5.0/ltcd:0.20.1/|70013||||||
 45.126.209.106|LitecoinCore:0.18.1|75000||||||
 45.150.25.105|/LitecoinCore:0.18.1/|70015||||||
 45.180.211.162|/loaf-android:175/|70015||||||
-45.202.26.46|/BitcoinKit:0.1.0/|70015||||||
+45.202.26.46|/BitcoinKit:0.1.0/|70015|135607|45.202.26.0/24|MU|afrinic|2014-12-01|INFINIVAN-AS-AP Infinivan Incorporated, PH
 46.114.175.111|/BitcoinKit:0.1.0/|70015||||||
 46.222.34.31|/BitcoinKit:0.1.0/|70015||||||
 47.54.219.83|/BitcoinKit:0.1.0/|70015||||||
@@ -152,7 +153,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 79.153.153.205|/BitcoinKit:0.1.0/|70015||||||
 79.168.241.113|/B2CCoinCore:0.16.3/|70015||||||
 8.38.147.69|/WalletKit:0.1.0/|70015||||||
-80.235.74.37|/LitecoinCore:0.18.1/|70015||||||
+80.235.74.37|/LitecoinCore:0.18.1/|70015|3249|80.235.0.0/17|EE|ripencc|2001-10-11|ESTPAK, EE
 80.29.201.240|/WalletKit:0.1.0/|70015||||||
 82.113.99.252|/BitcoinKit:0.1.0/|70015||||||
 82.207.253.249|/BitcoinKit:0.1.0/|70015||||||
@@ -168,6 +169,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 89.187.205.177|/NBitcoin:5.0.49/|70012||||||
 89.247.164.188|/LitecoinCore:0.18.1/|70015||||||
 89.247.168.117|/BitcoinKit:0.1.0/|70015||||||
+90.188.30.190|/WalletKit:0.1.0/|70015||||||
 90.191.49.101|/WalletKit:0.1.0/|70015||||||
 90.218.127.67|/loaf:2.1/|70015||||||
 91.239.140.26|/WalletKit:0.1.0/|70015||||||

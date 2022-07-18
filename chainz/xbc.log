@@ -29,12 +29,12 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 37.120.211.118|/bitcoinplus:2.8.3/|80016|9009|37.120.211.0/24|RO|ripencc|2012-02-13|M247, GB
 37.183.141.21|/bitcoinplus:2.8.2/|80016|30722|37.176.0.0/13|IT|ripencc|2012-03-19|VODAFONE-IT-ASN, IT
 38.122.193.19|/bitcoinplus:2.8.1/|80016|174|38.0.0.0/8|US|arin|1991-04-16|COGENT-174, US
-42.241.146.92|/bitcoinplus:2.8.3/|80016|4804|42.241.128.0/17|AU|apnic|2011-03-22|MPX-AS Microplex PTY LTD, AU
+42.241.146.92|/bitcoinplus:2.8.3/|80016||||||
 45.128.36.162|/bitcoinplus:2.7.0/|80010|9009|45.128.36.0/24|RO|ripencc|2019-07-11|M247, GB
 45.141.121.244|/bitcoinplus:2.7.0/|80010|35913|45.141.120.0/23|DE|ripencc|2019-08-15|DEDIPATH-LLC, US
 46.151.159.53|/bitcoinplus:2.8.1/|80016||||||
 5.188.173.19|/bitcoinplus:2.8.1/|80016||||||
-50.220.121.211|/bitcoinplus:2.8.3/|80016|7922|50.128.0.0/9|US|arin|2010-10-21|COMCAST-7922, US
+50.220.121.211|/bitcoinplus:2.8.3/|80016||||||
 62.122.0.201|/bitcoinplus:2.8.3/|80016|48503|62.122.0.0/22|KZ|ripencc|2009-01-28|TELE2-KZ Tele2 Kazakhstan, KZ
 65.43.35.14|/bitcoinplus:2.8.1/|80016|7018|65.42.0.0/15|US|arin|2001-04-05|ATT-INTERNET4, US
 69.14.156.103|/bitcoinplus:2.7.0/|80010|12083|69.14.144.0/20|US|arin|2002-12-09|WOW-INTERNET, US
@@ -51,7 +51,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 91.219.223.152|/bitcoinplus:2.8.3/|80016|15461|91.219.220.0/22|UA|ripencc|2010-10-26|SOLVERNET-AS, UA
 92.18.141.254|/bitcoinplus:2.8.2/|80016|13285|92.18.0.0/15|GB|ripencc|2007-06-28|OPALTELECOM-AS TalkTalk Communications Limited, GB
 92.239.1.17|/bitcoinplus:2.8.3/|80016|5089|92.238.0.0/15|GB|ripencc|2007-10-31|NTL, GB
-93.146.9.105|/bitcoinplus:2.8.3/|80016|30722|93.146.0.0/16|IT|ripencc|2008-04-11|VODAFONE-IT-ASN, IT
+93.146.9.105|/bitcoinplus:2.8.3/|80016||||||
 94.130.9.100|/bitcoinplus:2.8.3/|80016|24940|94.130.0.0/16|DE|ripencc|2008-06-23|HETZNER-AS, DE
 94.211.36.79|/bitcoinplus:2.7.0/|80010|33915|94.208.0.0/14|NL|ripencc|2008-07-22|TNF-AS, NL
 95.217.78.168|/bitcoinplus:2.8.2/|80016||||||
