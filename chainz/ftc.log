@@ -4,7 +4,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 1.13.171.254|/Feathercoin:0.19.1/|70016||||||
 104.238.221.41|Feathercoin:0.19.1|70016||||||
 109.199.90.127|/Feathercoin:0.19.1/|70016||||||
-13.209.60.161|/Feathercoin:0.19.1/|70016|16509|13.209.0.0/16|US|arin|2019-10-01|AMAZON-02, US
+13.209.60.161|/Feathercoin:0.19.1/|70016||||||
 139.59.154.236|/Feathercoin:0.19.1/|70016||||||
 14.198.205.68|/FeathercoinJ:0.99/Feathercoin Wallet:3.05/|70006||||||
 143.110.159.82|/Feathercoin:0.19.1/|70016||||||
@@ -32,7 +32,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 220.240.4.81|/Feathercoin:0.19.1/|70016||||||
 23.227.150.229|/Feathercoin:0.18.2/|70016||||||
 37.24.199.18|/Feathercoin:0.19.1/|70016||||||
-45.126.209.106|Feathercoin:0.19.1|70016||||||
+45.126.209.106|Feathercoin:0.19.1|70016|23470|45.126.209.0/24|SG|apnic|2015-09-08|RELIABLESITE, US
 46.101.143.71|/Feathercoin:0.13.3/|70015||||||
 5.188.173.19|/Feathercoin:0.19.1/|70016||||||
 5.200.137.4|/Feathercoin:0.19.1/|70016||||||
@@ -46,8 +46,8 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 81.169.141.19|/Feathercoin:0.19.1/|70016||||||
 82.64.185.60|/Feathercoin:0.18.2/|70016||||||
 82.66.94.6|/Feathercoin:0.19.1/|70016||||||
-82.73.114.29|/Feathercoin:0.19.1/|70016|33915|82.72.0.0/15|NL|ripencc|2003-07-04|TNF-AS, NL
-83.233.2.125|/Feathercoin:0.19.1/|70016|29518|83.233.0.0/16|SE|ripencc|2004-02-06|BREDBAND2, SE
+82.73.114.29|/Feathercoin:0.19.1/|70016||||||
+83.233.2.125|/Feathercoin:0.19.1/|70016||||||
 86.27.68.54|/Feathercoin:0.19.1/|70016||||||
 93.146.9.105|/Feathercoin:0.19.1/|70016||||||
 93.228.78.164|/Feathercoin:0.13.1/|70015||||||
@@ -55,5 +55,5 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 95.217.78.168|/Feathercoin:0.13.0/|70015||||||
 95.79.111.243|/Feathercoin:0.19.1/|70016||||||
 96.37.112.186|/Feathercoin:0.19.1/|70016||||||
-98.202.227.110|/Feathercoin:0.18.3/|70016||||||
+98.202.227.110|/Feathercoin:0.18.3/|70016|7922|98.192.0.0/10|US|arin|2007-04-20|COMCAST-7922, US
 99.47.241.21|/Feathercoin:0.19.1/|70016||||||
