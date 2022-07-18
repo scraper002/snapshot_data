@@ -3,7 +3,7 @@
 IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 104.238.221.41|Satoshi:0.20.2/Peercoin:0.11.4|70016||||||
 110.52.156.94|/Satoshi:0.20.2/Peercoin:0.11.1/|70016||||||
-111.38.43.37|/Satoshi:0.20.2/Peercoin:0.11.4/|70016|9808|111.38.0.0/16|CN|apnic|2009-05-06|CHINAMOBILE-CN China Mobile Communications Group Co., Ltd., CN
+111.38.43.37|/Satoshi:0.20.2/Peercoin:0.11.4/|70016||||||
 111.85.64.108|/Satoshi:0.20.2/Peercoin:0.11.0/|70016||||||
 111.85.66.195|/Satoshi:0.20.2/Peercoin:0.11.0/|70016||||||
 111.85.71.104|/Satoshi:0.20.2/Peercoin:0.11.0/|70016||||||
@@ -12,7 +12,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 121.35.180.237|/Satoshi:0.20.2/Peercoin:0.11.7/|70016||||||
 121.98.52.216|/Satoshi:0.20.2/Peercoin:0.11.0/|70016||||||
 128.199.40.35|/Satoshi:0.20.2/Peercoin:0.11.7/|70016||||||
-129.222.185.62|/Satoshi:0.20.2/Peercoin:0.11.4/|70016||||||
+129.222.185.62|/Satoshi:0.20.2/Peercoin:0.11.4/|70016|14593|129.222.184.0/21|US|arin|2021-12-06|SPACEX-STARLINK, US
 135.181.98.157|/Satoshi:0.20.2/Peercoin:0.11.7/|70016||||||
 142.132.212.130|/Satoshi:0.20.2/Peercoin:0.11.8/|70016||||||
 142.147.99.49|/Satoshi:0.20.2/Peercoin:0.11.4/|70016||||||
@@ -21,7 +21,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 151.80.22.47|/Satoshi:0.20.2/Peercoin:0.11.2/|70016||||||
 154.56.193.160|/Satoshi:0.20.2/Peercoin:0.11.0/|70016||||||
 156.146.62.148|/Satoshi:0.20.2/Peercoin:0.11.1/|70016||||||
-159.196.168.27|/Satoshi:0.20.2/Peercoin:0.11.8/|70016|4764|159.196.168.0/22|AU|apnic|1992-05-26|WIDEBAND-AS-AP Aussie Broadband, AU
+159.196.168.27|/Satoshi:0.20.2/Peercoin:0.11.8/|70016||||||
 159.69.37.17|/Satoshi:0.20.2/Peercoin:0.11.1/|70016||||||
 165.227.133.165|/Satoshi:0.20.2/Peercoin:0.11.1/|70016||||||
 167.71.138.50|/Satoshi:0.20.2/Peercoin:0.11.1/|70016||||||
@@ -37,19 +37,19 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 193.142.146.213|/Satoshi:0.20.2/Peercoin:0.11.8/|70016||||||
 198.23.221.6|/Satoshi:0.20.2/Peercoin:0.11.0/|70016||||||
 199.102.155.227|/Satoshi:0.20.2/Peercoin:0.11.1/|70016||||||
-199.127.62.235|Satoshi:0.20.2/Peercoin:0.11.4|70016||||||
+199.127.62.235|Satoshi:0.20.2/Peercoin:0.11.4|70016|23470|199.127.62.0/24|US|arin|2017-05-24|RELIABLESITE, US
 203.91.242.55|/Satoshi:0.20.2/Peercoin:0.11.8/|70016||||||
 213.152.161.211|/Satoshi:0.20.2/Peercoin:0.11.8/|70016||||||
 213.159.81.229|/Satoshi:0.20.2/Peercoin:0.11.7/|70016||||||
-23.17.130.103|/Satoshi:0.20.2/Peercoin:0.11.8/|70016||||||
+23.17.130.103|/Satoshi:0.20.2/Peercoin:0.11.8/|70016|852|23.17.0.0/16|CA|arin|2011-09-29|TELUS Communications, CA
 24.114.42.3|/Satoshi:0.20.2/Peercoin:0.11.1/|70016||||||
 24.229.236.161|/Satoshi:0.20.2/Peercoin:0.11.0/|70016||||||
 24.57.240.58|/Satoshi:0.20.2/Peercoin:0.11.1/|70016||||||
 31.187.117.161|/Satoshi:0.20.2/Peercoin:0.11.0/|70016||||||
 37.167.63.104|/Satoshi:0.20.2/Peercoin:0.11.4/|70016||||||
-42.48.235.238|/Satoshi:0.20.2/Peercoin:0.11.1/|70016||||||
-45.126.209.106|Satoshi:0.20.2/Peercoin:0.11.4|70016||||||
-45.23.106.42|/Satoshi:0.20.2/Peercoin:0.11.4/|70016||||||
+42.48.235.238|/Satoshi:0.20.2/Peercoin:0.11.1/|70016|4837|42.48.0.0/15|CN|apnic|2011-02-18|CHINA169-BACKBONE CHINA UNICOM China169 Backbone, CN
+45.126.209.106|Satoshi:0.20.2/Peercoin:0.11.4|70016|23470|45.126.209.0/24|SG|apnic|2015-09-08|RELIABLESITE, US
+45.23.106.42|/Satoshi:0.20.2/Peercoin:0.11.4/|70016|7018|45.16.0.0/12|US|arin|2014-12-11|ATT-INTERNET4, US
 5.128.87.126|/Satoshi:0.20.2/Peercoin:0.11.4/|70016||||||
 50.39.169.204|/Satoshi:0.20.2/Peercoin:0.11.3/|70016||||||
 51.178.76.85|/Satoshi:0.20.2/Peercoin:0.11.8/|70016||||||
@@ -65,7 +65,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 73.142.139.2|/Satoshi:0.20.2/Peercoin:0.11.4/|70016||||||
 74.44.207.163|/Satoshi:0.20.2/Peercoin:0.11.0/|70016||||||
 77.119.114.251|/Satoshi:0.20.2/Peercoin:0.11.8/|70016||||||
-77.75.36.104|/Satoshi:0.20.2/Peercoin:0.11.1/|70016||||||
+77.75.36.104|/Satoshi:0.20.2/Peercoin:0.11.1/|70016|42926|77.75.36.0/24|TR|ripencc|2007-05-03|RADORE, TR
 78.106.24.248|/Satoshi:0.20.2/Peercoin:0.11.1/|70016||||||
 78.46.234.212|/Satoshi:0.20.2/Peercoin:0.11.2/|70016||||||
 79.135.192.31|/Satoshi:0.20.2/Peercoin:0.11.7/|70016||||||
