@@ -4,7 +4,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 1.64.50.155|/Navcoin:7.0.1/|80021||||||
 103.62.49.234|/Navcoin:7.0.0/|80021||||||
 103.62.49.236|/Navcoin:7.0.0/|80021||||||
-109.86.81.235|/Navcoin:7.0.3/|80021||||||
+109.86.81.235|/Navcoin:7.0.3/|80021|13188|109.86.81.0/24|UA|ripencc|2009-08-20|TRIOLAN, UA
 113.203.115.176|/Navcoin:7.0.1/|80021||||||
 125.228.69.196|/Navcoin:7.0.3/|80021||||||
 135.181.111.29|/Navcoin:7.0.0/|80021||||||
@@ -23,12 +23,13 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 188.104.172.90|/Navcoin:7.0.1/|80021||||||
 188.171.253.252|/Navcoin:7.0.1/|80021||||||
 199.115.192.19|/Navcoin:7.0.1/|80021||||||
-202.142.121.108|/Navcoin:7.0.1/|80021||||||
+202.142.121.108|/Navcoin:7.0.1/|80021|17747|202.142.121.0/24|IN|apnic|2000-08-02|SITINETWORS-IN-AP SITI NETWORKS LIMITED, IN
 202.90.245.232|/Navcoin:7.0.3/|80021||||||
 203.211.111.250|/Navcoin:7.0.3/|80021||||||
-212.106.64.123|/Navcoin:7.0.1/|80021||||||
-212.106.66.139|/Navcoin:7.0.1/|80021||||||
-212.106.66.166|/Navcoin:7.0.1/|80021||||||
+203.81.240.241|/Navcoin:7.0.1/|80021|17747|203.81.240.0/22|IN|apnic|2015-11-11|SITINETWORS-IN-AP SITI NETWORKS LIMITED, IN
+212.106.64.123|/Navcoin:7.0.1/|80021|12975|212.106.64.0/20|PS|ripencc|2002-05-16|PALTEL-AS PALTEL Autonomous System, PS
+212.106.66.139|/Navcoin:7.0.1/|80021|12975|212.106.64.0/20|PS|ripencc|2002-05-16|PALTEL-AS PALTEL Autonomous System, PS
+212.106.66.166|/Navcoin:7.0.1/|80021|12975|212.106.64.0/20|PS|ripencc|2002-05-16|PALTEL-AS PALTEL Autonomous System, PS
 213.233.216.158|/Navcoin:7.0.3/|80021||||||
 216.165.247.20|/Navcoin:7.0.3/|80021||||||
 23.97.222.172|/Navcoin:7.0.1/|80021||||||
@@ -38,12 +39,12 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 31.14.80.34|/Navcoin:7.0.1/|80021||||||
 31.14.81.10|/Navcoin:7.0.1/|80021||||||
 31.14.81.15|/Navcoin:7.0.1/|80021||||||
-31.14.81.28|/Navcoin:7.0.1/|80021||||||
 31.14.86.12|/Navcoin:7.0.1/|80021||||||
 31.14.93.22|/Navcoin:7.0.1/|80021||||||
 36.227.142.185|/Navcoin:7.0.3/|80021||||||
-36.227.145.240|/Navcoin:7.0.3/|80021||||||
+36.227.145.240|/Navcoin:7.0.3/|80021|3462|36.227.0.0/16|TW|apnic|2011-01-20|HINET Data Communication Business Group, TW
 45.138.143.96|/Navcoin:7.0.1/|80021||||||
+45.249.86.114|/Navcoin:7.0.1/|80021||||||
 5.172.234.183|/Navcoin:7.0.3/|80021||||||
 51.77.196.201|/Navcoin:7.0.1/|80021||||||
 62.171.145.238|/Navcoin:7.0.0/|80021||||||
@@ -59,7 +60,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 77.250.3.193|/Navcoin:7.0.1/|80021||||||
 78.47.183.52|/Navcoin:7.0.2/|80021||||||
 83.11.4.197|/Navcoin:7.0.1/|80021||||||
-83.135.243.76|/Navcoin:7.0.1/|80021||||||
 84.17.58.153|/Navcoin:7.0.1/|80021||||||
 85.14.123.2|/Navcoin:7.0.1/|80021||||||
 85.166.88.146|/Navcoin:7.0.1/|80021||||||
@@ -68,7 +68,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 89.187.164.242|/Navcoin:7.0.1/|80021||||||
 89.64.79.2|/Navcoin:7.0.1/|80021||||||
 91.205.41.233|/Navcoin:7.0.0/|80021||||||
-91.246.66.175|/Navcoin:7.0.1/|80021|42673|91.246.64.0/21|PL|ripencc|2012-08-27|SKYWARE-AS, PL
+91.246.66.175|/Navcoin:7.0.1/|80021||||||
 94.134.90.241|/Navcoin:7.0.1/|80021||||||
 94.211.75.7|/Navcoin:7.0.2/|80021||||||
 94.214.237.213|/Navcoin:7.0.1/|80021||||||
