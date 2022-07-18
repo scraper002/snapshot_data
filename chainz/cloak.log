@@ -1,16 +1,16 @@
 # https://chainz.cryptoid.info/ and whois results
 # CloakCoin
 IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
-100.1.17.76|/KlausFuchs:2.2.2.2/|60018|701|100.1.0.0/16|US|arin|2010-12-28|UUNET, US
-104.254.42.216|/KlausFuchs:2.2.2.2/|60018|53848|104.254.40.0/22|US|arin|2014-12-24|MRTC-WLBTKY, US
-107.207.166.81|/KlausFuchs:2.2.2.2/|60018|7018|107.192.0.0/12|US|arin|2012-04-25|ATT-INTERNET4, US
+100.1.17.76|/KlausFuchs:2.2.2.2/|60018||||||
+104.254.42.216|/KlausFuchs:2.2.2.2/|60018||||||
+107.207.166.81|/KlausFuchs:2.2.2.2/|60018||||||
 109.128.160.243|/KlausFuchs:2.2.2.1/|60018||||||
-116.203.113.137|/KlausFuchs:2.2.2.2/|60018|24940|116.203.0.0/16|DE|ripencc|2011-01-17|HETZNER-AS, DE
-120.18.196.178|/KlausFuchs:2.2.2.2/|60018|133612|120.18.192.0/18|AU|apnic|2008-03-07|VODAFONE-AS-AP Vodafone Australia Pty Ltd, AU
-124.148.131.12|/KlausFuchs:2.2.2.2/|60018|7545|124.148.128.0/22|AU|apnic|2006-03-02|TPG-INTERNET-AP TPG Telecom Limited, AU
+116.203.113.137|/KlausFuchs:2.2.2.2/|60018||||||
+120.18.196.178|/KlausFuchs:2.2.2.2/|60018||||||
+124.148.131.12|/KlausFuchs:2.2.2.2/|60018||||||
 13.229.99.77|/SidneyReilly:0.7.8/|60018||||||
-136.144.19.246|/KlausFuchs:2.2.2.2/|60018|206092|136.144.19.0/24|NL|ripencc|1989-08-28|SECFIREWALLAS, GB
-138.199.63.11|/KlausFuchs:2.2.2.2/|60018|212238|138.199.63.0/24|GB|ripencc|1990-05-23|CDNEXT, GB
+136.144.19.246|/KlausFuchs:2.2.2.2/|60018||||||
+138.199.63.11|/KlausFuchs:2.2.2.2/|60018||||||
 143.176.213.159|/KlausFuchs:2.2.2.2/|60018||||||
 159.48.55.220|/KlausFuchs:2.2.2.2/|60018||||||
 166.48.214.236|/KlausFuchs:2.2.2.2/|60018||||||
@@ -33,7 +33,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 213.220.159.109|/KlausFuchs:2.2.2.2/|60018||||||
 216.220.250.110|/KlausFuchs:2.2.2.2/|60018||||||
 23.105.177.136|/KlausFuchs:2.2.2.2/|60018||||||
-23.227.150.229|/KlausFuchs:2.2.2.1/|60018||||||
+23.227.150.229|/KlausFuchs:2.2.2.1/|60018|55081|23.227.128.0/19|US|arin|2013-09-23|24SHELLS, US
 24.21.226.121|/KlausFuchs:2.2.2.2/|60018||||||
 45.132.109.146|/KlausFuchs:2.2.2.2/|60018||||||
 45.132.225.44|/KlausFuchs:2.2.2.2/|60018||||||
@@ -51,11 +51,12 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 62.195.213.58|/KlausFuchs:2.2.2.2/|60018||||||
 62.216.201.110|/KlausFuchs:2.2.2.2/|60018||||||
 65.74.81.205|/KlausFuchs:2.2.2.2/|60018||||||
+66.252.37.226|/KlausFuchs:2.2.2.2/|60018||||||
 66.252.38.14|/KlausFuchs:2.2.2.2/|60018||||||
 66.252.49.135|/KlausFuchs:2.2.2.2/|60018||||||
 66.252.58.146|/KlausFuchs:2.2.2.2/|60018||||||
 68.238.245.2|/KlausFuchs:2.2.2.2/|60018||||||
-69.11.2.187|/KlausFuchs:2.2.2.2/|60018|803|69.11.0.0/17|CA|arin|2003-05-13|SASKTEL, CA
+69.11.2.187|/KlausFuchs:2.2.2.2/|60018||||||
 70.114.134.82|/KlausFuchs:2.2.2.2/|60018|11427|70.112.0.0/14|US|arin|2004-09-17|TWC-11427-TEXAS, US
 71.167.184.207|/KlausFuchs:2.2.2.2/|60018|701|71.167.128.0/17|US|arin|2005-06-01|UUNET, US
 71.89.27.111|/KlausFuchs:2.2.2.2/|60018|20115|71.89.16.0/20|US|arin|2005-05-19|CHARTER-20115, US
@@ -64,8 +65,8 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 73.120.80.100|/KlausFuchs:2.2.2.1/|60018||||||
 73.250.109.9|/KlausFuchs:2.2.2.2/|60018|7922|73.0.0.0/8|US|arin|2005-04-19|COMCAST-7922, US
 75.133.121.122|/SidneyReilly:0.7.8/|60018||||||
-76.22.91.115|/KlausFuchs:2.2.2.2/|60018||||||
-79.143.186.122|/KlausFuchs:2.2.2.2/|60018||||||
+76.22.91.115|/KlausFuchs:2.2.2.2/|60018|7922|76.16.0.0/12|US|arin|2006-06-28|COMCAST-7922, US
+79.143.186.122|/KlausFuchs:2.2.2.2/|60018|51167|79.143.186.0/23|DE|ripencc|2010-01-08|CONTABO, DE
 79.248.123.133|/KlausFuchs:2.2.2.2/|60018||||||
 79.59.255.93|/KlausFuchs:2.2.2.2/|60018||||||
 82.37.0.148|/KlausFuchs:2.2.2.2/|60018||||||
@@ -74,13 +75,13 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 83.128.101.141|/KlausFuchs:2.2.2.2/|60018||||||
 83.23.195.202|/KlausFuchs:2.2.2.2/|60018||||||
 85.11.189.84|/KlausFuchs:2.2.2.2/|60018||||||
-85.19.25.38|/KlausFuchs:2.2.2.2/|60018|25400|85.19.0.0/16|NO|ripencc|2005-03-16|TELIA-NORWAY-AS Telia Norway Core Networks, NO
+85.19.25.38|/KlausFuchs:2.2.2.2/|60018||||||
 85.222.190.145|/KlausFuchs:2.2.2.2/|60018||||||
 86.27.167.138|/KlausFuchs:2.2.2.2/|60018||||||
 86.48.9.168|/KlausFuchs:2.2.2.2/|60018||||||
 87.214.109.40|/KlausFuchs:2.2.2.2/|60018||||||
 90.200.60.243|/KlausFuchs:2.2.2.2/|60018||||||
-95.217.78.169|/KlausFuchs:2.2.2.2/|60018|24940|95.217.0.0/16|DE|ripencc|2009-02-24|HETZNER-AS, DE
+95.217.78.169|/KlausFuchs:2.2.2.2/|60018||||||
 95.88.181.16|/KlausFuchs:2.2.2.2/|60018||||||
 95.91.208.244|/KlausFuchs:2.2.2.2/|60018||||||
 95.91.254.39|/KlausFuchs:2.2.2.2/|60018||||||
