@@ -4,7 +4,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 1.64.50.155|/Navcoin:7.0.1/|80021||||||
 103.62.49.234|/Navcoin:7.0.0/|80021||||||
 103.62.49.236|/Navcoin:7.0.0/|80021||||||
-109.86.81.235|/Navcoin:7.0.3/|80021||||||
+109.86.81.235|/Navcoin:7.0.3/|80021|13188|109.86.81.0/24|UA|ripencc|2009-08-20|TRIOLAN, UA
 113.203.115.176|/Navcoin:7.0.1/|80021||||||
 125.228.69.196|/Navcoin:7.0.3/|80021||||||
 135.181.111.29|/Navcoin:7.0.0/|80021||||||
@@ -27,8 +27,8 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 202.90.245.232|/Navcoin:7.0.3/|80021||||||
 203.211.111.250|/Navcoin:7.0.3/|80021||||||
 203.81.240.241|/Navcoin:7.0.1/|80021||||||
-212.106.64.123|/Navcoin:7.0.1/|80021||||||
-212.106.66.139|/Navcoin:7.0.1/|80021||||||
+212.106.64.123|/Navcoin:7.0.1/|80021|12975|212.106.64.0/20|PS|ripencc|2002-05-16|PALTEL-AS PALTEL Autonomous System, PS
+212.106.66.139|/Navcoin:7.0.1/|80021|12975|212.106.64.0/20|PS|ripencc|2002-05-16|PALTEL-AS PALTEL Autonomous System, PS
 212.106.66.166|/Navcoin:7.0.1/|80021||||||
 213.233.216.158|/Navcoin:7.0.3/|80021||||||
 216.165.247.20|/Navcoin:7.0.3/|80021||||||
@@ -43,8 +43,8 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 31.14.93.22|/Navcoin:7.0.1/|80021||||||
 36.227.142.185|/Navcoin:7.0.3/|80021||||||
 36.227.145.240|/Navcoin:7.0.3/|80021||||||
-45.138.143.96|/Navcoin:7.0.1/|80021||||||
-45.249.86.114|/Navcoin:7.0.1/|80021||||||
+45.138.143.96|/Navcoin:7.0.1/|80021|205199|45.138.140.0/22|SE|ripencc|2019-08-07|BITCOM, SE
+45.249.86.114|/Navcoin:7.0.1/|80021|17747|45.249.84.0/22|IN|apnic|2016-05-10|SITINETWORS-IN-AP SITI NETWORKS LIMITED, IN
 5.172.234.183|/Navcoin:7.0.3/|80021||||||
 51.77.196.201|/Navcoin:7.0.1/|80021||||||
 62.171.145.238|/Navcoin:7.0.0/|80021||||||
