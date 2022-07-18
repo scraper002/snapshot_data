@@ -17,7 +17,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 135.181.24.90|/ColossusXT Core:1.2.4/|70911||||||
 139.155.231.239|/ColossusXT Core:1.2.4/|70911||||||
 139.155.31.254|/ColossusXT Core:1.2.4/|70911||||||
-139.155.82.239|/ColossusXT Core:1.2.4/|70911||||||
+139.155.82.239|/ColossusXT Core:1.2.4/|70911|45090|139.155.80.0/20|CN|apnic|2011-03-09|TENCENT-NET-AP Shenzhen Tencent Computer Systems Company Limited, CN
 140.143.7.68|/ColossusXT Core:1.2.4/|70911||||||
 142.93.41.101|/ColossusXT Core:1.2.4/|70911||||||
 154.6.81.135|/ColossusXT Core:1.2.4/|70911||||||
@@ -48,9 +48,9 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 45.77.208.164|/ColossusXT Core:1.2.4/|70911||||||
 47.209.26.54|/ColossusXT Core:1.2.4/|70911||||||
 49.12.66.98|/ColossusXT Core:1.2.4/|70911||||||
-51.79.55.209|/ColossusXT Core:1.2.4/|70911|16276|51.79.0.0/17|CA|arin|2019-01-10|OVH, FR
+51.79.55.209|/ColossusXT Core:1.2.4/|70911||||||
 65.108.129.116|/ColossusXT Core:1.2.4/|70911||||||
-65.21.203.156|/ColossusXT Core:1.2.4/|70911|24940|65.21.0.0/16|DE|ripencc|2001-09-26|HETZNER-AS, DE
+65.21.203.156|/ColossusXT Core:1.2.4/|70911||||||
 70.228.83.209|/ColossusXT Core:1.2.4/|70911||||||
 70.31.26.241|/ColossusXT Core:1.2.4/|70911||||||
 75.172.80.117|/ColossusXT Core:1.2.4/|70911||||||
@@ -60,7 +60,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 78.47.83.59|/ColossusXT Core:1.2.4/|70911||||||
 80.241.217.68|/ColossusXT Core:1.2.3/|70911||||||
 81.169.221.142|/ColossusXT Core:1.2.4/|70911||||||
-81.25.164.224|/ColossusXT Core:1.2.4/|70911||||||
 82.207.240.200|/ColossusXT Core:1.2.4/|70911||||||
 82.207.240.205|/ColossusXT Core:1.2.4/|70911||||||
 83.81.104.120|/ColossusXT Core:1.2.4/|70911||||||
