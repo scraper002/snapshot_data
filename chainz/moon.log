@@ -17,7 +17,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 172.102.174.50|/MooncoinCore:0.17.1/|70017||||||
 176.114.249.250|/MooncoinCore:0.17.1/|70017||||||
 178.18.247.153|/MooncoinCore:0.17.1/|70017||||||
-185.82.203.241|/MooncoinCore:0.17.1/|70017|60117|185.82.203.0/24|AE|ripencc|2014-12-31|HS, AE
+185.82.203.241|/MooncoinCore:0.17.1/|70017||||||
 218.230.173.233|/Mooncoin:0.13.9/|70016||||||
 221.207.191.255|/MooncoinCore:0.17.1/|70017||||||
 223.72.54.87|/MooncoinCore:0.17.1/|70017||||||
@@ -30,13 +30,13 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 50.220.121.211|/MooncoinCore:0.17.1/|70017||||||
 51.38.57.53|/MooncoinCore:0.17.1/|70017||||||
 64.20.63.133|/MooncoinCore:0.17.1/|70017||||||
-66.70.182.1|/Mooncoin:0.13.9/|70016|16276|66.70.128.0/17|CA|arin|2017-02-13|OVH, FR
+66.70.182.1|/Mooncoin:0.13.9/|70016||||||
 67.172.235.0|/MooncoinCore:0.17.1/|70017||||||
 67.186.94.120|/MooncoinCore:0.17.1/|70017||||||
 69.136.97.147|/MooncoinCore:0.17.1/|70017||||||
 70.167.85.162|/MooncoinCore:0.17.1/|70017||||||
 71.193.58.125|/MooncoinCore:0.17.1/|70017||||||
-74.194.156.4|/MooncoinCore:0.17.1/|70017|19108|74.194.128.0/19|US|arin|2006-09-27|SUDDENLINK-COMMUNICATIONS, US
+74.194.156.4|/MooncoinCore:0.17.1/|70017||||||
 77.181.134.67|/MooncoinCore:0.17.1/|70017||||||
 78.54.169.116|/MooncoinCore:0.17.1/|70017||||||
 82.29.154.199|/MooncoinCore:0.17.1/|70017||||||
@@ -44,8 +44,8 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 84.234.52.190|/MooncoinCore:0.17.1/|70017||||||
 85.15.179.171|/Mooncoin:0.13.9/|70016||||||
 88.99.68.228|/Mooncoin:0.13.9/|70016||||||
-89.12.105.44|/MooncoinCore:0.17.1/|70017||||||
 89.144.221.43|/MooncoinCore:0.17.1/|70017||||||
+90.222.52.198|/MooncoinCore:0.17.1/|70017||||||
 91.127.24.125|/MooncoinCore:0.17.1/|70017||||||
 91.200.41.32|/MooncoinCore:0.17.1/|70017||||||
 91.206.16.214|/Mooncoin:0.13.9/|70016||||||
