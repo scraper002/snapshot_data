@@ -54,7 +54,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 5.172.236.201|/Navcoin:7.0.3/|80021|8374|5.172.224.0/19|PL|ripencc|2012-08-01|PLUSNET Plus network operator in Poland, PL
 5.172.237.162|/Navcoin:7.0.3/|80021|8374|5.172.224.0/19|PL|ripencc|2012-08-01|PLUSNET Plus network operator in Poland, PL
 62.171.145.238|/Navcoin:7.0.0/|80021|51167|62.171.144.0/23|DE|ripencc|2000-08-18|CONTABO, DE
-62.45.82.26|/Navcoin:7.0.3/|80021|15435|62.45.0.0/16|NL|ripencc|2000-06-09|KABELFOON DELTA Fiber Nederland, NL
+62.45.82.26|/Navcoin:7.0.2/|80021|15435|62.45.0.0/16|NL|ripencc|2000-06-09|KABELFOON DELTA Fiber Nederland, NL
 65.21.105.218|/Navcoin:7.0.0/|80021|24940|65.21.0.0/16|DE|ripencc|2001-09-26|HETZNER-AS, DE
 65.21.158.153|/Navcoin:7.0.2/|80021|24940|65.21.0.0/16|DE|ripencc|2001-09-26|HETZNER-AS, DE
 65.21.245.150|/Navcoin:7.0.1/|80021|24940|65.21.0.0/16|DE|ripencc|2001-09-26|HETZNER-AS, DE
@@ -81,6 +81,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 89.64.79.181|/Navcoin:7.0.1/|80021|6830|89.64.0.0/13|PL|ripencc|2006-02-22|LIBERTYGLOBAL Liberty Global formerly UPC Broadband Holding, aka AORTA, NL
 91.205.41.233|/Navcoin:7.0.0/|80021|207582|91.205.41.0/24|TR|ripencc|2020-01-10|BUULDY, TR
 91.246.66.175|/Navcoin:7.0.1/|80021|42673|91.246.64.0/21|PL|ripencc|2012-08-27|SKYWARE-AS, PL
+92.2.81.70|/Navcoin:7.0.1/|80021|13285|92.2.0.0/15|GB|ripencc|2007-06-28|OPALTELECOM-AS TalkTalk Communications Limited, GB
 94.211.75.7|/Navcoin:7.0.2/|80021|33915|94.208.0.0/14|NL|ripencc|2008-07-22|TNF-AS, NL
 94.237.85.140|/Navcoin:7.0.1/|80021|202053|94.237.80.0/20|FI|ripencc|2008-10-22|UPCLOUD, FI
 95.216.212.37|/Navcoin:7.0.3/|80021|24940|95.216.0.0/16|DE|ripencc|2009-02-24|HETZNER-AS, DE
