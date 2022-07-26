@@ -68,6 +68,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 172.58.156.241|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000|21928|172.58.152.0/21|US|arin|2012-09-18|T-MOBILE-AS21928, US
 175.158.49.142|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000|135478|175.158.48.0/23|ID|apnic|2010-01-19|ASN-CBNBROADBAND PT. Cyberindo Aditama, ID
 176.59.37.30|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000|12958|176.59.36.0/22|RU|ripencc|2011-06-06|MCC Tele2 Russia Network, RU
+179.67.20.196|/GoldcoinCore:0.14.8/|70015|7738|179.67.0.0/18|BR|lacnic|2013-08-27|Telemar Norte Leste S.A., BR
 180.177.108.41|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000|9924|180.177.0.0/16|TW|apnic|2009-09-03|TFN-TW Taiwan Fixed Network, Telco and Network Service Provider., TW
 180.244.131.59|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000|7713|180.244.128.0/20|ID|apnic|2009-10-20|TELKOMNET-AS-AP PT Telekomunikasi Indonesia, ID
 180.244.162.86|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000|7713|180.244.160.0/20|ID|apnic|2009-10-20|TELKOMNET-AS-AP PT Telekomunikasi Indonesia, ID
@@ -103,10 +104,8 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 185.52.0.211|/GoldcoinCore:0.14.8/|70015|198203|185.52.0.0/22|US|ripencc|2014-03-27|ASN-ROUTELABEL, NL
 188.34.161.186|/GoldcoinCore:0.14.8/|70015|24940|188.34.128.0/17|DE|ripencc|2009-03-19|HETZNER-AS, DE
 190.14.1.59|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000|9009|190.14.1.0/24|BZ|lacnic|2006-02-03|M247, GB
-191.100.217.158|/GoldcoinCore:0.14.8/|70015|27668|191.100.216.0/21|EC|lacnic|2014-02-03|ETAPA EP, EC
 192.222.139.154|/GoldcoinCore:0.14.8/|70015|1403|192.222.128.0/19|CA|arin|2012-12-20|EBOX, CA
 202.58.201.76|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000|45701|202.58.201.0/24|ID|apnic|2000-08-24|MILLENINDO-AS-ID Internet Madju Abad Millenindo, PT, ID
-203.78.114.49|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000|24203|203.78.114.0/24|ID|apnic|2005-12-09|NAPXLNET-AS-ID PT XL Axiata, ID
 203.78.117.15|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000|24203|203.78.117.0/24|ID|apnic|2005-12-09|NAPXLNET-AS-ID PT XL Axiata, ID
 213.202.253.14|/GoldcoinCore:0.14.7/|70015|24961|213.202.192.0/18|DE|ripencc|2002-10-21|MYLOC-AS IP Backbone of myLoc managed IT AG, DE
 216.137.116.136|/GoldcoinCore:0.14.8/|70015|19515|216.137.96.0/19|CA|arin|2004-02-02|ORICOM-QUEBEC1, CA
