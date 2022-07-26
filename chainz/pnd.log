@@ -8,6 +8,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 116.203.114.73|/Satoshi:0.20.2/Pandacoin:4.11.8/|70016|24940|116.203.0.0/16|DE|ripencc|2011-01-17|HETZNER-AS, DE
 118.172.27.134|/Satoshi:0.20.2/Pandacoin:4.11.7/|70016|23969|118.172.24.0/21|TH|apnic|2007-10-08|TOT-NET TOT Public Company Limited, TH
 139.177.204.161|/Satoshi:0.20.2/Pandacoin:4.11.7/|70016|63949|139.177.200.0/21|US|arin|2021-03-24|LINODE-AP Linode, LLC, US
+14.207.18.161|/Satoshi:0.16.3/Pandacoin:4.9.0/|70015|45758|14.207.0.0/16|TH|apnic|2010-09-20|TTBP-AS-AP Triple T Broadband Public Company Limited, TH
 141.126.231.84|/Satoshi:0.20.2/Pandacoin:4.10.5/|70015|20115|141.126.192.0/18|US|arin|2017-01-31|CHARTER-20115, US
 167.86.118.253|/Satoshi:0.16.3/Pandacoin:4.9.0/|70015|51167|167.86.118.0/23|DE|ripencc|1993-05-14|CONTABO, DE
 172.104.100.25|/Satoshi:0.20.2/Pandacoin:4.11.7/|70016|63949|172.104.96.0/19|US|arin|2015-06-19|LINODE-AP Linode, LLC, US
@@ -32,8 +33,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 223.24.164.7|/Satoshi:0.20.2/Pandacoin:4.11.8/|70016|132061|223.24.164.0/24|TH|apnic|2010-08-10|REALMOVE-AS-AP Realmove Company Limited, TH
 223.24.185.153|/Satoshi:0.20.2/Pandacoin:4.11.8/|70016|132061|223.24.185.0/24|TH|apnic|2010-08-10|REALMOVE-AS-AP Realmove Company Limited, TH
 24.118.50.219|/Satoshi:0.20.2/Pandacoin:4.11.7/|70016|7922|24.118.0.0/16|US|arin|2001-09-17|COMCAST-7922, US
-27.55.86.106|/Satoshi:0.20.2/Pandacoin:4.11.8/|70016||||||
-37.120.147.250|/Satoshi:0.20.2/Pandacoin:4.11.7/|70016|9009|37.120.147.0/24|RO|ripencc|2012-02-13|M247, GB
+27.55.86.106|/Satoshi:0.20.2/Pandacoin:4.11.8/|70016|132061|27.55.86.0/24|TH|apnic|2010-03-19|REALMOVE-AS-AP Realmove Company Limited, TH
 43.249.130.121|/Satoshi:0.20.2/Pandacoin:4.11.7/|70016|22363|43.249.128.0/22|AU|apnic|2014-10-09|PHMGMT-AS1, US
 45.226.117.116|/Satoshi:0.20.2/Pandacoin:4.11.8/|70016|28210|45.226.116.0/22|BR|lacnic|2017-11-07|SUMICITY TELECOMUNICACOES S.A., BR
 45.79.193.237|/Satoshi:0.20.2/Pandacoin:4.11.7/|70016|63949|45.79.192.0/19|US|arin|2015-04-29|LINODE-AP Linode, LLC, US
@@ -45,7 +45,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 71.205.83.216|/Satoshi:0.16.3/Pandacoin:4.9.0/|70015|7922|71.192.0.0/12|US|arin|2005-07-27|COMCAST-7922, US
 71.207.17.250|/Satoshi:0.20.2/Pandacoin:4.10.5/|70015|7922|71.192.0.0/12|US|arin|2005-07-27|COMCAST-7922, US
 71.81.180.241|/Satoshi:0.20.2/Pandacoin:4.11.7/|70016|20115|71.81.176.0/21|US|arin|2005-05-19|CHARTER-20115, US
-73.100.137.137|/Satoshi:0.20.2/Pandacoin:4.11.7/|70016|7922|73.0.0.0/8|US|arin|2005-04-19|COMCAST-7922, US
+73.100.137.137|/Satoshi:0.20.2/Pandacoin:4.11.8/|70016|7922|73.0.0.0/8|US|arin|2005-04-19|COMCAST-7922, US
 79.138.52.171|/Satoshi:0.16.3/Pandacoin:4.9.1/|70015|45011|79.138.0.0/17|SE|ripencc|2007-10-19|SE-A3 www.a3.se, SE
 79.230.157.18|/Satoshi:0.20.2/Pandacoin:4.11.7/|70016|3320|79.192.0.0/10|DE|ripencc|2007-06-06|DTAG Internet service provider operations, DE
 80.220.246.228|/Satoshi:0.20.2/Pandacoin:4.11.7/|70016|1759|80.220.0.0/14|FI|ripencc|2002-03-27|TSF-IP-CORE Telia Finland Oyj, FI
