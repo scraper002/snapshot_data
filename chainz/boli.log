@@ -49,8 +49,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 190.73.210.170|/BolivarCore:2.0.0.2/|70211|8048|190.73.192.0/19|VE|lacnic|2006-11-10|CANTV Servicios, Venezuela, VE
 190.75.13.35|/BolivarCore:2.0.0.2/|70212|8048|190.75.0.0/19|VE|lacnic|2006-11-10|CANTV Servicios, Venezuela, VE
 190.75.13.35|/BolivarCore:2.0.0.2/|70211|8048|190.75.0.0/19|VE|lacnic|2006-11-10|CANTV Servicios, Venezuela, VE
-190.78.224.7|/BolivarCore:2.0.0.2/|70212|8048|190.78.224.0/19|VE|lacnic|2007-06-13|CANTV Servicios, Venezuela, VE
-190.78.224.7|/BolivarCore:2.0.0.2/|70211|8048|190.78.224.0/19|VE|lacnic|2007-06-13|CANTV Servicios, Venezuela, VE
 190.97.239.70|/BolivarCore:2.0.0.2/|70212|269827|190.97.239.0/24|VE|lacnic|2012-03-16|VIGINET C.A, VE
 190.97.239.70|/BolivarCore:2.0.0.2/|70211|269827|190.97.239.0/24|VE|lacnic|2012-03-16|VIGINET C.A, VE
 194.34.232.192|/BolivarCore:2.0.0.2/|70212|51167|194.34.232.0/24|DE|ripencc|2018-10-29|CONTABO, DE
@@ -101,6 +99,8 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 66.70.182.1|/BolivarCore:2.0.0.2/|70211|16276|66.70.128.0/17|CA|arin|2017-02-13|OVH, FR
 66.94.99.185|/BolivarCore:2.0.0.2/|70212|40021|66.94.96.0/21|US|arin|2021-07-28|CONTABO, US
 66.94.99.185|/BolivarCore:2.0.0.2/|70211|40021|66.94.96.0/21|US|arin|2021-07-28|CONTABO, US
+84.191.218.197|/BolivarCore:2.0.0.2/|70212|3320|84.128.0.0/10|DE|ripencc|2004-03-10|DTAG Internet service provider operations, DE
+84.191.218.197|/BolivarCore:2.0.0.2/|70211|3320|84.128.0.0/10|DE|ripencc|2004-03-10|DTAG Internet service provider operations, DE
 85.15.179.171|/BolivarCore:2.0.0.2/|70212|12389|85.15.128.0/18|RU|ripencc|2005-04-26|ROSTELECOM-AS, RU
 85.15.179.171|/BolivarCore:2.0.0.2/|70211|12389|85.15.128.0/18|RU|ripencc|2005-04-26|ROSTELECOM-AS, RU
 85.217.171.46|???|0|44901|85.217.171.0/24|CY|ripencc|2005-01-18|BELCLOUD, BG
