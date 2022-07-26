@@ -64,7 +64,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 47.92.87.183|/Satoshi:0.20.2/Peercoin:0.11.1/|70016|37963|47.92.0.0/15|CN|apnic|1989-01-06|ALIBABA-CN-NET Hangzhou Alibaba Advertising Co.,Ltd., CN
 5.128.87.126|/Satoshi:0.20.2/Peercoin:0.11.4/|70016|31200|5.128.0.0/16|RU|ripencc|2012-06-29|NTK IPv6 customers, RU
 5.181.233.110|/Satoshi:0.20.2/Peercoin:0.11.1/|70016|9009|5.181.233.0/24|RO|ripencc|2019-04-04|M247, GB
-50.99.20.71|/Satoshi:0.20.2/Peercoin:0.11.4/|70016|852|50.99.0.0/16|CA|arin|2011-03-31|TELUS Communications, CA
 51.210.208.202|/Satoshi:0.20.2/Peercoin:0.11.8/|70016|16276|51.210.0.0/16|FR|ripencc|1993-09-01|OVH, FR
 51.241.235.51|/Satoshi:0.20.2/Peercoin:0.11.0/|70016|5607|51.241.0.0/16|GB|ripencc|1993-09-01|BSKYB-BROADBAND-AS, GB
 51.91.70.29|/Satoshi:0.20.2/Peercoin:0.11.8/|70016|16276|51.91.0.0/16|FR|ripencc|1993-09-01|OVH, FR
@@ -85,6 +84,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 79.137.67.138|/Satoshi:0.20.2/Peercoin:0.11.8/|70016|16276|79.137.0.0/17|FR|ripencc|2007-10-18|OVH, FR
 79.163.143.191|/Satoshi:0.20.2/Peercoin:0.11.8/|70016|5617|79.163.128.0/17|PL|ripencc|2007-07-03|TPNET, PL
 79.236.143.8|/Satoshi:0.20.2/Peercoin:0.11.4/|70016|3320|79.192.0.0/10|DE|ripencc|2007-06-06|DTAG Internet service provider operations, DE
+80.131.228.220|/Satoshi:0.20.2/Peercoin:0.11.4/|70016|3320|80.128.0.0/12|DE|ripencc|2001-08-06|DTAG Internet service provider operations, DE
 80.135.54.183|/Satoshi:0.20.2/Peercoin:0.11.0/|70016|3320|80.128.0.0/12|DE|ripencc|2001-08-06|DTAG Internet service provider operations, DE
 83.4.138.250|/Satoshi:0.20.2/Peercoin:0.11.0/|70016|5617|83.0.0.0/13|PL|ripencc|2003-12-03|TPNET, PL
 84.70.243.230|/Satoshi:0.20.2/Peercoin:0.11.4/|70016|5378|84.64.0.0/13|GB|ripencc|2004-03-15|Vodafone, GB
