@@ -6,6 +6,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 121.36.61.114|/eMark:1.6.1.1/|60012|55990|121.36.0.0/17|CN|apnic|2006-05-23|HWCSNET Huawei Cloud Service data center, CN
 122.59.8.177|/eMark:1.5.0/|60011|4771|122.59.8.0/21|NZ|apnic|2008-09-16|SPARKNZ Spark New Zealand Trading Ltd., NZ
 138.246.3.188|/eMark:1.6.1.2/|60012|12816|138.246.0.0/16|DE|ripencc|1990-06-12|MWN-AS, DE
+143.244.42.80|/eMark:1.5.1/|60011|60068|143.244.42.0/24|GB|ripencc|1990-10-26|CDN77 ^_^, GB
 144.91.120.189|/eMark:1.6.1.2/|60012|51167|144.91.120.0/23|DE|ripencc|1990-11-20|CONTABO, DE
 147.135.97.55|/eMark:1.6.1/|60012|16276|147.135.0.0/17|US|arin|2017-03-22|OVH, FR
 164.52.157.50|/eMark:1.6.1.2/|60012|7226|164.52.144.0/20|US|arin|2016-09-29|DATABANK-LATISYS, US
@@ -15,7 +16,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 178.254.43.126|/eMark:1.6.1.2/|60012|42730|178.254.32.0/20|DE|ripencc|2010-06-18|EVANZOAS, DE
 178.37.120.96|/eMark:1.6.1.2/|60012|12741|178.36.0.0/15|PL|ripencc|2010-01-28|AS-NETIA Warszawa 02-822, PL
 185.205.246.221|/eMark:1.6.1.2/|60012|51167|185.205.246.0/24|DE|ripencc|2017-05-30|CONTABO, DE
-188.18.190.174|/eMark:1.6.1.2/|60012|12389|188.18.128.0/18|RU|ripencc|2009-02-03|ROSTELECOM-AS, RU
 188.23.153.155|/eMark Android:1.0.0/|60011|8447|188.20.0.0/14|AT|ripencc|2009-02-03|A1TELEKOM-AT A1 Telekom Austria AG, AT
 188.36.87.14|/eMark:1.5.1/|60011|5483|188.36.0.0/16|HU|ripencc|2009-03-27|MAGYAR-TELEKOM-MAIN-AS Magyar Telekom Nyrt., HU
 195.90.208.175|/eMark:1.6.1.2/|60012|42730|195.90.192.0/18|DE|ripencc|1997-04-22|EVANZOAS, DE
@@ -65,6 +65,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 80.191.205.4|/eMark Android:1.0.0/|60011|58224|80.191.200.0/21|IR|ripencc|2002-07-23|TCI, IR
 81.19.208.110|/eMark:1.5.1/|60011|25369|81.19.208.0/23|GB|ripencc|2006-01-03|BANDWIDTH-AS, GB
 82.212.178.47|/eMark:1.6.1.2/|60012|12392|82.212.176.0/20|BE|ripencc|2003-10-16|ASBRUTELE VOO, BE
+82.83.92.27|/eMark:1.6.1.2/|60012|3209|82.82.0.0/15|DE|ripencc|2003-05-26|VODANET International IP-Backbone of Vodafone, DE
 83.251.60.237|/eMark:1.6.1.2/|60012|1257|83.248.0.0/13|SE|ripencc|2004-03-04|TELE2, EU
 84.135.38.15|/eMark:1.6.1.2/|60012|3320|84.128.0.0/10|DE|ripencc|2004-03-10|DTAG Internet service provider operations, DE
 84.152.178.67|/eMark:1.6.1.2/|60012|3320|84.128.0.0/10|DE|ripencc|2004-03-10|DTAG Internet service provider operations, DE
@@ -95,7 +96,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 92.38.174.32|/eMark:1.6.1.2/|60012|199524|92.38.174.0/24|LU|ripencc|2008-02-08|GCORE, LU
 92.81.31.104|/eMark:1.6.1.2/|60012|9050|92.81.0.0/16|RO|ripencc|2007-08-15|RTD Bucharest, Romania, RO
 93.207.238.82|/eMark:1.6.1.2/|60012|3320|93.192.0.0/10|DE|ripencc|2008-02-12|DTAG Internet service provider operations, DE
-93.210.149.86|/eMark:1.6.1.2/|60012|3320|93.192.0.0/10|DE|ripencc|2008-02-12|DTAG Internet service provider operations, DE
 93.215.31.184|/eMark:1.6.1.2/|60012|3320|93.192.0.0/10|DE|ripencc|2008-02-12|DTAG Internet service provider operations, DE
 93.245.124.134|/eMark:1.6.1.2/|60012|3320|93.192.0.0/10|DE|ripencc|2008-02-12|DTAG Internet service provider operations, DE
 95.153.127.127|/eMark:1.6.1.2/|60012|1547|95.153.96.0/19|MD|ripencc|2009-02-20|IDK-NETWORK, MD
