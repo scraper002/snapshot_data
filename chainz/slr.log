@@ -14,6 +14,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 172.111.156.26|/Satoshi:2.1.8/|70005|9009|172.111.156.0/24|US|arin|2015-07-01|M247, GB
 173.239.92.65|???|0|25840|173.239.88.0/21|US|arin|2011-01-13|CASCADE-ACCESS-LLC-CA-ESTOR1, US
 174.112.251.162|/Satoshi:2.1.8/|70005|812|174.112.0.0/16|CA|arin|2009-03-04|ROGERS-COMMUNICATIONS, CA
+178.193.230.79|/Satoshi:2.1.8/|70005|3303|178.192.0.0/15|CH|ripencc|2010-02-24|SWISSCOM Swisscom Switzerland Ltd, CH
 178.240.96.55|/Satoshi:2.1.8/|70005|16135|178.240.96.0/19|TR|ripencc|2010-03-19|TURKCELL-AS Turkcell A.S., TR
 185.183.66.35|/Satoshi:2.1.8/|70005|44407|185.183.64.0/22|FR|ripencc|2016-12-21|ASN-LINKT, FR
 187.162.74.78|/Satoshi:2.1.8/|70005|6503|187.162.74.0/24|MX|lacnic|2011-07-11|Axtel, S.A.B. de C.V., MX
@@ -54,7 +55,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 83.77.236.97|/Satoshi:2.1.8/|70005|3303|83.77.0.0/16|CH|ripencc|2003-12-10|SWISSCOM Swisscom Switzerland Ltd, CH
 84.158.32.52|/Satoshi:2.1.8/|70005|3320|84.128.0.0/10|DE|ripencc|2004-03-10|DTAG Internet service provider operations, DE
 84.168.31.2|/Satoshi:2.1.8/|70005|3320|84.128.0.0/10|DE|ripencc|2004-03-10|DTAG Internet service provider operations, DE
-84.168.7.74|/Satoshi:2.1.8/|70005|3320|84.128.0.0/10|DE|ripencc|2004-03-10|DTAG Internet service provider operations, DE
 84.175.228.152|/Satoshi:2.1.8/|70005|3320|84.128.0.0/10|DE|ripencc|2004-03-10|DTAG Internet service provider operations, DE
 84.190.126.220|/Satoshi:2.1.8/|70005|3320|84.128.0.0/10|DE|ripencc|2004-03-10|DTAG Internet service provider operations, DE
 86.128.227.74|/Satoshi:2.1.8/|70005|2856|86.128.0.0/12|GB|ripencc|2005-02-07|BT-UK-AS BTnet UK Regional network, GB
@@ -65,7 +65,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 91.206.16.214|/Satoshi:2.1.8/|70005|13259|91.206.16.0/23|RU|ripencc|2008-06-09|DELTA-TELESYSTEMS-AS, RU
 92.116.243.178|/Satoshi:2.1.8/|70005|8881|92.116.240.0/20|DE|ripencc|2007-10-25|VERSATEL, DE
 92.116.245.184|/Satoshi:2.1.8/|70005|8881|92.116.240.0/20|DE|ripencc|2007-10-25|VERSATEL, DE
-92.116.251.106|/Satoshi:2.1.8/|70005|8881|92.116.240.0/20|DE|ripencc|2007-10-25|VERSATEL, DE
 92.184.124.232|/Satoshi:2.1.8/|70005|3215|92.184.124.0/22|FR|ripencc|2007-07-12|France Telecom - Orange, FR
 93.219.173.57|/Satoshi:2.1.8/|70005|3320|93.192.0.0/10|DE|ripencc|2008-02-12|DTAG Internet service provider operations, DE
 93.225.32.75|/Satoshi:2.1.8/|70005|3320|93.192.0.0/10|DE|ripencc|2008-02-12|DTAG Internet service provider operations, DE
