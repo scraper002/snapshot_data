@@ -18,6 +18,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 174.112.251.162|/Satoshi:2.1.8/|70005|812|174.112.0.0/16|CA|arin|2009-03-04|ROGERS-COMMUNICATIONS, CA
 178.193.230.79|/Satoshi:2.1.8/|70005|3303|178.192.0.0/15|CH|ripencc|2010-02-24|SWISSCOM Swisscom Switzerland Ltd, CH
 178.240.96.55|/Satoshi:2.1.8/|70005|16135|178.240.96.0/19|TR|ripencc|2010-03-19|TURKCELL-AS Turkcell A.S., TR
+178.244.76.68|/Satoshi:2.1.8/|70005|16135|178.244.64.0/18|TR|ripencc|2010-03-19|TURKCELL-AS Turkcell A.S., TR
 185.183.66.35|/Satoshi:2.1.8/|70005|44407|185.183.64.0/22|FR|ripencc|2016-12-21|ASN-LINKT, FR
 187.162.74.78|/Satoshi:2.1.8/|70005|6503|187.162.74.0/24|MX|lacnic|2011-07-11|Axtel, S.A.B. de C.V., MX
 189.150.80.172|/Satoshi:2.1.8/|70005|8151|189.150.80.0/22|MX|lacnic|2006-05-12|Uninet S.A. de C.V., MX
@@ -53,7 +54,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 80.62.117.144|/Satoshi:2.1.8/|70005|3292|80.62.0.0/15|DK|ripencc|2001-06-20|TDC TDC AS, DK
 81.225.194.104|/Satoshi:2.1.8/|70005|3301|81.224.0.0/12|SE|ripencc|2002-10-04|TELIANET-SWEDEN Telia Company, SE
 81.242.84.127|/Satoshi:2.1.8/|70005|5432|81.240.0.0/14|BE|ripencc|2002-11-29|PROXIMUS-ISP-AS, BE
-81.246.220.222|/Satoshi:2.1.8/|70005|5432|81.244.0.0/14|BE|ripencc|2002-11-29|PROXIMUS-ISP-AS, BE
+81.246.220.222|/Satoshi:2.1.8/|70005||||||
 83.77.236.97|/Satoshi:2.1.8/|70005|3303|83.77.0.0/16|CH|ripencc|2003-12-10|SWISSCOM Swisscom Switzerland Ltd, CH
 84.158.32.52|/Satoshi:2.1.8/|70005|3320|84.128.0.0/10|DE|ripencc|2004-03-10|DTAG Internet service provider operations, DE
 84.168.27.53|/Satoshi:2.1.8/|70005|3320|84.128.0.0/10|DE|ripencc|2004-03-10|DTAG Internet service provider operations, DE
