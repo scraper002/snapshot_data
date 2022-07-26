@@ -29,7 +29,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 180.190.216.202|/Satoshi:1.0.0/|60013|132199|180.190.216.0/22|PH|apnic|2009-09-17|GLOBE-MOBILE-5TH-GEN-AS Globe Telecom Inc., PH
 185.182.187.87|/Satoshi:1.0.0/|60013|51167|185.182.186.0/23|DE|ripencc|2016-12-16|CONTABO, DE
 185.216.33.25|/Satoshi:1.0.0/|60013|9009|185.216.33.0/24|RO|ripencc|2017-08-03|M247, GB
-185.60.14.34|/Satoshi:1.0.0/|60013|34241|185.60.12.0/22|RU|ripencc|2014-06-05|NCT-AS, RU
 193.83.184.211|/Satoshi:1.0.0/|60013|1901|193.83.0.0/16|AT|ripencc|1995-05-12|EUNETAT-AS A1 Telekom Austria AG, AT
 194.230.160.73|/Satoshi:1.0.0/|60013|6730|194.230.0.0/16|CH|ripencc|1996-01-23|SUNRISE, CH
 194.96.22.191|/Satoshi:1.0.0/|60013|1901|194.96.0.0/16|AT|ripencc|1994-09-28|EUNETAT-AS A1 Telekom Austria AG, AT
@@ -76,6 +75,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 84.169.99.206|/Satoshi:1.0.0/|60013|3320|84.128.0.0/10|DE|ripencc|2004-03-10|DTAG Internet service provider operations, DE
 87.181.192.118|/Satoshi:1.0.0/|60013|3320|87.128.0.0/10|DE|ripencc|2006-03-30|DTAG Internet service provider operations, DE
 89.0.3.185|/Satoshi:1.0.0/|60013|8422|89.0.0.0/15|DE|ripencc|2009-06-30|NETCOLOGNE, DE
+89.0.3.95|/Satoshi:1.0.0/|60013|8422|89.0.0.0/15|DE|ripencc|2009-06-30|NETCOLOGNE, DE
 89.0.53.248|/Satoshi:1.0.0/|60013|8422|89.0.0.0/15|DE|ripencc|2009-06-30|NETCOLOGNE, DE
 89.1.208.204|/Satoshi:1.0.0/|60013|8422|89.0.0.0/15|DE|ripencc|2009-06-30|NETCOLOGNE, DE
 89.1.31.179|/Satoshi:1.0.0/|60013|8422|89.0.0.0/15|DE|ripencc|2009-06-30|NETCOLOGNE, DE
@@ -89,12 +89,11 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 92.116.98.139|/Satoshi:1.0.0/|60013|8881|92.116.96.0/19|DE|ripencc|2007-10-25|VERSATEL, DE
 92.86.39.175|/Satoshi:1.0.0/|60013|9050|92.86.0.0/16|RO|ripencc|2007-08-15|RTD Bucharest, Romania, RO
 93.131.9.132|/Satoshi:1.0.0/|60013|6805|93.128.0.0/13|DE|ripencc|2008-04-14|TDDE-ASN1, DE
-93.201.210.79|/Satoshi:1.0.0/|60013|3320|93.192.0.0/10|DE|ripencc|2008-02-12|DTAG Internet service provider operations, DE
+93.201.211.63|/Satoshi:1.0.0/|60013|3320|93.192.0.0/10|DE|ripencc|2008-02-12|DTAG Internet service provider operations, DE
 93.201.212.73|/Satoshi:1.0.0/|60013|3320|93.192.0.0/10|DE|ripencc|2008-02-12|DTAG Internet service provider operations, DE
 93.252.161.9|/Satoshi:1.0.0/|60013|3320|93.192.0.0/10|DE|ripencc|2008-02-12|DTAG Internet service provider operations, DE
 94.31.81.223|/Satoshi:1.0.0/|60013|60294|94.31.80.0/20|DE|ripencc|2010-02-03|DE-DGW Deutsche Glasfaser Wholesale Internet, DE
 95.153.161.160|/Satoshi:1.0.0/|60013|8359|95.153.128.0/17|RU|ripencc|2009-02-23|MTS, RU
-95.153.176.89|/Satoshi:1.0.0/|60013|8359|95.153.128.0/17|RU|ripencc|2009-02-23|MTS, RU
 95.153.181.162|/Satoshi:1.0.0/|60013|8359|95.153.128.0/17|RU|ripencc|2009-02-23|MTS, RU
 95.153.181.216|/Satoshi:1.0.0/|60013|8359|95.153.128.0/17|RU|ripencc|2009-02-23|MTS, RU
 95.223.12.12|/Satoshi:1.0.0/|60013|3209|95.223.0.0/16|DE|ripencc|2009-03-24|VODANET International IP-Backbone of Vodafone, DE
