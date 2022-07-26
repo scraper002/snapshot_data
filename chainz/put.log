@@ -2,7 +2,7 @@
 # PutinCoin
 IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 102.38.63.130|/Satoshi:1.0.0/|60013|5713|102.38.60.0/22|ZA|afrinic|2019-08-21|SAIX-NET, ZA
-104.238.221.41|???|0|23470|104.238.221.0/24|US|arin|2018-04-13|RELIABLESITE, US
+104.238.221.41|Satoshi:1.0.0|60013|23470|104.238.221.0/24|US|arin|2018-04-13|RELIABLESITE, US
 109.40.242.117|/Satoshi:1.0.0/|60013|3209|109.40.0.0/14|DE|ripencc|2009-11-04|VODANET International IP-Backbone of Vodafone, DE
 13.214.86.135|/Satoshi:1.0.0/|60013|16509|13.214.0.0/15|US|arin|2019-10-01|AMAZON-02, US
 13.215.71.122|/Satoshi:1.0.0/|60013|16509|13.214.0.0/15|US|arin|2019-10-01|AMAZON-02, US
@@ -13,6 +13,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 143.198.121.253|Satoshi:1.0.0|60013|14061|143.198.112.0/20|US|arin|2020-01-24|DIGITALOCEAN-ASN, US
 149.248.17.139|/Satoshi:1.0.0/|60013|20473|149.248.0.0/19|US|arin|2018-07-03|AS-CHOOPA, US
 159.65.146.105|/Satoshi:1.0.0/|60013|14061|159.65.144.0/20|US|arin|2017-10-24|DIGITALOCEAN-ASN, US
+165.231.67.246|/Satoshi:1.0.0/|60013|48950|165.231.67.0/24|SC|afrinic|1995-01-01|GLOBALCOLOCATION, GB
 168.119.18.29|/Satoshi:1.0.0/|60013|24940|168.119.0.0/16|DE|ripencc|1994-04-05|HETZNER-AS, DE
 176.52.181.42|/Satoshi:1.0.0/|60013|201299|176.52.181.0/24|DE|ripencc|2018-07-03|BWIGMBH-AS, DE
 176.52.34.204|/Satoshi:1.0.0/|60013|29194|176.52.34.0/23|RU|ripencc|2011-05-25|ASN-TVT Kazan, Tatarstan, Russia, RU
@@ -56,6 +57,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 46.160.39.27|/Satoshi:1.0.0/|60013|47241|46.160.39.0/24|RU|ripencc|2010-10-27|IV-TELECOM-AS, RU
 46.5.17.104|/Satoshi:1.0.0/|60013|3209|46.5.0.0/17|DE|ripencc|2010-09-02|VODANET International IP-Backbone of Vodafone, DE
 46.94.124.107|/Satoshi:1.0.0/|60013|3320|46.80.0.0/12|DE|ripencc|2010-06-07|DTAG Internet service provider operations, DE
+5.104.216.1|/Satoshi:1.0.0/|60013|28760|5.104.216.0/21|AT|ripencc|2012-07-02|INFOTECH-AT-AS Schaerdinger Str. 35, AT
 5.104.216.44|/Satoshi:1.0.0/|60013|28760|5.104.216.0/21|AT|ripencc|2012-07-02|INFOTECH-AT-AS Schaerdinger Str. 35, AT
 51.81.102.211|/Satoshi:1.0.0/|60013|16276|51.81.0.0/17|US|arin|2019-03-11|OVH, FR
 62.158.210.165|/Satoshi:1.0.0/|60013|3320|62.156.0.0/14|DE|ripencc|1999-03-05|DTAG Internet service provider operations, DE
@@ -70,7 +72,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 79.235.168.187|/Satoshi:1.0.0/|60013|3320|79.192.0.0/10|DE|ripencc|2007-06-06|DTAG Internet service provider operations, DE
 80.85.86.106|/Satoshi:1.0.0/|60013|63949|80.85.84.0/22|US|ripencc|2003-05-19|LINODE-AP Linode, LLC, US
 83.135.243.197|/Satoshi:1.0.0/|60013|8881|83.135.240.0/22|DE|ripencc|2004-01-28|VERSATEL, DE
-83.135.243.213|/Satoshi:1.0.0/|60013|8881|83.135.240.0/22|DE|ripencc|2004-01-28|VERSATEL, DE
 84.115.232.119|/Satoshi:1.0.0/|60013|8412|84.114.0.0/15|AT|ripencc|2004-04-07|TMA Magenta Telekom, AT
 84.115.232.228|/Satoshi:1.0.0/|60013|8412|84.114.0.0/15|AT|ripencc|2004-04-07|TMA Magenta Telekom, AT
 84.132.44.16|/Satoshi:1.0.0/|60013|3320|84.128.0.0/10|DE|ripencc|2004-03-10|DTAG Internet service provider operations, DE
@@ -92,7 +93,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 91.97.221.121|/Satoshi:1.0.0/|60013|9145|91.96.0.0/15|DE|ripencc|2006-08-30|EWETEL Cloppenburger Strasse 310, DE
 92.116.98.139|/Satoshi:1.0.0/|60013|8881|92.116.96.0/19|DE|ripencc|2007-10-25|VERSATEL, DE
 92.86.39.175|/Satoshi:1.0.0/|60013|9050|92.86.0.0/16|RO|ripencc|2007-08-15|RTD Bucharest, Romania, RO
-93.131.9.132|/Satoshi:1.0.0/|60013|6805|93.128.0.0/13|DE|ripencc|2008-04-14|TDDE-ASN1, DE
 93.201.211.63|/Satoshi:1.0.0/|60013|3320|93.192.0.0/10|DE|ripencc|2008-02-12|DTAG Internet service provider operations, DE
 93.201.212.73|/Satoshi:1.0.0/|60013|3320|93.192.0.0/10|DE|ripencc|2008-02-12|DTAG Internet service provider operations, DE
 93.252.161.9|/Satoshi:1.0.0/|60013|3320|93.192.0.0/10|DE|ripencc|2008-02-12|DTAG Internet service provider operations, DE
@@ -100,7 +100,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 95.153.160.28|/Satoshi:1.0.0/|60013|8359|95.153.128.0/17|RU|ripencc|2009-02-23|MTS, RU
 95.153.162.73|/Satoshi:1.0.0/|60013|8359|95.153.128.0/17|RU|ripencc|2009-02-23|MTS, RU
 95.153.169.160|/Satoshi:1.0.0/|60013|8359|95.153.128.0/17|RU|ripencc|2009-02-23|MTS, RU
-95.153.181.162|/Satoshi:1.0.0/|60013|8359|95.153.128.0/17|RU|ripencc|2009-02-23|MTS, RU
 95.153.181.216|/Satoshi:1.0.0/|60013|8359|95.153.128.0/17|RU|ripencc|2009-02-23|MTS, RU
 95.223.12.12|/Satoshi:1.0.0/|60013|3209|95.223.0.0/16|DE|ripencc|2009-03-24|VODANET International IP-Backbone of Vodafone, DE
 95.33.161.199|/Satoshi:1.0.0/|60013|9145|95.33.0.0/16|DE|ripencc|2008-11-03|EWETEL Cloppenburger Strasse 310, DE

@@ -5,7 +5,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 113.177.116.252|/eMark:1.6.1.2/|60012|45899|113.177.112.0/20|VN|apnic|2008-11-04|VNPT-AS-VN VNPT Corp, VN
 121.36.61.114|/eMark:1.6.1.1/|60012|55990|121.36.0.0/17|CN|apnic|2006-05-23|HWCSNET Huawei Cloud Service data center, CN
 122.59.8.177|/eMark:1.5.0/|60011|4771|122.59.8.0/21|NZ|apnic|2008-09-16|SPARKNZ Spark New Zealand Trading Ltd., NZ
-138.246.3.188|/eMark:1.6.1.2/|60012|12816|138.246.0.0/16|DE|ripencc|1990-06-12|MWN-AS, DE
 143.244.42.80|/eMark:1.5.1/|60011|60068|143.244.42.0/24|GB|ripencc|1990-10-26|CDN77 ^_^, GB
 144.91.120.189|/eMark:1.6.1.2/|60012|51167|144.91.120.0/23|DE|ripencc|1990-11-20|CONTABO, DE
 147.135.97.55|/eMark:1.6.1/|60012|16276|147.135.0.0/17|US|arin|2017-03-22|OVH, FR
@@ -23,6 +22,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 207.89.76.178|/eMark:1.6.1.2/|60012|58243|207.89.64.0/20|DE|ripencc|1996-03-27|TELEAG, DE
 208.110.169.2|/eMark:1.6.1.2/|60012|7226|208.110.168.0/23|US|arin|2007-04-06|DATABANK-LATISYS, US
 212.102.35.195|/eMark:1.5.1/|60011|212238|212.102.35.0/24|GB|ripencc|1999-06-10|CDNEXT, GB
+212.102.35.212|/eMark:1.5.1/|60011|212238|212.102.35.0/24|GB|ripencc|1999-06-10|CDNEXT, GB
 213.136.80.217|/eMark:1.6.1.2/|60012|51167|213.136.80.0/23|DE|ripencc|2000-02-28|CONTABO, DE
 213.151.0.134|/eMark:1.6.1.2/|60012|31499|213.151.0.0/24|RU|ripencc|2008-03-13|YCC-AS -- iHome --, RU
 213.151.17.174|/eMark:1.6.1.2/|60012|31499|213.151.16.0/20|RU|ripencc|2008-03-13|YCC-AS -- iHome --, RU
@@ -32,7 +32,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 217.64.113.60|/eMark:1.6.1.2/|60012|9009|217.64.113.0/24|GB|ripencc|2003-06-11|M247, GB
 217.95.54.234|/eMark:1.6.1.2/|60012|3320|217.80.0.0/12|DE|ripencc|2000-10-26|DTAG Internet service provider operations, DE
 217.95.60.103|/eMark:1.6.1.2/|60012|3320|217.80.0.0/12|DE|ripencc|2000-10-26|DTAG Internet service provider operations, DE
-31.42.10.1|/eMark:1.6.1.2/|60012||||||
+31.42.10.1|/eMark:1.6.1.2/|60012|49528|31.42.0.0/20|PL|ripencc|2011-03-03|ALFANET-PL-AS, PL
 37.21.27.105|/eMark:1.6.1.2/|60012|12389|37.21.0.0/17|RU|ripencc|2011-12-21|ROSTELECOM-AS, RU
 45.142.176.172|/eMark:1.6.1/|60012|197540|45.142.176.0/22|DE|ripencc|2019-08-19|NETCUP-AS netcup GmbH, DE
 46.232.249.107|/eMark:1.6.1/|60012|197540|46.232.248.0/22|DE|ripencc|2018-06-15|NETCUP-AS netcup GmbH, DE
@@ -95,7 +95,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 92.81.31.104|/eMark:1.6.1.2/|60012|9050|92.81.0.0/16|RO|ripencc|2007-08-15|RTD Bucharest, Romania, RO
 93.207.238.82|/eMark:1.6.1.2/|60012|3320|93.192.0.0/10|DE|ripencc|2008-02-12|DTAG Internet service provider operations, DE
 93.215.31.184|/eMark:1.6.1.2/|60012|3320|93.192.0.0/10|DE|ripencc|2008-02-12|DTAG Internet service provider operations, DE
-93.245.124.134|/eMark:1.6.1.2/|60012|3320|93.192.0.0/10|DE|ripencc|2008-02-12|DTAG Internet service provider operations, DE
 95.153.127.127|/eMark:1.6.1.2/|60012|1547|95.153.96.0/19|MD|ripencc|2009-02-20|IDK-NETWORK, MD
 95.217.78.79|/eMark:1.6.1.2/|60012|24940|95.217.0.0/16|DE|ripencc|2009-02-24|HETZNER-AS, DE
 95.244.31.179|/eMark:1.6.1.2/|60012|3269|95.244.0.0/16|IT|ripencc|2009-01-15|ASN-IBSNAZ, IT
