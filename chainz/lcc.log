@@ -10,7 +10,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 109.227.212.76|/LitecoinCashCore:0.16.3/|70015|31036|109.227.192.0/18|RU|ripencc|2010-02-01|NEWTELESYSTEMS, RU
 117.175.246.15|/LitecoinCashCore:0.16.3/|70015|9808|117.175.0.0/16|CN|apnic|2007-07-17|CHINAMOBILE-CN China Mobile Communications Group Co., Ltd., CN
 118.46.113.187|/LitecoinCashCore:0.16.3/|70015|4766|118.40.0.0/13|KR|apnic|2007-08-03|KIXS-AS-KR Korea Telecom, KR
-125.161.216.189|/LitecoinCashCore:0.16.3/|70015|7713|125.161.192.0/18|ID|apnic|2005-09-02|TELKOMNET-AS-AP PT Telekomunikasi Indonesia, ID
 130.223.123.231|/LitecoinCashCore:0.16.3/|70015|559|130.223.0.0/16|CH|ripencc|1988-10-21|SWITCH Peering requests: peering@switch.ch, CH
 134.17.4.199|/LitecoinCashCore:0.16.3/|70015|25106|134.17.4.0/22|BY|ripencc|2011-11-03|MTSBY-AS, BY
 135.181.40.86|/LitecoinCashCore:0.16.3/|70015|24940|135.181.0.0/16|DE|ripencc|1996-04-30|HETZNER-AS, DE
@@ -18,7 +17,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 136.243.145.143|/LitecoinCashCore:0.16.3/|70015|24940|136.243.0.0/16|DE|ripencc|2004-04-14|HETZNER-AS, DE
 138.199.34.22|/LitecoinCashCore:0.16.3/|70015|212238|138.199.34.0/24|GB|ripencc|1990-05-23|CDNEXT, GB
 138.201.81.23|/LitecoinCashCore:0.16.3/|70015|24940|138.201.0.0/16|DE|ripencc|1990-05-23|HETZNER-AS, DE
-141.226.236.91|/LitecoinCashCore:0.16.3/|70015||||||
+141.226.236.91|/LitecoinCashCore:0.16.3/|70015|12849|141.226.236.0/23|IL|ripencc|1990-08-05|HOTNET-IL AMS-IX Admin LAN, IL
 141.95.146.47|/LitecoinCashCore:0.16.3/|70015|16276|141.95.128.0/17|FR|ripencc|1993-02-18|OVH, FR
 144.126.135.34|/LitecoinCashCore:0.16.3/|70015|40021|144.126.128.0/20|US|arin|2021-03-16|CONTABO, US
 146.59.18.4|/LitecoinCashCore:0.16.3/|70015|16276|146.59.0.0/17|FR|ripencc|1994-03-08|OVH, FR
@@ -103,7 +102,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 61.69.93.166|/LitecoinCashCore:0.16.3/|70015|2764|61.69.0.0/17|AU|apnic|2001-08-08|AAPT AAPT Limited, AU
 62.159.33.3|/LitecoinCashCore:0.16.3/|70015|3320|62.156.0.0/14|DE|ripencc|1999-03-05|DTAG Internet service provider operations, DE
 62.178.177.134|/LitecoinCashCore:0.16.3/|70015|8412|62.178.128.0/17|AT|ripencc|2000-09-18|TMA Magenta Telekom, AT
-62.194.226.193|/LitecoinCashCore:0.16.3/|70015|33915|62.194.0.0/16|NL|ripencc|2000-10-10|TNF-AS, NL
 62.197.209.102|/LitecoinCashCore:0.16.3/|70015|5578|62.197.192.0/18|SK|ripencc|2002-07-22|AS-BENESTRA Bratislava, Slovak Republic, SK
 65.186.17.234|/LitecoinCashCore:0.16.3/|70015|10796|65.186.0.0/18|US|arin|2004-04-07|TWC-10796-MIDWEST, US
 67.182.250.41|/LitecoinCashCore:0.16.3/|70015|7922|67.160.0.0/11|US|arin|2002-12-16|COMCAST-7922, US
