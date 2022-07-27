@@ -47,6 +47,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 184.73.247.90|/LitecoinCashCore:0.16.3/|70015|14618|184.73.0.0/16|US|arin|2010-01-26|AMAZON-AES, US
 185.199.100.221|/LitecoinCashCore:0.16.3/|70015|136787|185.199.100.0/24|DE|ripencc|2017-04-13|TEFINCOMSA-AS-AP TEFINCOM S.A., PA
 185.82.203.241|/LitecoinCashCore:0.16.3/|70015|60117|185.82.203.0/24|AE|ripencc|2014-12-31|HS, AE
+188.136.242.50|/LitecoinCashCore:0.16.3/|70015|15943|188.136.224.0/19|DE|ripencc|2009-05-15|WTNET-AS wilhelm.tel GmbH, DE
 188.146.139.57|/LitecoinCashCore:0.16.3/|70015|12912|188.146.128.0/19|PL|ripencc|2009-04-01|TM, PL
 188.163.113.9|/LitecoinCashCore:0.16.3/|70015|15895|188.163.0.0/17|UA|ripencc|2009-05-22|KSNET-AS, UA
 188.166.117.139|/LitecoinCashCore:0.16.3/|70015|14061|188.166.64.0/18|US|ripencc|2009-06-05|DIGITALOCEAN-ASN, US
@@ -131,14 +132,13 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 78.46.100.57|/LitecoinCashCore:0.16.3/|70015|24940|78.46.0.0/15|DE|ripencc|2007-04-16|HETZNER-AS, DE
 79.191.102.128|/LitecoinCashCore:0.16.3/|70015|5617|79.184.0.0/13|PL|ripencc|2007-06-15|TPNET, PL
 80.219.190.80|/LitecoinCashCore:0.16.3/|70015|6830|80.219.0.0/16|CH|ripencc|2002-04-04|LIBERTYGLOBAL Liberty Global formerly UPC Broadband Holding, aka AORTA, NL
+82.215.126.15|/LitecoinCashCore:0.16.3/|70015|12365|82.215.124.0/22|UZ|ripencc|2003-11-17|SARKOR-AS Sarkor Telecom - Uztelecom, Upstream, UZ
 82.215.74.70|/LitecoinCashCore:0.16.3/|70015|12365|82.215.72.0/22|UZ|ripencc|2003-11-17|SARKOR-AS Sarkor Telecom - Uztelecom, Upstream, UZ
 82.66.47.169|/LitecoinCashCore:0.16.3/|70015|12322|82.64.0.0/14|FR|ripencc|2003-04-03|PROXAD, FR
 82.66.94.6|/LitecoinCashCore:0.16.3/|70015|12322|82.64.0.0/14|FR|ripencc|2003-04-03|PROXAD, FR
 83.195.190.81|/LitecoinCashCore:0.16.3/|70015|3215|83.195.128.0/17|FR|ripencc|2003-12-12|France Telecom - Orange, FR
 83.221.211.116|/LitecoinCashCore:0.16.3/|70015|21479|83.221.192.0/19|RU|ripencc|2004-04-15|ROSTOV-TELEGRAF-AS, RU
 83.233.2.125|/LitecoinCashCore:0.16.3/|70015|29518|83.233.0.0/16|SE|ripencc|2004-02-06|BREDBAND2, SE
-83.25.23.116|/LitecoinCashCore:0.16.3/|70015|5617|83.24.0.0/13|PL|ripencc|2003-12-03|TPNET, PL
-83.25.23.13|/LitecoinCashCore:0.16.3/|70015|5617|83.24.0.0/13|PL|ripencc|2003-12-03|TPNET, PL
 84.141.123.177|/LitecoinCashCore:0.16.3/|70015|3320|84.128.0.0/10|DE|ripencc|2004-03-10|DTAG Internet service provider operations, DE
 84.226.120.115|/LitecoinCashCore:0.16.3/|70015|6730|84.226.0.0/15|CH|ripencc|2004-07-02|SUNRISE, CH
 84.228.107.248|/LitecoinCashCore:0.16.3/|70015|12400|84.228.96.0/20|IL|ripencc|2004-08-16|PARTNER-AS, IL

@@ -35,6 +35,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 47.156.185.234|/Satoshi:2.1.8/|70005|5650|47.156.0.0/16|US|arin|2015-08-28|FRONTIER-FRTR, US
 5.149.43.22|/Satoshi:2.1.8/|70005|15600|5.149.32.0/19|CH|ripencc|2012-07-16|QUICKLINE Quickline AG, CH
 5.83.191.205|/Satoshi:2.1.8/|70005|200924|5.83.176.0/20|DE|ripencc|2012-06-15|SIS2, DE
+5.83.191.80|/Satoshi:2.1.8/|70005|200924|5.83.176.0/20|DE|ripencc|2012-06-15|SIS2, DE
 50.220.121.211|/Satoshi:2.1.8/|70005|7922|50.128.0.0/9|US|arin|2010-10-21|COMCAST-7922, US
 65.242.59.210|/Satoshi:2.1.8/|70005|701|65.240.0.0/13|US|arin|2002-02-13|UUNET, US
 68.205.123.39|/Satoshi:2.1.8/|70005|33363|68.204.0.0/15|US|arin|2003-01-31|BHN-33363, US
@@ -49,13 +50,13 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 80.131.124.187|/Satoshi:2.1.8/|70005|3320|80.128.0.0/12|DE|ripencc|2001-08-06|DTAG Internet service provider operations, DE
 80.140.58.139|/Satoshi:2.1.8/|70005|3320|80.128.0.0/12|DE|ripencc|2001-08-06|DTAG Internet service provider operations, DE
 80.62.117.144|/Satoshi:2.1.8/|70005|3292|80.62.0.0/15|DK|ripencc|2001-06-20|TDC TDC AS, DK
-81.225.194.104|/Satoshi:2.1.8/|70005||||||
+81.225.194.104|/Satoshi:2.1.8/|70005|3301|81.224.0.0/12|SE|ripencc|2002-10-04|TELIANET-SWEDEN Telia Company, SE
 81.242.84.127|/Satoshi:2.1.8/|70005|5432|81.240.0.0/14|BE|ripencc|2002-11-29|PROXIMUS-ISP-AS, BE
 81.246.220.222|/Satoshi:2.1.8/|70005|5432|81.244.0.0/14|BE|ripencc|2002-11-29|PROXIMUS-ISP-AS, BE
 83.77.236.97|/Satoshi:2.1.8/|70005|3303|83.77.0.0/16|CH|ripencc|2003-12-10|SWISSCOM Swisscom Switzerland Ltd, CH
 84.158.32.52|/Satoshi:2.1.8/|70005|3320|84.128.0.0/10|DE|ripencc|2004-03-10|DTAG Internet service provider operations, DE
 84.168.27.53|/Satoshi:2.1.8/|70005|3320|84.128.0.0/10|DE|ripencc|2004-03-10|DTAG Internet service provider operations, DE
-84.168.31.2|/Satoshi:2.1.8/|70005|3320|84.128.0.0/10|DE|ripencc|2004-03-10|DTAG Internet service provider operations, DE
+86.128.227.19|/Satoshi:2.1.8/|70005|2856|86.128.0.0/12|GB|ripencc|2005-02-07|BT-UK-AS BTnet UK Regional network, GB
 86.128.227.74|/Satoshi:2.1.8/|70005|2856|86.128.0.0/12|GB|ripencc|2005-02-07|BT-UK-AS BTnet UK Regional network, GB
 86.18.208.29|/Satoshi:2.1.8/|70005|5089|86.16.0.0/14|GB|ripencc|2005-03-29|NTL, GB
 86.93.14.93|/Satoshi:2.1.8/|70005|1136|86.80.0.0/12|NL|ripencc|2005-03-23|KPN KPN National, NL
