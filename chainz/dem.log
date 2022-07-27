@@ -6,12 +6,12 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 121.36.61.114|/eMark:1.6.1.1/|60012|55990|121.36.0.0/17|CN|apnic|2006-05-23|HWCSNET Huawei Cloud Service data center, CN
 122.59.8.177|/eMark:1.5.0/|60011|4771|122.59.8.0/21|NZ|apnic|2008-09-16|SPARKNZ Spark New Zealand Trading Ltd., NZ
 144.91.120.189|/eMark:1.6.1.2/|60012|51167|144.91.120.0/23|DE|ripencc|1990-11-20|CONTABO, DE
+146.70.112.116|/eMark:1.5.1/|60011|9009|146.70.112.0/24|RO|ripencc|1991-01-23|M247, GB
 147.135.97.55|/eMark:1.6.1/|60012|16276|147.135.0.0/17|US|arin|2017-03-22|OVH, FR
 165.231.177.125|/eMark:1.6.1.2/|60012|58065|165.231.177.0/24|SC|afrinic|1995-01-01|PACKETEXCHANGE, SE
 167.86.116.187|/eMark:1.6.1/|60012|51167|167.86.116.0/23|DE|ripencc|1993-05-14|CONTABO, DE
 172.105.182.91|/eMark:1.6.1.1/|60012|63949|172.105.160.0/19|US|arin|2015-06-19|LINODE-AP Linode, LLC, US
 178.254.43.126|/eMark:1.6.1.2/|60012|42730|178.254.32.0/20|DE|ripencc|2010-06-18|EVANZOAS, DE
-178.37.122.69|/eMark:1.6.1.2/|60012|12741|178.36.0.0/15|PL|ripencc|2010-01-28|AS-NETIA Warszawa 02-822, PL
 185.205.246.221|/eMark:1.6.1.2/|60012|51167|185.205.246.0/24|DE|ripencc|2017-05-30|CONTABO, DE
 195.90.208.175|/eMark:1.6.1.2/|60012|42730|195.90.192.0/18|DE|ripencc|1997-04-22|EVANZOAS, DE
 195.90.211.174|/eMark:1.6.1.2/|60012|42730|195.90.192.0/18|DE|ripencc|1997-04-22|EVANZOAS, DE
@@ -22,10 +22,12 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 213.136.80.217|/eMark:1.6.1.2/|60012|51167|213.136.80.0/23|DE|ripencc|2000-02-28|CONTABO, DE
 213.151.17.174|/eMark:1.6.1.2/|60012|31499|213.151.16.0/20|RU|ripencc|2008-03-13|YCC-AS -- iHome --, RU
 213.242.21.238|/eMark:1.6.1.2/|60012|12389|213.242.0.0/19|RU|ripencc|2011-03-09|ROSTELECOM-AS, RU
+217.229.226.114|/eMark:1.5.1/|60011|3320|217.224.0.0/11|DE|ripencc|2001-04-04|DTAG Internet service provider operations, DE
 217.229.227.6|/eMark:1.5.1/|60011|3320|217.224.0.0/11|DE|ripencc|2001-04-04|DTAG Internet service provider operations, DE
 217.236.36.77|/eMark:1.6.1.2/|60012|3320|217.224.0.0/11|DE|ripencc|2001-04-04|DTAG Internet service provider operations, DE
 217.95.53.49|/eMark:1.6.1.2/|60012|3320|217.80.0.0/12|DE|ripencc|2000-10-26|DTAG Internet service provider operations, DE
 217.95.54.234|/eMark:1.6.1.2/|60012|3320|217.80.0.0/12|DE|ripencc|2000-10-26|DTAG Internet service provider operations, DE
+23.19.245.90|???|0|396362|23.19.244.0/22|US|arin|2011-04-25|LEASEWEB-USA-NYC, US
 31.42.10.1|/eMark:1.6.1.2/|60012|49528|31.42.0.0/20|PL|ripencc|2011-03-03|ALFANET-PL-AS, PL
 37.21.27.105|/eMark:1.6.1.2/|60012|12389|37.21.0.0/17|RU|ripencc|2011-12-21|ROSTELECOM-AS, RU
 45.142.176.172|/eMark:1.6.1/|60012|197540|45.142.176.0/22|DE|ripencc|2019-08-19|NETCUP-AS netcup GmbH, DE
@@ -50,13 +52,14 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 79.211.175.225|/eMark:1.6.1.2/|60012|3320|79.192.0.0/10|DE|ripencc|2007-06-06|DTAG Internet service provider operations, DE
 79.226.205.133|/eMark:1.5.1/|60011|3320|79.192.0.0/10|DE|ripencc|2007-06-06|DTAG Internet service provider operations, DE
 79.230.71.122|/eMark:1.6.1.2/|60012|3320|79.192.0.0/10|DE|ripencc|2007-06-06|DTAG Internet service provider operations, DE
-79.231.32.102|/eMark Android:1.0.0/|60011|3320|79.192.0.0/10|DE|ripencc|2007-06-06|DTAG Internet service provider operations, DE
+79.231.32.102|/eMark Android:1.0.0/|60011||||||
 79.232.110.63|/eMark:1.6.1.2/|60012|3320|79.192.0.0/10|DE|ripencc|2007-06-06|DTAG Internet service provider operations, DE
 80.137.46.227|/eMark:1.6.1.2/|60012|3320|80.128.0.0/12|DE|ripencc|2001-08-06|DTAG Internet service provider operations, DE
 82.212.178.47|/eMark:1.6.1.2/|60012|12392|82.212.176.0/20|BE|ripencc|2003-10-16|ASBRUTELE VOO, BE
 82.83.92.27|/eMark:1.6.1.2/|60012|3209|82.82.0.0/15|DE|ripencc|2003-05-26|VODANET International IP-Backbone of Vodafone, DE
 83.251.60.237|/eMark:1.6.1.2/|60012|1257|83.248.0.0/13|SE|ripencc|2004-03-04|TELE2, EU
 84.135.38.15|/eMark:1.6.1.2/|60012|3320|84.128.0.0/10|DE|ripencc|2004-03-10|DTAG Internet service provider operations, DE
+84.139.158.19|/eMark:1.6.1.2/|60012|3320|84.128.0.0/10|DE|ripencc|2004-03-10|DTAG Internet service provider operations, DE
 84.159.98.106|/eMark:1.6.1.2/|60012|3320|84.128.0.0/10|DE|ripencc|2004-03-10|DTAG Internet service provider operations, DE
 84.162.165.72|/eMark:1.6.1.2/|60012|3320|84.128.0.0/10|DE|ripencc|2004-03-10|DTAG Internet service provider operations, DE
 84.175.25.83|/eMark:1.6.1.2/|60012|3320|84.128.0.0/10|DE|ripencc|2004-03-10|DTAG Internet service provider operations, DE
