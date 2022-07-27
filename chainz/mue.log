@@ -12,6 +12,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 159.196.12.200|/MonetaryUnit Core:2.3.0/|70706|4764|159.196.12.0/22|AU|apnic|1992-05-26|WIDEBAND-AS-AP Aussie Broadband, AU
 161.81.34.41|/MonetaryUnit Core:2.3.0/|70706|137872|161.81.32.0/21|HK|apnic|1992-06-22|PEOPLESPHONE-HK China Mobile Hong Kong Company Limited, HK
 167.86.127.48|/MonetaryUnit Core:2.3.0/|70706|51167|167.86.126.0/23|DE|ripencc|1993-05-14|CONTABO, DE
+173.212.223.117|/MonetaryUnit Core:2.3.0/|70706|51167|173.212.192.0/19|DE|ripencc|2009-10-26|CONTABO, DE
 173.249.5.41|/MonetaryUnit Core:2.3.0/|70706|51167|173.249.4.0/23|DE|ripencc|2010-05-26|CONTABO, DE
 174.56.32.25|/MonetaryUnit Core:2.3.0/|70706|7922|174.48.0.0/12|US|arin|2008-11-18|COMCAST-7922, US
 176.94.254.32|/MonetaryUnit Core:2.3.0/|70706|3209|176.94.128.0/17|DE|ripencc|2011-07-11|VODANET International IP-Backbone of Vodafone, DE
@@ -37,7 +38,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 50.5.236.135|/MonetaryUnit Core:2.3.0/|70706|6181|50.5.128.0/17|US|arin|2010-09-09|FUSE-NET, US
 54.37.85.61|/MonetaryUnit Core:2.3.0/|70706|16276|54.37.0.0/16|FR|ripencc|1992-03-17|OVH, FR
 58.168.119.236|/MonetaryUnit Core:2.3.0/|70706|1221|58.160.0.0/12|AU|apnic|2006-01-24|ASN-TELSTRA Telstra Corporation Ltd, AU
-65.108.93.55|/MonetaryUnit Core:2.3.0/|70706||||||
+65.108.93.55|/MonetaryUnit Core:2.3.0/|70706|24940|65.108.0.0/16|DE|ripencc|2001-02-09|HETZNER-AS, DE
 69.61.175.196|/MonetaryUnit Core:2.3.0/|70706|6181|69.61.128.0/18|US|arin|2004-08-04|FUSE-NET, US
 71.190.78.98|/MonetaryUnit Core:2.3.0/|70706|701|71.190.0.0/17|US|arin|2005-06-01|UUNET, US
 72.66.45.153|/MonetaryUnit Core:2.3.0/|70706|701|72.66.0.0/17|US|arin|2005-06-24|UUNET, US
