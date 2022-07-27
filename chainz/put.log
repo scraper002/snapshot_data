@@ -49,6 +49,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 34.70.103.170|/Satoshi:1.0.0/|60013|396982|34.70.96.0/20|US|arin|2018-09-28|GOOGLE-CLOUD-PLATFORM, US
 34.72.253.248|/Satoshi:1.0.0/|60013|396982|34.72.240.0/20|US|arin|2018-09-28|GOOGLE-CLOUD-PLATFORM, US
 45.126.209.106|Satoshi:1.0.0|60013|23470|45.126.209.0/24|SG|apnic|2015-09-08|RELIABLESITE, US
+45.131.39.177|/Satoshi:1.0.0/|60013|12897|45.131.36.0/22|DE|ripencc|2019-07-18|ENTEGAMEDIANET ENTEGA Medianet GmbH, DE
 45.143.79.2|/Satoshi:1.0.0/|60013|12897|45.143.76.0/22|DE|ripencc|2019-08-20|ENTEGAMEDIANET ENTEGA Medianet GmbH, DE
 45.63.1.153|/Satoshi:1.0.0/|60013|20473|45.63.0.0/20|US|arin|2015-01-02|AS-CHOOPA, US
 46.114.169.139|/Satoshi:1.0.0/|60013|6805|46.114.0.0/15|DE|ripencc|2010-05-11|TDDE-ASN1, DE
@@ -57,7 +58,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 46.5.17.104|/Satoshi:1.0.0/|60013|3209|46.5.0.0/17|DE|ripencc|2010-09-02|VODANET International IP-Backbone of Vodafone, DE
 46.94.124.107|/Satoshi:1.0.0/|60013|3320|46.80.0.0/12|DE|ripencc|2010-06-07|DTAG Internet service provider operations, DE
 5.104.216.1|/Satoshi:1.0.0/|60013|28760|5.104.216.0/21|AT|ripencc|2012-07-02|INFOTECH-AT-AS Schaerdinger Str. 35, AT
-5.104.216.44|/Satoshi:1.0.0/|60013|28760|5.104.216.0/21|AT|ripencc|2012-07-02|INFOTECH-AT-AS Schaerdinger Str. 35, AT
 51.81.102.211|/Satoshi:1.0.0/|60013|16276|51.81.0.0/17|US|arin|2019-03-11|OVH, FR
 62.158.210.165|/Satoshi:1.0.0/|60013|3320|62.156.0.0/14|DE|ripencc|1999-03-05|DTAG Internet service provider operations, DE
 77.122.104.85|/Satoshi:1.0.0/|60013|25229|77.122.0.0/17|UA|ripencc|2006-11-24|VOLIA-AS, UA
@@ -68,7 +68,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 78.34.179.38|/Satoshi:1.0.0/|60013|8422|78.34.0.0/15|DE|ripencc|2007-03-08|NETCOLOGNE, DE
 79.144.140.79|/Satoshi:1.0.0/|60013|3352|79.144.0.0/16|ES|ripencc|2007-06-07|TELEFONICA_DE_ESPANA, ES
 79.235.166.23|/Satoshi:1.0.0/|60013|3320|79.192.0.0/10|DE|ripencc|2007-06-06|DTAG Internet service provider operations, DE
-79.235.168.187|/Satoshi:1.0.0/|60013|3320|79.192.0.0/10|DE|ripencc|2007-06-06|DTAG Internet service provider operations, DE
+79.235.168.187|/Satoshi:1.0.0/|60013||||||
 80.85.86.106|/Satoshi:1.0.0/|60013|63949|80.85.84.0/22|US|ripencc|2003-05-19|LINODE-AP Linode, LLC, US
 83.135.243.197|/Satoshi:1.0.0/|60013|8881|83.135.240.0/22|DE|ripencc|2004-01-28|VERSATEL, DE
 84.115.232.228|/Satoshi:1.0.0/|60013|8412|84.114.0.0/15|AT|ripencc|2004-04-07|TMA Magenta Telekom, AT
@@ -100,6 +100,5 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 95.153.169.160|/Satoshi:1.0.0/|60013|8359|95.153.128.0/17|RU|ripencc|2009-02-23|MTS, RU
 95.153.181.216|/Satoshi:1.0.0/|60013|8359|95.153.128.0/17|RU|ripencc|2009-02-23|MTS, RU
 95.223.12.12|/Satoshi:1.0.0/|60013|3209|95.223.0.0/16|DE|ripencc|2009-03-24|VODANET International IP-Backbone of Vodafone, DE
-95.33.161.199|/Satoshi:1.0.0/|60013|9145|95.33.0.0/16|DE|ripencc|2008-11-03|EWETEL Cloppenburger Strasse 310, DE
 95.70.44.72|/Satoshi:1.0.0/|60013|12389|95.70.0.0/18|RU|ripencc|2008-11-21|ROSTELECOM-AS, RU
 95.90.0.60|/Satoshi:1.0.0/|60013|3209|95.88.0.0/14|DE|ripencc|2008-12-15|VODANET International IP-Backbone of Vodafone, DE
