@@ -28,6 +28,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 213.196.133.194|/Satoshi:2.1.8/|70005|21040|213.196.128.0/18|CH|ripencc|2000-04-07|DATAPARK, CH
 217.114.38.211|/Satoshi:2.1.8/|70005|62240|217.114.38.0/24|GB|ripencc|2021-10-05|CLOUVIDER Clouvider - Global ASN, GB
 23.227.150.229|/Satoshi:2.1.8/|70005|55081|23.227.128.0/19|US|arin|2013-09-23|24SHELLS, US
+23.227.150.249|/Satoshi:2.1.8/|70005|55081|23.227.128.0/19|US|arin|2013-09-23|24SHELLS, US
 41.10.130.222|/Satoshi:2.1.8/|70005|36994|41.10.128.0/20|ZA|afrinic|2007-11-26|Vodacom-VB, ZA
 45.146.57.237|/Satoshi:2.1.8/|70005|25596|45.146.56.0/22|NL|ripencc|2019-08-27|CAMBRIUM-AS, NL
 47.151.243.57|/Satoshi:2.1.8/|70005|5650|47.144.0.0/13|US|arin|2015-08-28|FRONTIER-FRTR, US
@@ -56,8 +57,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 84.168.27.53|/Satoshi:2.1.8/|70005|3320|84.128.0.0/10|DE|ripencc|2004-03-10|DTAG Internet service provider operations, DE
 84.168.30.249|/Satoshi:2.1.8/|70005|3320|84.128.0.0/10|DE|ripencc|2004-03-10|DTAG Internet service provider operations, DE
 86.128.227.19|/Satoshi:2.1.8/|70005|2856|86.128.0.0/12|GB|ripencc|2005-02-07|BT-UK-AS BTnet UK Regional network, GB
-86.128.227.74|/Satoshi:2.1.8/|70005|2856|86.128.0.0/12|GB|ripencc|2005-02-07|BT-UK-AS BTnet UK Regional network, GB
-86.18.208.29|/Satoshi:2.1.8/|70005|5089|86.16.0.0/14|GB|ripencc|2005-03-29|NTL, GB
 86.93.14.93|/Satoshi:2.1.8/|70005|1136|86.80.0.0/12|NL|ripencc|2005-03-23|KPN KPN National, NL
 88.97.137.102|/Satoshi:2.1.8/|70005|13037|88.96.0.0/15|GB|ripencc|2005-08-03|ZEN-AS Zen Internet - UK, GB
 89.149.19.142|/Satoshi:2.1.8/|70005|12310|89.149.0.0/18|RO|ripencc|2006-02-17|INES Bucharest ROMANIA, RO
