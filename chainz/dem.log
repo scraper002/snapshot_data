@@ -22,6 +22,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 212.102.35.212|/eMark:1.5.1/|60011|212238|212.102.35.0/24|GB|ripencc|1999-06-10|CDNEXT, GB
 213.136.80.217|/eMark:1.6.1.2/|60012|51167|213.136.80.0/23|DE|ripencc|2000-02-28|CONTABO, DE
 213.151.17.174|/eMark:1.6.1.2/|60012|31499|213.151.16.0/20|RU|ripencc|2008-03-13|YCC-AS -- iHome --, RU
+213.205.198.98|/eMark Android:1.0.0/|60011|12576|213.205.192.0/18|GB|ripencc|2002-11-07|EE Ltd, GB
 213.242.21.238|/eMark:1.6.1.2/|60012|12389|213.242.0.0/19|RU|ripencc|2011-03-09|ROSTELECOM-AS, RU
 217.229.226.114|/eMark:1.5.1/|60011|3320|217.224.0.0/11|DE|ripencc|2001-04-04|DTAG Internet service provider operations, DE
 217.229.227.6|/eMark:1.5.1/|60011|3320|217.224.0.0/11|DE|ripencc|2001-04-04|DTAG Internet service provider operations, DE
@@ -61,7 +62,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 84.135.38.15|/eMark:1.6.1.2/|60012|3320|84.128.0.0/10|DE|ripencc|2004-03-10|DTAG Internet service provider operations, DE
 84.139.158.146|/eMark:1.6.1.2/|60012|3320|84.128.0.0/10|DE|ripencc|2004-03-10|DTAG Internet service provider operations, DE
 84.139.158.19|/eMark:1.6.1.2/|60012|3320|84.128.0.0/10|DE|ripencc|2004-03-10|DTAG Internet service provider operations, DE
-84.159.98.106|/eMark:1.6.1.2/|60012|3320|84.128.0.0/10|DE|ripencc|2004-03-10|DTAG Internet service provider operations, DE
 84.162.165.72|/eMark:1.6.1.2/|60012|3320|84.128.0.0/10|DE|ripencc|2004-03-10|DTAG Internet service provider operations, DE
 84.175.25.83|/eMark:1.6.1.2/|60012|3320|84.128.0.0/10|DE|ripencc|2004-03-10|DTAG Internet service provider operations, DE
 84.2.34.93|/eMark:1.6.0/|60011|15545|84.2.34.0/23|HU|ripencc|2004-09-17|MT-DC-AS EU. Hungary, HU
@@ -83,7 +83,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 92.117.86.92|/eMark:1.6.1.2/|60012|8881|92.117.64.0/19|DE|ripencc|2007-10-25|VERSATEL, DE
 92.81.31.104|/eMark:1.6.1.2/|60012|9050|92.81.0.0/16|RO|ripencc|2007-08-15|RTD Bucharest, Romania, RO
 93.205.86.205|/eMark:1.5.1/|60011|3320|93.192.0.0/10|DE|ripencc|2008-02-12|DTAG Internet service provider operations, DE
-93.207.238.82|/eMark:1.6.1.2/|60012|3320|93.192.0.0/10|DE|ripencc|2008-02-12|DTAG Internet service provider operations, DE
 93.215.26.146|/eMark:1.6.1.2/|60012|3320|93.192.0.0/10|DE|ripencc|2008-02-12|DTAG Internet service provider operations, DE
 93.215.31.184|/eMark:1.6.1.2/|60012|3320|93.192.0.0/10|DE|ripencc|2008-02-12|DTAG Internet service provider operations, DE
 93.226.118.35|/eMark:1.5.1/|60011|3320|93.192.0.0/10|DE|ripencc|2008-02-12|DTAG Internet service provider operations, DE
