@@ -4,7 +4,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 102.38.63.130|/Satoshi:1.0.0/|60013|5713|102.38.60.0/22|ZA|afrinic|2019-08-21|SAIX-NET, ZA
 104.238.221.41|Satoshi:1.0.0|60013|23470|104.238.221.0/24|US|arin|2018-04-13|RELIABLESITE, US
 109.40.242.117|/Satoshi:1.0.0/|60013|3209|109.40.0.0/14|DE|ripencc|2009-11-04|VODANET International IP-Backbone of Vodafone, DE
-13.214.86.135|/Satoshi:1.0.0/|60013|16509|13.214.0.0/15|US|arin|2019-10-01|AMAZON-02, US
+13.214.86.135|/Satoshi:1.0.0/|60013||||||
 13.215.71.122|/Satoshi:1.0.0/|60013|16509|13.214.0.0/15|US|arin|2019-10-01|AMAZON-02, US
 131.255.4.233|/Satoshi:1.0.0/|60013|61493|131.255.4.0/24|AR|lacnic|2014-10-22|InterBS S.R.L. BAEHOST, AR
 135.181.73.5|/Satoshi:1.0.0/|60013|24940|135.181.0.0/16|DE|ripencc|1996-04-30|HETZNER-AS, DE
@@ -64,7 +64,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 46.94.115.124|/Satoshi:1.0.0/|60013|3320|46.80.0.0/12|DE|ripencc|2010-06-07|DTAG Internet service provider operations, DE
 46.94.124.107|/Satoshi:1.0.0/|60013|3320|46.80.0.0/12|DE|ripencc|2010-06-07|DTAG Internet service provider operations, DE
 47.57.183.167|/Satoshi:1.0.0/|60013|45102|47.57.0.0/16|US|arin|2016-03-17|ALIBABA-CN-NET Alibaba US Technology Co., Ltd., CN
-5.104.216.1|/Satoshi:1.0.0/|60013|28760|5.104.216.0/21|AT|ripencc|2012-07-02|INFOTECH-AT-AS Schaerdinger Str. 35, AT
 5.104.216.36|/Satoshi:1.0.0/|60013|28760|5.104.216.0/21|AT|ripencc|2012-07-02|INFOTECH-AT-AS Schaerdinger Str. 35, AT
 5.180.61.116|/Satoshi:1.0.0/|60013|147049|5.180.61.0/24|DE|ripencc|2019-03-28|PACKETHUBSA-AS-AP PacketHub S.A., AU
 51.81.102.211|/Satoshi:1.0.0/|60013|16276|51.81.0.0/17|US|arin|2019-03-11|OVH, FR
