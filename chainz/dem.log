@@ -28,7 +28,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 213.242.21.238|/eMark:1.6.1.2/|60012|12389|213.242.0.0/19|RU|ripencc|2011-03-09|ROSTELECOM-AS, RU
 217.229.227.6|/eMark:1.5.1/|60011|3320|217.224.0.0/11|DE|ripencc|2001-04-04|DTAG Internet service provider operations, DE
 217.236.36.77|/eMark:1.6.1.2/|60012|3320|217.224.0.0/11|DE|ripencc|2001-04-04|DTAG Internet service provider operations, DE
-217.64.113.60|/eMark:1.6.1.2/|60012|9009|217.64.113.0/24|GB|ripencc|2003-06-11|M247, GB
 217.95.54.234|/eMark:1.6.1.2/|60012|3320|217.80.0.0/12|DE|ripencc|2000-10-26|DTAG Internet service provider operations, DE
 31.42.10.1|/eMark:1.6.1.2/|60012|49528|31.42.0.0/20|PL|ripencc|2011-03-03|ALFANET-PL-AS, PL
 37.21.27.105|/eMark:1.6.1.2/|60012|12389|37.21.0.0/17|RU|ripencc|2011-12-21|ROSTELECOM-AS, RU
@@ -40,7 +39,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 5.45.106.180|/eMark:1.6.1.2/|60012|197540|5.45.96.0/20|DE|ripencc|2012-05-24|NETCUP-AS netcup GmbH, DE
 62.1.240.181|/eMark:1.6.1.2/|60012|1241|62.1.128.0/17|GR|ripencc|2000-02-16|FORTHNET-GR Forthnet, EU
 62.176.239.21|/eMark:1.6.1.2/|60012|9136|62.176.224.0/19|DE|ripencc|2003-04-11|WOBCOM, DE
-62.178.190.6|/eMark:1.5.1/|60011|8412|62.178.128.0/17|AT|ripencc|2000-09-18|TMA Magenta Telekom, AT
 66.168.161.194|/eMark:1.6.1.2/|60012|20115|66.168.160.0/20|US|arin|2001-09-12|CHARTER-20115, US
 66.85.230.183|/eMark:1.6.1.2/|60012|26827|66.85.224.0/20|US|arin|2011-08-22|EPBTELECOM, US
 67.160.243.163|/eMark:1.5.1/|60011|7922|67.160.0.0/11|US|arin|2002-12-16|COMCAST-7922, US
@@ -54,9 +52,9 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 79.211.160.230|/eMark:1.6.1.2/|60012|3320|79.192.0.0/10|DE|ripencc|2007-06-06|DTAG Internet service provider operations, DE
 79.226.205.133|/eMark:1.5.1/|60011|3320|79.192.0.0/10|DE|ripencc|2007-06-06|DTAG Internet service provider operations, DE
 79.230.71.122|/eMark:1.6.1.2/|60012|3320|79.192.0.0/10|DE|ripencc|2007-06-06|DTAG Internet service provider operations, DE
+79.231.32.102|/eMark Android:1.0.0/|60011|3320|79.192.0.0/10|DE|ripencc|2007-06-06|DTAG Internet service provider operations, DE
 79.231.38.55|/eMark:1.6.1.2/|60012|3320|79.192.0.0/10|DE|ripencc|2007-06-06|DTAG Internet service provider operations, DE
 80.137.46.227|/eMark:1.6.1.2/|60012|3320|80.128.0.0/12|DE|ripencc|2001-08-06|DTAG Internet service provider operations, DE
-80.191.205.4|/eMark Android:1.0.0/|60011|58224|80.191.200.0/21|IR|ripencc|2002-07-23|TCI, IR
 81.19.208.110|/eMark:1.5.1/|60011|25369|81.19.208.0/23|GB|ripencc|2006-01-03|BANDWIDTH-AS, GB
 82.212.178.47|/eMark:1.6.1.2/|60012|12392|82.212.176.0/20|BE|ripencc|2003-10-16|ASBRUTELE VOO, BE
 82.83.92.27|/eMark:1.6.1.2/|60012|3209|82.82.0.0/15|DE|ripencc|2003-05-26|VODANET International IP-Backbone of Vodafone, DE
