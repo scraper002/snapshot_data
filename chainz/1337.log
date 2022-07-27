@@ -14,6 +14,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 153.184.154.0|/ Elite:2.0.1.2/|60200|4713|153.128.0.0/10|JP|apnic|2011-02-28|OCN NTT Communications Corporation, JP
 168.182.203.128|/ Elite:2.0.1.2/|60200|3243|168.182.128.0/17|PT|ripencc|1994-05-20|MEO-RESIDENCIAL, PT
 176.199.208.101|/ Elite:2.0.1.2/|60200|3209|176.199.0.0/16|DE|ripencc|2011-07-18|VODANET International IP-Backbone of Vodafone, DE
+176.79.84.153|/ Elite:2.0.1.2/|60200|3243|176.78.0.0/15|PT|ripencc|2011-06-23|MEO-RESIDENCIAL, PT
 178.254.24.75|/ Elite:2.0.1.2/|60200|42730|178.254.0.0/19|DE|ripencc|2010-06-18|EVANZOAS, DE
 185.117.74.45|/ Elite:2.0.1.2/|60200|60117|185.117.74.0/24|AE|ripencc|2015-09-14|HS, AE
 188.124.109.41|/ Elite:2.0.1.2/|60200|48475|188.124.96.0/19|RU|ripencc|2009-06-22|OSKOLNET-AS, RU
@@ -34,7 +35,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 77.56.0.21|/ Elite:2.0.1.2/|60200|6830|77.56.0.0/15|CH|ripencc|2006-10-19|LIBERTYGLOBAL Liberty Global formerly UPC Broadband Holding, aka AORTA, NL
 79.160.5.157|/ Elite:2.0.1.2/|60200|29695|79.160.0.0/15|NO|ripencc|2007-06-19|ALTIBOX_AS Norway, NO
 79.172.127.8|/ Elite:2.0.1.2/|60200|30784|79.172.64.0/18|RU|ripencc|2007-10-17|ISKRATELECOM-AS SEVEN-SKY, RU
-79.172.75.108|/ Elite:2.0.1.2/|60200|30784|79.172.64.0/18|RU|ripencc|2007-10-17|ISKRATELECOM-AS SEVEN-SKY, RU
 80.147.129.194|/ Elite:2.0.1.3/|1000000|3320|80.144.0.0/13|DE|ripencc|2001-08-06|DTAG Internet service provider operations, DE
 80.148.37.101|/ Elite:2.0.1.2/|60200|3320|80.144.0.0/13|DE|ripencc|2001-08-06|DTAG Internet service provider operations, DE
 83.149.19.240|/ Elite:2.0.1.2/|60200|31133|83.149.19.0/24|RU|ripencc|2004-03-09|MF-MGSM-AS PJSC MegaFon, RU
