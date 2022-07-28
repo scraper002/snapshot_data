@@ -4,7 +4,6 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 1.116.179.24|9321|/Satoshi:0.14.3.2/|45090|1.116.128.0/18|CN|apnic|2010-06-11|TENCENT-NET-AP Shenzhen Tencent Computer Systems Company Limited, CN
 1.117.152.114|9321|/Satoshi:0.14.3.2/|45090|1.117.128.0/18|CN|apnic|2010-06-11|TENCENT-NET-AP Shenzhen Tencent Computer Systems Company Limited, CN
 1.117.188.192|9321|/Satoshi:0.14.3.2/|45090|1.117.128.0/18|CN|apnic|2010-06-11|TENCENT-NET-AP Shenzhen Tencent Computer Systems Company Limited, CN
-1.83.207.174|9333|/LitecoinCore:0.18.1/|4134|1.80.0.0/13|CN|apnic|2010-08-05|CHINANET-BACKBONE No.31,Jin-rong Street, CN
 100.34.202.110|9333|/LitecoinCore:0.21.2/|701|100.34.0.0/16|US|arin|2010-12-28|UUNET, US
 101.99.94.225|9333|/LitecoinCore:0.18.1/|201133|101.99.94.0/24|MY|apnic|2011-03-15|VERDINA, BZ
 103.204.131.241|9333|/LitecoinCore:0.18.1/|55293|103.204.130.0/23|US|arin|2021-10-06|A2HOSTING, US
@@ -51,6 +50,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 116.203.72.169|9333|/LitecoinCore:0.21.2/|24940|116.203.0.0/16|DE|ripencc|2011-01-17|HETZNER-AS, DE
 118.163.120.179|9333|/LitecoinCore:0.18.1/|3462|118.163.0.0/16|TW|apnic|2007-10-04|HINET Data Communication Business Group, TW
 118.163.122.208|9333|/LitecoinCore:0.18.1/|3462|118.163.0.0/16|TW|apnic|2007-10-04|HINET Data Communication Business Group, TW
+118.163.74.161|9333|/LitecoinCore:0.21.2/|3462|118.163.0.0/16|TW|apnic|2007-10-04|HINET Data Communication Business Group, TW
 119.12.166.212|9333|/LitecoinCore:0.21.2.1/|136907|119.12.160.0/20|SG|apnic|2007-11-26|HWCLOUDS-AS-AP HUAWEI CLOUDS, HK
 120.77.249.96|9333|/LitecoinCore:0.21.2/|37963|120.77.128.0/17|CN|apnic|2008-03-27|ALIBABA-CN-NET Hangzhou Alibaba Advertising Co.,Ltd., CN
 121.37.71.34|9321|/Satoshi:0.14.3.2/|55990|121.37.64.0/18|CN|apnic|2006-07-26|HWCSNET Huawei Cloud Service data center, CN
@@ -405,7 +405,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 2001:67c:2b0:db32:0:1:a5e3:54c8|9333|/LitecoinCore:0.17.1/|29432|2001:67c:2b0::/48|FI|ripencc|2010-08-10|TREX-AS, FI
 2001:7d0:8437:6f01:222:7ff:fefa:fbfd|9333|/LitecoinCore:0.21.2/|3249|2001:7d0::/32|EE|ripencc|2002-05-16|ESTPAK, EE
 2001:b011:9:5855:f47e:ee64:3dc7:526a|9333|/LitecoinCore:0.21.2/|3462|2001:b011::/37|TW|apnic|2006-03-15|HINET Data Communication Business Group, TW
-2001:b07:a3c:5df:5bf7:3a0b:60cb:27a|9333|/LitecoinCore:0.21.2.1/|12874|2001:b00::/29|IT|ripencc|2003-02-13|FASTWEB, IT
+2001:b07:6467:1987:ec32:c3d5:8ac8:c6f|9333|/LitecoinCore:0.21.2/|12874|2001:b00::/29|IT|ripencc|2003-02-13|FASTWEB, IT
 2001:bc8:47a4:1119::1|9532|/LitecoinCore:0.18.1/|12876|2001:bc8::/32|FR|ripencc|2003-04-15|Online SAS, FR
 2001:ee0:d701:e530:88e2:ab72:661d:8a8d|9333|/LitecoinCore:0.21.2.1/|45899|2001:ee0:d700::/42|VN|apnic|2004-05-10|VNPT-AS-VN VNPT Corp, VN
 2001:f40:909:3f57:d16d:fd63:c5b0:747f|9333|/LitecoinCore:0.18.1/|9930|2001:f40::/32|MY|apnic|2004-07-27|TTNET-MY TIME dotCom Berhad No. 14, Jalan Majistret U126 Hicom Glenmarie Industrial Park 40150 Shah Alam Selangor, Malaysia, MY
@@ -641,7 +641,6 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 2a07:5741:0:608::1|9333|/LitecoinCore:0.18.1/|44901|2a07:5741::/32|BG|ripencc|2016-04-14|BELCLOUD, BG
 2a07:e00::67:89|9333|/LitecoinCore:0.17.1/|210083|2a07:e00::/48|BZ|ripencc|2018-10-11|PRIVEX, BZ
 2a0b:f300:2:6::2|9333|/LitecoinCore:0.21.2.1/|62240|2a0b:f300::/32|GB|ripencc|2016-10-28|CLOUVIDER Clouvider - Global ASN, GB
-2a11:2b07:f001:c0:813:eeea:cdf6:4574|9333|/LitecoinCore:0.18.1/|210892|2a11:2b07:f001::/48|GB|ripencc|2021-07-28|LIGHTSPEED, GB
 3.11.11.106|9333|/LitecoinCore:0.21.2/|16509|3.8.0.0/14|US|arin|2017-12-20|AMAZON-02, US
 3.112.68.238|9333|/LitecoinCore:0.21.2.1/|16509|3.112.0.0/14|US|arin|2017-12-20|AMAZON-02, US
 3.120.231.107|9333|/LitecoinCore:0.21.2.1/|16509|3.120.0.0/14|US|arin|2017-12-20|AMAZON-02, US
@@ -729,7 +728,6 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 41.72.158.202|9333|/LitecoinCore:0.18.1/|37153|41.72.128.0/19|ZA|afrinic|2009-11-25|xneelo, ZA
 42.192.235.164|9333|/LitecoinCore:0.18.1/|45090|42.192.192.0/18|CN|apnic|2011-03-04|TENCENT-NET-AP Shenzhen Tencent Computer Systems Company Limited, CN
 44.200.227.119|9333|/LitecoinCore:0.21.2/|14618|44.192.0.0/11|US|arin|2019-07-18|AMAZON-AES, US
-44.204.242.241|9333|/LitecoinCore:0.21.2/|14618|44.192.0.0/11|US|arin|2019-07-18|AMAZON-AES, US
 44.225.254.244|9333|/LitecoinCore:0.21.2/|16509|44.224.0.0/11|US|arin|2019-07-18|AMAZON-02, US
 45.11.57.69|9333|/LitecoinCore:0.18.1/|43180|45.11.57.0/24|UA|ripencc|2019-04-26|CLOUDNETWORKS-AS, UA
 45.116.78.202|9321|/Satoshi:0.14.3.2/|55933|45.116.76.0/22|HK|apnic|2015-05-01|CLOUDIE-AS-AP Cloudie Limited, HK
@@ -856,7 +854,6 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 54.151.234.60|20008|/LitecoinCore:0.18.1/|16509|54.151.128.0/17|US|arin|2014-10-23|AMAZON-02, US
 54.151.82.59|9333|/LitecoinCore:0.18.1/|16509|54.151.0.0/17|US|arin|2014-10-23|AMAZON-02, US
 54.155.133.135|9333|/LitecoinCore:0.18.1/|16509|54.155.0.0/16|US|arin|2014-10-23|AMAZON-02, US
-54.162.182.185|9333|/LitecoinCore:0.21.2/|14618|54.160.0.0/14|US|arin|2014-10-23|AMAZON-AES, US
 54.167.45.162|8333|/LitecoinCore:0.18.1/|14618|54.167.0.0/17|US|arin|2014-10-23|AMAZON-AES, US
 54.168.108.102|9333|/LitecoinCore:0.17.1/|16509|54.168.0.0/16|US|arin|2014-10-23|AMAZON-02, US
 54.180.97.188|9333|/LitecoinCore:0.16.3/|16509|54.180.0.0/15|US|arin|2014-10-23|AMAZON-02, US
@@ -1049,7 +1046,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 91.239.130.62|9333|/LitecoinCore:0.18.1/|62240|91.239.130.0/24|GB|ripencc|2019-11-12|CLOUVIDER Clouvider - Global ASN, GB
 91.239.206.224|9333|/LitecoinCore:0.21.2.1/|47810|91.239.206.0/24|GE|ripencc|2012-05-25|PROSERVICE, GE
 92.204.40.25|9333|/LitecoinCore:0.21.2/|8972|92.204.40.0/24|DE|ripencc|2007-10-17|GD-EMEA-DC-SXB1, DE
-92.205.22.26|9333|/LitecoinCore:0.21.2/
+92.205.22.26|9333|/LitecoinCore:0.21.2/|21499|92.205.0.0/19|DE|ripencc|2007-10-17|GODADDY-SXB, DE
 92.245.6.89|9333|/LitecoinCore:0.21.2.1/|44631|92.245.0.0/20|SK|ripencc|2008-02-08|CONDORNET, SK
 93.103.195.34|9333|/LitecoinCore:0.16.3/|34779|93.103.192.0/19|SI|ripencc|2008-03-14|T-2-AS AS set propagated by T-2 d.o.o., SI
 93.189.27.164|9333|/LitecoinCore:0.18.1/|44133|93.189.24.0/21|AT|ripencc|2008-04-23|IPAX-AS, AT
