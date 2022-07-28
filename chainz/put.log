@@ -2,7 +2,7 @@
 # PutinCoin
 IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 102.38.63.130|/Satoshi:1.0.0/|60013|5713|102.38.60.0/22|ZA|afrinic|2019-08-21|SAIX-NET, ZA
-104.238.221.41|???|0|23470|104.238.221.0/24|US|arin|2018-04-13|RELIABLESITE, US
+104.238.221.41|Satoshi:1.0.0|60013|23470|104.238.221.0/24|US|arin|2018-04-13|RELIABLESITE, US
 109.40.242.117|/Satoshi:1.0.0/|60013|3209|109.40.0.0/14|DE|ripencc|2009-11-04|VODANET International IP-Backbone of Vodafone, DE
 13.214.86.135|/Satoshi:1.0.0/|60013|16509|13.214.0.0/15|US|arin|2019-10-01|AMAZON-02, US
 13.215.71.122|/Satoshi:1.0.0/|60013|16509|13.214.0.0/15|US|arin|2019-10-01|AMAZON-02, US
@@ -32,11 +32,10 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 178.62.114.74|Satoshi:1.0.0|60013|14061|178.62.64.0/18|US|ripencc|2010-02-26|DIGITALOCEAN-ASN, US
 178.79.169.181|/Satoshi:1.0.0/|60013|63949|178.79.128.0/18|US|ripencc|2010-05-10|LINODE-AP Linode, LLC, US
 178.79.170.166|/Satoshi:1.0.0/|60013|63949|178.79.128.0/18|US|ripencc|2010-05-10|LINODE-AP Linode, LLC, US
-180.190.216.202|/Satoshi:1.0.0/|60013|132199|180.190.216.0/22|PH|apnic|2009-09-17|GLOBE-MOBILE-5TH-GEN-AS Globe Telecom Inc., PH
+180.190.210.65|/Satoshi:1.0.0/|60013|132199|180.190.208.0/22|PH|apnic|2009-09-17|GLOBE-MOBILE-5TH-GEN-AS Globe Telecom Inc., PH
 180.190.222.205|/Satoshi:1.0.0/|60013|132199|180.190.222.0/23|PH|apnic|2009-09-17|GLOBE-MOBILE-5TH-GEN-AS Globe Telecom Inc., PH
 185.182.187.87|/Satoshi:1.0.0/|60013|51167|185.182.186.0/23|DE|ripencc|2016-12-16|CONTABO, DE
 193.106.163.80|/Satoshi:1.0.0/|60013|43936|193.106.162.0/23|UA|ripencc|2010-01-11|EVPANET-AS, UA
-193.83.184.211|/Satoshi:1.0.0/|60013|1901|193.83.0.0/16|AT|ripencc|1995-05-12|EUNETAT-AS A1 Telekom Austria AG, AT
 194.230.160.73|/Satoshi:1.0.0/|60013|6730|194.230.0.0/16|CH|ripencc|1996-01-23|SUNRISE, CH
 194.96.22.191|/Satoshi:1.0.0/|60013|1901|194.96.0.0/16|AT|ripencc|1994-09-28|EUNETAT-AS A1 Telekom Austria AG, AT
 195.91.131.250|/Satoshi:1.0.0/|60013|8331|195.91.128.0/17|RU|ripencc|1997-08-01|RINET-AS Cronyx Plus Ltd, RU
@@ -49,7 +48,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 217.245.66.4|/Satoshi:1.0.0/|60013|3320|217.224.0.0/11|DE|ripencc|2001-04-04|DTAG Internet service provider operations, DE
 217.245.74.69|/Satoshi:1.0.0/|60013|3320|217.224.0.0/11|DE|ripencc|2001-04-04|DTAG Internet service provider operations, DE
 23.88.108.198|/Satoshi:1.0.0/|60013|24940|23.88.0.0/17|DE|ripencc|2013-06-07|HETZNER-AS, DE
-31.150.41.196|/Satoshi:1.0.0/|60013|9145|31.150.0.0/16|DE|ripencc|2011-02-17|EWETEL Cloppenburger Strasse 310, DE
 34.168.19.105|/Satoshi:1.0.0/|60013|396982|34.168.0.0/17|US|arin|2021-01-08|GOOGLE-CLOUD-PLATFORM, US
 34.66.160.236|/Satoshi:1.0.0/|60013|396982|34.66.160.0/20|US|arin|2018-09-28|GOOGLE-CLOUD-PLATFORM, US
 34.70.103.170|/Satoshi:1.0.0/|60013|396982|34.70.96.0/20|US|arin|2018-09-28|GOOGLE-CLOUD-PLATFORM, US
@@ -81,13 +79,13 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 79.235.168.187|/Satoshi:1.0.0/|60013|3320|79.192.0.0/10|DE|ripencc|2007-06-06|DTAG Internet service provider operations, DE
 80.228.156.241|/Satoshi:1.0.0/|60013|9145|80.228.0.0/16|DE|ripencc|2003-02-14|EWETEL Cloppenburger Strasse 310, DE
 80.85.86.106|/Satoshi:1.0.0/|60013|63949|80.85.84.0/22|US|ripencc|2003-05-19|LINODE-AP Linode, LLC, US
+81.223.26.194|/Satoshi:1.0.0/|60013|8412|81.223.0.0/17|AT|ripencc|2002-12-02|TMA Magenta Telekom, AT
 82.102.22.222|/Satoshi:1.0.0/|60013|9009|82.102.22.0/24|GB|ripencc|2003-12-29|M247, GB
 83.135.243.211|/Satoshi:1.0.0/|60013|8881|83.135.240.0/22|DE|ripencc|2004-01-28|VERSATEL, DE
 84.132.44.16|/Satoshi:1.0.0/|60013|3320|84.128.0.0/10|DE|ripencc|2004-03-10|DTAG Internet service provider operations, DE
 84.132.44.250|/Satoshi:1.0.0/|60013|3320|84.128.0.0/10|DE|ripencc|2004-03-10|DTAG Internet service provider operations, DE
 84.169.103.163|/Satoshi:1.0.0/|60013|3320|84.128.0.0/10|DE|ripencc|2004-03-10|DTAG Internet service provider operations, DE
 84.169.33.224|/Satoshi:1.0.0/|60013|3320|84.128.0.0/10|DE|ripencc|2004-03-10|DTAG Internet service provider operations, DE
-84.169.99.206|/Satoshi:1.0.0/|60013|3320|84.128.0.0/10|DE|ripencc|2004-03-10|DTAG Internet service provider operations, DE
 87.160.125.235|/Satoshi:1.0.0/|60013|3320|87.128.0.0/10|DE|ripencc|2006-03-30|DTAG Internet service provider operations, DE
 87.180.154.24|/Satoshi:1.0.0/|60013|3320|87.128.0.0/10|DE|ripencc|2006-03-30|DTAG Internet service provider operations, DE
 87.79.220.74|/Satoshi:1.0.0/|60013|8422|87.78.0.0/15|DE|ripencc|2005-05-31|NETCOLOGNE, DE
