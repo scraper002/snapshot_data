@@ -4,6 +4,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 104.238.221.41|Satoshi:0.20.2/Peercoin:0.11.4|70016|23470|104.238.221.0/24|US|arin|2018-04-13|RELIABLESITE, US
 109.60.60.10|/Satoshi:0.20.2/Peercoin:0.11.8/|70016|31012|109.60.0.0/17|HR|ripencc|2009-12-11|DCM-AS Vipnet d.o.o., HR
 118.208.180.6|/Satoshi:0.20.2/Peercoin:0.11.7/|70016|7545|118.208.160.0/19|AU|apnic|2007-10-24|TPG-INTERNET-AP TPG Telecom Limited, AU
+118.208.191.252|/Satoshi:0.20.2/Peercoin:0.11.7/|70016|7545|118.208.160.0/19|AU|apnic|2007-10-24|TPG-INTERNET-AP TPG Telecom Limited, AU
 119.45.242.241|/Satoshi:0.20.2/Peercoin:0.11.4/|70016|45090|119.45.240.0/20|CN|apnic|2008-01-03|TENCENT-NET-AP Shenzhen Tencent Computer Systems Company Limited, CN
 121.98.52.216|/Satoshi:0.20.2/Peercoin:0.11.0/|70016|9790|121.98.0.0/15|NZ|apnic|2007-09-24|VOCUSGROUPNZ VocusGroup, NZ
 122.228.157.92|/Satoshi:0.20.2/Peercoin:0.11.4/|70016|4134|122.224.0.0/12|CN|apnic|2006-11-16|CHINANET-BACKBONE No.31,Jin-rong Street, CN
@@ -70,7 +71,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 45.126.209.106|Satoshi:0.20.2/Peercoin:0.11.4|70016|23470|45.126.209.0/24|SG|apnic|2015-09-08|RELIABLESITE, US
 46.249.236.211|/Satoshi:0.20.2/Peercoin:0.11.8/|70016|41164|46.249.236.0/23|NO|ripencc|2011-01-14|GET-NO GET Norway, NO
 47.206.88.18|/Satoshi:0.20.2/Peercoin:0.11.8/|70016|5650|47.206.0.0/16|US|arin|2015-08-28|FRONTIER-FRTR, US
-47.92.87.183|/Satoshi:0.20.2/Peercoin:0.11.1/|70016||||||
+47.92.87.183|/Satoshi:0.20.2/Peercoin:0.11.1/|70016|37963|47.92.0.0/15|CN|apnic|1989-01-06|ALIBABA-CN-NET Hangzhou Alibaba Advertising Co.,Ltd., CN
 50.99.20.71|/Satoshi:0.20.2/Peercoin:0.11.4/|70016|852|50.99.0.0/16|CA|arin|2011-03-31|TELUS Communications, CA
 51.210.208.202|/Satoshi:0.20.2/Peercoin:0.11.8/|70016|16276|51.210.0.0/16|FR|ripencc|1993-09-01|OVH, FR
 51.7.177.183|/Satoshi:0.20.2/Peercoin:0.11.7/|70016|6871|51.6.0.0/15|GB|ripencc|1993-09-01|PLUSNET UK Internet Service Provider, GB
@@ -83,6 +84,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 70.91.250.149|/Satoshi:0.20.2/Peercoin:0.11.0/|70016|7922|70.88.0.0/14|US|arin|2004-08-09|COMCAST-7922, US
 73.142.139.2|/Satoshi:0.20.2/Peercoin:0.11.4/|70016|7922|73.0.0.0/8|US|arin|2005-04-19|COMCAST-7922, US
 73.194.98.202|/Satoshi:0.20.2/Peercoin:0.11.4/|70016|7922|73.0.0.0/8|US|arin|2005-04-19|COMCAST-7922, US
+74.135.197.38|/Satoshi:0.20.2/Peercoin:0.11.3/|70016|10796|74.135.128.0/17|US|arin|2006-04-07|TWC-10796-MIDWEST, US
 74.44.207.163|/Satoshi:0.20.2/Peercoin:0.11.0/|70016|7011|74.44.200.0/21|US|arin|2006-01-27|FRONTIER-AND-CITIZENS, US
 74.91.126.192|/Satoshi:0.20.2/Peercoin:0.11.2/|70016|400475|74.91.126.0/24|US|arin|2011-04-13|NUCLEARFALLOUT-DAL, US
 77.119.114.251|/Satoshi:0.20.2/Peercoin:0.11.8/|70016|8437|77.119.64.0/18|AT|ripencc|2007-01-10|UTA-AS, AT
@@ -95,6 +97,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 79.236.143.8|/Satoshi:0.20.2/Peercoin:0.11.4/|70016|3320|79.192.0.0/10|DE|ripencc|2007-06-06|DTAG Internet service provider operations, DE
 80.218.170.51|/Satoshi:0.20.2/Peercoin:0.11.4/|70016|6830|80.218.0.0/16|CH|ripencc|2002-04-04|LIBERTYGLOBAL Liberty Global formerly UPC Broadband Holding, aka AORTA, NL
 84.61.255.16|/Satoshi:0.20.2/Peercoin:0.11.8/|70016|3209|84.56.0.0/13|DE|ripencc|2004-08-17|VODANET International IP-Backbone of Vodafone, DE
+86.121.9.83|/Satoshi:0.20.2/Peercoin:0.11.1/|70016|8708|86.120.0.0/13|RO|ripencc|2005-03-16|RCS-RDS 73-75 Dr. Staicovici, RO
 87.79.237.229|/Satoshi:0.20.2/Peercoin:0.11.1/|70016|8422|87.78.0.0/15|DE|ripencc|2005-05-31|NETCOLOGNE, DE
 88.145.122.117|/Satoshi:0.20.2/Peercoin:0.11.1/|70016|12708|88.145.0.0/16|GB|ripencc|2005-11-18|ONETEL-AS TalkTalk Communications Limited, GB
 88.99.235.240|/Satoshi:0.20.2/Peercoin:0.11.0/|70016|24940|88.99.0.0/16|DE|ripencc|2005-08-03|HETZNER-AS, DE
