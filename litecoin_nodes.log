@@ -4,6 +4,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 1.116.179.24|9321|/Satoshi:0.14.3.2/|45090|1.116.128.0/18|CN|apnic|2010-06-11|TENCENT-NET-AP Shenzhen Tencent Computer Systems Company Limited, CN
 1.117.152.114|9321|/Satoshi:0.14.3.2/|45090|1.117.128.0/18|CN|apnic|2010-06-11|TENCENT-NET-AP Shenzhen Tencent Computer Systems Company Limited, CN
 1.117.188.192|9321|/Satoshi:0.14.3.2/|45090|1.117.128.0/18|CN|apnic|2010-06-11|TENCENT-NET-AP Shenzhen Tencent Computer Systems Company Limited, CN
+1.83.207.174|9333|/LitecoinCore:0.18.1/|4134|1.80.0.0/13|CN|apnic|2010-08-05|CHINANET-BACKBONE No.31,Jin-rong Street, CN
 100.34.202.110|9333|/LitecoinCore:0.21.2/|701|100.34.0.0/16|US|arin|2010-12-28|UUNET, US
 101.99.94.225|9333|/LitecoinCore:0.18.1/|201133|101.99.94.0/24|MY|apnic|2011-03-15|VERDINA, BZ
 103.204.131.241|9333|/LitecoinCore:0.18.1/|55293|103.204.130.0/23|US|arin|2021-10-06|A2HOSTING, US
@@ -397,6 +398,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 2001:41d0:a:4532::|9333|/LitecoinCore:0.18.1/|16276|2001:41d0::/32|FR|ripencc|2004-11-15|OVH, FR
 2001:41d0:a:58d1::11d8:8515|9333|/LitecoinCore:0.18.1/|16276|2001:41d0::/32|FR|ripencc|2004-11-15|OVH, FR
 2001:41d0:a:5bb9::|9027|/Satoshi:0.8.6.2/|16276|2001:41d0::/32|FR|ripencc|2004-11-15|OVH, FR
+2001:41d0:a:71c5::1|9333|/LitecoinCore:0.21.2/|16276|2001:41d0::/32|FR|ripencc|2004-11-15|OVH, FR
 2001:41d0:a:7a5e::|9027|/Satoshi:0.8.6.2/|16276|2001:41d0::/32|FR|ripencc|2004-11-15|OVH, FR
 2001:470:6f:579:52af:73ff:fe24:eb23|9333|/LitecoinCore:0.21.2/|6939|2001:470::/32|US|arin|2001-03-22|HURRICANE, US
 2001:67c:200c:226:da9d:67ff:fe19:2738|9333|/LitecoinCore:0.18.1/|51408|2001:67c:200c::/48|RU|ripencc|2011-01-14|SIRIUS-AS, RU
@@ -781,6 +783,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 5.188.78.238|3042|/LitecoinCore:0.21.2.1/|50340|5.188.78.0/23|RU|ripencc|2012-08-09|SELECTEL-MSK, RU
 5.189.187.89|9333|/LitecoinCore:0.16.0/|51167|5.189.176.0/20|DE|ripencc|2012-08-09|CONTABO, DE
 5.196.167.44|9333|/LitecoinCore:0.17.1/|16276|5.196.0.0/16|FR|ripencc|2012-08-23|OVH, FR
+5.196.80.197|9333|/LitecoinCore:0.21.2/|16276|5.196.0.0/16|FR|ripencc|2012-08-23|OVH, FR
 5.196.91.94|9027|/Satoshi:0.8.6.2/|16276|5.196.0.0/16|FR|ripencc|2012-08-23|OVH, FR
 5.2.70.172|9333|/LitecoinCore:0.21.2/|60404|5.2.70.0/24|NL|ripencc|2012-04-27|LITESERVER, NL
 5.230.29.9|9333|/LitecoinCore:0.18.1/|12586|5.230.0.0/15|DE|ripencc|2012-09-11|ASGHOSTNET, DE
@@ -1046,7 +1049,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 91.239.130.62|9333|/LitecoinCore:0.18.1/|62240|91.239.130.0/24|GB|ripencc|2019-11-12|CLOUVIDER Clouvider - Global ASN, GB
 91.239.206.224|9333|/LitecoinCore:0.21.2.1/|47810|91.239.206.0/24|GE|ripencc|2012-05-25|PROSERVICE, GE
 92.204.40.25|9333|/LitecoinCore:0.21.2/|8972|92.204.40.0/24|DE|ripencc|2007-10-17|GD-EMEA-DC-SXB1, DE
-92.205.22.26|9333|/LitecoinCore:0.21.2/|21499|92.205.0.0/19|DE|ripencc|2007-10-17|GODADDY-SXB, DE
+92.205.22.26|9333|/LitecoinCore:0.21.2/
 92.245.6.89|9333|/LitecoinCore:0.21.2.1/|44631|92.245.0.0/20|SK|ripencc|2008-02-08|CONDORNET, SK
 93.103.195.34|9333|/LitecoinCore:0.16.3/|34779|93.103.192.0/19|SI|ripencc|2008-03-14|T-2-AS AS set propagated by T-2 d.o.o., SI
 93.189.27.164|9333|/LitecoinCore:0.18.1/|44133|93.189.24.0/21|AT|ripencc|2008-04-23|IPAX-AS, AT
