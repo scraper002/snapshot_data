@@ -8,7 +8,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 13.214.86.135|/Satoshi:1.0.0/|60013|16509|13.214.0.0/15|US|arin|2019-10-01|AMAZON-02, US
 13.215.71.122|/Satoshi:1.0.0/|60013|16509|13.214.0.0/15|US|arin|2019-10-01|AMAZON-02, US
 131.255.4.61|/Satoshi:1.0.0/|60013|61493|131.255.4.0/24|AR|lacnic|2014-10-22|InterBS S.R.L. BAEHOST, AR
-131.255.7.76|/Satoshi:1.0.0/|60013|61493|131.255.7.0/24|AR|lacnic|2014-10-22|InterBS S.R.L. BAEHOST, AR
 135.181.73.5|/Satoshi:1.0.0/|60013|24940|135.181.0.0/16|DE|ripencc|1996-04-30|HETZNER-AS, DE
 136.144.207.246|/Satoshi:1.0.0/|60013|20857|136.144.192.0/18|NL|ripencc|1989-08-29|TRANSIP-AS Amsterdam, the Netherlands, NL
 139.162.229.182|/Satoshi:1.0.0/|60013|63949|139.162.224.0/19|NL|ripencc|1990-03-24|LINODE-AP Linode, LLC, US
@@ -23,6 +22,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 176.52.35.210|/Satoshi:1.0.0/|60013|29194|176.52.34.0/23|RU|ripencc|2011-05-25|ASN-TVT Kazan, Tatarstan, Russia, RU
 176.58.112.183|/Satoshi:1.0.0/|60013|63949|176.58.96.0/19|US|ripencc|2011-06-06|LINODE-AP Linode, LLC, US
 176.58.116.82|/Satoshi:1.0.0/|60013|63949|176.58.96.0/19|US|ripencc|2011-06-06|LINODE-AP Linode, LLC, US
+177.71.109.12|/Satoshi:1.0.0/|60013|271397|177.71.109.0/24|BR|lacnic|2021-11-24|Anderson Barreto da Cruz, BR
 178.165.174.16|/Satoshi:1.0.0/|60013|25255|178.165.160.0/19|AT|ripencc|2010-02-23|H3G-AUSTRIA-AS TELE2 AUSTRIA , AT
 178.197.208.209|/Satoshi:1.0.0/|60013|3303|178.196.0.0/15|CH|ripencc|2010-02-24|SWISSCOM Swisscom Switzerland Ltd, CH
 178.62.114.74|Satoshi:1.0.0|60013|14061|178.62.64.0/18|US|ripencc|2010-02-26|DIGITALOCEAN-ASN, US
@@ -53,6 +53,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 45.63.1.153|/Satoshi:1.0.0/|60013|20473|45.63.0.0/20|US|arin|2015-01-02|AS-CHOOPA, US
 46.160.39.27|/Satoshi:1.0.0/|60013|47241|46.160.39.0/24|RU|ripencc|2010-10-27|IV-TELECOM-AS, RU
 46.5.17.104|/Satoshi:1.0.0/|60013|3209|46.5.0.0/17|DE|ripencc|2010-09-02|VODANET International IP-Backbone of Vodafone, DE
+46.81.133.130|/Satoshi:1.0.0/|60013|3320|46.80.0.0/12|DE|ripencc|2010-06-07|DTAG Internet service provider operations, DE
 46.94.115.124|/Satoshi:1.0.0/|60013|3320|46.80.0.0/12|DE|ripencc|2010-06-07|DTAG Internet service provider operations, DE
 5.104.216.45|/Satoshi:1.0.0/|60013|28760|5.104.216.0/21|AT|ripencc|2012-07-02|INFOTECH-AT-AS Schaerdinger Str. 35, AT
 51.81.102.211|/Satoshi:1.0.0/|60013|16276|51.81.0.0/17|US|arin|2019-03-11|OVH, FR
@@ -68,10 +69,9 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 80.85.86.106|/Satoshi:1.0.0/|60013|63949|80.85.84.0/22|US|ripencc|2003-05-19|LINODE-AP Linode, LLC, US
 81.223.26.194|/Satoshi:1.0.0/|60013|8412|81.223.0.0/17|AT|ripencc|2002-12-02|TMA Magenta Telekom, AT
 83.135.243.206|/Satoshi:1.0.0/|60013|8881|83.135.240.0/22|DE|ripencc|2004-01-28|VERSATEL, DE
-84.132.44.250|/Satoshi:1.0.0/|60013|3320|84.128.0.0/10|DE|ripencc|2004-03-10|DTAG Internet service provider operations, DE
 84.132.45.211|/Satoshi:1.0.0/|60013|3320|84.128.0.0/10|DE|ripencc|2004-03-10|DTAG Internet service provider operations, DE
+84.169.101.21|/Satoshi:1.0.0/|60013|3320|84.128.0.0/10|DE|ripencc|2004-03-10|DTAG Internet service provider operations, DE
 84.169.102.90|/Satoshi:1.0.0/|60013|3320|84.128.0.0/10|DE|ripencc|2004-03-10|DTAG Internet service provider operations, DE
-84.169.103.163|/Satoshi:1.0.0/|60013|3320|84.128.0.0/10|DE|ripencc|2004-03-10|DTAG Internet service provider operations, DE
 84.169.33.224|/Satoshi:1.0.0/|60013|3320|84.128.0.0/10|DE|ripencc|2004-03-10|DTAG Internet service provider operations, DE
 86.48.7.138|/Satoshi:1.0.0/|60013|136787|86.48.7.0/24|DE|ripencc|2005-04-14|TEFINCOMSA-AS-AP TEFINCOM S.A., PA
 86.48.7.233|/Satoshi:1.0.0/|60013|136787|86.48.7.0/24|DE|ripencc|2005-04-14|TEFINCOMSA-AS-AP TEFINCOM S.A., PA
@@ -95,6 +95,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 91.42.69.52|/Satoshi:1.0.0/|60013|3320|91.0.0.0/10|DE|ripencc|2006-07-03|DTAG Internet service provider operations, DE
 91.97.218.57|/Satoshi:1.0.0/|60013|9145|91.96.0.0/15|DE|ripencc|2006-08-30|EWETEL Cloppenburger Strasse 310, DE
 92.116.98.139|/Satoshi:1.0.0/|60013|8881|92.116.96.0/19|DE|ripencc|2007-10-25|VERSATEL, DE
+92.200.171.125|/Satoshi:1.0.0/|60013|20676|92.200.0.0/15|DE|ripencc|2007-10-17|PLUSNET *****************, DE
 92.200.246.123|/Satoshi:1.0.0/|60013|20676|92.200.0.0/15|DE|ripencc|2007-10-17|PLUSNET *****************, DE
 92.86.39.175|/Satoshi:1.0.0/|60013|9050|92.86.0.0/16|RO|ripencc|2007-08-15|RTD Bucharest, Romania, RO
 93.132.149.220|/Satoshi:1.0.0/|60013|6805|93.128.0.0/13|DE|ripencc|2008-04-14|TDDE-ASN1, DE
