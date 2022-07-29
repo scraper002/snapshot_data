@@ -69,7 +69,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 213.227.68.204|/LitecoinCashCore:0.16.3/|70015|199551|213.227.68.0/22|PL|ripencc|2000-10-16|MULTIPLAYPL-AS, PL
 213.232.124.121|/LitecoinCashCore:0.16.3/|70015|209836|213.232.124.0/24|IR|ripencc|2018-12-07|NHCO, IR
 213.91.128.133|/LitecoinCashCore:0.16.3/|70015|8866|213.91.128.0/17|BG|ripencc|2002-09-05|BTC-AS BULGARIA, BG
-216.70.154.55|/LitecoinCashCore:0.16.3/|70015|14265|216.70.152.0/22|US|arin|2005-05-23|US-TELEPACIFIC, US
 217.12.73.52|/LitecoinCashCore:0.16.3/|70015|51570|217.12.72.0/21|RU|ripencc|2009-03-02|SPB-AS, RU
 217.150.73.11|/LitecoinCashCore:0.16.3/|70015|196949|217.150.72.0/21|RU|ripencc|2012-07-11|PODRYAD-AS, RU
 217.182.199.85|/LitecoinCashCore:0.16.3/|70015|16276|217.182.0.0/16|FR|ripencc|2001-03-02|OVH, FR
@@ -123,6 +122,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 73.47.177.150|/LitecoinCashCore:0.16.3/|70015|7922|73.0.0.0/8|US|arin|2005-04-19|COMCAST-7922, US
 74.136.37.85|/LitecoinCashCore:0.16.3/|70015|10796|74.128.0.0/12|US|arin|2006-04-07|TWC-10796-MIDWEST, US
 76.141.233.20|/LitecoinCashCore:0.16.3/|70015|7922|76.128.0.0/11|US|arin|2007-01-02|COMCAST-7922, US
+76.26.39.245|/LitecoinCashCore:0.16.1.3/|70015|7922|76.16.0.0/12|US|arin|2006-06-28|COMCAST-7922, US
 77.181.149.7|/LitecoinCashCore:0.16.3/|70015|6805|77.176.0.0/12|DE|ripencc|2006-11-17|TDDE-ASN1, DE
 77.230.77.60|/LitecoinCashCore:0.16.3/|70015|12430|77.224.0.0/13|ES|ripencc|2006-12-06|VODAFONE_ES, ES
 78.154.14.116|/LitecoinCashCore:0.16.3/|70015|8866|78.154.14.0/23|BG|ripencc|2007-07-13|BTC-AS BULGARIA, BG
@@ -132,6 +132,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 80.213.74.32|/LitecoinCashCore:0.15.0.1/|70015|2119|80.212.0.0/15|NO|ripencc|2001-12-24|TELENOR-NEXTEL Telenor Norge AS, NO
 80.219.190.80|/LitecoinCashCore:0.16.3/|70015|6830|80.219.0.0/16|CH|ripencc|2002-04-04|LIBERTYGLOBAL Liberty Global formerly UPC Broadband Holding, aka AORTA, NL
 81.166.67.20|/LitecoinCashCore:0.16.3/|70015|29695|81.166.0.0/15|NO|ripencc|2005-01-04|ALTIBOX_AS Norway, NO
+82.215.124.126|/LitecoinCashCore:0.16.3/|70015|12365|82.215.124.0/22|UZ|ripencc|2003-11-17|SARKOR-AS Sarkor Telecom - Uztelecom, Upstream, UZ
 82.66.47.169|/LitecoinCashCore:0.16.3/|70015|12322|82.64.0.0/14|FR|ripencc|2003-04-03|PROXAD, FR
 82.66.94.6|/LitecoinCashCore:0.16.3/|70015|12322|82.64.0.0/14|FR|ripencc|2003-04-03|PROXAD, FR
 83.195.190.81|/LitecoinCashCore:0.16.3/|70015|3215|83.195.128.0/17|FR|ripencc|2003-12-12|France Telecom - Orange, FR
@@ -148,6 +149,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 88.109.5.45|/LitecoinCashCore:0.16.3/|70015|9105|88.108.0.0/15|GB|ripencc|2005-08-05|TISCALI-UK TalkTalk Communications Limited, GB
 88.99.235.240|/LitecoinCashCore:0.16.3/|70015|24940|88.99.0.0/16|DE|ripencc|2005-08-03|HETZNER-AS, DE
 89.143.41.24|/LitecoinCashCore:0.16.3/|70015|5603|89.143.0.0/18|SI|ripencc|2006-03-03|SIOL-NET Telekom Slovenije d.d., SI
+89.146.109.95|/LitecoinCashCore:0.16.3/|70015|12365|89.146.64.0/18|UZ|ripencc|2006-02-03|SARKOR-AS Sarkor Telecom - Uztelecom, Upstream, UZ
 89.212.249.4|/LitecoinCashCore:0.16.3/|70015|34779|89.212.192.0/18|SI|ripencc|2006-05-03|T-2-AS AS set propagated by T-2 d.o.o., SI
 90.52.34.237|/LitecoinCashCore:0.16.3/|70015|3215|90.52.0.0/17|FR|ripencc|2006-03-02|France Telecom - Orange, FR
 91.92.61.116|/LitecoinCashCore:0.16.3/|70015|62106|91.92.61.0/24|BG|ripencc|2006-08-15|CISBG-AS, BG
