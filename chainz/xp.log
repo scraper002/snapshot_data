@@ -12,13 +12,12 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 109.64.227.166|/eXperience Points Core:5.2.0.3/|70922||||||
 109.64.232.178|/eXperience Points Core:5.2.0.3/|70922||||||
 109.64.37.213|/eXperience Points Core:5.2.0.3/|70922||||||
-109.64.82.253|/eXperience Points Core:5.2.0.3/|70922||||||
 109.64.93.49|/eXperience Points Core:5.2.0.3/|70922||||||
 109.64.94.20|/eXperience Points Core:5.2.0.3/|70922||||||
 109.66.1.183|/eXperience Points Core:5.2.0.3/|70922||||||
 109.66.147.219|/eXperience Points Core:5.2.0.3/|70922||||||
 109.66.153.62|/eXperience Points Core:5.2.0.3/|70922||||||
-109.66.160.179|/eXperience Points Core:5.2.0.3/|70922||||||
+109.66.160.179|/eXperience Points Core:5.2.0.3/|70922|8551|109.66.160.0/24|IL|ripencc|2009-08-10|BEZEQ-INTERNATIONAL-AS Bezeqint Internet Backbone, IL
 109.66.175.119|/eXperience Points Core:5.2.0.3/|70922||||||
 109.66.44.173|/eXperience Points Core:5.2.0.3/|70922||||||
 109.66.9.126|/eXperience Points Core:5.2.0.3/|70922||||||
@@ -29,6 +28,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 114.161.68.241|/eXperience Points Core:5.2.0.2/|70922||||||
 114.165.97.233|/eXperience Points Core:5.2.0.3/|70922||||||
 115.36.226.159|/eXperience Points Core:5.2.0.2/|70922||||||
+116.70.223.212|/eXperience Points Core:5.2.0.2/|70922||||||
 118.7.247.67|/eXperience Points Core:5.2.0.3/|70922||||||
 118.7.66.3|/eXperience Points Core:5.2.0.2/|70922||||||
 118.9.78.0|/eXperience Points Core:5.2.0.3/|70922||||||
@@ -38,7 +38,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 121.102.53.139|/eXperience Points Core:5.2.0.3/|70922||||||
 121.221.174.186|/eXperience Points Core:5.2.0.2/|70922||||||
 121.83.33.77|/eXperience Points Core:5.2.0.2/|70922||||||
-121.93.195.151|/eXperience Points Core:5.2.0.2/|70922||||||
 122.208.194.73|/eXperience Points Core:5.2.0.3/|70922||||||
 124.219.169.76|/eXperience Points Core:5.2.0.2/|70922||||||
 124.96.103.115|/eXperience Points Core:5.2.0.2/|70922||||||
@@ -74,7 +73,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 144.91.122.202|/eXperience Points Core:5.2.0.3/|70922||||||
 144.91.122.235|/eXperience Points Core:5.2.0.3/|70922||||||
 144.91.123.45|/eXperience Points Core:5.2.0.3/|70922||||||
-144.91.123.79|/eXperience Points Core:5.2.0.3/|70922||||||
 144.91.123.92|/eXperience Points Core:5.2.0.3/|70922||||||
 144.91.125.107|/eXperience Points Core:5.2.0.3/|70922||||||
 144.91.67.111|/eXperience Points Core:5.2.0.3/|70922||||||
@@ -84,29 +82,28 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 144.91.79.146|/eXperience Points Core:5.2.0.3/|70922||||||
 144.91.99.56|/eXperience Points Core:5.2.0.3/|70922||||||
 147.251.16.170|/eXperience Points Core:5.2.0.3/|70922||||||
-151.36.139.221|/eXperience Points Core:5.2.0.2/|70922||||||
-151.36.151.15|/eXperience Points Core:5.2.0.2/|70922||||||
-151.36.156.41|/eXperience Points Core:5.2.0.2/|70922||||||
-151.36.164.198|/eXperience Points Core:5.2.0.2/|70922||||||
-151.38.167.209|/eXperience Points Core:5.2.0.2/|70922||||||
-151.46.47.232|/eXperience Points Core:5.2.0.2/|70922||||||
-151.46.53.57|/eXperience Points Core:5.2.0.2/|70922||||||
-153.192.64.74|/eXperience Points Core:5.2.0.3/|70922||||||
-153.231.61.149|/eXperience Points Core:5.2.0.2/|70922||||||
-153.246.183.47|/eXperience Points Core:5.2.0.2/|70922||||||
+151.36.151.15|/eXperience Points Core:5.2.0.2/|70922|1267|151.36.0.0/16|IT|ripencc|1991-05-13|ASN-WINDTRE IUNET, IT
+151.36.156.41|/eXperience Points Core:5.2.0.2/|70922|1267|151.36.0.0/16|IT|ripencc|1991-05-13|ASN-WINDTRE IUNET, IT
+151.36.164.198|/eXperience Points Core:5.2.0.2/|70922|1267|151.36.0.0/16|IT|ripencc|1991-05-13|ASN-WINDTRE IUNET, IT
+151.38.167.209|/eXperience Points Core:5.2.0.2/|70922|1267|151.38.0.0/16|IT|ripencc|1991-05-13|ASN-WINDTRE IUNET, IT
+151.46.47.232|/eXperience Points Core:5.2.0.2/|70922|1267|151.46.0.0/16|IT|ripencc|1991-05-13|ASN-WINDTRE IUNET, IT
+151.46.53.57|/eXperience Points Core:5.2.0.2/|70922|1267|151.46.0.0/16|IT|ripencc|1991-05-13|ASN-WINDTRE IUNET, IT
+153.231.61.149|/eXperience Points Core:5.2.0.2/|70922|4713|153.224.0.0/12|JP|apnic|2011-02-28|OCN NTT Communications Corporation, JP
+153.246.183.47|/eXperience Points Core:5.2.0.2/|70922|4713|153.240.0.0/13|JP|apnic|2011-02-28|OCN NTT Communications Corporation, JP
 154.20.114.244|/eXperience Points Core:5.2.0.3/|70922||||||
 157.7.97.96|/eXperience Points Core:5.2.0.3/|70922||||||
-159.65.239.15|/eXperience Points Core:5.2.0.2/|70922||||||
+159.28.194.82|/eXperience Points Core:5.2.0.2/|70922|2527|159.28.128.0/17|JP|apnic|1992-03-02|SO-NET Sony Network Communications Inc., JP
+159.65.239.15|/eXperience Points Core:5.2.0.2/|70922|14061|159.65.224.0/20|US|arin|2017-10-24|DIGITALOCEAN-ASN, US
 159.89.130.92|/eXperience Points Core:5.2.0.3/|70922||||||
-160.16.94.56|/XP2-Core-CVMU:5.2.0.2/|70922||||||
+160.16.94.56|/XP2-Core-CVMU:5.2.0.2/|70922|9370|160.16.0.0/17|JP|apnic|1992-06-10|SAKURA-B SAKURA Internet Inc., JP
 161.97.127.140|/eXperience Points Core:5.2.0.3/|70922||||||
 161.97.127.183|/eXperience Points Core:5.2.0.3/|70922||||||
 161.97.127.224|/eXperience Points Core:5.2.0.3/|70922||||||
-161.97.127.48|/eXperience Points Core:5.2.0.3/|70922||||||
+161.97.127.49|/eXperience Points Core:5.2.0.3/|70922||||||
 161.97.127.55|/eXperience Points Core:5.2.0.3/|70922||||||
-161.97.130.104|/eXperience Points Core:5.2.0.2/|70922||||||
+161.97.130.104|/eXperience Points Core:5.2.0.2/|70922|51167|161.97.128.0/19|DE|ripencc|1992-06-23|CONTABO, DE
 161.97.138.137|/eXperience Points Core:5.2.0.3/|70922||||||
-161.97.152.55|/eXperience Points Core:5.2.0.2/|70922||||||
+161.97.152.55|/eXperience Points Core:5.2.0.2/|70922|51167|161.97.128.0/19|DE|ripencc|1992-06-23|CONTABO, DE
 161.97.153.16|/eXperience Points Core:5.2.0.3/|70922||||||
 161.97.166.80|/eXperience Points Core:5.2.0.3/|70922||||||
 161.97.166.81|/eXperience Points Core:5.2.0.3/|70922||||||
@@ -116,11 +113,13 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 161.97.169.243|/eXperience Points Core:5.2.0.3/|70922||||||
 161.97.169.245|/eXperience Points Core:5.2.0.3/|70922||||||
 161.97.176.211|/eXperience Points Core:5.2.0.3/|70922||||||
+161.97.176.212|/eXperience Points Core:5.2.0.3/|70922||||||
 161.97.176.214|/eXperience Points Core:5.2.0.3/|70922||||||
 161.97.176.215|/eXperience Points Core:5.2.0.3/|70922||||||
 161.97.176.216|/eXperience Points Core:5.2.0.3/|70922||||||
 161.97.176.217|/eXperience Points Core:5.2.0.3/|70922||||||
 161.97.176.219|/eXperience Points Core:5.2.0.3/|70922||||||
+161.97.73.119|/eXperience Points Core:5.2.0.3/|70922||||||
 161.97.92.137|/eXperience Points Core:5.2.0.3/|70922||||||
 161.97.94.144|/eXperience Points Core:5.2.0.3/|70922||||||
 161.97.95.41|/eXperience Points Core:5.2.0.3/|70922||||||
@@ -130,15 +129,12 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 161.97.97.36|/eXperience Points Core:5.2.0.3/|70922||||||
 161.97.97.38|/eXperience Points Core:5.2.0.3/|70922||||||
 161.97.97.39|/eXperience Points Core:5.2.0.3/|70922||||||
-161.97.97.43|/eXperience Points Core:5.2.0.3/|70922||||||
-164.68.102.151|/eXperience Points Core:5.2.0.2/|70922||||||
-164.68.102.153|/eXperience Points Core:5.2.0.3/|70922||||||
+164.68.102.151|/eXperience Points Core:5.2.0.2/|70922|51167|164.68.102.0/23|DE|ripencc|1992-12-17|CONTABO, DE
 164.68.102.166|/eXperience Points Core:5.2.0.3/|70922||||||
-164.68.112.216|/eXperience Points Core:5.2.0.2/|70922||||||
-164.68.112.220|/eXperience Points Core:5.2.0.3/|70922||||||
-164.68.112.229|/eXperience Points Core:5.2.0.2/|70922||||||
+164.68.112.216|/eXperience Points Core:5.2.0.2/|70922|51167|164.68.112.0/23|DE|ripencc|1992-12-17|CONTABO, DE
+164.68.112.229|/eXperience Points Core:5.2.0.2/|70922|51167|164.68.112.0/23|DE|ripencc|1992-12-17|CONTABO, DE
 164.68.112.235|/eXperience Points Core:5.2.0.3/|70922||||||
-167.172.85.197|/eXperience Points Core:5.2.0.2/|70922||||||
+167.172.85.197|/eXperience Points Core:5.2.0.2/|70922|14061|167.172.80.0/20|US|ripencc|1993-08-30|DIGITALOCEAN-ASN, US
 167.86.103.113|/eXperience Points Core:5.2.0.3/|70922||||||
 167.86.108.226|/eXperience Points Core:5.2.0.3/|70922||||||
 167.86.109.7|/eXperience Points Core:5.2.0.3/|70922||||||
@@ -146,6 +142,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 167.86.120.12|/eXperience Points Core:5.2.0.3/|70922||||||
 167.86.124.231|/eXperience Points Core:5.2.0.3/|70922||||||
 167.86.124.233|/eXperience Points Core:5.2.0.3/|70922||||||
+167.86.124.235|/eXperience Points Core:5.2.0.3/|70922||||||
 167.86.124.236|/eXperience Points Core:5.2.0.3/|70922||||||
 167.86.124.237|/eXperience Points Core:5.2.0.3/|70922||||||
 167.86.124.245|/eXperience Points Core:5.2.0.3/|70922||||||
@@ -153,79 +150,77 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 167.86.79.35|/eXperience Points Core:5.2.0.3/|70922||||||
 167.86.79.45|/eXperience Points Core:5.2.0.3/|70922||||||
 167.86.82.36|/eXperience Points Core:5.2.0.3/|70922||||||
-167.86.85.147|/eXperience Points Core:5.2.0.2/|70922||||||
+167.86.85.147|/eXperience Points Core:5.2.0.2/|70922|51167|167.86.84.0/23|DE|ripencc|1993-05-14|CONTABO, DE
 167.86.85.148|/eXperience Points Core:5.2.0.3/|70922||||||
 167.86.87.58|/eXperience Points Core:5.2.0.3/|70922||||||
 167.86.88.157|/eXperience Points Core:5.2.0.3/|70922||||||
-167.86.88.172|/eXperience Points Core:5.2.0.2/|70922||||||
+167.86.88.172|/eXperience Points Core:5.2.0.2/|70922|51167|167.86.88.0/23|DE|ripencc|1993-05-14|CONTABO, DE
 167.86.88.189|/eXperience Points Core:5.2.0.3/|70922||||||
-167.86.89.12|/eXperience Points Core:5.2.0.2/|70922||||||
+167.86.89.12|/eXperience Points Core:5.2.0.2/|70922|51167|167.86.88.0/23|DE|ripencc|1993-05-14|CONTABO, DE
 167.86.89.180|/eXperience Points Core:5.2.0.3/|70922||||||
 167.86.89.3|/eXperience Points Core:5.2.0.3/|70922||||||
+167.86.89.49|/eXperience Points Core:5.2.0.3/|70922||||||
 167.86.90.25|/eXperience Points Core:5.2.0.2/|70922||||||
+167.86.90.88|/eXperience Points Core:5.2.0.3/|70922||||||
 167.86.93.185|/eXperience Points Core:5.2.0.3/|70922||||||
-167.86.93.186|/eXperience Points Core:5.2.0.2/|70922||||||
 167.86.96.209|/eXperience Points Core:5.2.0.3/|70922||||||
-167.86.97.19|/eXperience Points Core:5.2.0.3/|70922||||||
-167.86.97.26|/eXperience Points Core:5.2.0.2/|70922||||||
-167.86.97.5|/eXperience Points Core:5.2.0.3/|70922||||||
+167.86.96.249|/eXperience Points Core:5.2.0.3/|70922||||||
+167.86.97.26|/eXperience Points Core:5.2.0.2/|70922|51167|167.86.96.0/23|DE|ripencc|1993-05-14|CONTABO, DE
 173.212.193.6|/eXperience Points Core:5.2.0.3/|70922||||||
 173.212.204.201|/eXperience Points Core:5.2.0.3/|70922||||||
-173.212.208.86|/eXperience Points Core:5.2.0.3/|70922||||||
-173.212.211.148|/eXperience Points Core:5.2.0.3/|70922||||||
-173.212.223.75|/eXperience Points Core:5.2.0.3/|70922||||||
-173.212.232.75|/eXperience Points Core:5.2.0.3/|70922||||||
-173.212.236.11|/eXperience Points Core:5.2.0.3/|70922||||||
-173.212.238.73|/eXperience Points Core:5.2.0.3/|70922||||||
-173.212.240.197|/eXperience Points Core:5.2.0.3/|70922||||||
-173.212.243.102|/eXperience Points Core:5.2.0.3/|70922||||||
-173.212.245.136|/eXperience Points Core:5.2.0.3/|70922||||||
-173.212.249.144|/eXperience Points Core:5.2.0.3/|70922||||||
-173.212.250.101|/eXperience Points Core:5.2.0.3/|70922||||||
-173.212.252.96|/eXperience Points Core:5.2.0.3/|70922||||||
-173.212.253.129|/eXperience Points Core:5.2.0.3/|70922||||||
-173.249.13.232|/eXperience Points Core:5.2.0.2/|70922||||||
-173.249.15.232|/eXperience Points Core:5.2.0.3/|70922||||||
-173.249.16.247|/eXperience Points Core:5.2.0.3/|70922|51167|173.249.16.0/23|DE|ripencc|2010-05-26|CONTABO, DE
-173.249.21.247|/eXperience Points Core:5.2.0.3/|70922||||||
-173.249.22.102|/eXperience Points Core:5.2.0.3/|70922||||||
-173.249.22.26|/eXperience Points Core:5.2.0.3/|70922||||||
+173.212.208.86|/eXperience Points Core:5.2.0.3/|70922|51167|173.212.192.0/19|DE|ripencc|2009-10-26|CONTABO, DE
+173.212.223.75|/eXperience Points Core:5.2.0.3/|70922|51167|173.212.192.0/19|DE|ripencc|2009-10-26|CONTABO, DE
+173.212.232.75|/eXperience Points Core:5.2.0.3/|70922|51167|173.212.224.0/20|DE|ripencc|2009-10-26|CONTABO, DE
+173.212.236.11|/eXperience Points Core:5.2.0.3/|70922|51167|173.212.224.0/20|DE|ripencc|2009-10-26|CONTABO, DE
+173.212.238.73|/eXperience Points Core:5.2.0.3/|70922|51167|173.212.224.0/20|DE|ripencc|2009-10-26|CONTABO, DE
+173.212.240.197|/eXperience Points Core:5.2.0.3/|70922|51167|173.212.240.0/21|DE|ripencc|2009-10-26|CONTABO, DE
+173.212.243.102|/eXperience Points Core:5.2.0.3/|70922|51167|173.212.240.0/21|DE|ripencc|2009-10-26|CONTABO, DE
+173.212.249.144|/eXperience Points Core:5.2.0.3/|70922|51167|173.212.248.0/22|DE|ripencc|2009-10-26|CONTABO, DE
+173.212.250.101|/eXperience Points Core:5.2.0.3/|70922|51167|173.212.248.0/22|DE|ripencc|2009-10-26|CONTABO, DE
+173.212.253.129|/eXperience Points Core:5.2.0.3/|70922|51167|173.212.252.0/23|DE|ripencc|2009-10-26|CONTABO, DE
+173.212.253.99|/eXperience Points Core:5.2.0.3/|70922|51167|173.212.252.0/23|DE|ripencc|2009-10-26|CONTABO, DE
+173.249.13.177|/eXperience Points Core:5.2.0.3/|70922|51167|173.249.12.0/23|DE|ripencc|2010-05-26|CONTABO, DE
+173.249.13.232|/eXperience Points Core:5.2.0.2/|70922|51167|173.249.12.0/23|DE|ripencc|2010-05-26|CONTABO, DE
+173.249.15.232|/eXperience Points Core:5.2.0.3/|70922|51167|173.249.14.0/23|DE|ripencc|2010-05-26|CONTABO, DE
+173.249.16.247|/eXperience Points Core:5.2.0.3/|70922||||||
+173.249.18.12|/eXperience Points Core:5.2.0.3/|70922|51167|173.249.18.0/23|DE|ripencc|2010-05-26|CONTABO, DE
+173.249.21.247|/eXperience Points Core:5.2.0.3/|70922|51167|173.249.20.0/23|DE|ripencc|2010-05-26|CONTABO, DE
+173.249.22.102|/eXperience Points Core:5.2.0.3/|70922|51167|173.249.22.0/23|DE|ripencc|2010-05-26|CONTABO, DE
+173.249.22.26|/eXperience Points Core:5.2.0.3/|70922|51167|173.249.22.0/23|DE|ripencc|2010-05-26|CONTABO, DE
 173.249.23.129|/eXperience Points Core:5.2.0.3/|70922||||||
 173.249.23.219|/eXperience Points Core:5.2.0.3/|70922||||||
-173.249.23.24|/eXperience Points Core:5.2.0.3/|70922||||||
 173.249.27.214|/eXperience Points Core:5.2.0.3/|70922||||||
 173.249.32.84|/eXperience Points Core:5.2.0.3/|70922||||||
 173.249.33.239|/eXperience Points Core:5.2.0.3/|70922||||||
 173.249.49.156|/eXperience Points Core:5.2.0.3/|70922||||||
-173.249.51.210|/eXperience Points Core:5.2.0.2/|70922||||||
+173.249.51.210|/eXperience Points Core:5.2.0.2/|70922|51167|173.249.50.0/23|DE|ripencc|2010-05-26|CONTABO, DE
 173.249.53.47|/eXperience Points Core:5.2.0.3/|70922||||||
 173.249.53.98|/eXperience Points Core:5.2.0.3/|70922||||||
-173.249.54.30|/eXperience Points Core:5.2.0.2/|70922||||||
 173.249.55.87|/eXperience Points Core:5.2.0.3/|70922||||||
 173.30.161.111|/eXperience Points Core:5.2.0.3/|70922||||||
-175.131.254.118|/eXperience Points Core:5.2.0.2/|70922||||||
-175.177.138.230|/eXperience Points Core:5.2.0.2/|70922||||||
-175.177.40.139|/eXperience Points Core:5.2.0.2/|70922||||||
+175.177.138.230|/eXperience Points Core:5.2.0.2/|70922|9365|175.177.0.0/16|JP|apnic|2010-01-21|ITSCOM its communications Inc., JP
+175.177.40.139|/eXperience Points Core:5.2.0.2/|70922|9365|175.177.0.0/16|JP|apnic|2010-01-21|ITSCOM its communications Inc., JP
 176.57.188.168|/eXperience Points Core:5.2.0.3/|70922||||||
-178.120.11.5|/eXperience Points Core:5.2.0.2/|70922||||||
+178.120.11.5|/eXperience Points Core:5.2.0.2/|70922|6697|178.120.8.0/21|BY|ripencc|2009-12-10|BELPAK-AS BELPAK, BY
 178.18.244.202|/eXperience Points Core:5.2.0.3/|70922||||||
 178.18.244.203|/eXperience Points Core:5.2.0.3/|70922||||||
-178.18.244.204|/eXperience Points Core:5.2.0.3/|70922||||||
 178.238.226.130|/eXperience Points Core:5.2.0.3/|70922||||||
 178.238.226.232|/eXperience Points Core:5.2.0.3/|70922||||||
 180.54.207.210|/eXperience Points Core:5.2.0.3/|70922||||||
 182.166.67.211|/eXperience Points Core:5.2.0.3/|70922||||||
-182.236.25.247|/eXperience Points Core:5.2.0.2/|70922||||||
-185.206.146.68|???|0||||||
+182.236.25.247|/eXperience Points Core:5.2.0.2/|70922|10013|182.236.16.0/20|JP|apnic|2010-04-23|FBDC FreeBit Co.,Ltd., JP
+185.191.188.225|/eXperience Points Core:5.2.0.2/|70922|60673|185.191.188.0/23|HU|ripencc|2017-02-24|ACTIVCOM, HU
+185.206.146.68|???|0|44901|185.206.146.0/24|CY|ripencc|2017-06-01|BELCLOUD, BG
 185.207.251.130|/eXperience Points Core:5.2.0.3/|70922||||||
-185.211.5.18|/eXperience Points Core:5.2.0.2/|70922||||||
-185.211.6.241|/eXperience Points Core:5.2.0.2/|70922||||||
-185.237.252.116|/eXperience Points Core:5.2.0.2/|70922||||||
-185.237.252.222|/eXperience Points Core:5.2.0.2/|70922||||||
-185.237.253.11|/eXperience Points Core:5.2.0.2/|70922||||||
-185.237.253.9|/eXperience Points Core:5.2.0.2/|70922||||||
+185.211.5.18|/eXperience Points Core:5.2.0.2/|70922|51167|185.211.5.0/24|DE|ripencc|2017-06-30|CONTABO, DE
+185.211.6.241|/eXperience Points Core:5.2.0.2/|70922|51167|185.211.6.0/24|DE|ripencc|2017-06-30|CONTABO, DE
+185.237.252.116|/eXperience Points Core:5.2.0.2/|70922|51167|185.237.252.0/23|DE|ripencc|2017-12-20|CONTABO, DE
+185.237.252.222|/eXperience Points Core:5.2.0.2/|70922|51167|185.237.252.0/23|DE|ripencc|2017-12-20|CONTABO, DE
+185.237.253.11|/eXperience Points Core:5.2.0.2/|70922|51167|185.237.252.0/23|DE|ripencc|2017-12-20|CONTABO, DE
+185.237.253.9|/eXperience Points Core:5.2.0.2/|70922|51167|185.237.252.0/23|DE|ripencc|2017-12-20|CONTABO, DE
 185.245.85.230|/eXperience Points Core:5.2.0.2/|70922||||||
-185.246.241.174|/eXperience Points Core:5.2.0.2/|70922||||||
+185.246.241.174|/eXperience Points Core:5.2.0.2/|70922|43700|185.246.240.0/22|LT|ripencc|2018-02-26|CO-AS, LT
+185.249.225.154|/eXperience Points Core:5.2.0.3/|70922||||||
 185.249.225.156|/eXperience Points Core:5.2.0.3/|70922||||||
 185.249.225.158|/eXperience Points Core:5.2.0.3/|70922||||||
 194.163.130.182|/eXperience Points Core:5.2.0.3/|70922||||||
@@ -239,49 +234,53 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 194.163.141.79|/eXperience Points Core:5.2.0.3/|70922||||||
 194.163.141.84|/eXperience Points Core:5.2.0.3/|70922||||||
 194.163.141.85|/eXperience Points Core:5.2.0.3/|70922||||||
-194.163.141.86|/eXperience Points Core:5.2.0.3/|70922|51167|194.163.128.0/18|DE|ripencc|1995-05-16|CONTABO, DE
-194.163.180.213|/eXperience Points Core:5.2.0.2/|70922||||||
-194.163.180.255|/eXperience Points Core:5.2.0.2/|70922||||||
+194.163.141.86|/eXperience Points Core:5.2.0.3/|70922||||||
+194.163.141.88|/eXperience Points Core:5.2.0.3/|70922||||||
+194.163.180.213|/eXperience Points Core:5.2.0.2/|70922|51167|194.163.128.0/18|DE|ripencc|1995-05-16|CONTABO, DE
+194.163.180.255|/eXperience Points Core:5.2.0.2/|70922|51167|194.163.128.0/18|DE|ripencc|1995-05-16|CONTABO, DE
 194.163.188.172|/eXperience Points Core:5.2.0.3/|70922||||||
 194.242.56.191|/eXperience Points Core:5.2.0.3/|70922||||||
 2.3.5.12|/eXperience Points Core:5.2.0.3/|70922||||||
 203.152.212.105|/eXperience Points Core:5.2.0.3/|70922||||||
 207.180.193.27|/eXperience Points Core:5.2.0.3/|70922||||||
 207.180.200.217|/eXperience Points Core:5.2.0.3/|70922||||||
-207.180.200.78|/eXperience Points Core:5.2.0.2/|70922||||||
+207.180.200.78|/eXperience Points Core:5.2.0.2/|70922|51167|207.180.200.0/23|DE|ripencc|1996-08-21|CONTABO, DE
 207.180.203.197|/eXperience Points Core:5.2.0.3/|70922||||||
 207.180.206.21|/eXperience Points Core:5.2.0.3/|70922||||||
-207.180.208.104|/eXperience Points Core:5.2.0.2/|70922||||||
+207.180.208.104|/eXperience Points Core:5.2.0.2/|70922|51167|207.180.208.0/23|DE|ripencc|1996-08-21|CONTABO, DE
 207.180.208.123|/eXperience Points Core:5.2.0.3/|70922||||||
-207.180.214.74|/eXperience Points Core:5.2.0.2/|70922||||||
-207.180.216.178|/eXperience Points Core:5.2.0.2/|70922||||||
+207.180.214.74|/eXperience Points Core:5.2.0.2/|70922|51167|207.180.214.0/23|DE|ripencc|1996-08-21|CONTABO, DE
+207.180.216.178|/eXperience Points Core:5.2.0.2/|70922|51167|207.180.216.0/23|DE|ripencc|1996-08-21|CONTABO, DE
 207.180.218.133|/eXperience Points Core:5.2.0.3/|70922||||||
-207.180.225.117|/eXperience Points Core:5.2.0.2/|70922||||||
-207.180.244.167|/eXperience Points Core:5.2.0.2/|70922||||||
+207.180.225.117|/eXperience Points Core:5.2.0.2/|70922|51167|207.180.224.0/23|DE|ripencc|1996-08-21|CONTABO, DE
+207.180.227.207|/eXperience Points Core:5.2.0.3/|70922||||||
+207.180.244.167|/eXperience Points Core:5.2.0.2/|70922|51167|207.180.244.0/23|DE|ripencc|1996-08-21|CONTABO, DE
 207.180.248.19|/eXperience Points Core:5.2.0.3/|70922||||||
 207.180.248.52|/eXperience Points Core:5.2.0.3/|70922||||||
 207.180.249.87|/eXperience Points Core:5.2.0.3/|70922||||||
 207.180.250.15|/eXperience Points Core:5.2.0.3/|70922||||||
-210.198.201.165|/eXperience Points Core:5.2.0.2/|70922||||||
+210.198.201.165|/eXperience Points Core:5.2.0.2/|70922|2516|210.198.128.0/17|JP|apnic|1999-06-09|KDDI KDDI CORPORATION, JP
 211.199.73.172|/eXperience Points Core:5.2.0.3/|70922||||||
 211.23.128.57|/eXperience Points Core:5.2.0.3/|70922||||||
-211.244.165.36|/eXperience Points Core:5.2.0.2/|70922||||||
+211.244.165.36|/eXperience Points Core:5.2.0.2/|70922|9318|211.244.0.0/16|KR|apnic|2000-09-08|SKB-AS SK Broadband Co Ltd, KR
+213.136.71.135|/eXperience Points Core:5.2.0.3/|70922||||||
 213.136.75.61|/eXperience Points Core:5.2.0.3/|70922||||||
 213.136.85.58|/eXperience Points Core:5.2.0.3/|70922||||||
 213.178.34.183|/eXperience Points Core:5.2.0.3/|70922||||||
-217.178.137.40|/eXperience Points Core:5.2.0.2/|70922||||||
+217.178.137.40|/eXperience Points Core:5.2.0.2/|70922|55391|217.178.128.0/18|JP|apnic|2001-03-02|MF-NATIVE6-E INTERNET MULTIFEED CO., JP
 217.241.26.105|/eXperience Points Core:5.2.0.3/|70922||||||
 23.92.31.197|/eXperience Points Core:5.2.0.3/|70922||||||
-24.138.134.12|/eXperience Points Core:5.2.0.2/|70922||||||
+24.138.134.12|/eXperience Points Core:5.2.0.2/|70922|11260|24.138.128.0/19|CA|arin|2005-10-12|EASTLINK-HSI, CA
 38.242.214.129|/eXperience Points Core:5.2.0.3/|70922||||||
 38.242.214.134|/eXperience Points Core:5.2.0.3/|70922||||||
 38.242.214.136|/eXperience Points Core:5.2.0.3/|70922||||||
 38.242.214.141|/eXperience Points Core:5.2.0.3/|70922||||||
+38.242.222.155|/eXperience Points Core:5.2.0.3/|70922||||||
 38.242.254.14|/eXperience Points Core:5.2.0.3/|70922||||||
 38.242.254.30|/eXperience Points Core:5.2.0.3/|70922||||||
 38.242.254.31|/eXperience Points Core:5.2.0.3/|70922||||||
 38.242.254.33|/eXperience Points Core:5.2.0.3/|70922||||||
-42.147.99.239|/eXperience Points Core:5.2.0.2/|70922||||||
+42.147.99.239|/eXperience Points Core:5.2.0.2/|70922|9824|42.147.0.0/16|JP|apnic|2011-02-11|JTCL-JP-AS JCOM Co., Ltd., JP
 45.123.220.170|/eXperience Points Core:5.2.0.3/|70922||||||
 45.33.6.91|/eXperience Points Core:5.2.0.3/|70922||||||
 45.64.163.178|/eXperience Points Core:5.2.0.3/|70922||||||
@@ -292,7 +291,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 46.151.159.53|/eXperience Points Core:5.2.0.2/|70922||||||
 46.229.250.127|/eXperience Points Core:5.2.0.3/|70922||||||
 46.229.250.16|/eXperience Points Core:5.2.0.3/|70922||||||
-47.252.6.71|/eXperience Points Core:5.2.0.2/|70922||||||
+47.252.6.71|/eXperience Points Core:5.2.0.2/|70922|45102|47.252.0.0/18|US|arin|2016-04-15|ALIBABA-CN-NET Alibaba US Technology Co., Ltd., CN
 5.189.131.93|/eXperience Points Core:5.2.0.3/|70922||||||
 5.189.142.217|/eXperience Points Core:5.2.0.3/|70922||||||
 5.189.143.170|/eXperience Points Core:5.2.0.3/|70922||||||
@@ -300,14 +299,14 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 5.189.171.173|/eXperience Points Core:5.2.0.3/|70922||||||
 5.189.176.32|/eXperience Points Core:5.2.0.3/|70922||||||
 5.189.177.8|/eXperience Points Core:5.2.0.3/|70922||||||
-58.191.174.174|/eXperience Points Core:5.2.0.2/|70922||||||
-58.85.113.109|/eXperience Points Core:5.2.0.2/|70922||||||
+58.191.174.174|/eXperience Points Core:5.2.0.2/|70922|17511|58.188.0.0/14|JP|apnic|2005-07-11|OPTAGE OPTAGE Inc., JP
+58.85.113.109|/eXperience Points Core:5.2.0.2/|70922|9617|58.85.64.0/18|JP|apnic|2005-04-11|ZAQ JCOM Co., Ltd., JP
 60.100.231.44|/eXperience Points Core:5.2.0.3/|70922||||||
 60.110.80.14|/eXperience Points Core:5.2.0.3/|70922||||||
-60.124.90.128|/eXperience Points Core:5.2.0.2/|70922||||||
-62.171.132.110|/eXperience Points Core:5.2.0.2/|70922||||||
+60.124.90.128|/eXperience Points Core:5.2.0.2/|70922|17676|60.124.0.0/16|JP|apnic|2004-05-20|GIGAINFRA Softbank BB Corp., JP
+62.171.132.110|/eXperience Points Core:5.2.0.2/|70922|51167|62.171.132.0/23|DE|ripencc|2000-08-18|CONTABO, DE
 62.171.132.111|/eXperience Points Core:5.2.0.3/|70922||||||
-62.171.132.114|/eXperience Points Core:5.2.0.2/|70922||||||
+62.171.132.114|/eXperience Points Core:5.2.0.2/|70922|51167|62.171.132.0/23|DE|ripencc|2000-08-18|CONTABO, DE
 62.171.134.1|/eXperience Points Core:5.2.0.3/|70922||||||
 62.171.144.227|/eXperience Points Core:5.2.0.3/|70922||||||
 62.171.146.167|/eXperience Points Core:5.2.0.3/|70922||||||
@@ -320,17 +319,18 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 62.171.170.238|/eXperience Points Core:5.2.0.3/|70922||||||
 62.171.172.222|/eXperience Points Core:5.2.0.3/|70922||||||
 62.171.174.84|/eXperience Points Core:5.2.0.3/|70922||||||
-62.171.178.22|/eXperience Points Core:5.2.0.2/|70922||||||
+62.171.178.22|/eXperience Points Core:5.2.0.2/|70922|51167|62.171.178.0/23|DE|ripencc|2000-08-18|CONTABO, DE
 62.171.182.91|/eXperience Points Core:5.2.0.3/|70922||||||
 62.171.183.119|/eXperience Points Core:5.2.0.3/|70922||||||
 62.171.184.227|/eXperience Points Core:5.2.0.3/|70922||||||
 62.171.187.166|/eXperience Points Core:5.2.0.3/|70922||||||
-62.171.187.93|/eXperience Points Core:5.2.0.2/|70922||||||
+62.171.187.93|/eXperience Points Core:5.2.0.2/|70922|51167|62.171.186.0/23|DE|ripencc|2000-08-18|CONTABO, DE
 62.42.58.93|/eXperience Points Core:5.2.0.3/|70922||||||
-64.66.195.101|/eXperience Points Core:5.2.0.2/|70922||||||
+64.66.195.101|/eXperience Points Core:5.2.0.2/|70922|53913|64.66.192.0/19|CA|arin|2018-04-30|CITY-WIDE-COMMUNICATIONS, CA
 66.228.51.166|/eXperience Points Core:5.2.0.3/|70922||||||
 68.133.101.237|/eXperience Points Core:5.2.0.3/|70922||||||
-73.68.66.88|/eXperience Points Core:5.2.0.2/|70922||||||
+71.196.70.246|/eXperience Points Core:5.2.0.3/|70922||||||
+73.68.66.88|/eXperience Points Core:5.2.0.2/|70922|7922|73.0.0.0/8|US|arin|2005-04-19|COMCAST-7922, US
 74.207.228.148|/eXperience Points Core:5.2.0.3/|70922||||||
 75.119.129.147|/eXperience Points Core:5.2.0.3/|70922||||||
 75.119.129.151|/eXperience Points Core:5.2.0.3/|70922||||||
@@ -344,7 +344,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 75.119.145.102|/eXperience Points Core:5.2.0.3/|70922||||||
 75.119.146.191|/eXperience Points Core:5.2.0.3/|70922||||||
 75.119.146.91|/eXperience Points Core:5.2.0.3/|70922||||||
-75.119.153.137|/eXperience Points Core:5.2.0.2/|70922||||||
+75.119.153.137|/eXperience Points Core:5.2.0.2/|70922|51167|75.119.128.0/19|DE|ripencc|2006-05-12|CONTABO, DE
 77.56.0.21|/eXperience Points Core:5.2.0.3/|70922||||||
 79.176.159.26|/eXperience Points Core:5.2.0.3/|70922||||||
 79.176.243.109|/eXperience Points Core:5.2.0.3/|70922||||||
@@ -352,8 +352,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 79.176.31.68|/eXperience Points Core:5.2.0.3/|70922||||||
 79.176.73.97|/eXperience Points Core:5.2.0.3/|70922||||||
 79.176.76.10|/eXperience Points Core:5.2.0.3/|70922||||||
-79.178.174.122|/eXperience Points Core:5.2.0.3/|70922||||||
-79.178.174.78|/eXperience Points Core:5.2.0.3/|70922||||||
 79.178.179.213|/eXperience Points Core:5.2.0.3/|70922||||||
 79.178.198.162|/eXperience Points Core:5.2.0.3/|70922||||||
 79.178.206.161|/eXperience Points Core:5.2.0.3/|70922||||||
@@ -367,35 +365,34 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 79.179.167.190|/eXperience Points Core:5.2.0.3/|70922||||||
 79.179.197.50|/eXperience Points Core:5.2.0.3/|70922||||||
 79.179.251.83|/eXperience Points Core:5.2.0.3/|70922||||||
-79.179.29.23|/eXperience Points Core:5.2.0.3/|70922||||||
-79.179.37.19|/eXperience Points Core:5.2.0.3/|70922||||||
 79.179.69.217|/eXperience Points Core:5.2.0.3/|70922||||||
 79.179.70.202|/eXperience Points Core:5.2.0.3/|70922||||||
-79.180.59.95|/eXperience Points Core:5.2.0.3/|70922||||||
 79.183.143.1|/eXperience Points Core:5.2.0.3/|70922||||||
 79.183.182.236|/eXperience Points Core:5.2.0.3/|70922||||||
 79.183.188.136|/eXperience Points Core:5.2.0.3/|70922||||||
-80.241.213.200|/eXperience Points Core:5.2.0.3/|70922||||||
 80.241.217.68|/eXperience Points Core:5.2.0.3/|70922||||||
 81.2.191.48|/eXperience Points Core:5.2.0.3/|70922||||||
 84.28.149.193|/eXperience Points Core:5.2.0.3/|70922||||||
 85.203.36.144|/eXperience Points Core:5.2.0.3/|70922||||||
-85.203.36.41|/eXperience Points Core:5.2.0.3/|70922||||||
+85.203.36.75|/eXperience Points Core:5.2.0.3/|70922||||||
 85.215.224.233|/eXperience Points Core:5.2.0.3/|70922||||||
-85.217.170.214|???|0||||||
+85.217.170.214|???|0|44901|85.217.170.0/24|CY|ripencc|2005-01-18|BELCLOUD, BG
 86.187.161.202|/eXperience Points Core:5.2.0.3/|70922||||||
 86.187.225.100|/eXperience Points Core:5.2.0.3/|70922||||||
 86.187.232.198|/eXperience Points Core:5.2.0.3/|70922||||||
+86.187.232.47|/eXperience Points Core:5.2.0.3/|70922||||||
 86.187.235.126|/eXperience Points Core:5.2.0.3/|70922||||||
+86.187.236.253|/eXperience Points Core:5.2.0.3/|70922||||||
 87.249.132.14|/eXperience Points Core:5.2.0.3/|70922||||||
-90.255.226.207|/eXperience Points Core:5.2.0.2/|70922||||||
+90.255.226.207|/eXperience Points Core:5.2.0.2/|70922|5378|90.252.0.0/14|GB|ripencc|2006-09-08|Vodafone, GB
 90.69.42.7|/eXperience Points Core:5.2.0.3/|70922||||||
 91.127.3.191|/eXperience Points Core:5.2.0.2/|70922||||||
-91.77.162.192|/eXperience Points Core:5.2.0.3/|70922|8359|91.76.0.0/14|RU|ripencc|2006-08-21|MTS, RU
-92.253.204.195|/eXperience Points Core:5.2.0.3/|70922|204889|92.253.204.0/24|CZ|ripencc|2007-12-03|TOBI-AS, UA
-93.104.215.54|/eXperience Points Core:5.2.0.3/|70922|8767|93.104.0.0/16|DE|ripencc|2008-03-18|MNET-AS Germany, DE
-95.111.228.127|/eXperience Points Core:5.2.0.3/|70922|51167|95.111.228.0/23|DE|ripencc|2008-12-30|CONTABO, DE
+91.77.162.192|/eXperience Points Core:5.2.0.3/|70922||||||
+92.253.204.195|/eXperience Points Core:5.2.0.3/|70922||||||
+93.104.215.54|/eXperience Points Core:5.2.0.3/|70922||||||
+95.111.228.127|/eXperience Points Core:5.2.0.3/|70922||||||
 95.111.229.100|/eXperience Points Core:5.2.0.3/|70922||||||
 95.111.232.89|/eXperience Points Core:5.2.0.3/|70922||||||
+95.111.251.51|/eXperience Points Core:5.2.0.2/|70922|51167|95.111.250.0/23|DE|ripencc|2008-12-30|CONTABO, DE
 95.217.73.169|/eXperience Points Core:5.2.0.2/|70922||||||
-96.19.79.196|/eXperience Points Core:5.2.0.2/|70922||||||
+96.19.79.196|/eXperience Points Core:5.2.0.2/|70922|11492|96.19.79.0/24|US|arin|2007-12-10|CABLEONE, US

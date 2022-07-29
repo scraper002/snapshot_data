@@ -29,7 +29,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 185.75.242.84|/dimecoin:2.0.0/|70005||||||
 193.109.145.56|/dimecoin:2.0.0/|70005||||||
 193.70.35.154|/dimecoin:2.0.0/|70005||||||
-195.201.207.43|/dimecoin:2.0.0/|70005||||||
+195.201.207.43|/dimecoin:2.0.0/|70005|24940|195.201.0.0/16|DE|ripencc|1997-09-22|HETZNER-AS, DE
 197.233.216.202|/dimecoin:2.0.0/|70005||||||
 197.233.243.253|/dimecoin:2.0.0/|70005||||||
 206.189.5.88|/dimecoin:2.0.0/|70005||||||
@@ -53,6 +53,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 45.187.86.225|/dimecoin:2.0.0/|70005||||||
 46.118.144.56|/dimecoin:2.0.0/|70005||||||
 49.196.74.61|/dimecoin:2.0.0/|70005||||||
+49.36.176.121|/dimecoin:2.0.0/|70005||||||
 5.161.96.112|/dimecoin:2.0.0/|70005||||||
 5.188.173.19|/dimecoin:2.0.0/|70005||||||
 5.196.91.94|/dimecoin:2.0.0/|70005||||||
@@ -85,6 +86,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 77.68.113.211|/dimecoin:2.0.0/|70005||||||
 78.94.168.21|/dimecoin:2.0.0/|70005||||||
 79.137.57.54|/dimecoin:2.0.0/|70005||||||
+79.201.119.223|/dimecoin:2.0.0/|70005||||||
 82.180.146.96|/dimecoin:2.0.0/|70005||||||
 85.19.25.38|/dimecoin:2.0.0/|70005||||||
 85.27.5.230|/dimecoin:2.0.0/|70005||||||
@@ -92,6 +94,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 88.99.164.174|/dimecoin:2.0.0/|70005||||||
 90.101.13.101|/dimecoin:2.0.0/|70005||||||
 92.27.245.248|/dimecoin:2.0.0/|70005||||||
-92.53.60.228|/dimecoin:2.0.0/|70005||||||
+92.53.60.228|/dimecoin:2.0.0/|70005|43612|92.53.60.0/22|MK|ripencc|2008-02-14|BLIZOO, MK
 93.146.9.105|/dimecoin:2.0.0/|70005||||||
-94.141.47.152|/dimecoin:2.0.0/|70005||||||
+94.141.47.152|/dimecoin:2.0.0/|70005|6856|94.141.32.0/19|RU|ripencc|2008-12-08|IC-VORONEZH-AS Informsvyaz - Chernozemye, RU
