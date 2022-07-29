@@ -26,7 +26,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 149.56.155.28|/LitecoinCashCore:0.16.3/|70015|16276|149.56.0.0/16|CA|arin|2016-02-09|OVH, FR
 161.53.28.4|/LitecoinCashCore:0.16.3/|70015|2108|161.53.0.0/16|HR|ripencc|1993-09-01|CARNET-AS J.Marohnica 5, 10000 Zagreb, HR
 161.97.83.204|/LitecoinCashCore:0.16.3/|70015|51167|161.97.82.0/23|DE|ripencc|1992-06-23|CONTABO, DE
-162.156.100.46|/LitecoinCashCore:0.16.3/|70015|852|162.156.0.0/16|CA|arin|2013-03-07|TELUS Communications, CA
 165.227.63.228|/LitecoinCashCore:0.16.3/|70015|14061|165.227.48.0/20|US|arin|2016-10-06|DIGITALOCEAN-ASN, US
 166.170.58.186|/LitecoinCashCore:0.16.3/|70015|20057|166.170.56.0/22|US|arin|1993-07-09|ATT-MOBILITY-LLC-AS20057, US
 166.172.58.197|/LitecoinCashCore:0.16.3/|70015|20057|166.172.56.0/22|US|arin|1993-07-09|ATT-MOBILITY-LLC-AS20057, US
@@ -99,7 +98,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 5.135.136.12|/LitecoinCashCore:0.16.3/|70015|16276|5.135.0.0/16|FR|ripencc|2012-07-06|OVH, FR
 5.141.84.130|/LitecoinCashCore:0.16.3/|70015|12389|5.141.84.0/23|RU|ripencc|2012-07-03|ROSTELECOM-AS, RU
 5.145.24.254|/LitecoinCashCore:0.16.3/|70015|15600|5.145.0.0/19|CH|ripencc|2012-07-12|QUICKLINE Quickline AG, CH
-5.3.212.36|/LitecoinCashCore:0.16.3/|70015|42682|5.3.212.0/22|RU|ripencc|2012-04-27|ERTH-NNOV-AS, RU
 51.161.117.115|/LitecoinCashCore:0.16.3/|70015|16276|51.161.0.0/17|CA|arin|2019-09-03|OVH, FR
 51.79.177.216|/LitecoinCashCore:0.16.3/|70015|16276|51.79.128.0/17|CA|arin|2019-01-10|OVH, FR
 51.83.186.57|/LitecoinCashCore:0.16.3/|70015|16276|51.83.0.0/16|FR|ripencc|1993-09-01|OVH, FR
@@ -150,6 +148,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 88.99.235.240|/LitecoinCashCore:0.16.3/|70015|24940|88.99.0.0/16|DE|ripencc|2005-08-03|HETZNER-AS, DE
 89.143.41.24|/LitecoinCashCore:0.16.3/|70015|5603|89.143.0.0/18|SI|ripencc|2006-03-03|SIOL-NET Telekom Slovenije d.d., SI
 89.146.109.95|/LitecoinCashCore:0.16.3/|70015|12365|89.146.64.0/18|UZ|ripencc|2006-02-03|SARKOR-AS Sarkor Telecom - Uztelecom, Upstream, UZ
+89.146.92.57|/LitecoinCashCore:0.16.3/|70015|12365|89.146.64.0/18|UZ|ripencc|2006-02-03|SARKOR-AS Sarkor Telecom - Uztelecom, Upstream, UZ
 89.212.249.4|/LitecoinCashCore:0.16.3/|70015|34779|89.212.192.0/18|SI|ripencc|2006-05-03|T-2-AS AS set propagated by T-2 d.o.o., SI
 90.52.34.237|/LitecoinCashCore:0.16.3/|70015|3215|90.52.0.0/17|FR|ripencc|2006-03-02|France Telecom - Orange, FR
 91.92.61.116|/LitecoinCashCore:0.16.3/|70015|62106|91.92.61.0/24|BG|ripencc|2006-08-15|CISBG-AS, BG
