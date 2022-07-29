@@ -36,6 +36,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 46.232.249.107|/eMark:1.6.1/|60012|197540|46.232.248.0/22|DE|ripencc|2018-06-15|NETCUP-AS netcup GmbH, DE
 46.81.203.197|/eMark:1.6.1.2/|60012|3320|46.80.0.0/12|DE|ripencc|2010-06-07|DTAG Internet service provider operations, DE
 47.157.63.192|/eMark:1.6.1.2/|60012|5650|47.157.0.0/16|US|arin|2015-08-28|FRONTIER-FRTR, US
+49.179.12.253|/eMark Android:1.0.0/|60011|4804|49.179.0.0/17|AU|apnic|2010-12-02|MPX-AS Microplex PTY LTD, AU
 5.146.209.42|/eMark:1.6.1.2/|60012|3209|5.146.0.0/16|DE|ripencc|2012-07-13|VODANET International IP-Backbone of Vodafone, DE
 5.45.106.180|/eMark:1.6.1.2/|60012|197540|5.45.96.0/20|DE|ripencc|2012-05-24|NETCUP-AS netcup GmbH, DE
 62.1.240.181|/eMark:1.6.1.2/|60012|1241|62.1.128.0/17|GR|ripencc|2000-02-16|FORTHNET-GR Forthnet, EU
@@ -48,7 +49,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 77.166.187.79|/eMark:1.6.1.2/|60012|1136|77.160.0.0/13|NL|ripencc|2006-11-02|KPN KPN National, NL
 78.26.176.4|/eMark:1.6.1.2/|60012|34187|78.26.128.0/18|UA|ripencc|2007-08-29|RENOME-AS, UA
 78.35.142.12|/eMark:1.6.1.2/|60012|8422|78.34.0.0/15|DE|ripencc|2007-03-08|NETCOLOGNE, DE
-79.211.171.128|/eMark:1.6.1.2/|60012|3320|79.192.0.0/10|DE|ripencc|2007-06-06|DTAG Internet service provider operations, DE
 79.226.205.133|/eMark:1.5.1/|60011|3320|79.192.0.0/10|DE|ripencc|2007-06-06|DTAG Internet service provider operations, DE
 79.230.71.122|/eMark:1.6.1.2/|60012|3320|79.192.0.0/10|DE|ripencc|2007-06-06|DTAG Internet service provider operations, DE
 80.137.46.227|/eMark:1.6.1.2/|60012|3320|80.128.0.0/12|DE|ripencc|2001-08-06|DTAG Internet service provider operations, DE
