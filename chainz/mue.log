@@ -12,6 +12,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 161.81.34.41|/MonetaryUnit Core:2.3.0/|70706|137872|161.81.32.0/21|HK|apnic|1992-06-22|PEOPLESPHONE-HK China Mobile Hong Kong Company Limited, HK
 167.86.127.48|/MonetaryUnit Core:2.3.0/|70706|51167|167.86.126.0/23|DE|ripencc|1993-05-14|CONTABO, DE
 173.212.223.117|/MonetaryUnit Core:2.3.0/|70706|51167|173.212.192.0/19|DE|ripencc|2009-10-26|CONTABO, DE
+173.249.5.41|/MonetaryUnit Core:2.3.0/|70706|51167|173.249.4.0/23|DE|ripencc|2010-05-26|CONTABO, DE
 174.56.32.25|/MonetaryUnit Core:2.3.0/|70706|7922|174.48.0.0/12|US|arin|2008-11-18|COMCAST-7922, US
 178.83.130.73|/MonetaryUnit Core:2.3.0/|70706|6830|178.83.0.0/16|CH|ripencc|2009-12-14|LIBERTYGLOBAL Liberty Global formerly UPC Broadband Holding, aka AORTA, NL
 185.242.112.23|/MonetaryUnit Core:2.3.0/|70706|48314|185.242.112.0/24|DE|ripencc|2018-01-18|IP-PROJECTS, DE
@@ -39,6 +40,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 65.108.93.55|/MonetaryUnit Core:2.3.0/|70706|24940|65.108.0.0/16|DE|ripencc|2001-02-09|HETZNER-AS, DE
 69.61.175.196|/MonetaryUnit Core:2.3.0/|70706|6181|69.61.128.0/18|US|arin|2004-08-04|FUSE-NET, US
 71.190.78.98|/MonetaryUnit Core:2.3.0/|70706|701|71.190.0.0/17|US|arin|2005-06-01|UUNET, US
+73.84.111.198|/MonetaryUnit Core:2.3.0/|70706|7922|73.0.0.0/8|US|arin|2005-04-19|COMCAST-7922, US
 75.119.155.29|/MonetaryUnit Core:2.3.0/|70706|51167|75.119.128.0/19|DE|ripencc|2006-05-12|CONTABO, DE
 78.26.178.235|/MonetaryUnit Core:2.3.0/|70706|34187|78.26.128.0/18|UA|ripencc|2007-08-29|RENOME-AS, UA
 78.47.70.253|/MonetaryUnit Core:2.3.0/|70706|24940|78.46.0.0/15|DE|ripencc|2007-04-16|HETZNER-AS, DE
