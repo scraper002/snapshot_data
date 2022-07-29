@@ -9,7 +9,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 142.197.160.83|/Satoshi:2.1.8/|70005|33363|142.196.0.0/15|US|arin|2012-05-08|BHN-33363, US
 15.165.142.140|/SolarCoin:3.14.2/|70005|16509|15.164.0.0/15|US|arin|2018-09-27|AMAZON-02, US
 154.6.147.230|/Satoshi:2.1.8/|70005|18345|154.6.147.0/24|US|arin|1992-02-05|SERVERS-AUS-CUST Servers Australia Customers, AU
-162.243.214.120|/Satoshi:2.1.8/|70005|14061|162.243.192.0/18|US|arin|2013-09-06|DIGITALOCEAN-ASN, US
 162.83.184.45|/Satoshi:2.1.8/|70005|701|162.83.128.0/17|US|arin|1992-08-28|UUNET, US
 166.181.85.35|/Satoshi:2.1.8/|70005|6614|166.181.85.0/24|US|arin|1993-07-09|USCC-ASN, US
 172.111.156.26|/Satoshi:2.1.8/|70005|9009|172.111.156.0/24|US|arin|2015-07-01|M247, GB
@@ -28,7 +27,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 23.227.150.249|/Satoshi:2.1.8/|70005|55081|23.227.128.0/19|US|arin|2013-09-23|24SHELLS, US
 31.17.223.154|/Satoshi:2.1.8/|70005|3209|31.16.0.0/14|DE|ripencc|2011-03-24|VODANET International IP-Backbone of Vodafone, DE
 41.10.130.222|/Satoshi:2.1.8/|70005|36994|41.10.128.0/20|ZA|afrinic|2007-11-26|Vodacom-VB, ZA
-46.188.141.96|/Satoshi:2.1.8/|70005|5391|46.188.128.0/17|HR|ripencc|2010-11-29|T-HT Croatian Telecom Inc., HR
+45.146.57.237|/Satoshi:2.1.8/|70005|25596|45.146.56.0/22|NL|ripencc|2019-08-27|CAMBRIUM-AS, NL
 47.156.185.234|/Satoshi:2.1.8/|70005|5650|47.156.0.0/16|US|arin|2015-08-28|FRONTIER-FRTR, US
 5.149.43.22|/Satoshi:2.1.8/|70005|15600|5.149.32.0/19|CH|ripencc|2012-07-16|QUICKLINE Quickline AG, CH
 5.83.191.113|/Satoshi:2.1.8/|70005|200924|5.83.176.0/20|DE|ripencc|2012-06-15|SIS2, DE
@@ -65,6 +64,5 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 93.219.173.57|/Satoshi:2.1.8/|70005|3320|93.192.0.0/10|DE|ripencc|2008-02-12|DTAG Internet service provider operations, DE
 94.218.70.170|/Satoshi:2.1.8/|70005|3209|94.216.0.0/13|DE|ripencc|2008-07-28|VODANET International IP-Backbone of Vodafone, DE
 94.30.0.250|/Satoshi:2.1.8/|70005|5413|94.30.0.0/17|GB|ripencc|2008-07-16|AS5413, GB
-95.168.116.34|/Satoshi:2.1.8/|70005|12810|95.168.96.0/19|HR|ripencc|2009-01-05|VIPNET-AS 3GGSM and Internet Service Provider, HR
 95.217.78.80|/Satoshi:2.1.8/|70005|24940|95.217.0.0/16|DE|ripencc|2009-02-24|HETZNER-AS, DE
 95.91.221.185|/Satoshi:2.1.8/|70005|3209|95.88.0.0/14|DE|ripencc|2008-12-15|VODANET International IP-Backbone of Vodafone, DE
