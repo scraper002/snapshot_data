@@ -8,12 +8,10 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 103.155.198.53|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000|58821|103.155.198.0/24|ID|apnic|2020-09-16|IDNIC-LJN-AS-ID PT Lintas Jaringan Nusantara, ID
 103.157.49.19|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000|63859|103.157.49.0/24|ID|apnic|2020-10-12|MYREPUBLIC-AS-ID PT. Eka Mas Republik, ID
 103.169.186.71|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000|142352|103.169.186.0/24|ID|apnic|2021-07-08|IDNIC-TAHTA-ID PT. PRATAMA HASTA UTAMA SOLUSINDO, ID
-103.195.58.76|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000|17451|103.195.58.0/24|ID|apnic|2015-09-07|BIZNET-AS-AP BIZNET NETWORKS, ID
 103.208.205.74|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000|134651|103.208.205.0/24|ID|apnic|2016-02-09|YETOYA-AS-ID PT Yetoya Solusi Indonesia, ID
 107.152.42.126|/GoldcoinCore:0.14.8/|70015|11878|107.152.42.0/24|US|arin|2013-12-03|TZULO, US
 108.228.223.25|/GoldcoinCore:0.14.8/|70015|7018|108.192.0.0/10|US|arin|2011-01-12|ATT-INTERNET4, US
 111.94.188.181|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000|23700|111.94.160.0/19|ID|apnic|2009-06-24|FASTNET-AS-ID Linknet-Fastnet ASN, ID
-112.215.151.133|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000|24203|112.215.151.0/24|ID|apnic|2009-02-19|NAPXLNET-AS-ID PT XL Axiata, ID
 114.10.4.113|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000|4761|114.10.4.0/23|ID|apnic|2008-04-14|INDOSAT-INP-AP INDOSAT Internet Network Provider, ID
 114.122.107.147|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000|23693|114.122.96.0/19|ID|apnic|2008-05-22|TELKOMSEL-ASN-ID PT. Telekomunikasi Selular, ID
 114.122.138.241|???|0|23693|114.122.128.0/19|ID|apnic|2008-05-22|TELKOMSEL-ASN-ID PT. Telekomunikasi Selular, ID
@@ -22,6 +20,8 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 114.122.141.9|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000|23693|114.122.128.0/19|ID|apnic|2008-05-22|TELKOMSEL-ASN-ID PT. Telekomunikasi Selular, ID
 114.122.210.28|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000|23693|114.122.192.0/19|ID|apnic|2008-05-22|TELKOMSEL-ASN-ID PT. Telekomunikasi Selular, ID
 114.122.211.148|/GoldcoinCore:0.14.8/|70015|23693|114.122.192.0/19|ID|apnic|2008-05-22|TELKOMSEL-ASN-ID PT. Telekomunikasi Selular, ID
+114.122.68.176|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000|23693|114.122.64.0/19|ID|apnic|2008-05-22|TELKOMSEL-ASN-ID PT. Telekomunikasi Selular, ID
+114.124.147.230|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000|23693|114.124.128.0/18|ID|apnic|2008-05-22|TELKOMSEL-ASN-ID PT. Telekomunikasi Selular, ID
 114.124.149.236|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000|23693|114.124.128.0/18|ID|apnic|2008-05-22|TELKOMSEL-ASN-ID PT. Telekomunikasi Selular, ID
 114.124.213.98|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000|23693|114.124.192.0/18|ID|apnic|2008-05-22|TELKOMSEL-ASN-ID PT. Telekomunikasi Selular, ID
 114.124.243.29|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000|23693|114.124.224.0/19|ID|apnic|2008-05-22|TELKOMSEL-ASN-ID PT. Telekomunikasi Selular, ID
@@ -33,11 +33,13 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 114.4.220.157|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000|4761|114.4.220.0/22|ID|apnic|2008-04-14|INDOSAT-INP-AP INDOSAT Internet Network Provider, ID
 114.5.110.69|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000|4761|114.5.110.0/23|ID|apnic|2008-04-14|INDOSAT-INP-AP INDOSAT Internet Network Provider, ID
 114.5.209.243|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000|4761|114.5.209.0/24|ID|apnic|2008-04-14|INDOSAT-INP-AP INDOSAT Internet Network Provider, ID
+114.5.210.17|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000|4761|114.5.210.0/24|ID|apnic|2008-04-14|INDOSAT-INP-AP INDOSAT Internet Network Provider, ID
 114.5.211.30|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000|4761|114.5.211.0/24|ID|apnic|2008-04-14|INDOSAT-INP-AP INDOSAT Internet Network Provider, ID
 114.5.216.8|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000|4761|114.5.216.0/24|ID|apnic|2008-04-14|INDOSAT-INP-AP INDOSAT Internet Network Provider, ID
 114.5.245.224|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000|4761|114.5.244.0/23|ID|apnic|2008-04-14|INDOSAT-INP-AP INDOSAT Internet Network Provider, ID
 114.79.0.215|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000|18004|114.79.0.0/24|ID|apnic|2009-12-09|WIRELESSNET-ID PT WIRELESS INDONESIA WIN , ID
 114.79.49.104|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000|18004|114.79.49.0/24|ID|apnic|2009-12-09|WIRELESSNET-ID PT WIRELESS INDONESIA WIN , ID
+114.79.49.177|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000|18004|114.79.49.0/24|ID|apnic|2009-12-09|WIRELESSNET-ID PT WIRELESS INDONESIA WIN , ID
 114.79.55.67|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000|18004|114.79.55.0/24|ID|apnic|2009-12-09|WIRELESSNET-ID PT WIRELESS INDONESIA WIN , ID
 114.79.7.49|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000|18004|114.79.7.0/24|ID|apnic|2009-12-09|WIRELESSNET-ID PT WIRELESS INDONESIA WIN , ID
 115.178.203.184|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000|18004|115.178.203.0/24|ID|apnic|2008-09-08|WIRELESSNET-ID PT WIRELESS INDONESIA WIN , ID

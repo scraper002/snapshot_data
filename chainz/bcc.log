@@ -59,8 +59,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 165.49.203.31|/Satoshi:1.0.0/|60014|37564|165.49.192.0/18|ZA|afrinic|2017-05-23|wirulink, ZA
 171.232.61.152|/Satoshi:1.0.0/|60013|7552|171.232.56.0/21|VN|apnic|2011-03-04|VIETEL-AS-AP Viettel Group, VN
 171.232.61.152|/Satoshi:1.0.0/|60014|7552|171.232.56.0/21|VN|apnic|2011-03-04|VIETEL-AS-AP Viettel Group, VN
-176.78.212.230|/Satoshi:1.0.0/|60013|3243|176.78.0.0/15|PT|ripencc|2011-06-23|MEO-RESIDENCIAL, PT
-176.78.212.230|/Satoshi:1.0.0/|60014|3243|176.78.0.0/15|PT|ripencc|2011-06-23|MEO-RESIDENCIAL, PT
 178.151.214.196|/Satoshi:1.0.0/|60013|13188|178.151.214.0/24|UA|ripencc|2010-04-15|TRIOLAN, UA
 178.151.214.196|/Satoshi:1.0.0/|60014|13188|178.151.214.0/24|UA|ripencc|2010-04-15|TRIOLAN, UA
 178.249.214.27|/Satoshi:1.0.0/|60013|212238|178.249.214.0/24|CZ|ripencc|2010-05-28|CDNEXT, GB
@@ -69,6 +67,8 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 178.51.216.58|/Satoshi:1.0.0/|60014|47377|178.51.0.0/16|BE|ripencc|2010-07-21|ORANGE_BELGIUM_SA New company name is Orange Belgium SA, BE
 180.217.64.71|/Satoshi:1.0.0/|60013|24157|180.217.64.0/21|TW|apnic|2009-10-06|VIBO-NET-AS Taiwan Star Telecom Corporation Limited.Former Vibo Telecom Inc., TW
 180.217.64.71|/Satoshi:1.0.0/|60014|24157|180.217.64.0/21|TW|apnic|2009-10-06|VIBO-NET-AS Taiwan Star Telecom Corporation Limited.Former Vibo Telecom Inc., TW
+180.217.77.52|/Satoshi:1.0.0/|60013|24157|180.217.72.0/21|TW|apnic|2009-10-06|VIBO-NET-AS Taiwan Star Telecom Corporation Limited.Former Vibo Telecom Inc., TW
+180.217.77.52|/Satoshi:1.0.0/|60014|24157|180.217.72.0/21|TW|apnic|2009-10-06|VIBO-NET-AS Taiwan Star Telecom Corporation Limited.Former Vibo Telecom Inc., TW
 185.187.243.221|/Satoshi:1.0.0/|60013|62240|185.187.243.0/24|DE|ripencc|2017-01-30|CLOUVIDER Clouvider - Global ASN, GB
 185.187.243.221|/Satoshi:1.0.0/|60014|62240|185.187.243.0/24|DE|ripencc|2017-01-30|CLOUVIDER Clouvider - Global ASN, GB
 185.210.140.210|/Satoshi:1.0.0/|60013|31205|185.210.140.0/23|RU|ripencc|2017-06-28|MF-SIB-AS, RU
