@@ -35,7 +35,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 173.212.202.33|/Satoshi:0.20.2/Peercoin:0.11.0/|70016|51167|173.212.192.0/19|DE|ripencc|2009-10-26|CONTABO, DE
 178.212.170.112|/Satoshi:0.20.2/Peercoin:0.11.8/|70016|197233|178.212.168.0/21|PL|ripencc|2010-08-20|VENTUS-AS, PL
 180.74.65.210|/Satoshi:0.20.2/Peercoin:0.11.1/|70016|4788|180.72.0.0/14|MY|apnic|2009-07-13|TMNET-AS-AP TM Net, Internet Service Provider, MY
-184.181.35.187|/Satoshi:0.20.2/Peercoin:0.11.8/|70016|22773|184.181.32.0/20|US|arin|2010-05-14|ASN-CXA-ALL-CCI-22773-RDC, US
 185.220.101.187|/Satoshi:0.20.2/Peercoin:0.11.4/|70016|60729|185.220.101.0/24|DE|ripencc|2017-09-12|ZWIEBELFREUN, DE
 185.220.101.47|/Satoshi:0.20.2/Peercoin:0.11.8/|70016|60729|185.220.101.0/24|DE|ripencc|2017-09-12|ZWIEBELFREUN, DE
 188.166.12.97|/Satoshi:0.20.2/Peercoin:0.11.7/|70016|14061|188.166.0.0/18|US|ripencc|2009-06-05|DIGITALOCEAN-ASN, US
@@ -55,6 +54,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 23.227.150.249|/Satoshi:0.20.2/Peercoin:0.11.2/|70016|55081|23.227.128.0/19|US|arin|2013-09-23|24SHELLS, US
 23.233.55.92|/Satoshi:0.20.2/Peercoin:0.11.2/|70016|5645|23.233.0.0/17|CA|arin|2013-09-24|TEKSAVVY, CA
 23.27.44.143|/Satoshi:0.20.2/Peercoin:0.11.8/|70016|136787|23.27.44.0/24|US|arin|2012-02-13|TEFINCOMSA-AS-AP TEFINCOM S.A., PA
+24.114.25.223|/Satoshi:0.20.2/Peercoin:0.11.1/|70016|812|24.114.24.0/23|CA|arin|1999-04-14|ROGERS-COMMUNICATIONS, CA
 24.114.26.26|/Satoshi:0.20.2/Peercoin:0.11.1/|70016|812|24.114.26.0/23|CA|arin|1999-04-14|ROGERS-COMMUNICATIONS, CA
 24.154.247.39|/Satoshi:0.20.2/Peercoin:0.11.0/|70016|27364|24.154.224.0/19|US|arin|2000-03-16|ACS-INTERNET, US
 24.231.204.186|/Satoshi:0.20.2/Peercoin:0.11.7/|70016|20115|24.231.192.0/20|US|arin|2003-02-11|CHARTER-20115, US
@@ -102,7 +102,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 89.1.210.220|/Satoshi:0.20.2/Peercoin:0.11.2/|70016|8422|89.0.0.0/15|DE|ripencc|2009-06-30|NETCOLOGNE, DE
 90.126.103.37|/Satoshi:0.20.2/Peercoin:0.11.7/|70016|3215|90.126.0.0/16|FR|ripencc|2006-03-02|France Telecom - Orange, FR
 91.152.121.179|/Satoshi:0.20.2/Peercoin:0.11.7/|70016|719|91.152.0.0/13|FI|ripencc|2006-09-06|ELISA-AS Helsinki, Finland, FI
-91.58.132.252|/Satoshi:0.20.2/Peercoin:0.11.1/|70016|3320|91.0.0.0/10|DE|ripencc|2006-07-03|DTAG Internet service provider operations, DE
 91.58.135.165|/Satoshi:0.20.2/Peercoin:0.11.1/|70016|3320|91.0.0.0/10|DE|ripencc|2006-07-03|DTAG Internet service provider operations, DE
 91.67.67.140|/Satoshi:0.20.2/Peercoin:0.11.4/|70016|3209|91.64.0.0/14|DE|ripencc|2006-07-10|VODANET International IP-Backbone of Vodafone, DE
 91.90.122.7|/Satoshi:0.20.2/Peercoin:0.11.1/|70016|9009|91.90.122.0/24|RO|ripencc|2007-08-06|M247, GB
