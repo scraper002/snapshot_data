@@ -5,7 +5,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 108.180.17.87|/Satoshi:2.1.8/|70005|852|108.180.0.0/16|CA|arin|2012-07-19|TELUS Communications, CA
 109.43.113.61|/Satoshi:2.1.8/|70005|3209|109.40.0.0/14|DE|ripencc|2009-11-04|VODANET International IP-Backbone of Vodafone, DE
 123.208.216.42|/Satoshi:2.1.8/|70005|135887|123.208.216.0/23|AU|apnic|2007-02-09|TELSTRA-BELONG-AP Belong Telstra Corporation, AU
-13.209.243.246|/Satoshi:2.1.8/|70005||||||
+13.209.243.246|/Satoshi:2.1.8/|70005|16509|13.209.0.0/16|US|arin|2019-10-01|AMAZON-02, US
 133.32.176.49|/Satoshi:2.1.8/|70005|2519|133.32.176.0/20|JP|apnic|1997-03-01|VECTANT ARTERIA Networks Corporation, JP
 136.34.249.15|/Satoshi:2.1.8/|70005|16591|136.34.240.0/20|US|arin|2015-10-06|GOOGLE-FIBER, US
 15.165.142.140|/SolarCoin:3.14.2/|70005|16509|15.164.0.0/15|US|arin|2018-09-27|AMAZON-02, US
@@ -29,7 +29,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 23.227.150.249|/Satoshi:2.1.8/|70005|55081|23.227.128.0/19|US|arin|2013-09-23|24SHELLS, US
 24.134.92.9|/Satoshi:2.1.8/|70005|3209|24.134.0.0/16|DE|ripencc|2012-04-25|VODANET International IP-Backbone of Vodafone, DE
 31.150.104.63|/Satoshi:2.1.8/|70005|9145|31.150.0.0/16|DE|ripencc|2011-02-17|EWETEL Cloppenburger Strasse 310, DE
-31.17.223.154|/Satoshi:2.1.8/|70005|3209|31.16.0.0/14|DE|ripencc|2011-03-24|VODANET International IP-Backbone of Vodafone, DE
 41.10.130.222|/Satoshi:2.1.8/|70005|36994|41.10.128.0/20|ZA|afrinic|2007-11-26|Vodacom-VB, ZA
 45.146.57.237|/Satoshi:2.1.8/|70005|25596|45.146.56.0/22|NL|ripencc|2019-08-27|CAMBRIUM-AS, NL
 46.142.80.143|/Satoshi:2.1.8/|70005|8881|46.142.80.0/20|DE|ripencc|2010-11-25|VERSATEL, DE
@@ -64,7 +63,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 88.97.137.102|/Satoshi:2.1.8/|70005|13037|88.96.0.0/15|GB|ripencc|2005-08-03|ZEN-AS Zen Internet - UK, GB
 89.95.221.133|/Satoshi:2.1.8/|70005|5410|89.80.0.0/12|FR|ripencc|2006-02-23|BOUYGTEL-ISP, FR
 91.12.118.47|/Satoshi:2.1.8/|70005|3320|91.0.0.0/10|DE|ripencc|2006-07-03|DTAG Internet service provider operations, DE
-91.206.16.214|/Satoshi:2.1.8/|70005||||||
+91.206.16.214|/Satoshi:2.1.8/|70005|13259|91.206.16.0/23|RU|ripencc|2008-06-09|DELTA-TELESYSTEMS-AS, RU
 92.116.241.26|/Satoshi:2.1.8/|70005|8881|92.116.240.0/20|DE|ripencc|2007-10-25|VERSATEL, DE
 92.116.241.96|/Satoshi:2.1.8/|70005|8881|92.116.240.0/20|DE|ripencc|2007-10-25|VERSATEL, DE
 92.116.243.168|/Satoshi:2.1.8/|70005|8881|92.116.240.0/20|DE|ripencc|2007-10-25|VERSATEL, DE
