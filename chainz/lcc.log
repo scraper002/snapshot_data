@@ -53,7 +53,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 185.107.95.210|/LitecoinCashCore:0.16.3/|70015|43350|185.107.92.0/22|NL|ripencc|2015-07-03|NFORCE, NL
 185.17.12.226|/LitecoinCashCore:0.16.3/|70015|51184|185.17.12.0/22|AT|ripencc|2013-01-25|FONIRA, AT
 185.50.24.206|/LitecoinCashCore:0.16.3/|70015|198610|185.50.24.0/24|RU|ripencc|2014-03-12|BEGET-AS, RU
-185.82.203.241|/LitecoinCashCore:0.16.3/|70015|60117|185.82.203.0/24|AE|ripencc|2014-12-31|HS, AE
+185.82.203.241|/LitecoinCashCore:0.16.3/|70015||||||
 185.84.172.204|/LitecoinCashCore:0.16.3/|70015|208221|185.84.172.0/24|RU|ripencc|2015-01-19|ORIONNET-BRK, RU
 188.134.68.184|/LitecoinCashCore:0.16.3/|70015|41733|188.134.0.0/17|RU|ripencc|2009-04-27|ZTELECOM-AS, RU
 188.146.142.154|/LitecoinCashCore:0.16.3/|70015|12912|188.146.128.0/19|PL|ripencc|2009-04-01|TM, PL
@@ -74,7 +74,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 212.113.123.163|/LitecoinCashCore:0.16.3/|70015|28890|212.113.120.0/22|RU|ripencc|1999-11-30|INSYS-AS INSYS ISP, RU
 213.227.68.204|/LitecoinCashCore:0.16.3/|70015|199551|213.227.68.0/22|PL|ripencc|2000-10-16|MULTIPLAYPL-AS, PL
 213.232.124.121|/LitecoinCashCore:0.16.3/|70015|209836|213.232.124.0/24|IR|ripencc|2018-12-07|NHCO, IR
-213.87.129.106|/LitecoinCashCore:0.16.3/|70015|8359|213.87.128.0/19|RU|ripencc|2000-04-10|MTS, RU
+213.87.129.106|/LitecoinCashCore:0.16.3/|70015||||||
 213.91.128.133|/LitecoinCashCore:0.16.3/|70015|8866|213.91.128.0/17|BG|ripencc|2002-09-05|BTC-AS BULGARIA, BG
 216.70.154.55|/LitecoinCashCore:0.16.3/|70015|14265|216.70.152.0/22|US|arin|2005-05-23|US-TELEPACIFIC, US
 217.12.73.52|/LitecoinCashCore:0.16.3/|70015|51570|217.12.72.0/21|RU|ripencc|2009-03-02|SPB-AS, RU
@@ -143,9 +143,8 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 82.215.122.145|/LitecoinCashCore:0.16.3/|70015|12365|82.215.120.0/22|UZ|ripencc|2003-11-17|SARKOR-AS Sarkor Telecom - Uztelecom, Upstream, UZ
 82.215.124.126|/LitecoinCashCore:0.16.3/|70015|12365|82.215.124.0/22|UZ|ripencc|2003-11-17|SARKOR-AS Sarkor Telecom - Uztelecom, Upstream, UZ
 82.66.47.169|/LitecoinCashCore:0.16.3/|70015|12322|82.64.0.0/14|FR|ripencc|2003-04-03|PROXAD, FR
-82.66.94.6|/LitecoinCashCore:0.16.3/|70015|12322|82.64.0.0/14|FR|ripencc|2003-04-03|PROXAD, FR
+82.66.94.6|/LitecoinCashCore:0.16.3/|70015||||||
 82.99.140.107|/LitecoinCashCore:0.16.1.3/|70015|25248|82.99.128.0/18|CZ|ripencc|2003-12-12|BLUETONE-AS The Czech Republic, CZ
-83.195.190.81|/LitecoinCashCore:0.16.3/|70015|3215|83.195.128.0/17|FR|ripencc|2003-12-12|France Telecom - Orange, FR
 83.221.211.116|/LitecoinCashCore:0.16.3/|70015|21479|83.221.192.0/19|RU|ripencc|2004-04-15|ROSTOV-TELEGRAF-AS, RU
 84.141.123.177|/LitecoinCashCore:0.16.3/|70015|3320|84.128.0.0/10|DE|ripencc|2004-03-10|DTAG Internet service provider operations, DE
 84.226.120.115|/LitecoinCashCore:0.16.3/|70015|6730|84.226.0.0/15|CH|ripencc|2004-07-02|SUNRISE, CH
@@ -161,7 +160,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 87.123.244.111|/LitecoinCashCore:0.16.3/|70015|8881|87.123.240.0/21|DE|ripencc|2005-07-27|VERSATEL, DE
 87.175.194.211|/LitecoinCashCore:0.16.3/|70015|3320|87.128.0.0/10|DE|ripencc|2006-03-30|DTAG Internet service provider operations, DE
 88.109.5.45|/LitecoinCashCore:0.16.3/|70015|9105|88.108.0.0/15|GB|ripencc|2005-08-05|TISCALI-UK TalkTalk Communications Limited, GB
-88.99.235.240|/LitecoinCashCore:0.16.3/|70015|24940|88.99.0.0/16|DE|ripencc|2005-08-03|HETZNER-AS, DE
+88.99.235.240|/LitecoinCashCore:0.16.3/|70015||||||
 89.143.41.24|/LitecoinCashCore:0.16.3/|70015|5603|89.143.0.0/18|SI|ripencc|2006-03-03|SIOL-NET Telekom Slovenije d.d., SI
 89.146.109.54|/LitecoinCashCore:0.16.3/|70015|12365|89.146.64.0/18|UZ|ripencc|2006-02-03|SARKOR-AS Sarkor Telecom - Uztelecom, Upstream, UZ
 89.146.109.95|/LitecoinCashCore:0.16.3/|70015|12365|89.146.64.0/18|UZ|ripencc|2006-02-03|SARKOR-AS Sarkor Telecom - Uztelecom, Upstream, UZ
@@ -177,4 +176,5 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 94.244.24.175|/LitecoinCashCore:0.16.3/|70015|48278|94.244.0.0/18|UA|ripencc|2008-10-30|UKRDATACOM-NET-AS, UA
 95.81.12.30|/LitecoinCashCore:0.16.3/|70015|15943|95.81.0.0/19|DE|ripencc|2010-10-22|WTNET-AS wilhelm.tel GmbH, DE
 97.104.146.208|/LitecoinCashCore:0.16.3/|70015|33363|97.104.0.0/16|US|arin|2007-04-09|BHN-33363, US
+97.90.155.64|/LitecoinCashCore:0.16.3/|70015|20115|97.90.128.0/19|US|arin|2007-03-21|CHARTER-20115, US
 99.232.72.107|/LitecoinCashCore:0.16.3/|70015|812|99.232.0.0/17|CA|arin|2007-03-12|ROGERS-COMMUNICATIONS, CA
