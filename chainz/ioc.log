@@ -1,7 +1,7 @@
 # https://chainz.cryptoid.info/ and whois results
 # I/O Coin
 IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
-13.48.149.94|/Satoshi:15.0.0/|60022|16509|13.48.0.0/15|US|arin|2020-08-05|AMAZON-02, US
+13.48.149.94|/Satoshi:15.0.0/|60022||||||
 142.114.124.64|/Satoshi:15.0.0/|60022|577|142.114.0.0/16|CA|arin|1993-04-05|BACOM, CA
 145.40.212.51|/Satoshi:15.0.0/|60022|8758|145.40.192.0/19|CH|ripencc|1993-09-01|IWAY, CH
 158.181.113.113|/Satoshi:15.0.0/|60022|8821|158.181.96.0/19|CH|ripencc|2011-11-14|TELEZUG WWZ Telekom AG TELEZUG, CH
@@ -11,7 +11,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 188.195.106.53|/Satoshi:15.0.0/|60022|3209|188.192.0.0/14|DE|ripencc|2009-06-08|VODANET International IP-Backbone of Vodafone, DE
 188.63.235.145|/Satoshi:15.0.0/|60022|3303|188.63.0.0/16|CH|ripencc|2009-03-10|SWISSCOM Swisscom Switzerland Ltd, CH
 193.17.26.1|/Satoshi:15.0.0/|60022|51262|193.17.26.0/24|CH|ripencc|2019-11-13|INTERNETGROUP, CH
-35.183.198.43|/Satoshi:15.0.0/|60022|16509|35.182.0.0/15|US|arin|2016-08-09|AMAZON-02, US
 35.183.33.57|/Satoshi:15.0.0/|60022|16509|35.182.0.0/15|US|arin|2016-08-09|AMAZON-02, US
 37.24.181.170|/Satoshi:15.0.0/|60022|3209|37.24.128.0/17|DE|ripencc|2011-12-22|VODANET International IP-Backbone of Vodafone, DE
 62.171.182.3|/Satoshi:15.0.0/|60022|51167|62.171.182.0/23|DE|ripencc|2000-08-18|CONTABO, DE
@@ -23,5 +22,4 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 81.169.204.110|/Satoshi:15.0.0/|60022|6724|81.169.128.0/17|DE|ripencc|2003-04-17|STRATO STRATO AG, DE
 82.136.122.24|/Satoshi:15.0.0/|60022|8821|82.136.64.0/18|CH|ripencc|2003-06-30|TELEZUG WWZ Telekom AG TELEZUG, CH
 91.246.66.175|/Satoshi:15.0.0/|60022|42673|91.246.64.0/21|PL|ripencc|2012-08-27|SKYWARE-AS, PL
-91.90.120.204|/Satoshi:15.0.0/|60022|9009|91.90.120.0/24|RO|ripencc|2007-08-06|M247, GB
 95.217.78.79|/Satoshi:15.0.0/|60022|24940|95.217.0.0/16|DE|ripencc|2009-02-24|HETZNER-AS, DE
