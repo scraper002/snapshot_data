@@ -5,6 +5,9 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 109.156.75.148|/Vericonomy:2.0.0/|90000|2856|109.144.0.0/12|GB|ripencc|2009-08-06|BT-UK-AS BTnet UK Regional network, GB
 120.20.102.131|/Vericonomy:2.0.1.1/|90001|133612|120.20.64.0/18|AU|apnic|2008-03-07|VODAFONE-AS-AP Vodafone Australia Pty Ltd, AU
 13.93.3.143|/Veritoshi:1.7.2/|70012|8075|13.64.0.0/11|US|arin|2015-03-26|MICROSOFT-CORP-MSN-AS-BLOCK, US
+156.0.214.21|???|0|37136|156.0.214.0/24|BJ|afrinic|2017-08-29|ETISALAT-AS, BJ
+174.68.170.27|/Veritoshi:1.7.2/|70012|22773|174.68.128.0/18|US|arin|2009-02-19|ASN-CXA-ALL-CCI-22773-RDC, US
+182.209.80.84|/Vericonomy:2.0.0/|90000|17858|182.208.0.0/14|KR|apnic|2010-04-22|POWERVIS-AS-KR LG POWERCOMM, KR
 185.139.25.7|/Vericonomy:2.0.0/|90000|62579|185.139.25.0/24|PL|ripencc|2016-02-16|VIRTUALSHIELD, US
 188.217.191.126|/Vericonomy:2.0.0/|90000|30722|188.217.128.0/17|IT|ripencc|2009-05-13|VODAFONE-IT-ASN, IT
 188.26.130.169|/Vericonomy:2.0.0.4/|90000|8708|188.26.128.0/18|RO|ripencc|2009-02-11|RCS-RDS 73-75 Dr. Staicovici, RO
@@ -33,6 +36,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 84.41.76.193|/Vericonomy:2.0.0/|90000|9119|84.41.64.0/19|SI|ripencc|2004-09-07|SOFTNET-AS Internet Service Provider in Slovenia and South Europe region, SI
 86.130.40.250|/Vericonomy:2.0.1.5/|90001|2856|86.128.0.0/12|GB|ripencc|2005-02-07|BT-UK-AS BTnet UK Regional network, GB
 86.247.51.194|/Vericonomy:2.0.0/|90000|3215|86.247.0.0/16|FR|ripencc|2005-03-02|France Telecom - Orange, FR
+86.6.254.141|/Vericonomy:2.0.0/|90000|5089|86.6.128.0/17|GB|ripencc|2005-03-29|NTL, GB
 86.85.157.170|/Vericonomy:2.0.0/|90000|1136|86.80.0.0/12|NL|ripencc|2005-03-23|KPN KPN National, NL
 90.183.80.92|/Veritoshi:1.7.1/|70012|5610|90.180.0.0/14|CZ|ripencc|2006-09-17|O2-CZECH-REPUBLIC, CZ
 91.121.221.200|/Vericonomy:2.0.0/|90000|16276|91.121.0.0/16|FR|ripencc|2006-09-20|OVH, FR
