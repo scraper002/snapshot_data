@@ -20,6 +20,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 114.253.252.122|/LitecoinCore:0.18.1/|70015|4808|114.253.192.0/18|CN|apnic|2008-06-24|CHINA169-BJ China Unicom Beijing Province Network, CN
 114.5.252.107|/BitcoinKit:0.1.0/|70015|4761|114.5.252.0/23|ID|apnic|2008-04-14|INDOSAT-INP-AP INDOSAT Internet Network Provider, ID
 118.163.120.175|/btcwire:0.5.0/bitmarkd-payment-lightclient:0.1.0/|70013|3462|118.163.0.0/16|TW|apnic|2007-10-04|HINET Data Communication Business Group, TW
+118.163.120.179|/btcwire:0.5.0/bitmarkd-payment-lightclient:0.1.0/|70013|3462|118.163.0.0/16|TW|apnic|2007-10-04|HINET Data Communication Business Group, TW
 122.56.199.170|/BitcoinKit:0.1.0/|70015|4771|122.56.192.0/20|NZ|apnic|2006-11-01|SPARKNZ Spark New Zealand Trading Ltd., NZ
 128.199.120.176|/btcwire:0.5.0/bitmarkd-payment-lightclient:0.1.0/|70013|14061|128.199.64.0/18|GB|ripencc|1999-04-12|DIGITALOCEAN-ASN, US
 128.199.91.96|/btcwire:0.5.0/bitmarkd-payment-lightclient:0.1.0/|70013|14061|128.199.64.0/18|GB|ripencc|1999-04-12|DIGITALOCEAN-ASN, US
@@ -146,7 +147,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 47.54.219.83|/BitcoinKit:0.1.0/|70015|855|47.54.216.0/22|CA|arin|2012-04-09|CANET-ASN-4, CA
 5.161.68.76|/LitecoinCore:0.18.1/|70015|213230|5.161.68.0/24|DE|ripencc|2012-07-25|HETZNER-CLOUD2-AS, DE
 5.181.255.48|/LitecoinCore:0.16.3/|70015|44128|5.181.254.0/23|RU|ripencc|2019-04-04|INTERNET-PRO-AS, RU
-5.196.91.94|/DigitaleuroCore:0.16.3/|70015|16276|5.196.0.0/16|FR|ripencc|2012-08-23|OVH, FR
 5.76.250.237|/LitecoinCore:0.18.1/|70015|9198|5.76.248.0/21|KZ|ripencc|2012-06-12|KAZTELECOM-AS, KZ
 50.35.150.131|/BitcoinKit:0.1.0/|70015|20055|50.34.0.0/15|US|arin|2010-09-24|AS-WHOLESAIL, US
 50.60.6.21|/WalletKit:0.1.0/|70015|25019|50.60.0.0/20|SA|ripencc|2011-01-25|SAUDINETSTC-AS, SA
@@ -171,7 +171,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 70.91.250.149|/DigitaleuroCore:0.16.3/|70015|7922|70.88.0.0/14|US|arin|2004-08-09|COMCAST-7922, US
 73.142.177.45|/LitecoinCore:0.18.1/|70015|7922|73.0.0.0/8|US|arin|2005-04-19|COMCAST-7922, US
 73.171.134.35|/loaf:2.1/|70015|7922|73.0.0.0/8|US|arin|2005-04-19|COMCAST-7922, US
-75.82.123.123|/BitcoinKit:0.1.0/|70015|20001|75.82.0.0/15|US|arin|2006-07-19|TWC-20001-PACWEST, US
 75.84.112.35|/LitecoinCore:0.15.1/|70015|20001|75.84.0.0/15|US|arin|2006-07-19|TWC-20001-PACWEST, US
 77.120.122.114|/open-nodes:0.1/|70015|35680|77.120.120.0/22|UA|ripencc|2006-11-24|VOLIA, UA
 77.166.111.126|/WalletKit:0.1.0/|70015|1136|77.160.0.0/13|NL|ripencc|2006-11-02|KPN KPN National, NL
