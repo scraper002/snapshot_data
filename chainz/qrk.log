@@ -23,7 +23,9 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 124.223.38.143|/Satoshi:0.10.7.7/|70004|45090|124.223.0.0/18|CN|apnic|2006-04-25|TENCENT-NET-AP Shenzhen Tencent Computer Systems Company Limited, CN
 124.223.43.84|/Satoshi:0.10.7.7/|70004|45090|124.223.0.0/18|CN|apnic|2006-04-25|TENCENT-NET-AP Shenzhen Tencent Computer Systems Company Limited, CN
 124.223.63.13|/Satoshi:0.10.7.7/|70004|45090|124.223.0.0/18|CN|apnic|2006-04-25|TENCENT-NET-AP Shenzhen Tencent Computer Systems Company Limited, CN
+150.158.161.144|/Satoshi:0.10.7.7/|70004|45090|150.158.128.0/18|CN|apnic|1991-05-20|TENCENT-NET-AP Shenzhen Tencent Computer Systems Company Limited, CN
 150.158.41.241|/Satoshi:0.10.7.7/|70004|45090|150.158.0.0/18|CN|apnic|1991-05-20|TENCENT-NET-AP Shenzhen Tencent Computer Systems Company Limited, CN
+175.178.100.58|/Satoshi:0.10.7.7/|70004|45090|175.178.64.0/18|CN|apnic|2010-01-22|TENCENT-NET-AP Shenzhen Tencent Computer Systems Company Limited, CN
 175.178.63.245|/Satoshi:0.10.7.7/|70004|45090|175.178.0.0/18|CN|apnic|2010-01-22|TENCENT-NET-AP Shenzhen Tencent Computer Systems Company Limited, CN
 175.178.65.74|/Satoshi:0.10.7.7/|70004|45090|175.178.64.0/18|CN|apnic|2010-01-22|TENCENT-NET-AP Shenzhen Tencent Computer Systems Company Limited, CN
 175.24.166.30|/Satoshi:0.10.7.7/|70004|45090|175.24.128.0/18|CN|apnic|2009-12-04|TENCENT-NET-AP Shenzhen Tencent Computer Systems Company Limited, CN
@@ -48,5 +50,5 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 81.70.135.70|/Satoshi:0.10.7.7/|70004|45090|81.70.128.0/18|CN|apnic|2002-01-11|TENCENT-NET-AP Shenzhen Tencent Computer Systems Company Limited, CN
 82.157.44.243|/Satoshi:0.10.7.7/|70004|45090|82.157.0.0/18|CN|apnic|2003-11-19|TENCENT-NET-AP Shenzhen Tencent Computer Systems Company Limited, CN
 94.23.169.116|/Satoshi:0.10.7.7/|70004|16276|94.23.0.0/16|FR|ripencc|2008-07-15|OVH, FR
-95.217.78.79|/Satoshi:0.10.7.7/|70004|24940|95.217.0.0/16|DE|ripencc|2009-02-24|HETZNER-AS, DE
+95.217.78.79|/Satoshi:0.10.7.7/|70004||||||
 99.35.14.202|/Satoshi:0.10.7.4/|70004|7018|99.32.0.0/12|US|arin|2008-02-25|ATT-INTERNET4, US
