@@ -23,6 +23,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 138.199.60.167|/Blackcoin More:2.13.2.6/|70013|212238|138.199.60.0/24|GB|ripencc|1990-05-23|CDNEXT, GB
 14.122.150.231|/Blackcoin More:2.13.2.9/|70013|4134|14.112.0.0/12|CN|apnic|2010-09-06|CHINANET-BACKBONE No.31,Jin-rong Street, CN
 140.228.21.234|/Blackcoin More:2.13.2.8/|70013|174|140.228.21.0/24|US|arin|2021-08-05|COGENT-174, US
+142.162.23.234|/Blackcoin More:2.13.2.8/|70013|855|142.162.16.0/21|CA|arin|1992-08-26|CANET-ASN-4, CA
 143.198.121.253|Blackcoin More:2.13.2.8|70713|14061|143.198.112.0/20|US|arin|2020-01-24|DIGITALOCEAN-ASN, US
 15.165.142.140|/Blackcoin More:2.13.2.9/|70013|16509|15.164.0.0/15|US|arin|2018-09-27|AMAZON-02, US
 157.90.223.151|/Blackcoin More:2.13.2.9/|70013|24940|157.90.0.0/16|DE|ripencc|1996-12-16|HETZNER-AS, DE
@@ -42,7 +43,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 178.62.114.74|Blackcoin More:2.13.2.8|70713|14061|178.62.64.0/18|US|ripencc|2010-02-26|DIGITALOCEAN-ASN, US
 181.126.201.141|/Blackcoin More:2.13.2.8/|70013|23201|181.124.0.0/14|PY|lacnic|2012-06-20|Telecel S.A., PY
 181.41.206.225|/Blackcoin More:2.13.2.9/|70013|174|181.41.206.0/24|AE|ripencc|2020-11-24|COGENT-174, US
-183.227.16.80|/Blackcoin More:2.13.2.8/|70013|9808|183.227.16.0/24|CN|apnic|2009-11-08|CHINAMOBILE-CN China Mobile Communications Group Co., Ltd., CN
 185.180.221.184|/Blackcoin More:2.13.2.9/|70013|49981|185.180.220.0/22|NL|ripencc|2016-12-07|WORLDSTREAM, NL
 185.245.85.107|/Blackcoin More:2.13.2.9/|70013|9009|185.245.85.0/24|RO|ripencc|2018-02-07|M247, GB
 190.189.231.183|/Blackcoin More:2.13.2.9/|70013|7303|190.188.0.0/15|AR|lacnic|2007-06-21|Telecom Argentina S.A., AR
@@ -100,7 +100,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 81.162.109.22|/Blackcoin More:2.13.2.8/|70013|57093|81.162.108.0/22|UA|ripencc|2011-12-07|ASYALTA, UA
 81.19.208.103|/Blackcoin More:2.13.2.6/|70013|25369|81.19.208.0/23|GB|ripencc|2006-01-03|BANDWIDTH-AS, GB
 81.69.250.50|/Blackcoin More:2.13.2.7/|70013|45090|81.69.192.0/18|CN|apnic|2002-01-11|TENCENT-NET-AP Shenzhen Tencent Computer Systems Company Limited, CN
-83.84.134.161|/Blackcoin More:2.13.2.7/|70013|33915|83.84.0.0/14|NL|ripencc|2003-11-28|TNF-AS, NL
 84.162.69.78|/Blackcoin More:2.13.2.9/|70013|3320|84.128.0.0/10|DE|ripencc|2004-03-10|DTAG Internet service provider operations, DE
 84.17.58.153|/Blackcoin More:2.13.2.9/|70013|60068|84.17.58.0/23|GB|ripencc|2004-07-23|CDN77 ^_^, GB
 84.17.58.157|/Blackcoin More:2.13.2.9/|70013|60068|84.17.58.0/23|GB|ripencc|2004-07-23|CDN77 ^_^, GB
