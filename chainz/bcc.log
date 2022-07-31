@@ -51,6 +51,8 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 176.230.133.199|/Satoshi:1.0.0/|60014|12400|176.230.0.0/16|IL|ripencc|2011-12-01|PARTNER-AS, IL
 178.151.214.196|/Satoshi:1.0.0/|60013|13188|178.151.214.0/24|UA|ripencc|2010-04-15|TRIOLAN, UA
 178.151.214.196|/Satoshi:1.0.0/|60014|13188|178.151.214.0/24|UA|ripencc|2010-04-15|TRIOLAN, UA
+178.51.216.58|/Satoshi:1.0.0/|60013|47377|178.51.0.0/16|BE|ripencc|2010-07-21|ORANGE_BELGIUM_SA New company name is Orange Belgium SA, BE
+178.51.216.58|/Satoshi:1.0.0/|60014|47377|178.51.0.0/16|BE|ripencc|2010-07-21|ORANGE_BELGIUM_SA New company name is Orange Belgium SA, BE
 180.217.192.118|/Satoshi:1.0.0/|60013|24157|180.217.192.0/21|TW|apnic|2009-10-06|VIBO-NET-AS Taiwan Star Telecom Corporation Limited.Former Vibo Telecom Inc., TW
 180.217.192.118|/Satoshi:1.0.0/|60014|24157|180.217.192.0/21|TW|apnic|2009-10-06|VIBO-NET-AS Taiwan Star Telecom Corporation Limited.Former Vibo Telecom Inc., TW
 185.187.243.221|/Satoshi:1.0.0/|60013|62240|185.187.243.0/24|DE|ripencc|2017-01-30|CLOUVIDER Clouvider - Global ASN, GB
@@ -75,6 +77,8 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 194.28.65.134|/Satoshi:1.0.0/|60014|42723|194.28.64.0/22|UA|ripencc|2010-04-22|VEKTORPLUS-AS, UA
 203.210.234.234|/Satoshi:1.0.0/|60013|45899|203.210.224.0/20|VN|apnic|2003-07-31|VNPT-AS-VN VNPT Corp, VN
 203.210.234.234|/Satoshi:1.0.0/|60014|45899|203.210.224.0/20|VN|apnic|2003-07-31|VNPT-AS-VN VNPT Corp, VN
+212.5.15.17|/Satoshi:1.0.0/|60013|20676|212.5.0.0/19|DE|ripencc|1998-03-13|PLUSNET *****************, DE
+212.5.15.17|/Satoshi:1.0.0/|60014|20676|212.5.0.0/19|DE|ripencc|1998-03-13|PLUSNET *****************, DE
 222.114.151.167|/Satoshi:1.0.0/|60013|4766|222.112.0.0/13|KR|apnic|2003-10-27|KIXS-AS-KR Korea Telecom, KR
 222.114.151.167|/Satoshi:1.0.0/|60014|4766|222.112.0.0/13|KR|apnic|2003-10-27|KIXS-AS-KR Korea Telecom, KR
 223.24.145.52|/Satoshi:1.0.0/|60013|132061|223.24.145.0/24|TH|apnic|2010-08-10|REALMOVE-AS-AP Realmove Company Limited, TH
