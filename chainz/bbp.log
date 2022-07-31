@@ -4,7 +4,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 116.203.49.63|/Biblepay Core:0.17.2.5/|70780|24940|116.203.0.0/16|DE|ripencc|2011-01-17|HETZNER-AS, DE
 136.143.149.184|/Biblepay Core:0.17.2.6/|70780|13370|136.143.144.0/20|US|arin|2018-08-22|NWI, US
 136.144.247.158|/Biblepay Core:0.17.2.5/|70780|20857|136.144.192.0/18|NL|ripencc|1989-08-29|TRANSIP-AS Amsterdam, the Netherlands, NL
-142.47.109.69|/Biblepay Core:0.17.2.6/|70780|31798|142.47.109.0/24|CA|arin|1990-03-26|DATACITY, CA
+142.47.109.69|/Biblepay Core:0.17.2.6/|70780||||||
 142.47.109.96|/Biblepay Core:0.17.2.6/|70780|31798|142.47.109.0/24|CA|arin|1990-03-26|DATACITY, CA
 155.207.70.71|/Biblepay Core:0.17.1.9/|70778|5470|155.207.0.0/16|GR|ripencc|1991-11-26|ASAUTHNET AUTH-NET-AS, GR
 157.100.171.33|/Biblepay Core:0.17.1.9/|70778|27947|157.100.171.0/24|EC|lacnic|1991-12-19|Telconet S.A, EC
@@ -35,21 +35,21 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 47.100.225.146|/Biblepay Core:0.17.1.5/|70778|37963|47.100.0.0/15|CN|apnic|1989-01-06|ALIBABA-CN-NET Hangzhou Alibaba Advertising Co.,Ltd., CN
 47.189.34.41|/Biblepay Core:0.17.2.2/|70780|5650|47.189.0.0/17|US|arin|2015-08-28|FRONTIER-FRTR, US
 50.117.77.78|/Biblepay Core:0.17.2.5/|70780|136787|50.117.77.0/24|US|arin|2011-09-01|TEFINCOMSA-AS-AP TEFINCOM S.A., PA
-50.5.236.135|/Biblepay Core:0.17.2.5/|70780|6181|50.5.128.0/17|US|arin|2010-09-09|FUSE-NET, US
+50.5.236.135|/Biblepay Core:0.17.2.5/|70780||||||
 51.222.94.28|/Biblepay Core:0.17.2.5/|70780|16276|51.222.0.0/16|CA|arin|2020-03-31|OVH, FR
 54.244.13.240|/Biblepay Core:0.17.2.5/|70780|16509|54.244.0.0/18|US|arin|2012-03-01|AMAZON-02, US
 66.94.124.136|/Biblepay Core:0.17.2.5/|70780|40021|66.94.120.0/21|US|arin|2021-07-28|CONTABO, US
-70.119.112.105|/Biblepay Core:0.17.2.5/|70780|11427|70.119.0.0/16|US|arin|2004-09-17|TWC-11427-TEXAS, US
-73.184.243.229|/Biblepay Core:0.17.2.5/|70780|7922|73.0.0.0/8|US|arin|2005-04-19|COMCAST-7922, US
-78.141.82.232|/Biblepay Core:0.17.2.5/|70780|15962|78.141.64.0/18|SK|ripencc|2007-07-13|OSK-DNI Slovakia, SK
-81.144.176.226|/Biblepay Core:0.17.2.5/|70780|2856|81.128.0.0/11|GB|ripencc|2002-07-25|BT-UK-AS BTnet UK Regional network, GB
-85.214.71.46|/Biblepay Core:0.17.2.5/|70780|6724|85.214.0.0/15|DE|ripencc|2005-02-24|STRATO STRATO AG, DE
+70.119.112.105|/Biblepay Core:0.17.2.5/|70780||||||
+73.184.243.229|/Biblepay Core:0.17.2.5/|70780||||||
+78.141.82.232|/Biblepay Core:0.17.2.5/|70780||||||
+81.144.176.226|/Biblepay Core:0.17.2.5/|70780||||||
+85.214.71.46|/Biblepay Core:0.17.2.5/|70780||||||
 92.38.100.237|/Biblepay Core:0.17.2.5/|70780|12365|92.38.96.0/19|CZ|ripencc|2008-02-01|SARKOR-AS Sarkor Telecom - Uztelecom, Upstream, UZ
-92.60.44.27|/Biblepay Core:0.17.2.5/|70780|3170|92.60.44.0/24|GB|ripencc|2018-08-24|VELOXSERV VeloxServ Communications Ltd, GB
-92.60.45.18|/Biblepay Core:0.17.2.5/|70780|3170|92.60.45.0/24|GB|ripencc|2018-08-24|VELOXSERV VeloxServ Communications Ltd, GB
-94.130.176.201|/Biblepay Core:0.17.2.5/|70780|24940|94.130.0.0/16|DE|ripencc|2008-06-23|HETZNER-AS, DE
-95.134.189.28|/Biblepay Core:0.17.2.5/|70780|6849|95.132.0.0/14|UA|ripencc|2009-01-23|UKRTELNET, UA
-95.217.145.114|/Biblepay Core:0.17.2.5/|70780|24940|95.217.0.0/16|DE|ripencc|2009-02-24|HETZNER-AS, DE
-98.235.9.10|/Biblepay Core:0.17.2.5/|70780|7922|98.192.0.0/10|US|arin|2007-04-20|COMCAST-7922, US
+92.60.44.27|/Biblepay Core:0.17.2.5/|70780||||||
+92.60.45.18|/Biblepay Core:0.17.2.5/|70780||||||
+94.130.176.201|/Biblepay Core:0.17.2.5/|70780||||||
+95.134.189.28|/Biblepay Core:0.17.2.5/|70780||||||
+95.217.145.114|/Biblepay Core:0.17.2.5/|70780||||||
+98.235.9.10|/Biblepay Core:0.17.2.5/|70780||||||
 dns1.biblepay.org|/Biblepay Core:0.17.2.6/|70780||||||
 dns3.biblepay.org|/Biblepay Core:0.17.2.5/|70780||||||
