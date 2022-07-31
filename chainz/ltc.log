@@ -19,6 +19,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 109.92.5.226|/LitecoinCore:0.17.1/|70015|8400|109.92.0.0/15|RS|ripencc|2009-09-21|TELEKOM-AS, RS
 114.253.252.122|/LitecoinCore:0.18.1/|70015|4808|114.253.192.0/18|CN|apnic|2008-06-24|CHINA169-BJ China Unicom Beijing Province Network, CN
 114.5.252.107|/BitcoinKit:0.1.0/|70015|4761|114.5.252.0/23|ID|apnic|2008-04-14|INDOSAT-INP-AP INDOSAT Internet Network Provider, ID
+115.164.89.114|/BitcoinKit:0.1.0/|70015|4818|115.164.0.0/16|MY|apnic|2008-08-22|DIGIIX-AP DiGi Telecommunications Sdn. Bhd., MY
 118.163.120.175|/btcwire:0.5.0/bitmarkd-payment-lightclient:0.1.0/|70013|3462|118.163.0.0/16|TW|apnic|2007-10-04|HINET Data Communication Business Group, TW
 118.163.120.179|/btcwire:0.5.0/bitmarkd-payment-lightclient:0.1.0/|70013|3462|118.163.0.0/16|TW|apnic|2007-10-04|HINET Data Communication Business Group, TW
 122.56.199.170|/BitcoinKit:0.1.0/|70015|4771|122.56.192.0/20|NZ|apnic|2006-11-01|SPARKNZ Spark New Zealand Trading Ltd., NZ
@@ -60,6 +61,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 170.79.155.255|/B2CCoinCore:0.16.3/|70015|266294|170.79.155.0/24|BR|lacnic|2016-10-13|A Z DE ARAUJO NETO ME, BR
 170.84.55.121|/B2CCoinCore:0.16.3/|70015|263009|170.84.52.0/22|BR|lacnic|2016-05-23|FORTE TELECOM LTDA., BR
 172.58.184.169|/BitcoinKit:0.1.0/|70015|21928|172.58.184.0/21|US|arin|2012-09-18|T-MOBILE-AS21928, US
+172.58.187.173|/BitcoinKit:0.1.0/|70015|21928|172.58.184.0/21|US|arin|2012-09-18|T-MOBILE-AS21928, US
 172.58.191.200|/WalletKit:0.1.0/|70015|21928|172.58.184.0/21|US|arin|2012-09-18|T-MOBILE-AS21928, US
 172.58.203.94|/BitcoinKit:0.1.0/|70015|21928|172.58.200.0/21|US|arin|2012-09-18|T-MOBILE-AS21928, US
 172.58.3.116|/BitcoinKit:0.1.0/|70015|21928|172.58.0.0/21|US|arin|2012-09-18|T-MOBILE-AS21928, US

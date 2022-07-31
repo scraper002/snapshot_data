@@ -113,6 +113,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 54.68.86.241|/LitecoinCashCore:0.16.3/|70015|16509|54.68.0.0/15|US|arin|2014-06-20|AMAZON-02, US
 61.69.93.166|/LitecoinCashCore:0.16.3/|70015|2764|61.69.0.0/17|AU|apnic|2001-08-08|AAPT AAPT Limited, AU
 62.194.226.193|/LitecoinCashCore:0.16.3/|70015|33915|62.194.0.0/16|NL|ripencc|2000-10-10|TNF-AS, NL
+62.217.188.54|/LitecoinCashCore:0.16.3/|70015|41275|62.217.184.0/21|RU|ripencc|2002-04-10|LEALTA-AS Moscow, Russia, RU
 62.252.18.98|/LitecoinCashCore:0.15.0.1/|70015|5089|62.252.0.0/18|GB|ripencc|1999-05-27|NTL, GB
 63.152.115.207|/LitecoinCashCore:0.16.3/|70015|209|63.152.0.0/16|US|arin|2000-07-12|CENTURYLINK-US-LEGACY-QWEST, US
 65.186.17.234|/LitecoinCashCore:0.16.3/|70015|10796|65.186.0.0/18|US|arin|2004-04-07|TWC-10796-MIDWEST, US
@@ -151,7 +152,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 84.42.143.229|/LitecoinCashCore:0.16.3/|70015|16019|84.42.128.0/18|CZ|ripencc|2004-09-14|VODAFONE-CZ-AS, CZ
 84.52.187.59|/LitecoinCashCore:0.16.3/|70015|3212|84.52.128.0/18|SI|ripencc|2004-11-01|TELEMACH Broadband Access & Carrier Services, SI
 85.14.6.58|/LitecoinCashCore:0.16.3/|70015|8262|85.14.0.0/18|BG|ripencc|2005-04-06|EVOLINK-AS, BG
-85.202.81.147|/LitecoinCashCore:0.16.3/|70015||||||
+85.202.81.147|/LitecoinCashCore:0.16.3/|70015|141039|85.202.81.0/24|DE|ripencc|2018-08-21|TEFINCOMHOST-AS-AP Packethub s.a., PA
 85.202.81.29|/LitecoinCashCore:0.16.3/|70015|141039|85.202.81.0/24|DE|ripencc|2018-08-21|TEFINCOMHOST-AS-AP Packethub s.a., PA
 86.140.48.20|/LitecoinCashCore:0.16.3/|70015|2856|86.128.0.0/12|GB|ripencc|2005-02-07|BT-UK-AS BTnet UK Regional network, GB
 88.109.5.45|/LitecoinCashCore:0.16.3/|70015|9105|88.108.0.0/15|GB|ripencc|2005-08-05|TISCALI-UK TalkTalk Communications Limited, GB
