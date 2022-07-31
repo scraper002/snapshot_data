@@ -64,6 +64,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 24.114.25.223|/Satoshi:0.20.2/Peercoin:0.11.1/|70016|812|24.114.24.0/23|CA|arin|1999-04-14|ROGERS-COMMUNICATIONS, CA
 24.154.247.39|/Satoshi:0.20.2/Peercoin:0.11.0/|70016|27364|24.154.224.0/19|US|arin|2000-03-16|ACS-INTERNET, US
 24.57.240.58|/Satoshi:0.20.2/Peercoin:0.11.1/|70016|7992|24.57.0.0/16|CA|arin|2001-11-05|COGECOWAVE, CA
+31.187.126.0|/Satoshi:0.20.2/Peercoin:0.11.0/|70016|9145|31.187.112.0/20|DE|ripencc|2011-03-25|EWETEL Cloppenburger Strasse 310, DE
 31.187.127.52|/Satoshi:0.20.2/Peercoin:0.11.0/|70016|9145|31.187.112.0/20|DE|ripencc|2011-03-25|EWETEL Cloppenburger Strasse 310, DE
 31.43.107.75|/Satoshi:0.20.2/Peercoin:0.11.4/|70016|56433|31.43.96.0/19|UA|ripencc|2011-02-28|ASLANUA-NETWORK, UA
 35.130.120.34|/Satoshi:0.20.2/Peercoin:0.11.8/|70016|20115|35.130.112.0/20|US|arin|2017-06-30|CHARTER-20115, US
@@ -74,6 +75,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 46.53.241.106|/Satoshi:0.20.2/Peercoin:0.11.0/|70016|42772|46.53.240.0/21|BY|ripencc|2010-08-24|A1-BY-AS, BY
 47.206.88.18|/Satoshi:0.20.2/Peercoin:0.11.8/|70016|5650|47.206.0.0/16|US|arin|2015-08-28|FRONTIER-FRTR, US
 47.92.87.183|/Satoshi:0.20.2/Peercoin:0.11.1/|70016|37963|47.92.0.0/15|CN|apnic|1989-01-06|ALIBABA-CN-NET Hangzhou Alibaba Advertising Co.,Ltd., CN
+5.79.200.130|/Satoshi:0.20.2/Peercoin:0.11.8/|70016|8369|5.79.128.0/17|RU|ripencc|2012-06-13|INTERSVYAZ-AS 38-B, Komsomolsky prospekt, RU
 50.99.20.71|/Satoshi:0.20.2/Peercoin:0.11.4/|70016|852|50.99.0.0/16|CA|arin|2011-03-31|TELUS Communications, CA
 51.159.2.44|/Satoshi:0.20.2/Peercoin:0.11.0/|70016|12876|51.158.0.0/15|FR|ripencc|1993-09-01|Online SAS, FR
 51.178.76.85|/Satoshi:0.20.2/Peercoin:0.11.8/|70016|16276|51.178.0.0/16|FR|ripencc|1993-09-01|OVH, FR
@@ -102,7 +104,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 79.135.192.31|/Satoshi:0.20.2/Peercoin:0.11.7/|70016|44078|79.135.192.0/19|UA|ripencc|2007-11-14|ICN-AS, UA
 79.137.67.138|/Satoshi:0.20.2/Peercoin:0.11.8/|70016|16276|79.137.0.0/17|FR|ripencc|2007-10-18|OVH, FR
 79.198.159.6|/Satoshi:0.20.2/Peercoin:0.11.1/|70016|3320|79.192.0.0/10|DE|ripencc|2007-06-06|DTAG Internet service provider operations, DE
-79.236.143.8|/Satoshi:0.20.2/Peercoin:0.11.4/|70016|3320|79.192.0.0/10|DE|ripencc|2007-06-06|DTAG Internet service provider operations, DE
+83.137.158.9|/Satoshi:0.20.2/Peercoin:0.11.5/|70016|212200|83.137.158.0/24|HU|ripencc|2010-04-19|ONION, NL
 84.151.55.18|/Satoshi:0.20.2/Peercoin:0.11.8/|70016|3320|84.128.0.0/10|DE|ripencc|2004-03-10|DTAG Internet service provider operations, DE
 84.70.243.230|/Satoshi:0.20.2/Peercoin:0.11.4/|70016|5378|84.64.0.0/13|GB|ripencc|2004-03-15|Vodafone, GB
 86.121.9.83|/Satoshi:0.20.2/Peercoin:0.11.1/|70016|8708|86.120.0.0/13|RO|ripencc|2005-03-16|RCS-RDS 73-75 Dr. Staicovici, RO
@@ -116,6 +118,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 90.126.103.37|/Satoshi:0.20.2/Peercoin:0.11.7/|70016|3215|90.126.0.0/16|FR|ripencc|2006-03-02|France Telecom - Orange, FR
 91.152.121.179|/Satoshi:0.20.2/Peercoin:0.11.7/|70016|719|91.152.0.0/13|FI|ripencc|2006-09-06|ELISA-AS Helsinki, Finland, FI
 91.67.67.140|/Satoshi:0.20.2/Peercoin:0.11.4/|70016|3209|91.64.0.0/14|DE|ripencc|2006-07-10|VODANET International IP-Backbone of Vodafone, DE
+92.194.232.56|/Satoshi:0.20.2/Peercoin:0.11.0/|70016|20676|92.192.0.0/13|DE|ripencc|2007-10-17|PLUSNET *****************, DE
 92.201.119.79|/Satoshi:0.20.2/Peercoin:0.11.8/|70016|20676|92.200.0.0/15|DE|ripencc|2007-10-17|PLUSNET *****************, DE
 92.210.58.163|/Satoshi:0.20.2/Peercoin:0.11.1/|70016|3209|92.208.0.0/14|DE|ripencc|2007-10-17|VODANET International IP-Backbone of Vodafone, DE
 92.39.186.135|/Satoshi:0.20.2/Peercoin:0.11.0/|70016|31122|92.39.176.0/20|IE|ripencc|2008-09-09|DIGIWEB-AS, IE
@@ -127,4 +130,3 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 95.91.242.230|/Satoshi:0.20.2/Peercoin:0.11.1/|70016|3209|95.88.0.0/14|DE|ripencc|2008-12-15|VODANET International IP-Backbone of Vodafone, DE
 98.128.202.218|/Satoshi:0.20.2/Peercoin:0.11.8/|70016|8473|98.128.0.0/16|SE|ripencc|2016-12-19|BAHNHOF www.bahnhof.net, SE
 98.250.175.53|/Satoshi:0.20.2/Peercoin:0.11.8/|70016|7922|98.192.0.0/10|US|arin|2007-04-20|COMCAST-7922, US
-98.59.110.225|/Satoshi:0.20.2/Peercoin:0.11.3/|70016|7922|98.32.0.0/11|US|arin|2007-06-06|COMCAST-7922, US
