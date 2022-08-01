@@ -3,7 +3,8 @@
 IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 107.185.174.246|/Vericonomy:2.0.0/|90000||||||
 109.156.75.148|/Vericonomy:2.0.0/|90000||||||
-13.93.3.143|/Veritoshi:1.7.2/|70012|8075|13.64.0.0/11|US|arin|2015-03-26|MICROSOFT-CORP-MSN-AS-BLOCK, US
+13.93.3.143|/Veritoshi:1.7.2/|70012||||||
+172.58.87.206|/Vericonomy:2.0.0/|90000||||||
 174.68.170.27|/Veritoshi:1.7.2/|70012||||||
 185.139.25.7|/Vericonomy:2.0.0/|90000||||||
 188.217.191.126|/Vericonomy:2.0.0/|90000||||||
@@ -27,14 +28,14 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 74.101.92.20|/Vericonomy:2.0.0/|90000||||||
 74.194.156.4|/Vericonomy:2.0.0/|90000||||||
 78.154.13.145|/Veritoshi:1.7.2/|70012||||||
-81.155.229.76|/Vericonomy:2.0.0/|90000|2856|81.128.0.0/11|GB|ripencc|2002-07-25|BT-UK-AS BTnet UK Regional network, GB
-83.33.139.239|/Vericonomy:2.0.0/|90000|3352|83.33.0.0/16|ES|ripencc|2003-12-02|TELEFONICA_DE_ESPANA, ES
-84.113.159.205|/Vericonomy:2.0.0/|90000|8412|84.112.0.0/15|AT|ripencc|2004-04-07|TMA Magenta Telekom, AT
-84.162.69.78|/Vericonomy:2.0.0/|90000|3320|84.128.0.0/10|DE|ripencc|2004-03-10|DTAG Internet service provider operations, DE
+81.155.229.76|/Vericonomy:2.0.0/|90000||||||
+83.33.139.239|/Vericonomy:2.0.0/|90000||||||
+84.113.159.205|/Vericonomy:2.0.0/|90000||||||
+84.162.69.78|/Vericonomy:2.0.0/|90000||||||
 84.41.76.193|/Vericonomy:2.0.0/|90000||||||
 85.194.207.116|/Vericonomy:2.0.0/|90000||||||
-86.130.40.250|/Vericonomy:2.0.1.5/|90001|2856|86.128.0.0/12|GB|ripencc|2005-02-07|BT-UK-AS BTnet UK Regional network, GB
-86.6.254.141|/Vericonomy:2.0.0/|90000|5089|86.6.128.0/17|GB|ripencc|2005-03-29|NTL, GB
+86.130.40.250|/Vericonomy:2.0.1.5/|90001||||||
+86.6.254.141|/Vericonomy:2.0.0/|90000||||||
 90.183.80.92|/Veritoshi:1.7.1/|70012||||||
 91.121.221.200|/Vericonomy:2.0.0/|90000||||||
 91.207.174.235|/Vericonomy:2.0.0/|90000||||||

@@ -13,7 +13,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 138.68.131.210|/Groestlcoin:23.0.0/|70016|14061|138.68.128.0/20|US|arin|2016-01-26|DIGITALOCEAN-ASN, US
 139.59.16.104|/Groestlcoin:23.0.0/|70016|14061|139.59.16.0/20|SG|apnic|1990-06-27|DIGITALOCEAN-ASN, US
 139.59.16.18|/Groestlcoin:23.0.0/|70016|14061|139.59.16.0/20|SG|apnic|1990-06-27|DIGITALOCEAN-ASN, US
-142.112.0.42|/Groestlcoin:2.21.1/|70016||||||
+142.112.0.42|/Groestlcoin:2.21.1/|70016|577|142.112.0.0/16|CA|arin|1993-04-05|BACOM, CA
 145.239.0.106|/Groestlcoin:22.0.0/|70016||||||
 157.90.223.151|/Groestlcoin:23.0.0/|70016|24940|157.90.0.0/16|DE|ripencc|1996-12-16|HETZNER-AS, DE
 159.203.85.176|/Groestlcoin:23.0.0/|70016|14061|159.203.80.0/20|US|arin|2015-08-10|DIGITALOCEAN-ASN, US
@@ -25,7 +25,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 185.185.41.83|/Groestlcoin:2.21.0/|70016||||||
 188.166.19.174|/Groestlcoin:2.17.2/|70015||||||
 192.241.251.204|/Groestlcoin:23.0.0/|70016|14061|192.241.240.0/20|US|arin|2013-06-10|DIGITALOCEAN-ASN, US
-193.70.35.154|/Groestlcoin:23.0.0/|70016||||||
+193.70.35.154|/Groestlcoin:23.0.0/|70016|16276|193.70.0.0/17|FR|ripencc|1993-09-01|OVH, FR
 194.62.60.98|/groestlcoinj:0.16.1/Groestlcoin Wallet:9.03/|70013||||||
 195.72.211.118|/Groestlcoin:22.0.0/|70016||||||
 199.247.31.182|/grswire:0.5.0/grsd:0.20.1/|70013||||||
@@ -33,19 +33,19 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 217.115.120.70|/Groestlcoin:22.0.0/|70016||||||
 23.239.10.171|/Groestlcoin:2.21.1/|70016||||||
 34.231.68.33|/Groestlcoin:2.21.1/|70016||||||
-37.139.19.131|/Groestlcoin:23.0.0/|70016||||||
+37.139.19.131|/Groestlcoin:23.0.0/|70016|14061|37.139.0.0/19|US|ripencc|2012-02-24|DIGITALOCEAN-ASN, US
 37.209.17.67|/Groestlcoin:2.21.1/|70016||||||
 45.126.209.106|Groestlcoin:22.0.0|70016|23470|45.126.209.0/24|SG|apnic|2015-09-08|RELIABLESITE, US
-45.32.33.53|/Groestlcoin:23.0.0/|70016||||||
-45.55.208.58|/Groestlcoin:23.0.0/|70016||||||
-45.55.208.60|/Groestlcoin:23.0.0/|70016||||||
-45.63.25.237|/Groestlcoin:23.0.0/|70016||||||
-45.63.43.96|/Groestlcoin:23.0.0/|70016||||||
+45.32.33.53|/Groestlcoin:23.0.0/|70016|20473|45.32.32.0/19|US|arin|2015-02-17|AS-CHOOPA, US
+45.55.208.58|/Groestlcoin:23.0.0/|70016|14061|45.55.192.0/18|US|arin|2015-02-05|DIGITALOCEAN-ASN, US
+45.55.208.60|/Groestlcoin:23.0.0/|70016|14061|45.55.192.0/18|US|arin|2015-02-05|DIGITALOCEAN-ASN, US
+45.63.25.237|/Groestlcoin:23.0.0/|70016|20473|45.63.24.0/21|US|arin|2015-01-02|AS-CHOOPA, US
+45.63.43.96|/Groestlcoin:23.0.0/|70016|20473|45.63.40.0/22|US|arin|2015-01-02|AS-CHOOPA, US
 52.88.50.149|/Groestlcoin:22.0.0/|70016||||||
-65.108.76.55|/Groestlcoin:23.0.0/|70016||||||
+65.108.76.55|/Groestlcoin:23.0.0/|70016|24940|65.108.0.0/16|DE|ripencc|2001-02-09|HETZNER-AS, DE
 72.74.61.128|/Groestlcoin:2.13.3/|70015||||||
-82.196.11.189|/Groestlcoin:23.0.0/|70016||||||
-82.196.13.206|/Groestlcoin:23.0.0/|70016||||||
+82.196.11.189|/Groestlcoin:23.0.0/|70016|14061|82.196.0.0/20|US|ripencc|2003-10-27|DIGITALOCEAN-ASN, US
+82.196.13.206|/Groestlcoin:23.0.0/|70016|14061|82.196.0.0/20|US|ripencc|2003-10-27|DIGITALOCEAN-ASN, US
 92.62.25.145|/Groestlcoin:22.0.0/|70016||||||
 92.97.152.242|/Groestlcoin:23.0.0/|70016||||||
 93.190.23.114|/Groestlcoin:22.0.0/|70016||||||

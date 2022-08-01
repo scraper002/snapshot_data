@@ -2,8 +2,8 @@
 # Mooncoin
 IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 1.214.30.247|/MooncoinCore:0.17.1/|70017||||||
-104.173.76.242|/Mooncoin:0.10.5/|70002||||||
-106.38.92.46|/Mooncoin:0.13.9/|70016||||||
+104.173.76.242|/Mooncoin:0.10.5/|70002|20001|104.172.0.0/14|US|arin|2014-08-13|TWC-20001-PACWEST, US
+106.38.92.46|/Mooncoin:0.13.9/|70016|4847|106.38.0.0/16|CN|apnic|2011-03-18|CNIX-AP China Networks Inter-Exchange, CN
 108.56.234.22|/MooncoinCore:0.17.1/|70017||||||
 111.229.221.109|/MooncoinCore:0.17.1/|70017||||||
 112.102.216.133|/MooncoinCore:0.17.1/|70017||||||
@@ -19,14 +19,15 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 176.114.249.250|/MooncoinCore:0.17.1/|70017||||||
 178.18.247.153|/MooncoinCore:0.17.1/|70017||||||
 180.139.254.83|/MooncoinCore:0.17.1/|70017||||||
-185.82.203.241|/MooncoinCore:0.17.1/|70017||||||
-203.10.99.174|/Mooncoin:0.13.9/|70016||||||
+185.82.203.241|/MooncoinCore:0.17.1/|70017|60117|185.82.203.0/24|AE|ripencc|2014-12-31|HS, AE
+203.10.99.174|/Mooncoin:0.13.9/|70016|137409|203.10.99.0/24|AU|apnic|1994-12-21|GSLNETWORKS-AS-AP GSL Networks Pty LTD, AU
 223.72.57.10|/MooncoinCore:0.17.1/|70017||||||
 223.72.71.126|/MooncoinCore:0.17.1/|70017||||||
 24.75.197.65|/MooncoinCore:0.17.1/|70017||||||
 3.97.140.225|/MooncoinCore:0.17.1/|70017||||||
 36.72.212.229|/MooncoinCore:0.17.1/|70017||||||
 45.63.86.125|/MooncoinCore:0.17.1/|70017||||||
+49.186.80.231|/loaf-android:17.3.3/|70015|4804|49.186.0.0/17|AU|apnic|2010-12-02|MPX-AS Microplex PTY LTD, AU
 5.45.105.66|/MooncoinCore:0.17.1/|70017||||||
 50.125.224.254|/MooncoinCore:0.17.1/|70017|20055|50.125.0.0/16|US|arin|2011-09-06|AS-WHOLESAIL, US
 50.220.121.211|/MooncoinCore:0.17.1/|70017||||||
@@ -42,23 +43,23 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 74.194.156.4|/MooncoinCore:0.17.1/|70017||||||
 76.108.248.147|/MooncoinCore:0.17.1/|70017||||||
 78.34.5.179|/MooncoinCore:0.17.1/|70017||||||
-81.53.136.62|/Mooncoin:0.13.9/|70016||||||
+81.53.136.62|/Mooncoin:0.13.9/|70016|3215|81.53.0.0/16|FR|ripencc|2002-03-25|France Telecom - Orange, FR
 82.29.154.199|/MooncoinCore:0.17.1/|70017||||||
 82.64.185.60|/MooncoinCore:0.17.1/|70017||||||
 84.106.29.86|/MooncoinCore:0.17.1/|70017||||||
-84.107.99.176|/Mooncoin:0.13.9/|70016||||||
+84.107.99.176|/Mooncoin:0.13.9/|70016|33915|84.106.0.0/15|NL|ripencc|2004-04-26|TNF-AS, NL
 84.147.108.91|/MooncoinCore:0.17.1/|70017||||||
 84.234.52.190|/MooncoinCore:0.17.1/|70017||||||
 85.15.179.171|/Mooncoin:0.13.9/|70016|12389|85.15.128.0/18|RU|ripencc|2005-04-26|ROSTELECOM-AS, RU
-88.99.68.228|/Mooncoin:0.13.9/|70016||||||
+88.99.68.228|/Mooncoin:0.13.9/|70016|24940|88.99.0.0/16|DE|ripencc|2005-08-03|HETZNER-AS, DE
 89.137.179.15|/MooncoinCore:0.17.1/|70017||||||
-90.52.34.237|/MooncoinCore:0.17.1/|70017|3215|90.52.0.0/17|FR|ripencc|2006-03-02|France Telecom - Orange, FR
+90.52.34.237|/MooncoinCore:0.17.1/|70017||||||
 91.127.3.191|/MooncoinCore:0.17.1/|70017||||||
-91.19.218.115|/loaf-android:17.3.3/|70015||||||
+91.19.218.115|/loaf-android:17.3.3/|70015|3320|91.0.0.0/10|DE|ripencc|2006-07-03|DTAG Internet service provider operations, DE
 91.200.41.32|/MooncoinCore:0.17.1/|70017||||||
 91.206.16.214|/Mooncoin:0.13.9/|70016|13259|91.206.16.0/23|RU|ripencc|2008-06-09|DELTA-TELESYSTEMS-AS, RU
 92.116.15.33|/MooncoinCore:0.17.1/|70017||||||
 92.116.32.112|/MooncoinCore:0.17.1/|70017||||||
-94.23.2.215|/Mooncoin:0.13.9/|70016||||||
-95.179.138.109|/MooncoinCore:0.17.1/|70017||||||
-99.155.224.126|/Mooncoin:0.13.9/|70016||||||
+94.23.2.215|/Mooncoin:0.13.9/|70016|16276|94.23.0.0/16|FR|ripencc|2008-07-15|OVH, FR
+95.179.138.109|/MooncoinCore:0.17.1/|70017|20473|95.179.128.0/20|US|ripencc|2009-01-22|AS-CHOOPA, US
+99.155.224.126|/Mooncoin:0.13.9/|70016|7018|99.152.0.0/14|US|arin|2007-08-29|ATT-INTERNET4, US
