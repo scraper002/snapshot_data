@@ -9,20 +9,20 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 135.181.164.190|/BolivarCore:2.0.0.2/|70211||||||
 137.184.195.209|/BolivarCore:2.0.0.2/|70212||||||
 137.184.195.209|/BolivarCore:2.0.0.2/|70211||||||
-138.197.127.246|/BolivarCore:2.0.0.2/|70212||||||
-138.197.127.246|/BolivarCore:2.0.0.2/|70211||||||
-138.201.196.237|/BolivarCore:2.0.0.2/|70212||||||
-138.201.196.237|/BolivarCore:2.0.0.2/|70211||||||
-149.34.244.177|/BolivarCore:2.0.0.2/|70212||||||
-149.34.244.177|/BolivarCore:2.0.0.2/|70211||||||
-152.170.245.139|/BolivarCore:2.0.0.2/|70212||||||
-152.170.245.139|/BolivarCore:2.0.0.2/|70211||||||
-159.65.203.140|/BolivarCore:2.0.0.2/|70212||||||
-159.65.203.140|/BolivarCore:2.0.0.2/|70211||||||
-161.97.123.248|/BolivarCore:2.0.0.2/|70212||||||
-161.97.123.248|/BolivarCore:2.0.0.2/|70211||||||
-161.97.152.19|/BolivarCore:2.0.0.2/|70212||||||
-161.97.152.19|/BolivarCore:2.0.0.2/|70211||||||
+138.197.127.246|/BolivarCore:2.0.0.2/|70212|14061|138.197.112.0/20|US|arin|2016-01-26|DIGITALOCEAN-ASN, US
+138.197.127.246|/BolivarCore:2.0.0.2/|70211|14061|138.197.112.0/20|US|arin|2016-01-26|DIGITALOCEAN-ASN, US
+138.201.196.237|/BolivarCore:2.0.0.2/|70212|24940|138.201.0.0/16|DE|ripencc|1990-05-23|HETZNER-AS, DE
+138.201.196.237|/BolivarCore:2.0.0.2/|70211|24940|138.201.0.0/16|DE|ripencc|1990-05-23|HETZNER-AS, DE
+149.34.244.177|/BolivarCore:2.0.0.2/|70212|212238|149.34.244.0/24|US|arin|1992-01-28|CDNEXT, GB
+149.34.244.177|/BolivarCore:2.0.0.2/|70211|212238|149.34.244.0/24|US|arin|1992-01-28|CDNEXT, GB
+152.170.245.139|/BolivarCore:2.0.0.2/|70212|7303|152.170.0.0/15|AR|lacnic|2014-04-22|Telecom Argentina S.A., AR
+152.170.245.139|/BolivarCore:2.0.0.2/|70211|7303|152.170.0.0/15|AR|lacnic|2014-04-22|Telecom Argentina S.A., AR
+159.65.203.140|/BolivarCore:2.0.0.2/|70212|14061|159.65.192.0/20|US|arin|2017-10-24|DIGITALOCEAN-ASN, US
+159.65.203.140|/BolivarCore:2.0.0.2/|70211|14061|159.65.192.0/20|US|arin|2017-10-24|DIGITALOCEAN-ASN, US
+161.97.123.248|/BolivarCore:2.0.0.2/|70212|51167|161.97.122.0/23|DE|ripencc|1992-06-23|CONTABO, DE
+161.97.123.248|/BolivarCore:2.0.0.2/|70211|51167|161.97.122.0/23|DE|ripencc|1992-06-23|CONTABO, DE
+161.97.152.19|/BolivarCore:2.0.0.2/|70212|51167|161.97.128.0/19|DE|ripencc|1992-06-23|CONTABO, DE
+161.97.152.19|/BolivarCore:2.0.0.2/|70211|51167|161.97.128.0/19|DE|ripencc|1992-06-23|CONTABO, DE
 161.97.175.78|/BolivarCore:2.0.0.2/|70212||||||
 161.97.175.78|/BolivarCore:2.0.0.2/|70211||||||
 167.114.28.173|/BolivarCore:2.0.0.2/|70212||||||
@@ -33,8 +33,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 167.86.124.227|/BolivarCore:2.0.0.2/|70211||||||
 173.249.3.183|/BolivarCore:2.0.0.2/|70212||||||
 173.249.3.183|/BolivarCore:2.0.0.2/|70211||||||
-179.67.20.196|/BolivarCore:2.0.0.2/|70212||||||
-179.67.20.196|/BolivarCore:2.0.0.2/|70211||||||
 185.82.203.241|/BolivarCore:2.0.0.2/|70212||||||
 185.82.203.241|/BolivarCore:2.0.0.2/|70211||||||
 186.95.114.178|/BolivarCore:2.0.0.2/|70212||||||
@@ -63,16 +61,16 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 209.126.7.83|/BolivarCore:2.0.0.2/|70211||||||
 209.127.125.116|/BolivarCore:2.0.0.2/|70212||||||
 209.127.125.116|/BolivarCore:2.0.0.2/|70211||||||
-213.32.6.132|/BolivarCore:2.0.0.2/|70212||||||
-213.32.6.132|/BolivarCore:2.0.0.2/|70211||||||
+213.32.6.132|/BolivarCore:2.0.0.2/|70212|16276|213.32.0.0/17|FR|ripencc|1999-06-28|OVH, FR
+213.32.6.132|/BolivarCore:2.0.0.2/|70211|16276|213.32.0.0/17|FR|ripencc|1999-06-28|OVH, FR
 38.242.131.141|/BolivarCore:2.0.0.2/|70212||||||
 38.242.131.141|/BolivarCore:2.0.0.2/|70211||||||
 38.242.212.74|/BolivarCore:2.0.0.2/|70212||||||
 38.242.212.74|/BolivarCore:2.0.0.2/|70211||||||
-45.177.92.49|/BolivarCore:2.0.0.2/|70212||||||
-45.177.92.49|/BolivarCore:2.0.0.2/|70211||||||
-46.101.235.143|/BolivarCore:2.0.0.2/|70212|14061|46.101.128.0/17|US|ripencc|2010-06-24|DIGITALOCEAN-ASN, US
-46.101.235.143|/BolivarCore:2.0.0.2/|70211|14061|46.101.128.0/17|US|ripencc|2010-06-24|DIGITALOCEAN-ASN, US
+45.177.92.49|/BolivarCore:2.0.0.2/|70212|267891|45.177.92.0/22|AR|lacnic|2019-06-10|COOPERATIVA DE SERVICIOS Y OBRAS PUBLICAS LIMITADA DE RIVERA, AR
+45.177.92.49|/BolivarCore:2.0.0.2/|70211|267891|45.177.92.0/22|AR|lacnic|2019-06-10|COOPERATIVA DE SERVICIOS Y OBRAS PUBLICAS LIMITADA DE RIVERA, AR
+46.101.235.143|/BolivarCore:2.0.0.2/|70212||||||
+46.101.235.143|/BolivarCore:2.0.0.2/|70211||||||
 5.135.141.114|/BolivarCore:2.0.0.0/|70212||||||
 5.189.173.231|/BolivarCore:2.0.0.2/|70212||||||
 5.189.173.231|/BolivarCore:2.0.0.2/|70211||||||
@@ -87,14 +85,14 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 66.94.99.185|/BolivarCore:2.0.0.2/|70211||||||
 70.83.16.230|/BolivarCore:2.0.0.2/|70212||||||
 70.83.16.230|/BolivarCore:2.0.0.2/|70211||||||
-85.15.179.171|/BolivarCore:2.0.0.2/|70212||||||
-85.15.179.171|/BolivarCore:2.0.0.2/|70211||||||
+85.15.179.171|/BolivarCore:2.0.0.2/|70212|12389|85.15.128.0/18|RU|ripencc|2005-04-26|ROSTELECOM-AS, RU
+85.15.179.171|/BolivarCore:2.0.0.2/|70211|12389|85.15.128.0/18|RU|ripencc|2005-04-26|ROSTELECOM-AS, RU
 85.217.171.46|???|0||||||
 88.99.17.41|/BolivarCore:2.0.0.2/|70212||||||
 88.99.17.41|/BolivarCore:2.0.0.2/|70211||||||
 89.40.14.208|/BolivarCore:2.0.0.2/|70212||||||
 89.40.14.208|/BolivarCore:2.0.0.2/|70211||||||
-91.206.16.214|/BolivarCore:2.0.0.2/|70212||||||
-91.206.16.214|/BolivarCore:2.0.0.2/|70211||||||
-99.148.47.138|/BolivarCore:2.0.0.2/|70212||||||
-99.148.47.138|/BolivarCore:2.0.0.2/|70211||||||
+91.206.16.214|/BolivarCore:2.0.0.2/|70212|13259|91.206.16.0/23|RU|ripencc|2008-06-09|DELTA-TELESYSTEMS-AS, RU
+91.206.16.214|/BolivarCore:2.0.0.2/|70211|13259|91.206.16.0/23|RU|ripencc|2008-06-09|DELTA-TELESYSTEMS-AS, RU
+99.148.47.138|/BolivarCore:2.0.0.2/|70212|7018|99.148.0.0/15|US|arin|2007-08-29|ATT-INTERNET4, US
+99.148.47.138|/BolivarCore:2.0.0.2/|70211|7018|99.148.0.0/15|US|arin|2007-08-29|ATT-INTERNET4, US
