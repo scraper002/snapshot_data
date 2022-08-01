@@ -1,9 +1,9 @@
 # https://chainz.cryptoid.info/ and whois results
 # EarthCoin
 IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
-106.52.249.182|/Earthcoin:2.1.4/|70018|45090|106.52.240.0/20|CN|apnic|2011-04-06|TENCENT-NET-AP Shenzhen Tencent Computer Systems Company Limited, CN
-111.15.97.206|/Earthcoin:2.1.4/|70018|24444|111.15.64.0/18|CN|apnic|2009-05-06|CMNET-V4SHANDONG-AS-AP Shandong Mobile Communication Company Limited, CN
-116.62.78.91|/Earthcoin:2.1.4/|70018|37963|116.62.0.0/17|CN|apnic|2007-03-29|ALIBABA-CN-NET Hangzhou Alibaba Advertising Co.,Ltd., CN
+106.52.249.182|/Earthcoin:2.1.4/|70018||||||
+111.15.97.206|/Earthcoin:2.1.4/|70018||||||
+116.62.78.91|/Earthcoin:2.1.4/|70018||||||
 119.29.174.113|/Earthcoin:2.1.4/|70018||||||
 121.5.6.86|/Earthcoin:2.1.4/|70018||||||
 138.201.196.237|/Earthcoin:2.1.4/|70018||||||
@@ -13,6 +13,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 182.151.14.132|/Earthcoin:2.1.4/|70018||||||
 198.177.55.16|/Earthcoin:2.1.4/|70018||||||
 218.166.122.172|/Earthcoin:2.1.4/|70018||||||
+223.73.6.138|/Earthcoin:2.1.4/|70018||||||
 45.153.35.147|/Earthcoin:2.1.4/|70018||||||
 45.56.95.212|/Earthcoin:2.1.4/|70018||||||
 46.28.107.182|/Earthcoin:2.1.1/|70018||||||
@@ -20,14 +21,14 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 47.57.183.167|/Earthcoin:2.1.4/|70018||||||
 47.57.189.212|/Earthcoin:2.1.4/|70018||||||
 47.57.190.111|/Earthcoin:2.1.4/|70018||||||
-47.57.240.69|/Earthcoin:2.1.4/|70018||||||
+47.57.240.69|/Earthcoin:2.1.4/|70018|45102|47.57.0.0/16|US|arin|2016-03-17|ALIBABA-CN-NET Alibaba US Technology Co., Ltd., CN
 47.57.4.133|/Earthcoin:2.1.4/|70018||||||
-47.57.6.140|/Earthcoin:2.1.4/|70018||||||
 47.75.102.180|/Earthcoin:2.1.4/|70018||||||
 47.75.108.89|/Earthcoin:2.1.4/|70018||||||
 47.75.113.60|/Earthcoin:2.1.4/|70018||||||
 47.75.117.48|/Earthcoin:2.1.4/|70018||||||
 47.75.118.87|/Earthcoin:2.1.4/|70018||||||
+47.75.125.103|/Earthcoin:2.1.4/|70018||||||
 5.9.10.66|/Earthcoin:2.1.1/|70018||||||
 66.70.182.1|/Earthcoin:2.1.4/|70018||||||
 82.156.37.106|/Earthcoin:2.1.4/|70018||||||
