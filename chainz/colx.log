@@ -8,7 +8,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 116.203.113.149|/ColossusXT Core:1.2.4/|70911||||||
 116.203.25.111|/ColossusXT Core:1.2.4/|70911||||||
 116.203.27.248|/ColossusXT Core:1.2.4/|70911||||||
-116.203.40.42|/ColossusXT Core:1.2.4/|70911|24940|116.203.0.0/16|DE|ripencc|2011-01-17|HETZNER-AS, DE
+116.203.40.42|/ColossusXT Core:1.2.4/|70911||||||
 116.203.53.139|/ColossusXT Core:1.2.4/|70911||||||
 116.203.73.173|/ColossusXT Core:1.2.4/|70911||||||
 118.208.186.74|/ColossusXT Core:1.2.4/|70911||||||
@@ -23,22 +23,21 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 142.93.41.101|/ColossusXT Core:1.2.4/|70911||||||
 154.6.90.16|/ColossusXT Core:1.2.4/|70911||||||
 157.90.154.14|/ColossusXT Core:1.2.4/|70911||||||
-159.196.12.200|/ColossusXT Core:1.2.4/|70911||||||
+159.196.12.200|/ColossusXT Core:1.2.4/|70911|4764|159.196.12.0/22|AU|apnic|1992-05-26|WIDEBAND-AS-AP Aussie Broadband, AU
 159.69.119.56|/ColossusXT Core:1.2.4/|70911||||||
 159.89.150.132|/ColossusXT Core:1.2.4/|70911||||||
 164.68.102.165|/ColossusXT Core:1.2.4/|70911||||||
-167.86.120.231|break|70911||||||
+167.86.120.231|break|70911|51167|167.86.120.0/23|DE|ripencc|1993-05-14|CONTABO, DE
 167.86.83.59|/ColossusXT Core:1.2.4/|70911||||||
 167.86.91.19|/ColossusXT Core:1.2.3/|70911||||||
 173.249.3.133|/ColossusXT Core:1.2.4/|70911||||||
 173.25.125.229|/ColossusXT Core:1.2.4/|70911||||||
 173.70.108.101|/ColossusXT Core:1.2.4/|70911||||||
-178.115.35.181|/ColossusXT Core:1.2.4/|70911||||||
-178.128.91.78|???|0||||||
+178.128.91.78|???|0|14061|178.128.80.0/20|US|ripencc|2010-03-03|DIGITALOCEAN-ASN, US
 178.165.181.181|/ColossusXT Core:1.2.4/|70911||||||
 183.69.215.127|/ColossusXT Core:1.2.4/|70911||||||
 185.102.217.164|/ColossusXT Core:1.2.4/|70911|60068|185.102.217.0/24|CZ|ripencc|2015-06-02|CDN77 ^_^, GB
-185.153.132.117|/ColossusXT Core:1.2.3/|70911||||||
+185.153.132.117|/ColossusXT Core:1.2.3/|70911|35816|185.153.132.0/22|RU|ripencc|2016-05-23|SEVSTAR Sevastopol, Russia, RU
 185.180.221.184|/ColossusXT Core:1.2.4/|70911|49981|185.180.220.0/22|NL|ripencc|2016-12-07|WORLDSTREAM, NL
 188.131.154.129|/ColossusXT Core:1.2.4/|70911||||||
 192.144.157.45|/ColossusXT Core:1.2.4/|70911||||||
@@ -48,19 +47,19 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 207.81.251.13|/ColossusXT Core:1.2.4/|70911||||||
 217.37.18.185|/ColossusXT Core:1.2.4/|70911||||||
 218.238.64.183|/ColossusXT Core:1.2.4/|70911||||||
+38.242.248.99|/ColossusXT Core:1.2.4/|70911||||||
 45.148.143.86|/ColossusXT Core:1.2.4/|70911||||||
 45.77.208.164|/ColossusXT Core:1.2.4/|70911||||||
 47.209.26.54|/ColossusXT Core:1.2.4/|70911||||||
 49.12.66.98|/ColossusXT Core:1.2.4/|70911||||||
 51.79.55.209|/ColossusXT Core:1.2.4/|70911||||||
 52.63.210.245|/ColossusXT Core:1.2.4/|70911||||||
-62.122.202.0|/ColossusXT Core:1.2.4/|70911||||||
 65.108.129.116|/ColossusXT Core:1.2.4/|70911||||||
 65.21.203.156|/ColossusXT Core:1.2.4/|70911||||||
 77.119.198.84|/ColossusXT Core:1.2.4/|70911||||||
 78.24.216.147|/ColossusXT Core:1.2.4/|70911||||||
 78.47.83.59|/ColossusXT Core:1.2.4/|70911||||||
-81.169.221.142|/ColossusXT Core:1.2.4/|70911||||||
+81.169.221.142|/ColossusXT Core:1.2.4/|70911|6724|81.169.128.0/17|DE|ripencc|2003-04-17|STRATO STRATO AG, DE
 91.156.116.242|/ColossusXT Core:1.2.4/|70911||||||
 94.130.204.247|/ColossusXT Core:1.2.4/|70911||||||
 95.111.249.146|/ColossusXT Core:1.2.4/|70911||||||
