@@ -1,14 +1,14 @@
 # https://chainz.cryptoid.info/ and whois results
 # BitConnect Coin
 IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
-101.161.201.219|/Satoshi:1.0.0/|60013|1221|101.160.0.0/11|AU|apnic|2010-12-23|ASN-TELSTRA Telstra Corporation Ltd, AU
-101.161.201.219|/Satoshi:1.0.0/|60014|1221|101.160.0.0/11|AU|apnic|2010-12-23|ASN-TELSTRA Telstra Corporation Ltd, AU
-102.36.143.179|/Satoshi:1.0.0/|60013|328583|102.36.140.0/22|ZA|afrinic|2019-11-26|Crazyweb-Tech, ZA
-102.36.143.179|/Satoshi:1.0.0/|60014|328583|102.36.140.0/22|ZA|afrinic|2019-11-26|Crazyweb-Tech, ZA
-102.36.143.38|/Satoshi:1.0.0/|60013|328583|102.36.140.0/22|ZA|afrinic|2019-11-26|Crazyweb-Tech, ZA
-102.36.143.38|/Satoshi:1.0.0/|60014|328583|102.36.140.0/22|ZA|afrinic|2019-11-26|Crazyweb-Tech, ZA
-104.145.243.141|/Satoshi:1.0.0/|60013|23254|104.145.240.0/20|US|arin|2014-08-05|CARR-INTERNET, US
-104.145.243.141|/Satoshi:1.0.0/|60014|23254|104.145.240.0/20|US|arin|2014-08-05|CARR-INTERNET, US
+101.161.201.219|/Satoshi:1.0.0/|60013||||||
+101.161.201.219|/Satoshi:1.0.0/|60014||||||
+102.36.143.179|/Satoshi:1.0.0/|60013||||||
+102.36.143.179|/Satoshi:1.0.0/|60014||||||
+102.36.143.38|/Satoshi:1.0.0/|60013||||||
+102.36.143.38|/Satoshi:1.0.0/|60014||||||
+104.145.243.141|/Satoshi:1.0.0/|60013||||||
+104.145.243.141|/Satoshi:1.0.0/|60014||||||
 106.180.239.129|/Satoshi:1.0.0/|60013||||||
 106.180.239.129|/Satoshi:1.0.0/|60014||||||
 108.24.252.251|/Satoshi:1.0.0/|60013||||||
@@ -109,8 +109,8 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 64.56.15.133|/Satoshi:1.0.0/|60014||||||
 68.230.52.75|/Satoshi:1.0.0/|60013||||||
 68.230.52.75|/Satoshi:1.0.0/|60014||||||
-68.6.176.55|/Satoshi:1.0.0/|60013|22773|68.6.0.0/15|US|arin|2001-11-12|ASN-CXA-ALL-CCI-22773-RDC, US
-68.6.176.55|/Satoshi:1.0.0/|60014|22773|68.6.0.0/15|US|arin|2001-11-12|ASN-CXA-ALL-CCI-22773-RDC, US
+68.6.176.55|/Satoshi:1.0.0/|60013||||||
+68.6.176.55|/Satoshi:1.0.0/|60014||||||
 69.92.253.154|/Satoshi:1.0.0/|60013||||||
 69.92.253.154|/Satoshi:1.0.0/|60014||||||
 70.95.155.190|/Satoshi:1.0.0/|60013||||||
