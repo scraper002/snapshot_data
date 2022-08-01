@@ -3,8 +3,8 @@
 IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 128.199.229.71|/BolivarCore:2.0.0.2/|70212||||||
 128.199.229.71|/BolivarCore:2.0.0.2/|70211||||||
-131.153.57.198|/BolivarCore:2.0.0.2/|70212|19181|131.153.57.0/24|US|arin|2015-05-08|CWIE, US
-131.153.57.198|/BolivarCore:2.0.0.2/|70211|19181|131.153.57.0/24|US|arin|2015-05-08|CWIE, US
+131.153.57.198|/BolivarCore:2.0.0.2/|70212||||||
+131.153.57.198|/BolivarCore:2.0.0.2/|70211||||||
 135.181.164.190|/BolivarCore:2.0.0.2/|70212||||||
 135.181.164.190|/BolivarCore:2.0.0.2/|70211||||||
 137.184.195.209|/BolivarCore:2.0.0.2/|70212||||||
@@ -19,8 +19,8 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 152.170.245.139|/BolivarCore:2.0.0.2/|70211||||||
 159.65.203.140|/BolivarCore:2.0.0.2/|70212||||||
 159.65.203.140|/BolivarCore:2.0.0.2/|70211||||||
-161.97.123.248|/BolivarCore:2.0.0.2/|70212||||||
-161.97.123.248|/BolivarCore:2.0.0.2/|70211||||||
+161.97.123.248|/BolivarCore:2.0.0.2/|70212|51167|161.97.122.0/23|DE|ripencc|1992-06-23|CONTABO, DE
+161.97.123.248|/BolivarCore:2.0.0.2/|70211|51167|161.97.122.0/23|DE|ripencc|1992-06-23|CONTABO, DE
 161.97.152.19|/BolivarCore:2.0.0.2/|70212||||||
 161.97.152.19|/BolivarCore:2.0.0.2/|70211||||||
 161.97.175.78|/BolivarCore:2.0.0.2/|70212||||||
@@ -31,18 +31,18 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 167.86.105.73|/BolivarCore:2.0.0.2/|70211||||||
 173.249.3.183|/BolivarCore:2.0.0.2/|70212||||||
 173.249.3.183|/BolivarCore:2.0.0.2/|70211||||||
-185.82.203.241|/BolivarCore:2.0.0.2/|70212|60117|185.82.203.0/24|AE|ripencc|2014-12-31|HS, AE
-185.82.203.241|/BolivarCore:2.0.0.2/|70211|60117|185.82.203.0/24|AE|ripencc|2014-12-31|HS, AE
+185.82.203.241|/BolivarCore:2.0.0.2/|70212||||||
+185.82.203.241|/BolivarCore:2.0.0.2/|70211||||||
 186.95.114.178|/BolivarCore:2.0.0.2/|70212||||||
 186.95.114.178|/BolivarCore:2.0.0.2/|70211||||||
 190.2.130.167|/BolivarCore:2.0.0.2/|70212||||||
 190.2.130.167|/BolivarCore:2.0.0.2/|70211||||||
 190.73.3.2|/BolivarCore:2.0.0.2/|70212||||||
 190.73.3.2|/BolivarCore:2.0.0.2/|70211||||||
-190.73.35.236|/BolivarCore:2.0.0.2/|70212|8048|190.73.32.0/19|VE|lacnic|2006-11-10|CANTV Servicios, Venezuela, VE
-190.73.35.236|/BolivarCore:2.0.0.2/|70211|8048|190.73.32.0/19|VE|lacnic|2006-11-10|CANTV Servicios, Venezuela, VE
-190.74.8.62|/BolivarCore:2.0.0.2/|70212|8048|190.74.0.0/19|VE|lacnic|2006-11-10|CANTV Servicios, Venezuela, VE
-190.74.8.62|/BolivarCore:2.0.0.2/|70211|8048|190.74.0.0/19|VE|lacnic|2006-11-10|CANTV Servicios, Venezuela, VE
+190.73.35.236|/BolivarCore:2.0.0.2/|70212||||||
+190.73.35.236|/BolivarCore:2.0.0.2/|70211||||||
+190.74.8.62|/BolivarCore:2.0.0.2/|70212||||||
+190.74.8.62|/BolivarCore:2.0.0.2/|70211||||||
 190.79.223.53|/BolivarCore:2.0.0.2/|70212||||||
 190.79.223.53|/BolivarCore:2.0.0.2/|70211||||||
 194.34.232.192|/BolivarCore:2.0.0.2/|70212||||||
@@ -59,8 +59,8 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 209.126.7.83|/BolivarCore:2.0.0.2/|70211||||||
 209.127.125.116|/BolivarCore:2.0.0.2/|70212||||||
 209.127.125.116|/BolivarCore:2.0.0.2/|70211||||||
-213.32.6.132|/BolivarCore:2.0.0.2/|70212|16276|213.32.0.0/17|FR|ripencc|1999-06-28|OVH, FR
-213.32.6.132|/BolivarCore:2.0.0.2/|70211|16276|213.32.0.0/17|FR|ripencc|1999-06-28|OVH, FR
+213.32.6.132|/BolivarCore:2.0.0.2/|70212||||||
+213.32.6.132|/BolivarCore:2.0.0.2/|70211||||||
 38.242.131.141|/BolivarCore:2.0.0.2/|70212||||||
 38.242.131.141|/BolivarCore:2.0.0.2/|70211||||||
 38.242.212.74|/BolivarCore:2.0.0.2/|70212||||||
@@ -77,8 +77,8 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 51.83.186.57|/BolivarCore:2.0.0.2/|70212|16276|51.83.0.0/16|FR|ripencc|1993-09-01|OVH, FR
 51.83.186.57|/BolivarCore:2.0.0.2/|70211|16276|51.83.0.0/16|FR|ripencc|1993-09-01|OVH, FR
 54.37.85.61|/BolivarCore:2.0.0.0/|70212||||||
-66.70.182.1|/BolivarCore:2.0.0.2/|70212|16276|66.70.128.0/17|CA|arin|2017-02-13|OVH, FR
-66.70.182.1|/BolivarCore:2.0.0.2/|70211|16276|66.70.128.0/17|CA|arin|2017-02-13|OVH, FR
+66.70.182.1|/BolivarCore:2.0.0.2/|70212||||||
+66.70.182.1|/BolivarCore:2.0.0.2/|70211||||||
 66.94.99.185|/BolivarCore:2.0.0.2/|70212||||||
 66.94.99.185|/BolivarCore:2.0.0.2/|70211||||||
 70.83.16.230|/BolivarCore:2.0.0.2/|70212||||||

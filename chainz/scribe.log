@@ -2,7 +2,7 @@
 # Scribe
 IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 109.195.38.175|/Scribe Core:0.12.2.3/|70209|50512|109.195.32.0/20|RU|ripencc|2009-10-27|BARNAUL-AS, RU
-135.181.183.40|/Scribe Core:0.12.2.3/|70209||||||
+135.181.183.40|/Scribe Core:0.12.2.3/|70209|24940|135.181.0.0/16|DE|ripencc|1996-04-30|HETZNER-AS, DE
 142.115.161.50|/Scribe Core:0.12.2.3/|70209||||||
 142.132.205.123|/Scribe Core:0.12.2.3/|70209|24940|142.132.128.0/17|DE|ripencc|1990-03-26|HETZNER-AS, DE
 144.91.120.189|/Scribe Core:0.12.2.3/|70209||||||
@@ -21,7 +21,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 178.254.12.231|/Scribe Core:0.12.2.3/|70209||||||
 194.190.30.106|/Scribe Core:0.12.2.3/|70209||||||
 194.190.30.107|/Scribe Core:0.12.2.3/|70209||||||
-195.201.96.0|Scribe Core:0.12.2.3|70209||||||
+195.201.96.0|@_breakcrypto phantom|70209||||||
 207.89.76.178|/Scribe Core:0.12.2.3/|70209||||||
 217.61.108.78|/Scribe Core:0.12.2.3/|70209||||||
 37.72.70.152|/Scribe Core:0.12.2.3/|70209||||||
@@ -34,11 +34,11 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 65.108.129.116|/Scribe Core:0.12.2.3/|70209||||||
 65.21.139.183|/Scribe Core:0.12.2.3/|70209||||||
 76.68.241.126|/Scribe Core:0.12.2.3/|70209||||||
-83.99.245.20|/Scribe Core:0.12.2.3/|70209|24651|83.99.128.0/17|LV|ripencc|2004-01-27|LVBALTICOM-AS, LV
+83.99.245.20|/Scribe Core:0.12.2.3/|70209||||||
 84.139.102.214|/Scribe Core:0.12.2.3/|70209||||||
 89.22.110.234|/Scribe Core:0.12.2.3/|70209||||||
 90.95.18.98|break|70209||||||
-91.17.211.12|/Scribe Core:0.12.2.3/|70209|3320|91.0.0.0/10|DE|ripencc|2006-07-03|DTAG Internet service provider operations, DE
+91.17.211.12|/Scribe Core:0.12.2.3/|70209||||||
 93.205.87.65|/Scribe Core:0.12.2.3/|70209|3320|93.192.0.0/10|DE|ripencc|2008-02-12|DTAG Internet service provider operations, DE
 95.216.0.113|/Scribe Core:0.12.2.3/|70209||||||
 95.216.77.226|/Scribe Core:0.12.2.3/|70209||||||
