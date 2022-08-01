@@ -1,7 +1,7 @@
 # https://chainz.cryptoid.info/ and whois results
 # Mooncoin
 IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
-1.214.30.247|/MooncoinCore:0.17.1/|70017||||||
+1.214.30.247|/MooncoinCore:0.17.1/|70017|3786|1.208.0.0/12|KR|apnic|2010-06-11|LGDACOM LG DACOM Corporation, KR
 104.173.76.242|/Mooncoin:0.10.5/|70002|20001|104.172.0.0/14|US|arin|2014-08-13|TWC-20001-PACWEST, US
 106.38.92.46|/Mooncoin:0.13.9/|70016|4847|106.38.0.0/16|CN|apnic|2011-03-18|CNIX-AP China Networks Inter-Exchange, CN
 108.56.234.22|/MooncoinCore:0.17.1/|70017|701|108.56.0.0/16|US|arin|2009-06-05|UUNET, US
@@ -19,14 +19,13 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 176.114.249.250|/MooncoinCore:0.17.1/|70017|202618|176.114.240.0/20|CZ|ripencc|2012-04-18|RYCHLYDRAT, CZ
 178.18.247.153|/MooncoinCore:0.17.1/|70017|51167|178.18.240.0/20|DE|ripencc|2010-04-27|CONTABO, DE
 180.139.254.83|/MooncoinCore:0.17.1/|70017|4134|180.136.0.0/13|CN|apnic|2009-08-16|CHINANET-BACKBONE No.31,Jin-rong Street, CN
-185.82.203.241|/MooncoinCore:0.17.1/|70017||||||
+185.82.203.241|/MooncoinCore:0.17.1/|70017|60117|185.82.203.0/24|AE|ripencc|2014-12-31|HS, AE
 203.10.99.174|/Mooncoin:0.13.9/|70016|137409|203.10.99.0/24|AU|apnic|1994-12-21|GSLNETWORKS-AS-AP GSL Networks Pty LTD, AU
 223.72.57.10|/MooncoinCore:0.17.1/|70017|56048|223.72.0.0/17|CN|apnic|2010-07-01|CMNET-BEIJING-AP China Mobile Communicaitons Corporation, CN
 223.72.71.126|/MooncoinCore:0.17.1/|70017|56048|223.72.0.0/17|CN|apnic|2010-07-01|CMNET-BEIJING-AP China Mobile Communicaitons Corporation, CN
 24.75.197.65|/MooncoinCore:0.17.1/|70017|4181|24.75.197.0/24|US|arin|2010-06-09|TDS-AS, US
 3.97.140.225|/MooncoinCore:0.17.1/|70017|16509|3.96.0.0/15|US|arin|2017-12-20|AMAZON-02, US
 36.72.212.229|/MooncoinCore:0.17.1/|70017|7713|36.72.212.0/22|ID|apnic|2011-01-14|TELKOMNET-AS-AP PT Telekomunikasi Indonesia, ID
-45.56.95.212|/MooncoinCore:0.17.1/|70017|63949|45.56.95.0/24|US|arin|2015-01-21|LINODE-AP Linode, LLC, US
 45.63.86.125|/MooncoinCore:0.17.1/|70017|20473|45.63.80.0/20|US|arin|2015-01-02|AS-CHOOPA, US
 5.45.105.66|/MooncoinCore:0.17.1/|70017|197540|5.45.96.0/20|DE|ripencc|2012-05-24|NETCUP-AS netcup GmbH, DE
 50.125.224.254|/MooncoinCore:0.17.1/|70017||||||

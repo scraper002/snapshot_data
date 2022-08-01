@@ -1,117 +1,118 @@
 # https://chainz.cryptoid.info/ and whois results
 # Litecoin
 IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
-1.83.180.113|/BitcoinKit:0.1.0/|70015|4134|1.80.0.0/13|CN|apnic|2010-08-05|CHINANET-BACKBONE No.31,Jin-rong Street, CN
-101.99.94.225|/LitecoinCore:0.18.1/|70015||||||
-102.222.180.131|/LitecoinCore:0.18.1/|70015||||||
-102.91.5.183|/BitcoinKit:0.1.0/|70015|29465|102.91.5.0/24|NG|afrinic|2018-09-04|VCG-AS, NG
+1.83.180.113|/BitcoinKit:0.1.0/|70015||||||
+101.99.94.225|/LitecoinCore:0.18.1/|70015|201133|101.99.94.0/24|MY|apnic|2011-03-15|VERDINA, BZ
+102.222.180.131|/LitecoinCore:0.18.1/|70015|328453|102.222.180.0/22|ZA|afrinic|2020-06-10|Web-Africa-Networks-AS, ZA
+102.91.5.183|/BitcoinKit:0.1.0/|70015||||||
 103.115.191.232|/LitecoinCore:0.18.1/|70015||||||
-103.231.191.7|/LitecoinCore:0.16.0/|70015|17831|103.231.191.0/24|SG|apnic|2014-05-16|CENTERHOP-SG 8 Burn Road# 15-13, Trivex, SG
+103.231.191.7|/LitecoinCore:0.16.0/|70015||||||
 104.236.136.96|/Node:0.18.0/|70015||||||
 104.236.57.24|/Node:0.18.0/|70015||||||
-107.127.12.209|/BitcoinKit:0.1.0/|70015|7018|107.64.0.0/10|US|arin|2011-02-04|ATT-INTERNET4, US
-107.191.119.170|/DefcoinCore:1.0.0/|70015|3842|107.191.116.0/22|US|arin|2014-05-08|RAMNODE, US
+107.127.12.209|/BitcoinKit:0.1.0/|70015||||||
+107.191.119.170|/DefcoinCore:1.0.0/|70015||||||
 108.28.80.219|/LitecoinCore:0.18.1/|70015||||||
 108.57.48.71|/BitcoinKit:0.1.0/|70015||||||
 109.201.34.89|/LitecoinCore:0.18.1/|70015||||||
-109.36.156.25|/WalletKit:0.1.0/|70015||||||
-109.92.5.226|/LitecoinCore:0.17.1/|70015|8400|109.92.0.0/15|RS|ripencc|2009-09-21|TELEKOM-AS, RS
+109.36.156.25|/WalletKit:0.1.0/|70015|15480|109.32.0.0/13|NL|ripencc|2009-08-31|VFNL-AS Vodafone NL Autonomous System, NL
+109.92.5.226|/LitecoinCore:0.17.1/|70015||||||
 114.253.252.122|/LitecoinCore:0.18.1/|70015||||||
 115.164.89.114|/BitcoinKit:0.1.0/|70015||||||
-118.163.120.175|/btcwire:0.5.0/bitmarkd-payment-lightclient:0.1.0/|70013||||||
-118.163.120.179|/btcwire:0.5.0/bitmarkd-payment-lightclient:0.1.0/|70013||||||
+118.163.120.175|/btcwire:0.5.0/bitmarkd-payment-lightclient:0.1.0/|70013|3462|118.163.0.0/16|TW|apnic|2007-10-04|HINET Data Communication Business Group, TW
+118.163.120.179|/btcwire:0.5.0/bitmarkd-payment-lightclient:0.1.0/|70013|3462|118.163.0.0/16|TW|apnic|2007-10-04|HINET Data Communication Business Group, TW
 122.56.199.170|/BitcoinKit:0.1.0/|70015||||||
-128.199.120.176|/btcwire:0.5.0/bitmarkd-payment-lightclient:0.1.0/|70013||||||
-128.199.91.96|/btcwire:0.5.0/bitmarkd-payment-lightclient:0.1.0/|70013||||||
+128.199.120.176|/btcwire:0.5.0/bitmarkd-payment-lightclient:0.1.0/|70013|14061|128.199.64.0/18|GB|ripencc|1999-04-12|DIGITALOCEAN-ASN, US
+128.199.91.96|/btcwire:0.5.0/bitmarkd-payment-lightclient:0.1.0/|70013|14061|128.199.64.0/18|GB|ripencc|1999-04-12|DIGITALOCEAN-ASN, US
 131.153.57.198|/LitecoinCore:0.18.1/|70015||||||
-134.19.19.210|/WalletKit:0.1.0/|70015||||||
+134.19.19.210|/WalletKit:0.1.0/|70015|57353|134.19.0.0/17|DE|ripencc|2011-11-03|VITROCONNECT-AS, DE
 135.148.122.160|/LitecoinCore:0.16.3/|70015||||||
 135.181.91.198|/LitecoinCore:0.18.1/|70015||||||
-138.0.92.22|/B2CCoinCore:0.16.3/|70015||||||
-139.180.139.56|/Satoshi:0.14.3/|70015|20473|139.180.128.0/19|US|apnic|1993-04-08|AS-CHOOPA, US
-139.59.111.217|/btcwire:0.5.0/bitmarkd-payment-lightclient:0.1.0/|70013||||||
-139.59.111.218|/btcwire:0.5.0/bitmarkd-payment-lightclient:0.1.0/|70013||||||
-139.59.7.181|/btcwire:0.5.0/bitmarkd-payment-lightclient:0.1.0/|70013||||||
+138.0.92.22|/B2CCoinCore:0.16.3/|70015|262407|138.0.92.0/24|BR|lacnic|2014-12-22|RAPIDANET TELECOM LTDA, BR
+139.180.139.56|/Satoshi:0.14.3/|70015||||||
+139.59.111.217|/btcwire:0.5.0/bitmarkd-payment-lightclient:0.1.0/|70013|14061|139.59.96.0/20|SG|apnic|1990-06-27|DIGITALOCEAN-ASN, US
+139.59.111.218|/btcwire:0.5.0/bitmarkd-payment-lightclient:0.1.0/|70013|14061|139.59.96.0/20|SG|apnic|1990-06-27|DIGITALOCEAN-ASN, US
+139.59.7.181|/btcwire:0.5.0/bitmarkd-payment-lightclient:0.1.0/|70013|14061|139.59.0.0/20|SG|apnic|1990-06-27|DIGITALOCEAN-ASN, US
 142.93.229.149|/litetroll.net:1.0/|70015|14061|142.93.224.0/20|US|arin|2018-07-12|DIGITALOCEAN-ASN, US
-144.217.86.114|/litecoinj:0.15.2-SNAPSHOT/|70002|16276|144.217.0.0/16|CA|arin|2016-09-07|OVH, FR
+144.217.86.114|/litecoinj:0.15.2-SNAPSHOT/|70002||||||
 144.76.222.140|/Node:0.18.0/|70015||||||
 144.91.123.186|/LitecoinCore:0.18.1/|70015||||||
-146.200.167.251|/WalletKit:0.1.0/|70015||||||
+146.200.167.251|/WalletKit:0.1.0/|70015|6871|146.200.0.0/16|US|arin|1991-02-28|PLUSNET UK Internet Service Provider, GB
 148.251.22.185|/LitecoinCore:0.18.1/|70015||||||
 149.102.157.156|/LitecoinCore:0.18.1/|70015||||||
 149.143.64.218|/BitcoinKit:0.1.0/|70015||||||
-149.210.234.234|/Node:0.18.0/|70015|20857|149.210.128.0/17|NL|ripencc|2011-08-17|TRANSIP-AS Amsterdam, the Netherlands, NL
-15.228.240.19|/B2CCoinCore:0.16.3/|70015||||||
-157.230.125.171|/btcwire:0.5.0/bitmarkd-payment-lightclient:0.1.0/|70013||||||
-157.230.232.144|/litecoinj:0.15.2-SNAPSHOT/|70002|14061|157.230.224.0/20|US|arin|2018-08-22|DIGITALOCEAN-ASN, US
-157.245.246.213|/B2CCoinCore:0.16.3/|70015||||||
-158.69.196.61|/Node:0.18.0/|70015|16276|158.69.0.0/16|CA|arin|2015-06-15|OVH, FR
+149.210.234.234|/Node:0.18.0/|70015||||||
+15.228.240.19|/B2CCoinCore:0.16.3/|70015|16509|15.228.0.0/15|US|arin|2019-03-26|AMAZON-02, US
+157.230.125.171|/btcwire:0.5.0/bitmarkd-payment-lightclient:0.1.0/|70013|14061|157.230.112.0/20|US|arin|2018-08-22|DIGITALOCEAN-ASN, US
+157.230.232.144|/litecoinj:0.15.2-SNAPSHOT/|70002||||||
+157.245.246.213|/B2CCoinCore:0.16.3/|70015|14061|157.245.240.0/20|US|arin|2019-05-09|DIGITALOCEAN-ASN, US
+158.69.196.61|/Node:0.18.0/|70015||||||
 159.242.227.135|/BitcoinKit:0.1.0/|70015||||||
 159.65.126.251|/LitecoinCore:0.18.1/|70015||||||
-159.65.92.134|/btcwire:0.5.0/bitmarkd-payment-lightclient:0.1.0/|70013||||||
+159.65.92.134|/btcwire:0.5.0/bitmarkd-payment-lightclient:0.1.0/|70013|14061|159.65.80.0/20|US|arin|2017-10-24|DIGITALOCEAN-ASN, US
 162.218.65.219|/litecoinj:0.2/|70013|54098|162.218.65.0/24|US|arin|2013-08-01|LIONLINK-NETWORKS, US
-165.227.33.10|/litecoinj:0.15.2-SNAPSHOT/|70002|14061|165.227.32.0/20|US|arin|2016-10-06|DIGITALOCEAN-ASN, US
+165.227.33.10|/litecoinj:0.15.2-SNAPSHOT/|70002||||||
 166.170.55.35|/BitcoinKit:0.1.0/|70015||||||
 166.196.57.49|/BitcoinKit:0.1.0/|70015||||||
-167.71.79.210|/btcwire:0.5.0/bitmarkd-payment-lightclient:0.1.0/|70013||||||
+167.71.79.210|/btcwire:0.5.0/bitmarkd-payment-lightclient:0.1.0/|70013|14061|167.71.64.0/20|US|arin|2019-04-24|DIGITALOCEAN-ASN, US
 167.99.216.145|/LitecoinCore:0.18.1/|70015||||||
-170.247.36.12|/B2CCoinCore:0.16.3/|70015||||||
+170.247.36.12|/B2CCoinCore:0.16.3/|70015|264524|170.247.36.0/24|BR|lacnic|2017-02-07|Cunha e Zanato telecom LTDA ME, BR
+170.84.55.121|/B2CCoinCore:0.16.3/|70015|263009|170.84.52.0/22|BR|lacnic|2016-05-23|FORTE TELECOM LTDA., BR
 172.56.31.40|/BitcoinKit:0.1.0/|70015||||||
 172.58.187.173|/BitcoinKit:0.1.0/|70015||||||
 172.58.27.17|/BitcoinKit:0.1.0/|70015||||||
-172.58.3.116|/BitcoinKit:0.1.0/|70015||||||
 172.58.35.212|/BitcoinKit:0.1.0/|70015||||||
 172.58.35.246|/BitcoinKit:0.1.0/|70015||||||
 172.58.46.205|/BitcoinKit:0.1.0/|70015||||||
 172.58.78.236|/BitcoinKit:0.1.0/|70015||||||
 173.222.3.161|/BitcoinKit:0.1.0/|70015||||||
 174.231.65.44|/BitcoinKit:0.1.0/|70015||||||
-174.84.74.1|/LitecoinCore:0.14.2/|70015|20115|174.84.0.0/17|US|arin|2009-02-23|CHARTER-20115, US
+174.84.74.1|/LitecoinCore:0.14.2/|70015||||||
 175.176.17.232|/BitcoinKit:0.1.0/|70015||||||
 175.176.26.32|/BitcoinKit:0.1.0/|70015||||||
-176.59.196.240|/WalletKit:0.1.0/|70015||||||
+176.59.196.240|/WalletKit:0.1.0/|70015|48190|176.59.192.0/19|RU|ripencc|2011-06-06|T2-EKATERINBURG-AS Tele2 Russia Network, RU
 176.64.8.56|/LitecoinCore:0.18.1/|70015||||||
-177.136.65.157|/B2CCoinCore:0.16.3/|70015||||||
-177.192.91.200|/B2CCoinCore:0.16.3/|70015||||||
-18.229.164.57|/B2CCoinCore:0.16.3/|70015||||||
+177.136.65.157|/B2CCoinCore:0.16.3/|70015|263600|177.136.64.0/21|BR|lacnic|2013-08-29|Radio Link Telecom, BR
+177.192.91.200|/B2CCoinCore:0.16.3/|70015|28573|177.192.0.0/16|BR|lacnic|2012-08-30|Claro NXT Telecomunicacoes Ltda, BR
+18.229.164.57|/B2CCoinCore:0.16.3/|70015|16509|18.229.0.0/16|US|arin|2019-10-07|AMAZON-02, US
 184.100.240.247|/BitcoinKit:0.1.0/|70015||||||
 185.112.147.12|???|0|44925|185.112.144.0/22|IS|ripencc|2015-08-06|THE-1984-AS, IS
-185.115.5.124|/loaf-android:175/|70015|16010|185.115.4.0/22|GE|ripencc|2015-08-27|MAGTICOMAS Magticom, GE
+185.115.5.124|/loaf-android:175/|70015||||||
 185.220.100.254|/LitecoinCore:0.18.1/|70015||||||
 185.220.101.178|/BitcoinKit:0.1.0/|70015||||||
-185.220.101.183|/FlashcoinCore:0.13.3/|70015|60729|185.220.101.0/24|DE|ripencc|2017-09-12|ZWIEBELFREUN, DE
-185.220.101.189|/LitecoinCore:0.18.1/|70015||||||
-185.220.101.39|/LitecoinCore:0.18.1/|70015||||||
+185.220.101.183|/FlashcoinCore:0.13.3/|70015||||||
+185.220.101.189|/LitecoinCore:0.18.1/|70015|60729|185.220.101.0/24|DE|ripencc|2017-09-12|ZWIEBELFREUN, DE
+185.220.101.39|/LitecoinCore:0.18.1/|70015|60729|185.220.101.0/24|DE|ripencc|2017-09-12|ZWIEBELFREUN, DE
 185.25.120.91|/LitecoinCore:0.18.1/|70015||||||
 185.34.240.156|/LitecoinCore:0.18.1/|70015||||||
-186.193.54.28|/B2CCoinCore:0.16.3/|70015||||||
-186.208.222.114|/B2CCoinCore:0.16.3/|70015||||||
+186.193.54.28|/B2CCoinCore:0.16.3/|70015|53135|186.193.48.0/21|BR|lacnic|2010-03-24|Nettel Telecomunicacoes Ltda., BR
+186.208.222.114|/B2CCoinCore:0.16.3/|70015|28577|186.208.222.0/23|BR|lacnic|2013-05-07|AZEVEDO E FLORIANI TELECOMUNICACOES LTDA., BR
 186.219.143.5|/BitcoinKit:0.1.0/|70015||||||
-186.225.57.14|/B2CCoinCore:0.16.3/|70015||||||
-187.145.221.9|/loaf-android:175/|70015|8151|187.145.216.0/21|MX|lacnic|2007-12-06|Uninet S.A. de C.V., MX
-187.226.110.193|/NBitcoin:5.0.49/|70012|8151|187.226.104.0/21|MX|lacnic|2011-07-11|Uninet S.A. de C.V., MX
-188.131.162.86|/btc-seeder:0.0001/|70013|45090|188.131.160.0/20|CN|apnic|2009-04-14|TENCENT-NET-AP Shenzhen Tencent Computer Systems Company Limited, CN
+186.225.57.14|/B2CCoinCore:0.16.3/|70015|28368|186.225.56.0/21|BR|lacnic|2011-06-22|SOBRALNET SERVICOS E TELECOMUNICACOES LTDA - ME, BR
+187.145.221.9|/loaf-android:175/|70015||||||
+187.226.110.193|/NBitcoin:5.0.49/|70012||||||
+188.131.162.86|/btc-seeder:0.0001/|70013||||||
 188.138.166.151|/BitcoinKit:0.1.0/|70015||||||
-188.166.96.27|/litecoinj:0.15.2-SNAPSHOT/|70002|14061|188.166.64.0/18|US|ripencc|2009-06-05|DIGITALOCEAN-ASN, US
-188.214.243.165|/WalletKit:0.1.0/|70015||||||
-189.60.148.39|/B2CCoinCore:0.16.3/|70015||||||
-191.5.53.202|/loaf-android:175/|70015|263532|191.5.53.0/24|BR|lacnic|2014-01-17|VIAR TELECOM EIRELI - ME, BR
+188.166.96.27|/litecoinj:0.15.2-SNAPSHOT/|70002||||||
+188.214.243.165|/WalletKit:0.1.0/|70015|62412|188.214.242.0/23|ES|ripencc|2009-05-08|BORECOM-INNOVA Borecom-Innova, ES
+189.60.148.39|/B2CCoinCore:0.16.3/|70015|28573|189.60.0.0/16|BR|lacnic|2007-09-06|Claro NXT Telecomunicacoes Ltda, BR
+191.5.53.202|/loaf-android:175/|70015||||||
 192.166.244.77|/BitcoinKit:0.1.0/|70015||||||
-194.145.247.227|/BitcoinKit:0.1.0/|70015||||||
-194.195.123.129|/BitcoinKit:0.1.0/|70015||||||
+194.145.247.227|/BitcoinKit:0.1.0/|70015|202016|194.145.244.0/22|NL|ripencc|2007-09-03|DOMINOICT, NL
+194.195.123.129|/BitcoinKit:0.1.0/|70015|63949|194.195.120.0/21|US|ripencc|1995-09-14|LINODE-AP Linode, LLC, US
 195.240.63.223|/LitecoinCore:0.18.1/|70015||||||
 195.80.150.233|/LitecoinCore:0.18.1/|70015||||||
+198.244.174.205|/LitecoinCore:0.18.1/|70015||||||
 198.98.51.189|/btcwire:0.5.0/ltcd:0.22.1/|70013|53667|198.98.48.0/20|US|arin|2012-07-05|PONYNET, US
 199.101.192.162|/LitecoinCore:0.18.1/|70015||||||
 199.101.192.197|/LitecoinCore:0.18.1/|70015||||||
 2.221.203.141|/LitecoinCore:0.18.1/|70015||||||
-2.58.45.194|/BitcoinKit:0.1.0/|70015||||||
-200.146.201.153|/B2CCoinCore:0.16.3/|70015||||||
-200.68.167.103|/BitcoinKit:0.1.0/|70015||||||
-201.1.217.100|/B2CCoinCore:0.16.3/|70015||||||
-201.17.172.96|/BitcoinKit:0.1.0/|70015||||||
-201.74.156.219|/B2CCoinCore:0.16.3/|70015||||||
-202.57.42.174|/BitcoinKit:0.1.0/|70015||||||
+2.58.45.194|/BitcoinKit:0.1.0/|70015|9009|2.58.45.0/24|RO|ripencc|2019-03-21|M247, GB
+200.146.201.153|/B2CCoinCore:0.16.3/|70015|16735|200.146.192.0/18|BR|lacnic|2003-01-10|ALGAR TELECOM SA, BR
+200.68.167.103|/BitcoinKit:0.1.0/|70015|28403|200.68.167.0/24|MX|lacnic|2014-06-13|RadioMovil Dipsa, S.A. de C.V., MX
+201.1.217.100|/B2CCoinCore:0.16.3/|70015|27699|201.1.0.0/16|BR|lacnic|2003-12-08|TELEFONICA BRASIL S.A, BR
+201.17.172.96|/BitcoinKit:0.1.0/|70015|28573|201.17.128.0/17|BR|lacnic|2004-07-26|Claro NXT Telecomunicacoes Ltda, BR
+201.74.156.219|/B2CCoinCore:0.16.3/|70015|28573|201.74.152.0/21|BR|lacnic|2006-03-10|Claro NXT Telecomunicacoes Ltda, BR
+202.57.42.174|/BitcoinKit:0.1.0/|70015|9927|202.57.42.0/24|PH|apnic|1999-07-09|PHILCOMNET-PH A Multihomed ISP Company, PH
 204.237.50.71|/LitecoinCore:0.18.1/|70015||||||
 206.189.131.144|Reddcoin:3.10.3|80015|14061|206.189.128.0/20|US|arin|1995-11-15|DIGITALOCEAN-ASN, US
 209.188.21.198|/LitecoinCore:0.18.1/|70015||||||
@@ -119,86 +120,85 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 216.220.82.141|/LitecoinCore:0.18.1/|70015||||||
 217.28.222.162|/LitecoinCore:0.16.3/|70015||||||
 222.240.107.207|/LitecoinCore:0.18.1/|70015||||||
-23.92.25.116|/Node:0.18.0/|70015|63949|23.92.25.0/24|US|arin|2013-08-13|LINODE-AP Linode, LLC, US
-24.111.165.211|/NBitcoin:5.0.49/|70012|11232|24.111.0.0/16|US|arin|2004-05-07|MIDCO-NET, US
-24.168.22.185|/BitcoinKit:0.1.0/|70015|12271|24.168.0.0/18|US|arin|2000-06-09|TWC-12271-NYC, US
+23.92.25.116|/Node:0.18.0/|70015||||||
+24.111.165.211|/NBitcoin:5.0.49/|70012||||||
 27.58.6.130|/LitecoinCore:0.18.1/|70015||||||
-3.114.211.253|/btcwire:0.5.0/bitmarkd-payment-lightclient:0.1.0/|70013||||||
-3.114.211.49|/btcwire:0.5.0/bitmarkd-payment-lightclient:0.1.0/|70013||||||
+3.114.211.253|/btcwire:0.5.0/bitmarkd-payment-lightclient:0.1.0/|70013|16509|3.112.0.0/14|US|arin|2017-12-20|AMAZON-02, US
+3.114.211.49|/btcwire:0.5.0/bitmarkd-payment-lightclient:0.1.0/|70013|16509|3.112.0.0/14|US|arin|2017-12-20|AMAZON-02, US
 3.69.98.35|/LitecoinCore:0.18.1/|70015||||||
 34.134.168.63|/LitecoinCore:0.18.1/|70015||||||
-34.201.144.179|/Dain:0.1.0/|70003|14618|34.192.0.0/12|US|arin|2016-09-12|AMAZON-AES, US
-34.233.95.55|/bitcore:8.25.12/|70011|14618|34.224.0.0/12|US|arin|2016-09-12|AMAZON-AES, US
-37.159.54.48|/BitcoinKit:0.1.0/|70015||||||
-37.201.146.141|/BitcoinKit:0.1.0/|70015||||||
-37.212.1.253|/loaf-android:175/|70015|6697|37.212.0.0/21|BY|ripencc|2012-03-30|BELPAK-AS BELPAK, BY
+34.201.144.179|/Dain:0.1.0/|70003||||||
+34.233.95.55|/bitcore:8.25.12/|70011||||||
+37.159.54.48|/BitcoinKit:0.1.0/|70015|30722|37.159.0.0/17|IT|ripencc|2012-03-19|VODAFONE-IT-ASN, IT
+37.201.146.141|/BitcoinKit:0.1.0/|70015|3209|37.201.128.0/17|DE|ripencc|2012-03-22|VODANET International IP-Backbone of Vodafone, DE
+37.212.1.253|/loaf-android:175/|70015||||||
 37.212.37.140|/LitecoinCore:0.18.1/|70015||||||
-37.59.32.10|/LitecoinCore:0.21.2.1/|70016|16276|37.59.0.0/16|FR|ripencc|2012-01-16|OVH, FR
-39.103.125.195|/open-nodes:0.1/|70015|37963|39.100.0.0/14|CN|apnic|2011-04-05|ALIBABA-CN-NET Hangzhou Alibaba Advertising Co.,Ltd., CN
+37.59.32.10|/LitecoinCore:0.21.2.1/|70016||||||
+39.103.125.195|/open-nodes:0.1/|70015||||||
 44.193.206.69|/btcwire:0.5.0/ltcd:0.20.1/|70013|14618|44.192.0.0/11|US|arin|2019-07-18|AMAZON-AES, US
 45.126.209.106|LitecoinCore:0.18.1|75000|23470|45.126.209.0/24|SG|apnic|2015-09-08|RELIABLESITE, US
-45.56.69.105|/Block.io:0.1.0/|70002|63949|45.56.64.0/20|US|arin|2015-01-21|LINODE-AP Linode, LLC, US
+45.56.69.105|/Block.io:0.1.0/|70002||||||
 45.88.188.220|/LitecoinCore:0.18.1/|70015||||||
-47.18.231.237|/WalletKit:0.1.0/|70015||||||
-47.54.219.83|/BitcoinKit:0.1.0/|70015||||||
-47.60.33.216|/BitcoinKit:0.1.0/|70015||||||
-49.144.107.177|/BitcoinKit:0.1.0/|70015||||||
-5.181.255.48|/LitecoinCore:0.16.3/|70015|44128|5.181.254.0/23|RU|ripencc|2019-04-04|INTERNET-PRO-AS, RU
-5.62.43.191|/BitcoinKit:0.1.0/|70015||||||
+46.33.33.39|/LitecoinCore:0.18.1/|70015||||||
+47.18.231.237|/WalletKit:0.1.0/|70015|6128|47.18.0.0/16|US|arin|2012-02-29|CABLE-NET-1, US
+47.54.219.83|/BitcoinKit:0.1.0/|70015|855|47.54.216.0/22|CA|arin|2012-04-09|CANET-ASN-4, CA
+47.60.33.216|/BitcoinKit:0.1.0/|70015|12430|47.60.0.0/16|US|arin|2012-05-15|VODAFONE_ES, ES
+49.144.107.177|/BitcoinKit:0.1.0/|70015|9299|49.144.96.0/19|PH|apnic|2010-11-22|IPG-AS-AP Philippine Long Distance Telephone Company, PH
+5.181.255.48|/LitecoinCore:0.16.3/|70015||||||
+5.62.43.191|/BitcoinKit:0.1.0/|70015|198605|5.62.42.0/23|GB|ripencc|2012-06-08|AVAST-AS-DC, CZ
 5.76.250.237|/LitecoinCore:0.18.1/|70015||||||
-5.90.67.175|/BitcoinKit:0.1.0/|70015||||||
-50.35.150.131|/BitcoinKit:0.1.0/|70015||||||
+5.90.67.175|/BitcoinKit:0.1.0/|70015|30722|5.88.0.0/13|IT|ripencc|2012-06-19|VODAFONE-IT-ASN, IT
+50.35.150.131|/BitcoinKit:0.1.0/|70015|20055|50.34.0.0/15|US|arin|2010-09-24|AS-WHOLESAIL, US
 50.35.98.103|/loaf:2.1/|70015|20055|50.34.0.0/15|US|arin|2010-09-24|AS-WHOLESAIL, US
-50.60.6.21|/WalletKit:0.1.0/|70015||||||
-51.161.131.60|/LitecoinCore:0.16.3/|70015|16276|51.161.128.0/17|CA|arin|2019-09-03|OVH, FR
-51.161.196.120|/LitecoinCore:0.16.3/|70015|16276|51.161.128.0/17|CA|arin|2019-09-03|OVH, FR
-51.210.182.223|/LitecoinCore:0.16.3/|70015|16276|51.210.0.0/16|FR|ripencc|1993-09-01|OVH, FR
+50.60.6.21|/WalletKit:0.1.0/|70015|25019|50.60.0.0/20|SA|ripencc|2011-01-25|SAUDINETSTC-AS, SA
+51.161.131.60|/LitecoinCore:0.16.3/|70015||||||
+51.161.196.120|/LitecoinCore:0.16.3/|70015||||||
+51.210.182.223|/LitecoinCore:0.16.3/|70015||||||
 51.79.241.214|/LitecoinCore:0.16.3/|70015||||||
 51.79.78.139|/LitecoinCore:0.18.1/|70015||||||
-51.89.149.234|/LitecoinCore:0.16.3/|70015|16276|51.89.0.0/16|FR|ripencc|1993-09-01|OVH, FR
-52.193.94.100|/btcwire:0.5.0/bitmarkd-payment-lightclient:0.1.0/|70013||||||
-52.196.40.143|/btcwire:0.5.0/bitmarkd-payment-lightclient:0.1.0/|70013||||||
+51.89.149.234|/LitecoinCore:0.16.3/|70015||||||
+52.193.94.100|/btcwire:0.5.0/bitmarkd-payment-lightclient:0.1.0/|70013|16509|52.192.0.0/15|US|arin|2015-09-02|AMAZON-02, US
+52.196.40.143|/btcwire:0.5.0/bitmarkd-payment-lightclient:0.1.0/|70013|16509|52.196.0.0/14|US|arin|2015-09-02|AMAZON-02, US
 52.39.246.26|/LitecoinCore:0.18.1/|70015||||||
 54.37.234.18|/LitecoinCore:0.16.3/|70015||||||
 54.38.156.27|/LitecoinCore:0.16.3/|70015||||||
-62.231.94.102|/WalletKit:0.1.0/|70015||||||
-64.225.41.169|/litecoinj:0.15.2-SNAPSHOT/|70002|14061|64.225.32.0/20|US|arin|2019-08-14|DIGITALOCEAN-ASN, US
-64.225.65.218|/Node:0.18.0/|70015|14061|64.225.64.0/20|US|arin|2019-08-14|DIGITALOCEAN-ASN, US
+62.231.94.102|/WalletKit:0.1.0/|70015|8708|62.231.64.0/18|RO|ripencc|2001-11-23|RCS-RDS 73-75 Dr. Staicovici, RO
+64.225.41.169|/litecoinj:0.15.2-SNAPSHOT/|70002||||||
+64.225.65.218|/Node:0.18.0/|70015||||||
 69.251.1.197|/LitecoinCore:0.18.1/|70015||||||
-70.236.162.6|/BitcoinKit:0.1.0/|70015||||||
-70.91.250.149|/DigitaleuroCore:0.16.3/|70015|7922|70.88.0.0/14|US|arin|2004-08-09|COMCAST-7922, US
-73.171.134.35|/loaf:2.1/|70015|7922|73.0.0.0/8|US|arin|2005-04-19|COMCAST-7922, US
-75.84.112.35|/LitecoinCore:0.15.1/|70015|20001|75.84.0.0/15|US|arin|2006-07-19|TWC-20001-PACWEST, US
-77.120.119.27|/LitecoinCore:0.17.1/|70015|35680|77.120.116.0/22|UA|ripencc|2006-11-24|VOLIA, UA
-77.120.122.114|/open-nodes:0.1/|70015|35680|77.120.120.0/22|UA|ripencc|2006-11-24|VOLIA, UA
+70.236.162.6|/BitcoinKit:0.1.0/|70015|7018|70.236.128.0/17|US|arin|2005-03-22|ATT-INTERNET4, US
+70.91.250.149|/DigitaleuroCore:0.16.3/|70015||||||
+75.84.112.35|/LitecoinCore:0.15.1/|70015||||||
+77.120.119.27|/LitecoinCore:0.17.1/|70015||||||
+77.120.122.114|/open-nodes:0.1/|70015||||||
 77.75.36.104|/LitecoinCore:0.17.1/|70015|42926|77.75.36.0/24|TR|ripencc|2007-05-03|RADORE, TR
-78.107.238.156|/LitecoinCore:0.18.1/|70015||||||
-78.69.71.173|/loaf-android:175/|70015|3301|78.64.0.0/12|SE|ripencc|2007-03-09|TELIANET-SWEDEN Telia Company, SE
-79.116.134.130|/BitcoinKit:0.1.0/|70015||||||
+78.69.71.173|/loaf-android:175/|70015||||||
+79.116.134.130|/BitcoinKit:0.1.0/|70015|57269|79.116.0.0/16|RO|ripencc|2007-05-29|DIGISPAINTELECOM, ES
 79.161.208.165|/LitecoinCore:0.18.1/|70015||||||
-79.168.241.113|/B2CCoinCore:0.16.3/|70015||||||
+79.168.241.113|/B2CCoinCore:0.16.3/|70015|2860|79.168.192.0/18|PT|ripencc|2007-09-05|NOS_COMUNICACOES, PT
 8.41.37.223|/LitecoinCore:0.18.1/|70015||||||
-82.56.108.134|/LitecoinCore:0.17.1/|70015|3269|82.56.0.0/16|IT|ripencc|2003-08-07|ASN-IBSNAZ, IT
+82.56.108.134|/LitecoinCore:0.17.1/|70015||||||
 82.61.101.133|/WalletKit:0.1.0/|70015|3269|82.61.0.0/16|IT|ripencc|2003-08-07|ASN-IBSNAZ, IT
-82.77.117.93|/BitcoinKit:0.1.0/|70015||||||
+82.77.117.93|/BitcoinKit:0.1.0/|70015|8708|82.76.0.0/14|RO|ripencc|2003-07-14|RCS-RDS 73-75 Dr. Staicovici, RO
 84.241.200.87|/WalletKit:0.1.0/|70015||||||
-85.140.8.3|/loaf-android:175/|70015|8359|85.140.8.0/22|RU|ripencc|2004-12-13|MTS, RU
-85.222.233.183|/litecoinj:0.15.2-SNAPSHOT/|70002|49604|85.222.232.0/22|EE|ripencc|2005-03-22|ZONE Zone Media OU, EE
-85.255.234.238|/BitcoinKit:0.1.0/|70015||||||
-86.105.54.158|/litecoinj:0.15.2-SNAPSHOT/|70002|200185|86.105.52.0/22|IT|ripencc|2005-04-18|XANDMAIL-ASN, FR
+85.140.8.3|/loaf-android:175/|70015||||||
+85.222.233.183|/litecoinj:0.15.2-SNAPSHOT/|70002||||||
+85.255.234.238|/BitcoinKit:0.1.0/|70015|25135|85.255.234.0/23|GB|ripencc|2006-05-17|VODAFONE_UK_ASN, GB
+86.105.54.158|/litecoinj:0.15.2-SNAPSHOT/|70002||||||
 87.245.175.57|/LitecoinCore:0.18.1/|70015||||||
 87.88.148.114|/WalletKit:0.1.0/|70015||||||
-88.80.187.187|/Node:0.18.0/|70015|63949|88.80.184.0/21|US|ripencc|2005-11-30|LINODE-AP Linode, LLC, US
+88.80.187.187|/Node:0.18.0/|70015||||||
 88.99.150.139|/LitecoinCore:0.16.3/|70015||||||
 88.99.68.228|/LitecoinCore:0.18.1/|70015||||||
-89.247.168.116|/BitcoinKit:0.1.0/|70015||||||
-91.116.0.131|/BitcoinKit:0.1.0/|70015||||||
+89.113.137.240|/LitecoinCore:0.14.2/|70015||||||
+89.247.168.116|/BitcoinKit:0.1.0/|70015|8881|89.247.160.0/20|DE|ripencc|2006-05-04|VERSATEL, DE
+91.116.0.131|/BitcoinKit:0.1.0/|70015|12338|91.116.0.0/22|ES|ripencc|2006-10-03|EUSKALTEL, ES
 91.151.182.59|/LitecoinCore:0.18.1/|70015||||||
 91.235.226.250|/LitecoinCore:0.18.1/|70015||||||
 91.80.12.184|/WalletKit:0.1.0/|70015||||||
 94.25.160.33|/LitecoinCore:0.18.1/|70015||||||
 95.138.63.36|/LitecoinCore:0.18.1/|70015||||||
-95.216.237.187|/CounosXCore:0.17.3/|70015|24940|95.216.0.0/16|DE|ripencc|2009-02-24|HETZNER-AS, DE
-95.216.68.44|/LitecoinCore:0.17.1/|70015|24940|95.216.0.0/16|DE|ripencc|2009-02-24|HETZNER-AS, DE
-98.31.17.17|/LitecoinCore:0.14.2/|70015|10796|98.30.0.0/15|US|arin|2007-11-02|TWC-10796-MIDWEST, US
+95.216.237.187|/CounosXCore:0.17.3/|70015||||||
+95.216.68.44|/LitecoinCore:0.17.1/|70015||||||
+98.31.17.17|/LitecoinCore:0.14.2/|70015||||||
 99.98.110.8|/LitecoinCore:0.18.1/|70015||||||
