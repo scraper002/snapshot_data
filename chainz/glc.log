@@ -67,6 +67,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 176.59.50.69|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000|12958|176.59.48.0/22|RU|ripencc|2011-06-06|MCC Tele2 Russia Network, RU
 178.90.231.60|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000|9198|178.90.230.0/23|KZ|ripencc|2009-11-26|KAZTELECOM-AS, KZ
 180.242.215.247|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000|7713|180.242.212.0/22|ID|apnic|2009-10-20|TELKOMNET-AS-AP PT Telekomunikasi Indonesia, ID
+180.244.167.231|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000|7713|180.244.160.0/20|ID|apnic|2009-10-20|TELKOMNET-AS-AP PT Telekomunikasi Indonesia, ID
 180.249.184.111|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000|7713|180.249.184.0/22|ID|apnic|2009-10-20|TELKOMNET-AS-AP PT Telekomunikasi Indonesia, ID
 180.249.185.211|/goldwallet:1.0.9/|70000|7713|180.249.184.0/22|ID|apnic|2009-10-20|TELKOMNET-AS-AP PT Telekomunikasi Indonesia, ID
 180.251.146.185|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000|7713|180.251.144.0/20|ID|apnic|2009-10-20|TELKOMNET-AS-AP PT Telekomunikasi Indonesia, ID
@@ -115,7 +116,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 45.153.35.147|/GoldcoinCore:0.14.8/|70015|44592|45.153.35.0/24|DE|ripencc|2019-09-13|SKYLINK, NL
 45.44.33.169|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000|54198|45.44.32.0/21|CA|arin|2015-02-09|VIANET, CA
 5.188.104.245|/GoldcoinCore:0.14.8/|70015|199860|5.188.104.0/23|RU|ripencc|2012-08-09|XELENT-AS, RU
-51.83.186.57|/GoldcoinCore:0.14.8/|70015|16276|51.83.0.0/16|FR|ripencc|1993-09-01|OVH, FR
 54.202.29.36|/GoldcoinCore:0.14.7/|70015|16509|54.202.0.0/15|US|arin|2014-10-23|AMAZON-02, US
 64.180.68.103|/GoldcoinCore:0.14.8/|70015|852|64.180.0.0/16|CA|arin|2000-08-04|TELUS Communications, CA
 68.51.186.128|/GoldcoinCore:0.14.5/|70015|7922|68.32.0.0/11|US|arin|2001-11-29|COMCAST-7922, US
