@@ -38,6 +38,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 167.179.118.10|/ZENZO Core:2.1.0/|70005||||||
 167.86.109.168|/ZENZO Core:2.1.0/|70005||||||
 167.86.111.183|/ZENZO Core:2.1.0/|70005||||||
+167.86.124.244|/ZENZO Core:2.1.0/|70005||||||
 167.86.67.217|/ZENZO Core:2.1.0/|70005||||||
 167.86.69.199|/ZENZO Core:2.1.0/|70005||||||
 167.86.78.250|/ZENZO Core:2.1.0/|70005||||||
@@ -78,7 +79,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 209.182.218.57|/ZENZO Core:2.1.0/|70005||||||
 213.136.71.135|/ZENZO Core:2.1.0/|70005||||||
 213.136.88.100|/ZENZO Core:2.1.0/|70005||||||
-213.178.34.183|/ZENZO Core:2.1.0/|70005||||||
 38.242.204.118|/ZENZO Core:2.1.0/|70005||||||
 38.242.213.225|/ZENZO Core:2.0.1/|70005||||||
 38.242.214.125|/ZENZO Core:2.1.0/|70005||||||
@@ -99,9 +99,9 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 62.171.172.222|/ZENZO Core:2.1.0/|70005||||||
 62.171.182.91|/ZENZO Core:2.1.0/|70005||||||
 62.171.182.92|/ZENZO Core:2.1.0/|70005||||||
+62.171.183.119|/ZENZO Core:2.1.0/|70005||||||
 62.24.81.14|/ZENZO Core:2.1.0/|70005||||||
 63.142.252.188|/ZENZO Core:2.1.0/|70005||||||
-73.147.148.32|/ZENZO Core:2.1.0/|70005||||||
 75.119.129.150|/ZENZO Core:2.1.0/|70005||||||
 75.119.148.51|/ZENZO Core:2.1.0/|70005||||||
 82.74.118.16|/ZENZO Core:2.1.0/|70005||||||
@@ -114,4 +114,3 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 95.111.236.157|/ZENZO Core:2.1.0/|70005||||||
 95.216.32.169|/ZENZO Core:2.1.0/|70005||||||
 95.217.12.118|/ZENZO Core:2.1.0/|70005||||||
-95.78.156.132|/ZENZO Core:2.1.0/|70005||||||
