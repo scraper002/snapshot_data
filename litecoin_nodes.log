@@ -403,7 +403,6 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 2001:b011:9:dc0f:58c6:ff13:fafd:3046|9333|/LitecoinCore:0.21.2/|3462|2001:b011::/37|TW|apnic|2006-03-15|HINET Data Communication Business Group, TW
 2001:b030:2422::2475|9333|/LitecoinCore:0.21.2/|3462|2001:b030:2000::/36|TW|apnic|2006-03-15|HINET Data Communication Business Group, TW
 2001:b07:5d2b:d187:3583:a807:a44b:a5ce|9333|/LitecoinCore:0.18.1/|12874|2001:b00::/29|IT|ripencc|2003-02-13|FASTWEB, IT
-2001:b07:6467:1987:8dcf:1d07:51bf:e39c|9333|/LitecoinCore:0.21.2/|12874|2001:b00::/29|IT|ripencc|2003-02-13|FASTWEB, IT
 2001:bc8:47a4:1119::1|9532|/LitecoinCore:0.18.1/|12876|2001:bc8::/32|FR|ripencc|2003-04-15|Online SAS, FR
 2001:f40:909:36e4:40d2:b40f:5df7:34ad|9333|/LitecoinCore:0.18.1/|9930|2001:f40::/32|MY|apnic|2004-07-27|TTNET-MY TIME dotCom Berhad No. 14, Jalan Majistret U126 Hicom Glenmarie Industrial Park 40150 Shah Alam Selangor, Malaysia, MY
 2003:cb:8713:6102:aaa1:59ff:fe57:7779|9333|/LitecoinCore:0.21.2.1/|3320|2003::/19|DE|ripencc|2005-01-13|DTAG Internet service provider operations, DE
@@ -436,7 +435,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 213.239.232.113|9332|/LitecoinCore:0.17.1/|24940|213.239.192.0/18|DE|ripencc|2003-05-28|HETZNER-AS, DE
 213.244.192.149|9333|/LitecoinCore:0.21.2.1/|51862|213.244.192.0/24|DE|ripencc|2003-06-11|IONOS-AS, DE
 213.32.6.132|56224|/DigitaleuroCore:0.16.3/|16276|213.32.0.0/17|FR|ripencc|1999-06-28|OVH, FR
-216.108.236.43|9333|/LitecoinCore:0.21.2/
+216.108.236.43|9333|/LitecoinCore:0.21.2/|26277|216.108.236.0/24|US|arin|2008-04-11|PREMIANET, US
 216.188.233.105|9333|/LitecoinCore:0.21.2/|7459|216.188.232.0/23|US|arin|2002-04-30|GRANDECOM-AS1, US
 216.238.74.105|9333|/LitecoinCore:0.21.2/|20473|216.238.64.0/19|US|arin|2021-03-04|AS-CHOOPA, US
 217.115.116.250|9333|/LitecoinCore:0.18.1/|30900|217.115.112.0/20|IE|ripencc|2003-12-24|WEBWORLD-AS ta Web World Ireland, IE
@@ -729,6 +728,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 41.72.158.202|9333|/LitecoinCore:0.18.1/|37153|41.72.128.0/19|ZA|afrinic|2009-11-25|xneelo, ZA
 42.192.235.164|9333|/LitecoinCore:0.18.1/|45090|42.192.192.0/18|CN|apnic|2011-03-04|TENCENT-NET-AP Shenzhen Tencent Computer Systems Company Limited, CN
 44.199.98.249|9333|/LitecoinCore:0.18.1/|14618|44.192.0.0/11|US|arin|2019-07-18|AMAZON-AES, US
+44.200.227.119|9333|/LitecoinCore:0.21.2/|14618|44.192.0.0/11|US|arin|2019-07-18|AMAZON-AES, US
 44.225.254.244|9333|/LitecoinCore:0.21.2/|16509|44.224.0.0/11|US|arin|2019-07-18|AMAZON-02, US
 45.11.57.69|9333|/LitecoinCore:0.18.1/|43180|45.11.57.0/24|UA|ripencc|2019-04-26|CLOUDNETWORKS-AS, UA
 45.116.78.202|9321|/Satoshi:0.14.3.2/|55933|45.116.76.0/22|HK|apnic|2015-05-01|CLOUDIE-AS-AP Cloudie Limited, HK
@@ -907,6 +907,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 66.248.204.186|9333|/LitecoinCore:0.16.3/|57043|66.248.204.0/24|NL|ripencc|2012-12-03|HOSTKEY-AS, NL
 66.29.129.218|9333|/LitecoinCore:0.18.1/|22612|66.29.129.0/24|US|arin|2021-03-05|NAMECHEAP-NET, US
 66.29.156.127|9333|/LitecoinCore:0.18.1/|22612|66.29.156.0/24|US|arin|2021-03-05|NAMECHEAP-NET, US
+66.31.4.1|9333|/LitecoinCore:0.18.1/|7922|66.30.0.0/15|US|arin|2002-01-31|COMCAST-7922, US
 66.42.82.95|9333|/LitecoinCore:0.18.1(Omni:0.18.2)/|20473|66.42.80.0/20|US|arin|2018-05-07|AS-CHOOPA, US
 66.69.100.97|9333|/FutureBit-ApolloCore:0.17.1/|11427|66.68.0.0/15|US|arin|2001-01-25|TWC-11427-TEXAS, US
 66.70.157.93|9333|/LitecoinCore:0.17.1(litecoin)/|16276|66.70.128.0/17|CA|arin|2017-02-13|OVH, FR
