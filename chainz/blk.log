@@ -64,7 +64,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 185.245.85.107|/Blackcoin More:2.13.2.9/|70013|9009|185.245.85.0/24|RO|ripencc|2018-02-07|M247, GB
 193.164.140.87|/Blackcoin More:2.13.2.9/|70013|41427|193.164.140.0/24|SI|ripencc|2006-08-18|MARC-NET_AS, SI
 195.181.171.227|/Blackcoin More:2.13.2.9/|70013|60068|195.181.171.0/24|GB|ripencc|1997-03-20|CDN77 ^_^, GB
-195.181.171.232|/Blackcoin More:2.13.2.9/|70013|60068|195.181.171.0/24|GB|ripencc|1997-03-20|CDN77 ^_^, GB
+195.181.171.232|/Blackcoin More:2.13.2.9/|70013||||||
 195.181.171.237|/Blackcoin More:2.13.2.9/|70013|60068|195.181.171.0/24|GB|ripencc|1997-03-20|CDN77 ^_^, GB
 195.181.171.242|/Blackcoin More:2.13.2.9/|70013|60068|195.181.171.0/24|GB|ripencc|1997-03-20|CDN77 ^_^, GB
 195.201.104.49|/Blackcoin More:2.13.2.9/|70013|24940|195.201.0.0/16|DE|ripencc|1997-09-22|HETZNER-AS, DE
@@ -113,6 +113,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 80.60.14.196|/Blackcoin More:2.13.2.8/|70013|1136|80.60.0.0/15|NL|ripencc|2001-06-15|KPN KPN National, NL
 81.148.235.46|/Blackcoin More:2.13.2.9/|70013|2856|81.128.0.0/11|GB|ripencc|2002-07-25|BT-UK-AS BTnet UK Regional network, GB
 81.162.109.22|/Blackcoin More:2.13.2.8/|70013|57093|81.162.108.0/22|UA|ripencc|2011-12-07|ASYALTA, UA
+81.19.214.31|/Blackcoin More:2.13.2.9/|70013|25369|81.19.208.0/20|GB|ripencc|2006-01-03|BANDWIDTH-AS, GB
 81.69.250.50|/Blackcoin More:2.13.2.7/|70013|45090|81.69.192.0/18|CN|apnic|2002-01-11|TENCENT-NET-AP Shenzhen Tencent Computer Systems Company Limited, CN
 84.162.69.78|/Blackcoin More:2.13.2.9/|70013|3320|84.128.0.0/10|DE|ripencc|2004-03-10|DTAG Internet service provider operations, DE
 84.199.52.154|/Blackcoin More:2.13.2.8/|70013|6848|84.192.0.0/13|BE|ripencc|2004-04-21|TELENET-AS, BE
