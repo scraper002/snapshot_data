@@ -21,7 +21,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 142.163.78.145|/LitecoinCashCore:0.16.3/|70015||||||
 144.126.135.34|/LitecoinCashCore:0.16.3/|70015||||||
 145.40.32.198|/LitecoinCashCore:0.15.0.1/|70015||||||
-149.56.155.28|/LitecoinCashCore:0.16.3/|70015||||||
+149.56.155.28|/LitecoinCashCore:0.16.3/|70015|16276|149.56.0.0/16|CA|arin|2016-02-09|OVH, FR
 154.12.237.238|/LitecoinCashCore:0.16.3/|70015||||||
 158.140.164.22|/LitecoinCashCore:0.16.3/|70015||||||
 159.223.147.129|/LitecoinCashCore:0.16.3/|70015||||||
@@ -33,10 +33,10 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 167.235.233.247|/LitecoinCashCore:0.16.3/|70015||||||
 168.119.173.229|/LitecoinCashCore:0.16.3/|70015||||||
 170.253.196.191|/LitecoinCashCore:0.16.3/|70015||||||
-172.114.106.67|/LitecoinCashCore:0.16.3/|70015||||||
-172.58.122.30|/LitecoinCashCore:0.16.3/|70015||||||
-172.58.190.176|/LitecoinCashCore:0.16.3/|70015||||||
-174.138.11.69|/LitecoinCashCore:0.16.3/|70015||||||
+172.114.106.67|/LitecoinCashCore:0.16.3/|70015|20001|172.112.0.0/13|US|arin|2015-06-19|TWC-20001-PACWEST, US
+172.58.122.30|/LitecoinCashCore:0.16.3/|70015|21928|172.58.120.0/21|US|arin|2012-09-18|T-MOBILE-AS21928, US
+172.58.190.176|/LitecoinCashCore:0.16.3/|70015|21928|172.58.184.0/21|US|arin|2012-09-18|T-MOBILE-AS21928, US
+174.138.11.69|/LitecoinCashCore:0.16.3/|70015|14061|174.138.0.0/20|US|arin|2016-04-12|DIGITALOCEAN-ASN, US
 174.31.31.169|/LitecoinCashCore:0.16.3/|70015||||||
 174.53.235.116|/LitecoinCashCore:0.16.3/|70015||||||
 175.136.111.167|/LitecoinCashCore:0.16.3/|70015||||||
@@ -45,12 +45,13 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 177.71.109.48|/LitecoinCashCore:0.16.3/|70015||||||
 178.128.5.88|/LitecoinCashCore:0.16.3/|70015||||||
 178.166.161.84|/LitecoinCashCore:0.16.3/|70015||||||
-178.212.193.199|/LitecoinCashCore:0.16.3/|70015||||||
+178.212.193.199|/LitecoinCashCore:0.16.3/|70015|39065|178.212.193.0/24|UA|ripencc|2010-08-26|SOHONET-AS Odessa, Ukraine, UA
 178.219.168.244|/LitecoinCashCore:0.16.3/|70015||||||
 178.34.160.55|/LitecoinCashCore:0.16.3/|70015||||||
 178.59.168.4|/LitecoinCashCore:0.16.3/|70015||||||
 178.74.103.217|/LitecoinCashCore:0.16.3/|70015||||||
 18.27.124.232|/btcwire:0.4.1/LitecoinCashCore:0.16.1/|70012||||||
+181.94.226.207|/LitecoinCashCore:0.16.3/|70015||||||
 184.73.247.90|/LitecoinCashCore:0.16.3/|70015||||||
 185.82.203.241|/LitecoinCashCore:0.16.3/|70015||||||
 185.84.172.204|/LitecoinCashCore:0.16.3/|70015||||||
@@ -66,13 +67,12 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 207.246.110.51|/LitecoinCashCore:0.16.3/|70015||||||
 213.162.73.81|/LitecoinCashCore:0.16.1.3/|70015||||||
 213.217.56.60|/LitecoinCashCore:0.16.3/|70015||||||
-213.227.68.204|/LitecoinCashCore:0.16.3/|70015||||||
 213.232.124.121|/LitecoinCashCore:0.16.3/|70015||||||
 213.91.128.133|/LitecoinCashCore:0.16.3/|70015||||||
 216.70.154.55|/LitecoinCashCore:0.16.3/|70015||||||
 216.71.206.179|/LitecoinCashCore:0.16.3/|70015||||||
 217.182.199.85|/LitecoinCashCore:0.16.3/|70015||||||
-217.65.8.75|/LitecoinCashCore:0.16.3/|70015||||||
+217.65.8.75|/LitecoinCashCore:0.16.3/|70015|3175|217.65.8.0/24|RU|ripencc|2005-10-03|CITYTELECOM-MSK, RU
 217.79.189.71|/LitecoinCashCore:0.16.3/|70015||||||
 24.67.205.102|/LitecoinCashCore:0.16.3/|70015||||||
 24.91.98.16|/LitecoinCashCore:0.16.3/|70015||||||
@@ -127,8 +127,9 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 78.186.117.161|/LitecoinCashCore:0.16.3/|70015||||||
 78.46.100.57|/LitecoinCashCore:0.16.3/|70015||||||
 78.56.87.109|/LitecoinCashCore:0.16.3/|70015||||||
+80.219.190.80|/LitecoinCashCore:0.16.3/|70015||||||
 81.166.67.20|/LitecoinCashCore:0.16.3/|70015||||||
-82.66.94.6|/LitecoinCashCore:0.16.3/|70015|12322|82.64.0.0/14|FR|ripencc|2003-04-03|PROXAD, FR
+82.66.94.6|/LitecoinCashCore:0.16.3/|70015||||||
 82.70.129.110|/LitecoinCashCore:0.16.3/|70015||||||
 83.195.190.81|/LitecoinCashCore:0.16.3/|70015||||||
 83.221.211.116|/LitecoinCashCore:0.16.3/|70015||||||
@@ -153,7 +154,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 89.212.249.4|/LitecoinCashCore:0.16.3/|70015||||||
 90.52.34.237|/LitecoinCashCore:0.16.3/|70015||||||
 91.92.61.116|/LitecoinCashCore:0.16.3/|70015||||||
-93.140.186.247|/LitecoinCashCore:0.16.3/|70015||||||
+93.140.186.247|/LitecoinCashCore:0.16.3/|70015|5391|93.140.0.0/16|HR|ripencc|2008-04-23|T-HT Croatian Telecom Inc., HR
 94.19.132.255|/LitecoinCashCore:0.16.3/|70015||||||
 94.25.228.92|/LitecoinCashCore:0.16.3/|70015||||||
 95.216.244.58|/LitecoinCashCore:0.16.3/|70015||||||

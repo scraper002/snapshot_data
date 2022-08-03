@@ -47,25 +47,24 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 188.166.12.97|/Satoshi:0.20.2/Peercoin:0.11.7/|70016||||||
 188.22.204.164|/Satoshi:0.20.2/Peercoin:0.11.7/|70016||||||
 188.243.182.166|/Satoshi:0.20.2/Peercoin:0.11.7/|70016||||||
-195.138.71.80|/Satoshi:0.20.2/Peercoin:0.11.7/|70016||||||
+195.138.71.80|/Satoshi:0.20.2/Peercoin:0.11.7/|70016|6876|195.138.64.0/19|UA|ripencc|1997-02-25|TENET-AS, UA
 195.201.207.43|/Satoshi:0.20.2/Peercoin:0.11.8/|70016||||||
 195.50.206.74|/Satoshi:0.20.2/Peercoin:0.11.0/|70016||||||
 199.102.155.227|/Satoshi:0.20.2/Peercoin:0.11.1/|70016||||||
 199.127.62.235|Satoshi:0.20.2/Peercoin:0.11.4|70016||||||
-203.214.36.207|/Satoshi:0.20.2/Peercoin:0.11.7/|70016||||||
-203.214.74.187|/Satoshi:0.20.2/Peercoin:0.11.7/|70016||||||
+203.214.36.207|/Satoshi:0.20.2/Peercoin:0.11.7/|70016|7545|203.214.32.0/20|AU|apnic|2000-12-29|TPG-INTERNET-AP TPG Telecom Limited, AU
+203.214.74.187|/Satoshi:0.20.2/Peercoin:0.11.7/|70016|7545|203.214.72.0/21|AU|apnic|2000-12-29|TPG-INTERNET-AP TPG Telecom Limited, AU
 203.91.242.55|/Satoshi:0.20.2/Peercoin:0.11.8/|70016||||||
 206.189.131.144|Satoshi:0.20.2/Peercoin:0.11.4|70016||||||
 212.202.31.167|/Satoshi:0.20.2/Peercoin:0.11.8/|70016||||||
 213.152.161.240|/Satoshi:0.20.2/Peercoin:0.11.8/|70016||||||
-213.159.81.229|/Satoshi:0.20.2/Peercoin:0.11.7/|70016||||||
+213.159.81.229|/Satoshi:0.20.2/Peercoin:0.11.7/|70016|43284|213.159.80.0/20|CH|ripencc|2000-03-01|IWB-TELEKOM Industrielle Werke Basel, CH
 213.87.158.51|/Satoshi:0.20.2/Peercoin:0.11.1/|70016||||||
 219.90.162.108|/Satoshi:0.20.2/Peercoin:0.11.7/|70016||||||
 219.90.167.62|/Satoshi:0.20.2/Peercoin:0.11.7/|70016||||||
 23.128.248.11|/Satoshi:0.20.2/Peercoin:0.11.8/|70016||||||
 23.227.150.249|/Satoshi:0.20.2/Peercoin:0.11.2/|70016||||||
 23.82.193.132|/Satoshi:0.20.2/Peercoin:0.11.8/|70016||||||
-24.114.44.44|/Satoshi:0.20.2/Peercoin:0.11.1/|70016||||||
 24.229.236.161|/Satoshi:0.20.2/Peercoin:0.11.0/|70016||||||
 24.57.240.58|/Satoshi:0.20.2/Peercoin:0.11.1/|70016||||||
 31.187.126.48|/Satoshi:0.20.2/Peercoin:0.11.0/|70016||||||
@@ -107,7 +106,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 78.106.24.248|/Satoshi:0.20.2/Peercoin:0.11.1/|70016||||||
 78.115.18.37|/Satoshi:0.20.2/Peercoin:0.11.4/|70016||||||
 78.46.234.212|/Satoshi:0.20.2/Peercoin:0.11.2/|70016||||||
-78.99.35.20|/Satoshi:0.20.2/Peercoin:0.11.4/|70016||||||
+78.99.35.20|/Satoshi:0.20.2/Peercoin:0.11.4/|70016|6855|78.98.0.0/15|SK|ripencc|2007-05-02|SK-TELEKOM Slovak Telekom T-Mobile CZ, SK
 79.135.192.31|/Satoshi:0.20.2/Peercoin:0.11.7/|70016||||||
 79.137.67.138|/Satoshi:0.20.2/Peercoin:0.11.8/|70016||||||
 83.235.109.88|/Satoshi:0.20.2/Peercoin:0.11.8/|70016||||||

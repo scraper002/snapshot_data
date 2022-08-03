@@ -2,7 +2,6 @@
 # Phore
 IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 116.203.82.110|/Phore Core:1.7.1/|70009||||||
-135.181.183.38|/Phore Core:1.8.0/|70009||||||
 135.181.7.113|/Phore Core:1.7.1/|70009||||||
 135.181.7.118|/Phore Core:1.7.1/|70009||||||
 138.201.8.248|/Phore Core:1.8.0/|70009||||||
@@ -69,7 +68,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 209.126.0.126|/Phore Core:1.8.0/|70009||||||
 209.126.81.51|/Phore Core:1.7.1/|70009||||||
 209.126.81.52|/Phore Core:1.7.1/|70009||||||
-209.126.9.201|/Phore Core:1.7.1/|70009||||||
+209.126.9.201|/Phore Core:1.7.1/|70009|40021|209.126.0.0/20|US|arin|2020-03-02|CONTABO, US
 213.239.209.41|/Phore Core:1.7.0/|70008||||||
 216.240.252.80|/Phore Core:1.7.1/|70009||||||
 27.121.109.199|/Phore Core:1.8.0/|70009||||||
@@ -115,11 +114,10 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 85.187.182.189|/Phore Core:1.8.0/|70009||||||
 86.1.113.199|/Phore Core:1.7.0/|70008||||||
 86.95.107.144|/Phore Core:1.7.1/|70009||||||
-86.98.181.104|/Phore Core:1.7.1/|70009||||||
 87.209.213.128|/Phore Core:1.7.1/|70009||||||
 89.0.168.234|/Phore Core:1.7.1/|70009||||||
-89.101.225.26|/Phore Core:1.7.1/|70009||||||
-89.151.220.172|/Phore Core:1.8.0/|70009||||||
+89.101.225.26|/Phore Core:1.7.1/|70009|6830|89.101.0.0/16|IE|ripencc|2006-02-22|LIBERTYGLOBAL Liberty Global formerly UPC Broadband Holding, aka AORTA, NL
+89.151.220.172|/Phore Core:1.8.0/|70009|34087|89.151.192.0/19|NO|ripencc|2006-04-28|NTE-BREDBAND NIX 1, Oslo, Norway, NO
 89.247.167.182|/Phore Core:1.7.0/|70008||||||
 89.247.167.188|/Phore Core:1.7.0/|70008||||||
 92.204.53.227|/Phore Core:1.7.0/|70008||||||

@@ -5,7 +5,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 104.238.221.41|Feathercoin:0.19.1|70016||||||
 115.64.153.192|/Feathercoin:0.19.1/|70016||||||
 13.209.60.161|/Feathercoin:0.19.1/|70016||||||
-136.32.139.25|/Feathercoin:0.19.1/|70016||||||
 139.162.205.147|/Feathercoin:0.19.1/|70016||||||
 139.162.216.67|/feathercoin-seeder:0.03/|70015||||||
 139.162.246.207|/Feathercoin:0.19.1/|70016||||||
@@ -14,7 +13,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 143.198.121.253|Feathercoin:0.19.1|70016||||||
 148.59.149.52|/Feathercoin:0.18.2/|70016||||||
 149.202.78.163|/Feathercoin:0.19.1/|70016||||||
-149.56.155.28|/Feathercoin:0.19.1/|70016||||||
+149.56.155.28|/Feathercoin:0.19.1/|70016|16276|149.56.0.0/16|CA|arin|2016-02-09|OVH, FR
 161.97.172.98|/Feathercoin:0.19.1/|70016||||||
 162.218.65.219|/litecoinj:0.2/|70013||||||
 166.176.186.196|/Feathercoin:0.18.3/|70016||||||
@@ -57,7 +56,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 81.147.53.53|/Feathercoin:0.19.1/|70016||||||
 81.169.141.19|/Feathercoin:0.19.1/|70016||||||
 82.65.170.48|/Feathercoin:0.19.1/|70016||||||
-82.66.94.6|/Feathercoin:0.19.1/|70016|12322|82.64.0.0/14|FR|ripencc|2003-04-03|PROXAD, FR
+82.66.94.6|/Feathercoin:0.19.1/|70016||||||
 83.233.2.113|/Feathercoin:0.19.1/|70016||||||
 86.63.103.5|/Feathercoin:0.13.1/|70015||||||
 88.212.55.252|/Feathercoin:0.19.1/|70016||||||
@@ -68,5 +67,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 95.79.111.243|/Feathercoin:0.19.1/|70016||||||
 96.37.112.186|/Feathercoin:0.19.1/|70016||||||
 96.40.193.183|/FeathercoinJ:0.99/Feathercoin Wallet:3.05/|70006||||||
+97.120.175.167|/Feathercoin:0.19.1/|70016||||||
 98.202.227.110|/Feathercoin:0.18.3/|70016||||||
 98.51.39.225|/Feathercoin:0.13.1/|70015||||||
