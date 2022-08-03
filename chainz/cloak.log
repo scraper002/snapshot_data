@@ -31,6 +31,8 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 187.190.174.255|/KlausFuchs:2.2.2.2/|60018||||||
 192.145.116.28|/KlausFuchs:2.2.2.2/|60018||||||
 193.70.44.101|/KlausFuchs:2.2.2.2/|60018||||||
+194.126.177.24|/KlausFuchs:2.2.2.2/|60018||||||
+194.126.177.65|/KlausFuchs:2.2.2.2/|60018||||||
 2.37.188.165|/KlausFuchs:2.2.2.2/|60018||||||
 211.219.203.174|/KlausFuchs:2.2.2.2/|60018||||||
 213.136.67.100|/KlausFuchs:2.2.2.2/|60018||||||
@@ -46,14 +48,15 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 31.151.42.160|/KlausFuchs:2.2.2.2/|60018||||||
 31.165.55.192|/SidneyReilly:0.7.8/|60018||||||
 31.187.195.116|/KlausFuchs:2.2.2.2/|60018||||||
-37.49.109.184|/KlausFuchs:2.2.2.2/|60018||||||
-45.128.199.102|/KlausFuchs:2.2.2.2/|60018||||||
+37.49.109.184|/KlausFuchs:2.2.2.2/|60018|3209|37.49.64.0/18|DE|ripencc|2012-01-25|VODANET International IP-Backbone of Vodafone, DE
+45.128.199.102|/KlausFuchs:2.2.2.2/|60018|62240|45.128.199.0/24|NL|ripencc|2019-07-12|CLOUVIDER Clouvider - Global ASN, GB
 45.128.199.137|/KlausFuchs:2.2.2.2/|60018||||||
 45.76.253.195|/KlausFuchs:2.2.2.2/|60018||||||
 46.101.235.143|/KlausFuchs:2.2.2.1/|60018||||||
 46.35.48.131|/KlausFuchs:2.2.2.2/|60018||||||
 47.33.12.211|/KlausFuchs:2.2.2.2/|60018||||||
 49.12.121.226|/KlausFuchs:2.2.2.2/|60018||||||
+5.43.242.57|/KlausFuchs:2.2.2.2/|60018||||||
 5.62.24.56|/KlausFuchs:2.2.2.2/|60018||||||
 51.198.184.137|/KlausFuchs:2.2.2.2/|60018||||||
 52.166.50.170|/KlausFuchs:2.2.2.1/|60018||||||
@@ -61,7 +64,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 54.229.160.166|/KlausFuchs:2.2.2.2/|60018||||||
 62.195.213.58|/KlausFuchs:2.2.2.2/|60018||||||
 62.216.201.126|/KlausFuchs:2.2.2.2/|60018||||||
-62.63.233.182|/KlausFuchs:2.2.2.2/|60018||||||
 66.252.37.235|/KlausFuchs:2.2.2.2/|60018||||||
 66.81.181.185|/KlausFuchs:2.2.2.2/|60018||||||
 68.37.51.43|/KlausFuchs:2.2.2.1/|60018||||||
@@ -75,7 +77,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 76.22.91.115|/KlausFuchs:2.2.2.2/|60018||||||
 78.173.81.60|/KlausFuchs:2.2.2.2/|60018||||||
 79.143.186.122|/KlausFuchs:2.2.2.2/|60018||||||
-79.59.255.93|/KlausFuchs:2.2.2.2/|60018|3269|79.59.0.0/16|IT|ripencc|2007-02-21|ASN-IBSNAZ, IT
+79.59.255.93|/KlausFuchs:2.2.2.2/|60018||||||
 82.115.12.2|/KlausFuchs:2.2.2.2/|60018||||||
 82.73.36.26|/KlausFuchs:2.2.2.2/|60018||||||
 83.128.101.141|/KlausFuchs:2.2.2.2/|60018||||||
