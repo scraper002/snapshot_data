@@ -15,7 +15,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 149.248.55.181|/MooncoinCore:0.17.1/|70017||||||
 149.28.82.11|/MooncoinCore:0.17.1/|70017||||||
 154.21.212.194|/MooncoinCore:0.17.1/|70017||||||
-159.196.219.68|/MooncoinCore:0.17.1/|70017||||||
+159.196.219.68|/MooncoinCore:0.17.1/|70017|4764|159.196.216.0/22|AU|apnic|1992-05-26|WIDEBAND-AS-AP Aussie Broadband, AU
 161.97.172.98|/MooncoinCore:0.17.1/|70017||||||
 167.86.85.58|/Mooncoin:0.13.9/|70016||||||
 174.83.184.206|/MooncoinCore:0.17.1/|70017||||||
@@ -30,7 +30,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 45.63.86.125|/MooncoinCore:0.17.1/|70017||||||
 5.45.105.66|/MooncoinCore:0.17.1/|70017||||||
 50.125.224.254|/MooncoinCore:0.17.1/|70017||||||
-50.220.121.211|/MooncoinCore:0.17.1/|70017||||||
+50.220.121.211|/MooncoinCore:0.17.1/|70017|7922|50.128.0.0/9|US|arin|2010-10-21|COMCAST-7922, US
 51.38.57.53|/MooncoinCore:0.17.1/|70017||||||
 64.20.63.133|/MooncoinCore:0.17.1/|70017||||||
 65.108.196.100|/MooncoinCore:0.17.1/|70017||||||
@@ -55,6 +55,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 91.127.3.191|/MooncoinCore:0.17.1/|70017||||||
 91.200.41.32|/MooncoinCore:0.17.1/|70017||||||
 91.206.16.214|/Mooncoin:0.13.9/|70016||||||
+91.6.225.163|/MooncoinCore:0.17.1/|70017||||||
 94.23.2.215|/Mooncoin:0.13.9/|70016||||||
 95.179.138.109|/MooncoinCore:0.17.1/|70017||||||
 99.155.224.126|/Mooncoin:0.13.9/|70016||||||

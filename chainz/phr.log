@@ -13,10 +13,10 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 144.76.97.21|/Phore Core:1.7.0/|70008||||||
 144.91.106.129|/Phore Core:1.8.0/|70009||||||
 144.91.106.92|/Phore Core:1.8.0/|70009||||||
-144.91.116.146|/Phore Core:1.7.0/|70008|51167|144.91.116.0/23|DE|ripencc|1990-11-20|CONTABO, DE
+144.91.116.146|/Phore Core:1.7.0/|70008||||||
 149.56.148.202|/Phore Core:1.7.0/|70008||||||
 152.228.135.232|/Phore Core:1.8.0/|70009||||||
-155.4.6.84|/Phore Core:1.8.0/|70009||||||
+155.4.6.84|/Phore Core:1.8.0/|70009|8473|155.4.0.0/16|NO|ripencc|1991-10-30|BAHNHOF www.bahnhof.net, SE
 156.96.151.132|/Phore Core:1.8.0/|70009||||||
 157.90.106.242|/Phore Core:1.8.0/|70009||||||
 159.223.67.159|/Phore Core:1.8.0/|70009||||||
@@ -63,6 +63,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 193.26.157.215|/Phore Core:1.7.1/|70009||||||
 193.37.214.68|/Phore Core:1.7.0/|70008||||||
 194.163.143.68|/Phore Core:1.8.0/|70009||||||
+194.60.86.31|/Phore Core:1.7.1/|70009||||||
 195.24.140.254|/Phore Core:1.8.0/|70009||||||
 206.81.20.184|/Phore Core:1.8.0/|70009||||||
 207.180.242.187|/Phore Core:1.7.1/|70009||||||
