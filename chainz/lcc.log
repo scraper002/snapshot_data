@@ -15,7 +15,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 130.223.123.231|/LitecoinCashCore:0.16.3/|70015|559|130.223.0.0/16|CH|ripencc|1988-10-21|SWITCH Peering requests: peering@switch.ch, CH
 134.17.4.199|/LitecoinCashCore:0.16.3/|70015|25106|134.17.4.0/22|BY|ripencc|2011-11-03|MTSBY-AS, BY
 135.181.40.86|/LitecoinCashCore:0.16.3/|70015|24940|135.181.0.0/16|DE|ripencc|1996-04-30|HETZNER-AS, DE
-136.243.145.143|/LitecoinCashCore:0.16.3/|70015||||||
+136.243.145.143|/LitecoinCashCore:0.16.3/|70015|24940|136.243.0.0/16|DE|ripencc|2004-04-14|HETZNER-AS, DE
 138.201.81.23|/LitecoinCashCore:0.16.3/|70015|24940|138.201.0.0/16|DE|ripencc|1990-05-23|HETZNER-AS, DE
 141.95.146.47|/LitecoinCashCore:0.16.3/|70015|16276|141.95.128.0/17|FR|ripencc|1993-02-18|OVH, FR
 142.163.78.145|/LitecoinCashCore:0.16.3/|70015|855|142.163.72.0/21|CA|arin|1992-08-26|CANET-ASN-4, CA
@@ -42,7 +42,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 175.136.111.167|/LitecoinCashCore:0.16.3/|70015|4788|175.136.64.0/18|MY|apnic|2010-01-08|TMNET-AS-AP TM Net, Internet Service Provider, MY
 176.10.199.244|/LitecoinCashCore:0.16.3/|70015|8473|176.10.128.0/17|SE|ripencc|2011-05-18|BAHNHOF www.bahnhof.net, SE
 176.102.68.75|/LitecoinCashCore:0.16.3/|70015|41929|176.102.68.0/22|RU|ripencc|2018-07-03|SISTEMY-SVYAZI-AS, RU
-176.214.93.61|/LitecoinCashCore:0.16.3/|70015|51819|176.214.92.0/23|RU|ripencc|2011-09-28|YAR-AS, RU
 177.71.109.48|/LitecoinCashCore:0.16.3/|70015|271397|177.71.109.0/24|BR|lacnic|2021-11-24|Anderson Barreto da Cruz, BR
 178.128.5.88|/LitecoinCashCore:0.16.3/|70015|14061|178.128.0.0/20|US|ripencc|2010-03-03|DIGITALOCEAN-ASN, US
 178.166.161.84|/LitecoinCashCore:0.16.3/|70015|12389|178.166.128.0/18|RU|ripencc|2010-03-11|ROSTELECOM-AS, RU
@@ -147,7 +146,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 89.212.249.4|/LitecoinCashCore:0.16.3/|70015|34779|89.212.192.0/18|SI|ripencc|2006-05-03|T-2-AS AS set propagated by T-2 d.o.o., SI
 90.52.34.237|/LitecoinCashCore:0.16.3/|70015|3215|90.52.0.0/17|FR|ripencc|2006-03-02|France Telecom - Orange, FR
 91.92.61.116|/LitecoinCashCore:0.16.3/|70015|62106|91.92.61.0/24|BG|ripencc|2006-08-15|CISBG-AS, BG
-92.38.100.237|/LitecoinCashCore:0.16.3/|70015|12365|92.38.96.0/19|CZ|ripencc|2008-02-01|SARKOR-AS Sarkor Telecom - Uztelecom, Upstream, UZ
 93.140.186.247|/LitecoinCashCore:0.16.3/|70015|5391|93.140.0.0/16|HR|ripencc|2008-04-23|T-HT Croatian Telecom Inc., HR
 94.19.132.255|/LitecoinCashCore:0.16.3/|70015|35807|94.19.0.0/16|RU|ripencc|2008-07-03|SKYNET-SPB-AS, RU
 94.244.24.175|/LitecoinCashCore:0.16.3/|70015|48278|94.244.0.0/18|UA|ripencc|2008-10-30|UKRDATACOM-NET-AS, UA
