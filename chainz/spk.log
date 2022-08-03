@@ -2,8 +2,8 @@
 # Sparks
 IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 141.95.106.209|/Sparks Core:0.13.4.2/|70214|16276|141.95.0.0/17|FR|ripencc|1993-02-18|OVH, FR
-161.97.138.207|/Sparks Core:0.13.4.1/|70214||||||
-162.19.48.29|/Sparks Core:0.14.0/|70215||||||
+161.97.138.207|/Sparks Core:0.13.4.1/|70214|51167|161.97.128.0/19|DE|ripencc|1992-06-23|CONTABO, DE
+162.19.48.29|/Sparks Core:0.14.0/|70215|16276|162.19.0.0/17|FR|ripencc|1992-07-09|OVH, FR
 162.19.51.94|/Sparks Core:0.13.4.2/|70214|16276|162.19.0.0/17|FR|ripencc|1992-07-09|OVH, FR
 162.19.54.19|/Sparks Core:0.13.4.2/|70214|16276|162.19.0.0/17|FR|ripencc|1992-07-09|OVH, FR
 178.33.49.247|/Sparks Core:0.13.4.2/|70214|16276|178.32.0.0/15|FR|ripencc|2010-01-19|OVH, FR
@@ -13,7 +13,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 5.39.3.118|/Sparks Core:0.13.4.2/|70214|16276|5.39.0.0/17|FR|ripencc|2012-05-15|OVH, FR
 50.220.121.211|/Sparks Core:0.13.4/|70214||||||
 51.75.102.145|/Sparks Core:0.13.4.2/|70214|16276|51.75.0.0/16|FR|ripencc|1993-09-01|OVH, FR
-54.38.152.146|/Sparks Core:0.13.4.2/|70214||||||
+54.38.152.146|/Sparks Core:0.13.4.2/|70214|16276|54.38.0.0/16|FR|ripencc|1992-03-17|OVH, FR
 62.171.185.166|/Sparks Core:0.13.4.1/|70214||||||
 66.70.182.1|/Sparks Core:0.13.4.1/|70214||||||
 94.225.167.73|/Sparks Core:0.14.0/|70215||||||
