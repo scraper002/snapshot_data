@@ -13,7 +13,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 143.198.121.253|Feathercoin:0.19.1|70016||||||
 148.59.149.52|/Feathercoin:0.18.2/|70016||||||
 149.202.78.163|/Feathercoin:0.19.1/|70016||||||
-149.56.155.28|/Feathercoin:0.19.1/|70016|16276|149.56.0.0/16|CA|arin|2016-02-09|OVH, FR
+149.56.155.28|/Feathercoin:0.19.1/|70016||||||
 161.97.172.98|/Feathercoin:0.19.1/|70016||||||
 162.218.65.219|/litecoinj:0.2/|70013||||||
 166.176.186.196|/Feathercoin:0.18.3/|70016||||||
@@ -22,7 +22,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 176.9.50.227|/Feathercoin:0.17.0/|70016||||||
 178.18.247.153|/Feathercoin:0.19.1/|70016||||||
 178.62.114.74|Feathercoin:0.19.1|70016||||||
-185.212.47.106|/Feathercoin:0.19.1/|70016||||||
 188.126.9.83|/Feathercoin:0.19.1/|70016||||||
 188.166.227.187|/Feathercoin:0.19.1/|70016||||||
 188.166.72.211|/Feathercoin:0.18.3/|70016||||||
@@ -44,16 +43,12 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 62.12.153.168|/Feathercoin:0.19.1/|70016||||||
 64.98.75.19|/Feathercoin:0.19.1/|70016||||||
 65.21.140.149|/Feathercoin:0.19.1/|70016||||||
-69.196.162.64|/FeathercoinJ:0.99/Feathercoin Wallet:3.05/|70006||||||
 69.30.211.114|/Feathercoin:0.18.3/|70016||||||
 71.205.64.85|/Feathercoin:0.19.1/|70016||||||
-72.73.227.81|/Feathercoin:0.19.1/|70016||||||
-73.75.12.211|???|0||||||
 73.8.234.217|/Feathercoin:0.19.1/|70016||||||
 73.8.240.113|/Feathercoin:0.18.3/|70016||||||
 74.137.64.15|/Feathercoin:0.13.0/|70015||||||
 80.238.170.107|/Feathercoin:0.16.0/|70015||||||
-81.147.53.53|/Feathercoin:0.19.1/|70016||||||
 81.169.141.19|/Feathercoin:0.19.1/|70016||||||
 82.65.170.48|/Feathercoin:0.19.1/|70016||||||
 82.66.94.6|/Feathercoin:0.19.1/|70016||||||
@@ -61,7 +56,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 86.63.103.5|/Feathercoin:0.13.1/|70015||||||
 88.212.55.252|/Feathercoin:0.19.1/|70016||||||
 88.80.187.187|/litecoin-seeder:0.01/|70002||||||
-93.228.71.190|/Feathercoin:0.13.1/|70015||||||
+93.228.68.141|/Feathercoin:0.13.1/|70015||||||
 94.194.130.24|/Feathercoin:0.19.1/|70016||||||
 95.217.78.168|/Feathercoin:0.13.0/|70015||||||
 95.79.111.243|/Feathercoin:0.19.1/|70016||||||
