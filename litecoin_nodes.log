@@ -271,6 +271,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 18.193.218.8|9333|/LitecoinCore:0.18.1/|16509|18.192.0.0/15|US|arin|2019-10-07|AMAZON-02, US
 18.193.230.93|9333|/LitecoinCore:0.18.1/|16509|18.192.0.0/15|US|arin|2019-10-07|AMAZON-02, US
 18.204.86.135|9333|/LitecoinCore:0.16.3/|14618|18.204.0.0/14|US|arin|2019-10-07|AMAZON-AES, US
+18.207.213.127|9333|/LitecoinCore:0.21.2/|14618|18.204.0.0/14|US|arin|2019-10-07|AMAZON-AES, US
 18.218.39.254|49333|/LitecoinCore:0.18.1/|16509|18.216.0.0/14|US|arin|2019-10-07|AMAZON-02, US
 18.223.229.124|49333|/LitecoinCore:0.18.1/|16509|18.220.0.0/14|US|arin|2019-10-07|AMAZON-02, US
 180.150.26.159|9333|/FutureBit-ApolloCore:0.17.1/|4764|180.150.26.0/23|AU|apnic|2009-09-01|WIDEBAND-AS-AP Aussie Broadband, AU
@@ -502,7 +503,6 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 2620:a6:2000:1::d:7f03|9333|/LitecoinCore:0.21.2/|27566|2620:a6:2000::/48|US|arin|2022-01-19|EQUINIX-EC-NY, US
 2804:14c:dc81:552c::1000|37371|/B2CCoinCore:0.16.3/|28573|2804:14c:dc00::/40|BR|lacnic|2012-02-10|Claro NXT Telecomunicacoes Ltda, BR
 2804:14d:4c89:8dd6:11f3:ed4f:8c84:fa2|37371|/B2CCoinCore:0.16.3/|28573|2804:14d:4c89::/48|BR|lacnic|2012-02-10|Claro NXT Telecomunicacoes Ltda, BR
-2804:14d:4cdc:9b71::1001|37371|/B2CCoinCore:0.16.3/|28573|2804:14d:4cdc::/48|BR|lacnic|2012-02-10|Claro NXT Telecomunicacoes Ltda, BR
 2804:14d:7e88:ad6c:7dbc:6f4b:137c:4ca1|37371|/B2CCoinCore:0.16.3/|28573|2804:14d:7e88::/48|BR|lacnic|2012-02-10|Claro NXT Telecomunicacoes Ltda, BR
 2804:2140:1020:11fc:2e0:4cff:fe1e:5283|9333|/LitecoinCore:0.18.1/|53059|2804:2140:1020::/46|BR|lacnic|2014-12-23|Center Prestadora Servicos SC Ltda, BR
 2804:30c:1611:d100:68f7:73e1:f4c5:fbee|37371|/B2CCoinCore:0.16.3/|28343|2804:30c:1600::/40|BR|lacnic|2010-12-14|Unifique Telecomunicacoes SA, BR
@@ -761,7 +761,6 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 47.254.153.154|9333|/LitecoinCore:0.21.2/|45102|47.254.128.0/19|US|arin|2016-04-15|ALIBABA-CN-NET Alibaba US Technology Co., Ltd., CN
 47.254.170.243|9333|/LitecoinCore:0.21.2/|45102|47.254.160.0/19|US|arin|2016-04-15|ALIBABA-CN-NET Alibaba US Technology Co., Ltd., CN
 47.254.174.224|9333|/LitecoinCore:0.21.2/|45102|47.254.160.0/19|US|arin|2016-04-15|ALIBABA-CN-NET Alibaba US Technology Co., Ltd., CN
-47.89.184.52|9333|/LitecoinCore:0.21.2/|45102|47.89.160.0/19|US|arin|2015-05-18|ALIBABA-CN-NET Alibaba US Technology Co., Ltd., CN
 47.90.137.121|9333|/LitecoinCore:0.21.2/|45102|47.90.128.0/18|US|arin|2015-05-18|ALIBABA-CN-NET Alibaba US Technology Co., Ltd., CN
 47.90.247.85|9333|/LitecoinCore:0.21.2/|45102|47.90.192.0/18|US|arin|2015-05-18|ALIBABA-CN-NET Alibaba US Technology Co., Ltd., CN
 47.91.158.151|9333|/LitecoinCore:0.18.1/|45102|47.91.128.0/18|US|arin|2015-05-18|ALIBABA-CN-NET Alibaba US Technology Co., Ltd., CN
@@ -1063,6 +1062,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 95.111.249.149|9333|/LitecoinCore:0.21.2.1/|51167|95.111.248.0/23|DE|ripencc|2008-12-30|CONTABO, DE
 95.111.249.159|9333|/LitecoinCore:0.21.2.1/|51167|95.111.248.0/23|DE|ripencc|2008-12-30|CONTABO, DE
 95.143.184.207|3042|/LitecoinCore:0.21.2/|49505|95.143.184.0/22|RU|ripencc|2009-09-04|SELECTEL, RU
+95.154.90.99|9333|/LitecoinCore:0.18.1/|44724|95.154.90.0/24|RU|ripencc|2009-02-24|OCTOPUSNET-AS, RU
 95.165.10.249|9333|/LitecoinCore:0.21.2.1/|25513|95.165.0.0/16|RU|ripencc|2009-01-27|ASN-MGTS-USPD, RU
 95.165.139.210|9333|/LitecoinCore:0.18.1/|25513|95.165.0.0/16|RU|ripencc|2009-01-27|ASN-MGTS-USPD, RU
 95.169.182.28|9333|/LitecoinCore:0.17.1/|31103|95.169.176.0/21|DE|ripencc|2009-01-29|KEYWEB-AS, DE
