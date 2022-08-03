@@ -11,14 +11,14 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 13.209.60.161|/oktoshi:6.9.0.5/|60023||||||
 136.143.149.184|/oktoshi:6.9.0.5/|60023|13370|136.143.144.0/20|US|arin|2018-08-22|NWI, US
 137.186.12.70|/oktoshi:6.9.0.5/|60023|852|137.186.0.0/19|CA|arin|1989-12-12|TELUS Communications, CA
-139.28.219.37|/oktoshi:6.9.0.7/|70023|9009|139.28.219.0/24|RO|ripencc|2019-01-04|M247, GB
-141.134.67.144|/oktoshi:6.9.0.7/|70023|6848|141.134.0.0/15|BE|ripencc|2011-06-20|TELENET-AS, BE
-142.47.99.233|/oktoshi:6.9.0.7/|70023|31798|142.47.99.0/24|CA|arin|1990-03-26|DATACITY, CA
+139.28.219.37|/oktoshi:6.9.0.7/|70023||||||
+141.134.67.144|/oktoshi:6.9.0.7/|70023||||||
+142.47.99.233|/oktoshi:6.9.0.7/|70023||||||
 143.59.92.50|/oktoshi:6.9.0.6/|60023||||||
 146.212.120.52|/oktoshi:6.9.0.5/|60023|21283|146.212.0.0/16|SI|ripencc|2011-07-13|A1SI-AS A1 Slovenija, SI
 148.59.149.52|/oktoshi:6.9.0.3/|60023||||||
 154.16.192.128|/oktoshi:6.9.0.5/|60023|174|154.16.192.0/24|ZA|afrinic|2014-06-20|COGENT-174, US
-159.196.219.68|/oktoshi:6.9.0.7/|70023||||||
+159.196.219.68|/oktoshi:6.9.0.7/|70023|4764|159.196.216.0/22|AU|apnic|1992-05-26|WIDEBAND-AS-AP Aussie Broadband, AU
 159.48.53.247|/oktoshi:6.9.0.5/|60023|62240|159.48.53.0/24|DE|ripencc|1992-03-06|CLOUVIDER Clouvider - Global ASN, GB
 161.81.34.41|/oktoshi:6.9.0.7/|70023||||||
 162.252.240.242|/oktoshi:6.9.0.7/|70023||||||
@@ -44,7 +44,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 34.126.107.138|/oktoshi:6.9.0.5/|60023|396982|34.126.96.0/20|US|arin|2018-09-28|GOOGLE-CLOUD-PLATFORM, US
 34.80.252.109|/oktoshi:6.9.0.5/|60023|396982|34.80.240.0/20|US|arin|2018-09-28|GOOGLE-CLOUD-PLATFORM, US
 34.81.157.246|/oktoshi:6.9.0.5/|60023|396982|34.81.144.0/20|US|arin|2018-09-28|GOOGLE-CLOUD-PLATFORM, US
-35.136.195.181|/oktoshi:6.9.0.7/|70023|33363|35.136.0.0/13|US|arin|2017-06-30|BHN-33363, US
+35.136.195.181|/oktoshi:6.9.0.7/|70023||||||
 45.62.230.120|/oktoshi:6.9.0.7/|70023||||||
 45.62.250.235|/oktoshi:6.9.0.7/|70023||||||
 45.62.251.200|/oktoshi:6.9.0.7/|70023||||||
@@ -53,6 +53,8 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 5.248.107.131|/oktoshi:6.9.0.5/|60023|15895|5.248.0.0/16|UA|ripencc|2012-09-12|KSNET-AS, UA
 50.69.16.247|/oktoshi:6.9.0.7/|70023||||||
 72.85.41.23|/oktoshi:6.9.0.7/|70023||||||
+75.161.128.182|/oktoshi:6.9.0.5/|60023|209|75.161.0.0/16|US|arin|2006-10-24|CENTURYLINK-US-LEGACY-QWEST, US
+75.161.52.61|/oktoshi:6.9.0.5/|60023|209|75.161.0.0/16|US|arin|2006-10-24|CENTURYLINK-US-LEGACY-QWEST, US
 77.168.182.231|/oktoshi:6.9.0.7/|70023||||||
 77.185.97.245|/oktoshi:6.9.0.7/|70023||||||
 77.190.54.184|/oktoshi:6.9.0.7/|70023||||||
@@ -68,7 +70,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 87.0.37.55|/oktoshi:6.9.0.7/|70023||||||
 87.125.157.220|/oktoshi:6.9.0.6/|60023||||||
 88.212.55.252|/oktoshi:6.9.0.7/|70023||||||
-91.139.203.62|/oktoshi:6.9.0.5/|60023|43205|91.139.128.0/17|BG|ripencc|2006-10-18|BULSATCOM-BG-AS Sofia, BG
+91.139.203.62|/oktoshi:6.9.0.5/|60023||||||
 95.217.73.169|/oktoshi:6.9.0.6/|60023||||||
-97.123.118.152|/oktoshi:6.9.0.5/|60023|209|97.123.0.0/16|US|arin|2007-12-19|CENTURYLINK-US-LEGACY-QWEST, US
+97.123.118.152|/oktoshi:6.9.0.5/|60023||||||
 98.250.175.53|/oktoshi:6.9.0.5/|60023||||||

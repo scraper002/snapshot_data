@@ -50,7 +50,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 188.22.204.164|/Satoshi:0.20.2/Peercoin:0.11.7/|70016||||||
 188.243.182.166|/Satoshi:0.20.2/Peercoin:0.11.7/|70016||||||
 188.31.149.221|/Satoshi:0.20.2/Peercoin:0.11.0/|70016||||||
-195.138.71.80|/Satoshi:0.20.2/Peercoin:0.11.7/|70016||||||
 195.201.207.43|/Satoshi:0.20.2/Peercoin:0.11.8/|70016||||||
 195.50.206.74|/Satoshi:0.20.2/Peercoin:0.11.0/|70016||||||
 199.102.155.227|/Satoshi:0.20.2/Peercoin:0.11.1/|70016||||||
@@ -94,6 +93,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 51.91.70.29|/Satoshi:0.20.2/Peercoin:0.11.8/|70016||||||
 54.38.107.228|/Satoshi:0.20.2/Peercoin:0.11.4/|70016||||||
 58.153.75.8|/Satoshi:0.20.2/Peercoin:0.11.8/|70016||||||
+62.112.9.165|/Satoshi:0.20.2/Peercoin:0.11.8/|70016||||||
 62.112.9.237|/Satoshi:0.20.2/Peercoin:0.11.8/|70016||||||
 62.143.247.196|/Satoshi:0.20.2/Peercoin:0.11.7/|70016||||||
 66.70.182.1|/Satoshi:0.20.2/Peercoin:0.11.4/|70016||||||
@@ -114,7 +114,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 78.99.35.20|/Satoshi:0.20.2/Peercoin:0.11.4/|70016||||||
 79.135.192.31|/Satoshi:0.20.2/Peercoin:0.11.7/|70016||||||
 79.137.67.138|/Satoshi:0.20.2/Peercoin:0.11.8/|70016||||||
-83.235.109.88|/Satoshi:0.20.2/Peercoin:0.11.8/|70016|6799|83.235.0.0/16|GR|ripencc|2004-02-10|OTENET-GR Athens - Greece, GR
+83.235.109.88|/Satoshi:0.20.2/Peercoin:0.11.8/|70016||||||
 83.4.131.122|/Satoshi:0.20.2/Peercoin:0.11.0/|70016||||||
 84.151.55.18|/Satoshi:0.20.2/Peercoin:0.11.8/|70016||||||
 84.61.255.40|/Satoshi:0.20.2/Peercoin:0.11.8/|70016||||||
