@@ -45,6 +45,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 179.48.248.28|/Phore Core:1.7.1/|70009||||||
 185.13.113.250|/Phore Core:1.8.0/|70009||||||
 185.137.181.8|/Phore Core:1.8.0/|70009||||||
+185.137.181.9|/Phore Core:1.8.0/|70009||||||
 185.203.116.86|/Phore Core:1.7.0/|70008||||||
 185.203.117.34|/Phore Core:1.7.0/|70008||||||
 185.203.117.43|/Phore Core:1.7.0/|70008||||||
@@ -114,10 +115,10 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 85.187.182.189|/Phore Core:1.8.0/|70009||||||
 86.1.113.199|/Phore Core:1.7.0/|70008||||||
 86.95.107.144|/Phore Core:1.7.1/|70009||||||
-86.98.181.104|/Phore Core:1.7.1/|70009|5384|86.98.128.0/18|AE|ripencc|2005-04-20|EMIRATES-INTERNET Emirates Internet, AE
+86.98.181.104|/Phore Core:1.7.1/|70009||||||
 89.0.168.234|/Phore Core:1.7.1/|70009||||||
 89.101.225.26|/Phore Core:1.7.1/|70009||||||
-89.151.220.172|/Phore Core:1.8.0/|70009||||||
+89.151.220.172|/Phore Core:1.8.0/|70009|34087|89.151.192.0/19|NO|ripencc|2006-04-28|NTE-BREDBAND NIX 1, Oslo, Norway, NO
 89.247.167.182|/Phore Core:1.7.0/|70008||||||
 89.247.167.188|/Phore Core:1.7.0/|70008||||||
 92.204.53.227|/Phore Core:1.7.0/|70008||||||

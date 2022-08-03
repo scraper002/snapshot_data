@@ -2,12 +2,12 @@
 # Feathercoin
 IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 1.13.171.254|/Feathercoin:0.19.1/|70016||||||
-104.238.221.41|Feathercoin:0.19.1|70016||||||
+104.238.221.41|Feathercoin:0.19.1|70016|23470|104.238.221.0/24|US|arin|2018-04-13|RELIABLESITE, US
 115.64.153.192|/Feathercoin:0.19.1/|70016||||||
 13.209.60.161|/Feathercoin:0.19.1/|70016||||||
 136.32.139.25|/Feathercoin:0.19.1/|70016||||||
 139.162.205.147|/Feathercoin:0.19.1/|70016||||||
-139.162.216.67|/feathercoin-seeder:0.03/|70015|63949|139.162.192.0/19|NL|ripencc|1990-03-24|LINODE-AP Linode, LLC, US
+139.162.216.67|/feathercoin-seeder:0.03/|70015||||||
 139.162.246.207|/Feathercoin:0.19.1/|70016||||||
 139.59.154.236|/Feathercoin:0.19.1/|70016||||||
 143.110.159.82|/Feathercoin:0.19.1/|70016||||||
@@ -22,7 +22,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 175.27.231.253|/Feathercoin:0.19.1/|70016||||||
 176.9.50.227|/Feathercoin:0.17.0/|70016||||||
 178.18.247.153|/Feathercoin:0.19.1/|70016||||||
-178.62.114.74|Feathercoin:0.19.1|70016||||||
+178.62.114.74|Feathercoin:0.19.1|70016|14061|178.62.64.0/18|US|ripencc|2010-02-26|DIGITALOCEAN-ASN, US
 185.212.47.106|/Feathercoin:0.19.1/|70016||||||
 185.220.101.163|/Feathercoin:0.19.1/|70016||||||
 188.126.9.83|/Feathercoin:0.19.1/|70016||||||
@@ -31,8 +31,8 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 194.124.156.44|/Feathercoin:0.19.1/|70016||||||
 195.201.160.242|/Feathercoin:0.19.1/|70016||||||
 198.100.149.160|/Feathercoin:0.19.1/|70016||||||
-199.127.62.235|Feathercoin:0.19.1|70016||||||
-206.189.131.144|Feathercoin:0.19.1|70016||||||
+199.127.62.235|Feathercoin:0.19.1|70016|23470|199.127.62.0/24|US|arin|2017-05-24|RELIABLESITE, US
+206.189.131.144|Feathercoin:0.19.1|70016|14061|206.189.128.0/20|US|arin|1995-11-15|DIGITALOCEAN-ASN, US
 217.155.198.217|/Feathercoin:0.13.0/|70015||||||
 217.240.193.12|/Feathercoin:0.18.3/|70016||||||
 23.227.150.229|/Feathercoin:0.18.2/|70016||||||
@@ -40,7 +40,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 43.227.255.125|/Feathercoin:0.18.2/|70016||||||
 45.126.209.106|Feathercoin:0.19.1|70016||||||
 46.101.143.71|/Feathercoin:0.13.3/|70015||||||
-5.188.173.19|/Feathercoin:0.19.1/|70016||||||
+5.188.173.19|/Feathercoin:0.19.1/|70016|56630|5.188.173.0/24|LT|ripencc|2012-08-09|MELBICOM-EU-AS Melbikomas UAB, LT
 51.195.31.241|/Feathercoin:0.16.3/|70015||||||
 51.210.32.161|/Feathercoin:0.19.1/|70016||||||
 62.12.153.168|/Feathercoin:0.19.1/|70016||||||
