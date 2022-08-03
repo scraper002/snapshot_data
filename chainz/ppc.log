@@ -4,6 +4,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 101.177.207.134|/Satoshi:0.20.2/Peercoin:0.11.8/|70016||||||
 104.238.221.41|Satoshi:0.20.2/Peercoin:0.11.4|70016||||||
 107.185.174.246|/Satoshi:0.20.2/Peercoin:0.11.0/|70016||||||
+109.60.60.32|/Satoshi:0.20.2/Peercoin:0.11.8/|70016||||||
 109.60.63.48|/Satoshi:0.20.2/Peercoin:0.11.8/|70016||||||
 109.80.194.146|/Satoshi:0.20.2/Peercoin:0.11.8/|70016||||||
 111.85.66.227|/Satoshi:0.20.2/Peercoin:0.11.0/|70016||||||
@@ -38,8 +39,8 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 162.55.92.62|/Satoshi:0.20.2/Peercoin:0.11.4/|70016||||||
 163.172.194.148|/Satoshi:0.20.2/Peercoin:0.11.2/|70016||||||
 167.172.215.202|/Satoshi:0.20.2/Peercoin:0.11.1/|70016||||||
-167.86.116.187|/Satoshi:0.20.2/Peercoin:0.11.8/|70016|51167|167.86.116.0/23|DE|ripencc|1993-05-14|CONTABO, DE
-173.212.202.33|/Satoshi:0.20.2/Peercoin:0.11.0/|70016|51167|173.212.192.0/19|DE|ripencc|2009-10-26|CONTABO, DE
+167.86.116.187|/Satoshi:0.20.2/Peercoin:0.11.8/|70016||||||
+173.212.202.33|/Satoshi:0.20.2/Peercoin:0.11.0/|70016||||||
 176.101.2.205|/Satoshi:0.20.2/Peercoin:0.11.4/|70016||||||
 180.74.65.210|/Satoshi:0.20.2/Peercoin:0.11.1/|70016||||||
 184.181.35.187|/Satoshi:0.20.2/Peercoin:0.11.8/|70016||||||
@@ -50,7 +51,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 188.243.182.166|/Satoshi:0.20.2/Peercoin:0.11.7/|70016||||||
 188.31.149.221|/Satoshi:0.20.2/Peercoin:0.11.0/|70016||||||
 195.138.71.80|/Satoshi:0.20.2/Peercoin:0.11.7/|70016||||||
-195.201.207.43|/Satoshi:0.20.2/Peercoin:0.11.8/|70016|24940|195.201.0.0/16|DE|ripencc|1997-09-22|HETZNER-AS, DE
+195.201.207.43|/Satoshi:0.20.2/Peercoin:0.11.8/|70016||||||
 195.50.206.74|/Satoshi:0.20.2/Peercoin:0.11.0/|70016||||||
 199.102.155.227|/Satoshi:0.20.2/Peercoin:0.11.1/|70016||||||
 199.127.62.235|Satoshi:0.20.2/Peercoin:0.11.4|70016||||||
@@ -67,16 +68,14 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 219.90.162.108|/Satoshi:0.20.2/Peercoin:0.11.7/|70016||||||
 219.90.167.62|/Satoshi:0.20.2/Peercoin:0.11.7/|70016||||||
 23.128.248.11|/Satoshi:0.20.2/Peercoin:0.11.8/|70016||||||
-23.227.150.249|/Satoshi:0.20.2/Peercoin:0.11.2/|70016||||||
 23.82.193.132|/Satoshi:0.20.2/Peercoin:0.11.8/|70016||||||
 24.229.236.161|/Satoshi:0.20.2/Peercoin:0.11.0/|70016||||||
 24.57.240.58|/Satoshi:0.20.2/Peercoin:0.11.1/|70016||||||
 31.187.126.48|/Satoshi:0.20.2/Peercoin:0.11.0/|70016||||||
 31.43.107.75|/Satoshi:0.20.2/Peercoin:0.11.4/|70016||||||
-34.242.205.169|/Satoshi:0.20.2/Peercoin:0.11.8/|70016|16509|34.240.0.0/13|US|arin|2016-09-12|AMAZON-02, US
+34.242.205.169|/Satoshi:0.20.2/Peercoin:0.11.8/|70016||||||
 35.74.191.217|/Satoshi:0.20.2/Peercoin:0.11.1/|70016||||||
 37.164.54.32|/Satoshi:0.20.2/Peercoin:0.11.4/|70016||||||
-37.166.225.198|/Satoshi:0.20.2/Peercoin:0.11.4/|70016||||||
 42.48.236.2|/Satoshi:0.20.2/Peercoin:0.11.1/|70016||||||
 45.126.209.106|Satoshi:0.20.2/Peercoin:0.11.4|70016||||||
 45.23.106.42|/Satoshi:0.20.2/Peercoin:0.11.4/|70016||||||
@@ -89,10 +88,9 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 50.101.169.109|/Satoshi:0.20.2/Peercoin:0.11.8/|70016||||||
 50.99.20.71|/Satoshi:0.20.2/Peercoin:0.11.4/|70016||||||
 51.159.2.44|/Satoshi:0.20.2/Peercoin:0.11.0/|70016||||||
-51.178.76.85|/Satoshi:0.20.2/Peercoin:0.11.8/|70016|16276|51.178.0.0/16|FR|ripencc|1993-09-01|OVH, FR
+51.178.76.85|/Satoshi:0.20.2/Peercoin:0.11.8/|70016||||||
 51.210.208.202|/Satoshi:0.20.2/Peercoin:0.11.8/|70016||||||
 51.210.216.77|/Satoshi:0.20.2/Peercoin:0.11.8/|70016||||||
-51.9.56.117|/Satoshi:0.20.2/Peercoin:0.11.7/|70016||||||
 51.91.70.29|/Satoshi:0.20.2/Peercoin:0.11.8/|70016||||||
 54.38.107.228|/Satoshi:0.20.2/Peercoin:0.11.4/|70016||||||
 58.153.75.8|/Satoshi:0.20.2/Peercoin:0.11.8/|70016||||||
@@ -116,7 +114,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 78.99.35.20|/Satoshi:0.20.2/Peercoin:0.11.4/|70016||||||
 79.135.192.31|/Satoshi:0.20.2/Peercoin:0.11.7/|70016||||||
 79.137.67.138|/Satoshi:0.20.2/Peercoin:0.11.8/|70016||||||
-83.235.109.88|/Satoshi:0.20.2/Peercoin:0.11.8/|70016||||||
+83.235.109.88|/Satoshi:0.20.2/Peercoin:0.11.8/|70016|6799|83.235.0.0/16|GR|ripencc|2004-02-10|OTENET-GR Athens - Greece, GR
 83.4.131.122|/Satoshi:0.20.2/Peercoin:0.11.0/|70016||||||
 84.151.55.18|/Satoshi:0.20.2/Peercoin:0.11.8/|70016||||||
 84.61.255.40|/Satoshi:0.20.2/Peercoin:0.11.8/|70016||||||
