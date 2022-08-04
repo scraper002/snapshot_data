@@ -6,7 +6,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 13.209.60.161|/MonetaryUnit Core:2.3.0/|70706||||||
 135.181.164.190|/MonetaryUnit Core:2.3.0/|70706||||||
 144.91.116.146|/MonetaryUnit Core:2.3.0/|70706||||||
-159.196.13.47|/MonetaryUnit Core:2.3.0/|70706|4764|159.196.12.0/22|AU|apnic|1992-05-26|WIDEBAND-AS-AP Aussie Broadband, AU
+159.196.13.47|/MonetaryUnit Core:2.3.0/|70706||||||
 161.81.34.41|/MonetaryUnit Core:2.3.0/|70706||||||
 167.86.127.48|/MonetaryUnit Core:2.3.0/|70706||||||
 173.212.223.117|/MonetaryUnit Core:2.3.0/|70706||||||
@@ -15,7 +15,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 178.83.130.73|/MonetaryUnit Core:2.3.0/|70706||||||
 185.242.112.23|/MonetaryUnit Core:2.3.0/|70706||||||
 185.242.112.9|/MonetaryUnit Core:2.3.0/|70706||||||
-193.2.36.36|/MonetaryUnit Core:2.3.0/|70706|2107|193.2.0.0/16|SI|ripencc|1993-09-01|ARNES-NET Academic and Research Network of Slovenia, SI
+193.2.36.36|/MonetaryUnit Core:2.3.0/|70706||||||
 194.163.143.68|/MonetaryUnit Core:2.3.0/|70706||||||
 194.163.189.109|/MonetaryUnit Core:2.3.0/|70706||||||
 194.5.152.211|/MonetaryUnit Core:2.3.0/|70706||||||
@@ -39,7 +39,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 71.190.78.98|/MonetaryUnit Core:2.3.0/|70706||||||
 73.84.111.198|/MonetaryUnit Core:2.3.0/|70706||||||
 75.119.155.29|/MonetaryUnit Core:2.3.0/|70706||||||
-78.26.178.235|/MonetaryUnit Core:2.3.0/|70706||||||
+78.26.178.235|/MonetaryUnit Core:2.3.0/|70706|34187|78.26.128.0/18|UA|ripencc|2007-08-29|RENOME-AS, UA
 78.47.70.253|/MonetaryUnit Core:2.3.0/|70706||||||
 83.215.142.159|/MonetaryUnit Core:2.3.0/|70706||||||
 83.68.128.148|/MonetaryUnit Core:2.3.0/|70706||||||

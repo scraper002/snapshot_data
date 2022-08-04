@@ -23,6 +23,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 156.146.55.164|/Blocknet:4.3.3/|70713||||||
 157.100.171.240|/Blocknet:4.3.3/|70713||||||
 157.143.1.186|/Blocknet:4.3.3/|70713||||||
+157.143.15.208|/Blocknet:4.3.3/|70713||||||
 159.180.30.110|/Blocknet:4.3.3/|70713||||||
 173.249.39.140|/Blocknet:4.3.1/|70713||||||
 173.249.9.77|/Blocknet:4.3.3/|70713||||||
@@ -30,8 +31,8 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 174.56.32.25|/Blocknet:4.3.3/|70713||||||
 175.45.149.14|/Blocknet:4.3.3/|70713||||||
 175.45.149.3|/Blocknet:4.3.3/|70713||||||
-176.223.141.232|/Blocknet:4.3.2/|70713|212531|176.223.128.0/20|LT|ripencc|2011-11-29|INTERNETO-VIZIJA, LT
-176.9.8.76|/Blocknet:4.3.2/|70713|24940|176.9.0.0/16|DE|ripencc|2011-05-17|HETZNER-AS, DE
+176.223.141.232|/Blocknet:4.3.2/|70713||||||
+176.9.8.76|/Blocknet:4.3.2/|70713||||||
 178.164.146.236|/Blocknet:4.3.2/|70713||||||
 178.191.141.125|/Blocknet:4.3.3/|70713||||||
 178.21.55.135|/Blocknet:4.3.3/|70713||||||
@@ -39,9 +40,9 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 178.27.192.10|/Blocknet:4.3.3/|70713||||||
 178.62.114.74|Blocknet:4.3.3|70713||||||
 181.58.38.229|/Blocknet:4.3.3/|70713||||||
-182.253.132.170|/Blocknet:4.3.0/|70713|17451|182.253.132.0/24|ID|apnic|2010-05-10|BIZNET-AS-AP BIZNET NETWORKS, ID
+182.253.132.170|/Blocknet:4.3.0/|70713||||||
 184.75.223.227|/Blocknet:4.3.3/|70713||||||
-185.129.62.62|/Blocknet:4.3.3/|70713||||||
+185.129.62.62|/Blocknet:4.3.3/|70713|57860|185.129.62.0/23|DK|ripencc|2015-11-30|ZENCURITY-NET, DK
 185.220.100.248|/Blocknet:4.3.3/|70713||||||
 185.231.155.27|/Blocknet:4.3.3/|70713||||||
 188.116.92.184|/Blocknet:4.3.3/|70713||||||
@@ -66,12 +67,12 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 24.134.209.169|/Blocknet:4.3.3/|70713||||||
 37.19.197.172|/Blocknet:4.3.3/|70713||||||
 43.227.255.122|/Blocknet:4.3.1/|70713||||||
-45.126.209.106|Blocknet:4.3.3|70713|23470|45.126.209.0/24|SG|apnic|2015-09-08|RELIABLESITE, US
+45.126.209.106|Blocknet:4.3.3|70713||||||
 45.88.191.9|/Blocknet:4.3.3/|70713||||||
 46.39.20.182|/Blocknet:4.3.3/|70713||||||
 46.59.40.91|/Blocknet:4.3.3/|70713||||||
 47.32.64.231|/Blocknet:4.3.2/|70713||||||
-47.6.24.68|/Blocknet:4.3.3/|70713||||||
+47.6.24.68|/Blocknet:4.3.3/|70713|20115|47.6.0.0/18|US|arin|2017-11-27|CHARTER-20115, US
 5.12.25.212|/Blocknet:4.3.3/|70713||||||
 5.189.139.168|/Blocknet:4.3.1/|70713||||||
 50.38.58.170|/Blocknet:4.3.3/|70713||||||
@@ -102,7 +103,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 81.196.253.7|/Blocknet:4.3.2/|70713||||||
 82.208.177.249|/Blocknet:4.3.2/|70713||||||
 82.31.75.185|/Blocknet:4.3.3/|70713||||||
-82.76.88.91|/Blocknet:4.3.3/|70713||||||
+82.76.88.91|/Blocknet:4.3.3/|70713|8708|82.76.0.0/14|RO|ripencc|2003-07-14|RCS-RDS 73-75 Dr. Staicovici, RO
 83.135.243.74|/Blocknet:4.3.2/|70713||||||
 83.135.243.82|/Blocknet:4.3.2/|70713||||||
 83.99.245.20|/Blocknet:4.3.1/|70713||||||
@@ -128,4 +129,3 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 95.97.98.9|/Blocknet:4.3.1/|70713||||||
 98.215.160.113|/Blocknet:4.3.2/|70713||||||
 98.97.32.226|/Blocknet:4.3.3/|70713||||||
-98.97.34.127|/Blocknet:4.3.3/|70713||||||

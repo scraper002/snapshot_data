@@ -25,7 +25,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 141.226.12.119|/Blackcoin More:2.13.2.9/|70013||||||
 141.226.182.62|/Blackcoin More:2.13.2.7/|70013||||||
 143.198.121.253|Blackcoin More:2.13.2.8|70713||||||
-15.165.142.140|/Blackcoin More:2.13.2.9/|70013|16509|15.164.0.0/15|US|arin|2018-09-27|AMAZON-02, US
+15.165.142.140|/Blackcoin More:2.13.2.9/|70013||||||
 157.90.223.151|/Blackcoin More:2.13.2.9/|70013||||||
 161.81.34.41|/Blackcoin More:2.13.2.9/|70013||||||
 161.97.80.103|/Blackcoin More:13.2.0/|70015||||||
@@ -55,7 +55,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 185.125.207.188|/Blackcoin More:2.13.2.9/|70013||||||
 185.125.207.239|/Blackcoin More:2.13.2.9/|70013||||||
 185.125.207.254|/Blackcoin More:2.13.2.9/|70013||||||
-185.134.22.116|/Blackcoin More:2.13.2.9/|70013||||||
 185.134.22.233|/Blackcoin More:2.13.2.9/|70013||||||
 185.134.22.254|/Blackcoin More:2.13.2.9/|70013||||||
 185.134.22.60|/Blackcoin More:2.13.2.9/|70013||||||
@@ -103,7 +102,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 42.48.236.2|/Blackcoin More:2.13.2.9/|70013||||||
 43.225.189.48|/Blackcoin More:2.13.2.7/|70013||||||
 43.227.255.124|/Blackcoin More:2.13.2.8/|70013||||||
-45.126.209.106|Blackcoin More:2.13.2.8|70713|23470|45.126.209.0/24|SG|apnic|2015-09-08|RELIABLESITE, US
+45.126.209.106|Blackcoin More:2.13.2.8|70713||||||
 45.134.140.10|/Blackcoin More:2.13.2.9/|70013||||||
 45.134.140.3|/Blackcoin More:2.13.2.9/|70013||||||
 45.134.140.5|/Blackcoin More:2.13.2.9/|70013||||||
@@ -130,7 +129,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 76.171.209.195|/Blackcoin More:2.13.2.9/|70013||||||
 77.251.84.75|/Blackcoin More:2.13.2.8/|70013||||||
 80.109.142.124|/Blackcoin More:2.13.2.9/|70013||||||
-80.131.226.121|/Blackcoin More:2.13.2.9/|70013||||||
 80.60.14.196|/Blackcoin More:2.13.2.8/|70013||||||
 81.19.214.31|/Blackcoin More:2.13.2.9/|70013||||||
 81.19.214.39|/Blackcoin More:2.13.2.9/|70013||||||
@@ -142,10 +140,9 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 84.2.34.93|/Blackcoin More:2.13.2.8/|70013||||||
 84.249.4.71|/Blackcoin More:2.13.2.9/|70013||||||
 86.106.157.211|/Blackcoin More:2.13.2.9/|70013||||||
-86.106.157.247|/Blackcoin More:2.13.2.9/|70013||||||
-86.11.194.146|/Blackcoin More:2.13.2.9/|70013||||||
-86.129.79.136|/Blackcoin More:2.13.2.8/|70013|2856|86.128.0.0/12|GB|ripencc|2005-02-07|BT-UK-AS BTnet UK Regional network, GB
-88.198.238.126|/Blackcoin More:2.13.2.8/|70013|24940|88.198.0.0/16|DE|ripencc|2005-12-27|HETZNER-AS, DE
+86.11.194.146|/Blackcoin More:2.13.2.9/|70013|5089|86.11.0.0/16|GB|ripencc|2005-03-29|NTL, GB
+86.129.79.136|/Blackcoin More:2.13.2.8/|70013||||||
+88.198.238.126|/Blackcoin More:2.13.2.8/|70013||||||
 89.221.13.194|/Blackcoin More:2.13.2.7/|70013||||||
 89.34.96.183|/Blackcoin More:2.13.2.9/|70013||||||
 89.34.96.87|/Blackcoin More:2.13.2.9/|70013||||||
@@ -154,8 +151,8 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 89.35.29.65|/Blackcoin More:2.13.2.9/|70013||||||
 91.60.107.70|/Blackcoin More:2.13.2.8/|70013||||||
 92.119.16.73|/Blackcoin More:2.13.2.9/|70013||||||
-92.119.19.57|/Blackcoin More:2.13.2.9/|70013||||||
-92.194.20.112|/Blackcoin More:2.13.2.9/|70013||||||
+92.119.19.57|/Blackcoin More:2.13.2.9/|70013|62240|92.119.16.0/22|GB|ripencc|2019-03-08|CLOUVIDER Clouvider - Global ASN, GB
+92.194.20.112|/Blackcoin More:2.13.2.9/|70013|20676|92.192.0.0/13|DE|ripencc|2007-10-17|PLUSNET *****************, DE
 92.216.113.72|/Blackcoin More:2.13.2.7/|70013||||||
 92.60.44.21|/Blackcoin More:2.13.2.9/|70013||||||
 94.130.176.201|/Blackcoin More:2.13.2.9/|70013||||||
