@@ -5,11 +5,12 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 102.89.33.249|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000||||||
 102.89.34.192|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000||||||
 102.89.39.88|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000||||||
-103.105.32.72|/goldcoinj:0.14.8/Goldcoin Wallet:6.33.2/|70000||||||
+103.105.32.72|/goldcoinj:0.14.8/Goldcoin Wallet:6.33.2/|70000|45727|103.105.32.0/24|ID|apnic|2017-12-04|THREE-AS-ID Hutchison CP Telecommunications, PT, ID
 103.108.22.13|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000||||||
 103.108.30.93|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000||||||
 103.108.31.111|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000||||||
 103.133.56.221|/GoldcoinCore:0.14.8/|70015||||||
+103.136.58.78|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000||||||
 103.141.109.217|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000||||||
 103.144.90.6|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000||||||
 103.153.34.10|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000||||||
@@ -27,49 +28,50 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 114.125.13.188|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000||||||
 114.125.200.154|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000||||||
 114.125.70.80|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.1/|70000||||||
-114.4.216.104|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.0/|70000||||||
 114.4.83.76|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000||||||
 114.5.109.24|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000||||||
+114.5.217.8|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000||||||
 114.5.245.215|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000||||||
 114.5.245.232|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000||||||
 114.5.248.162|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000||||||
 114.79.54.101|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000||||||
 114.79.7.253|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000||||||
-116.203.37.96|/GoldcoinCore:0.14.8/|70015||||||
+116.203.37.96|/GoldcoinCore:0.14.8/|70015|24940|116.203.0.0/16|DE|ripencc|2011-01-17|HETZNER-AS, DE
 116.206.40.65|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000||||||
 116.206.40.8|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000||||||
 120.188.4.44|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000||||||
 120.188.79.222|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000||||||
 120.188.79.99|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000||||||
 120.188.82.178|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000||||||
-120.188.84.18|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.0/|70000||||||
+120.188.84.18|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.0/|70000|4761|120.188.84.0/22|ID|apnic|2008-04-14|INDOSAT-INP-AP INDOSAT Internet Network Provider, ID
 120.188.94.163|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000||||||
-139.180.181.92|/GoldcoinCore:0.14.8/|70015||||||
+139.180.181.92|/GoldcoinCore:0.14.8/|70015|20473|139.180.176.0/21|US|apnic|1993-04-08|AS-CHOOPA, US
 140.213.0.113|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000||||||
 140.213.126.223|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000||||||
-140.213.130.53|/goldcoinj:0.14.8/Goldcoin Wallet:6.33.2/|70000||||||
+140.213.127.168|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000||||||
+140.213.130.53|/goldcoinj:0.14.8/Goldcoin Wallet:6.33.2/|70000|24203|140.213.130.0/24|ID|apnic|2011-03-15|NAPXLNET-AS-ID PT XL Axiata, ID
 140.213.149.60|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000||||||
 140.213.170.29|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000||||||
-142.132.205.123|/GoldcoinCore:0.14.8/|70015||||||
+142.132.205.123|/GoldcoinCore:0.14.8/|70015|24940|142.132.128.0/17|DE|ripencc|1990-03-26|HETZNER-AS, DE
 142.182.87.214|/GoldcoinCore:0.14.5/|70015||||||
 144.91.116.146|/GoldcoinCore:0.14.8/|70015||||||
 144.91.82.187|/GoldcoinCore:0.14.8/|70015||||||
 147.135.97.55|/GoldcoinCore:0.14.8/|70015||||||
 148.252.128.13|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000||||||
 149.56.155.28|/GoldcoinCore:0.14.8/|70015||||||
-161.97.187.4|/GoldcoinCore:0.14.7/|70015||||||
-167.88.117.138|/GoldcoinCore:0.14.8/|70015||||||
-168.235.108.149|/GoldcoinCore:0.14.8/|70015||||||
-172.124.243.95|/GoldcoinCore:0.14.8/|70015||||||
-172.58.155.179|/GoldcoinCore:0.14.8/|70015||||||
-175.158.39.100|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000||||||
+161.97.187.4|/GoldcoinCore:0.14.7/|70015|51167|161.97.184.0/22|DE|ripencc|1992-06-23|CONTABO, DE
+167.88.117.138|/GoldcoinCore:0.14.8/|70015|3842|167.88.116.0/22|US|arin|2014-03-31|RAMNODE, US
+168.235.108.149|/GoldcoinCore:0.14.8/|70015|3842|168.235.108.0/22|US|arin|2014-06-26|RAMNODE, US
+172.124.243.95|/GoldcoinCore:0.14.8/|70015|7018|172.124.0.0/14|US|arin|2015-07-06|ATT-INTERNET4, US
+172.58.155.179|/GoldcoinCore:0.14.8/|70015|21928|172.58.152.0/21|US|arin|2012-09-18|T-MOBILE-AS21928, US
 176.59.45.175|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000||||||
 180.242.212.68|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000||||||
+180.244.128.111|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000||||||
 180.244.131.32|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000||||||
 180.244.167.231|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000||||||
 180.249.184.200|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000||||||
 180.249.2.111|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000||||||
-182.1.107.164|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.0/|70000||||||
+182.1.107.164|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.0/|70000|23693|182.1.96.0/19|ID|apnic|2010-01-29|TELKOMSEL-ASN-ID PT. Telekomunikasi Selular, ID
 182.1.111.123|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000||||||
 182.1.192.147|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000||||||
 182.1.51.56|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000||||||
@@ -83,16 +85,16 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 182.3.39.245|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000||||||
 182.3.5.206|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000||||||
 182.3.71.27|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000||||||
-184.170.241.143|/GoldcoinCore:0.14.8/|70015||||||
+184.170.241.143|/GoldcoinCore:0.14.8/|70015|46562|184.170.241.0/24|US|arin|2011-08-30|PERFORMIVE, US
 185.234.230.196|/GoldcoinCore:0.14.8/|70015||||||
-185.52.0.211|/GoldcoinCore:0.14.8/|70015||||||
-188.25.99.2|/GoldcoinCore:0.14.8/|70015||||||
-188.34.161.186|/GoldcoinCore:0.14.8/|70015||||||
+185.52.0.211|/GoldcoinCore:0.14.8/|70015|198203|185.52.0.0/22|US|ripencc|2014-03-27|ASN-ROUTELABEL, NL
+188.25.99.2|/GoldcoinCore:0.14.8/|70015|8708|188.24.0.0/15|RO|ripencc|2009-02-11|RCS-RDS 73-75 Dr. Staicovici, RO
+188.34.161.186|/GoldcoinCore:0.14.8/|70015|24940|188.34.128.0/17|DE|ripencc|2009-03-19|HETZNER-AS, DE
 192.222.139.154|/GoldcoinCore:0.14.8/|70015||||||
-202.67.36.194|/goldcoinj:0.14.8/Goldcoin Wallet:6.33.2/|70000||||||
+202.67.36.194|/goldcoinj:0.14.8/Goldcoin Wallet:6.33.2/|70000|45727|202.67.36.0/24|ID|apnic|2000-11-20|THREE-AS-ID Hutchison CP Telecommunications, PT, ID
 203.78.117.85|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000||||||
-213.202.253.14|/GoldcoinCore:0.14.7/|70015||||||
-217.155.79.221|/GoldcoinCore:0.14.8/|70015||||||
+213.202.253.14|/GoldcoinCore:0.14.7/|70015|24961|213.202.192.0/18|DE|ripencc|2002-10-21|MYLOC-AS IP Backbone of myLoc managed IT AG, DE
+217.155.79.221|/GoldcoinCore:0.14.8/|70015|13037|217.155.0.0/16|GB|ripencc|2002-07-03|ZEN-AS Zen Internet - UK, GB
 223.255.228.82|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000||||||
 23.227.150.229|/GoldcoinCore:0.14.8/|70015||||||
 31.0.61.16|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000||||||
@@ -103,30 +105,29 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 36.75.67.66|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000||||||
 36.79.202.178|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000||||||
 36.82.254.80|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000||||||
-36.82.5.191|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000||||||
 36.82.98.199|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000||||||
 43.227.255.121|/GoldcoinCore:0.14.4/|70015||||||
 45.153.35.147|/GoldcoinCore:0.14.8/|70015||||||
 5.188.104.245|/GoldcoinCore:0.14.8/|70015||||||
 51.83.186.57|/GoldcoinCore:0.14.8/|70015||||||
-54.190.176.135|/GoldcoinCore:0.14.7/|70015||||||
-64.180.68.103|/GoldcoinCore:0.14.8/|70015||||||
+54.190.176.135|/GoldcoinCore:0.14.7/|70015|16509|54.190.0.0/16|US|arin|2014-10-23|AMAZON-02, US
+64.180.68.103|/GoldcoinCore:0.14.8/|70015|852|64.180.0.0/16|CA|arin|2000-08-04|TELUS Communications, CA
 68.51.186.128|/GoldcoinCore:0.14.5/|70015||||||
 70.91.250.149|/GoldcoinCore:0.14.7/|70015||||||
-71.194.25.181|/GoldcoinCore:0.14.8/|70015||||||
+71.194.25.181|/GoldcoinCore:0.14.8/|70015|7922|71.192.0.0/12|US|arin|2005-07-27|COMCAST-7922, US
 77.246.52.133|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000||||||
 78.188.179.84|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000||||||
 80.65.23.139|/GoldcoinCore:0.14.8/|70015||||||
-81.4.101.247|/GoldcoinCore:0.14.8/|70015||||||
+81.4.101.247|/GoldcoinCore:0.14.8/|70015|198203|81.4.100.0/22|NL|ripencc|2002-05-10|ASN-ROUTELABEL, NL
 82.200.205.30|/GoldcoinCore:0.14.8/|70015||||||
 83.221.211.116|/GoldcoinCore:0.14.8/|70015||||||
 85.19.25.38|/GoldcoinCore:0.14.8/|70015||||||
 85.249.17.64|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000||||||
 86.100.49.209|/GoldcoinCore:0.14.7/|70015||||||
 88.81.51.143|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000||||||
-88.99.68.228|/GoldcoinCore:0.14.8/|70015|24940|88.99.0.0/16|DE|ripencc|2005-08-03|HETZNER-AS, DE
+88.99.68.228|/GoldcoinCore:0.14.8/|70015||||||
 89.40.26.30|/GoldcoinCore:0.14.8/|70015||||||
 89.64.113.23|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000||||||
-91.202.26.23|/GoldcoinCore:0.14.8/|70015||||||
+91.202.26.23|/GoldcoinCore:0.14.8/|70015|43727|91.202.24.0/22|RU|ripencc|2008-01-30|KVANT-TELECOM, RU
 91.204.115.161|/GoldcoinCore:0.14.8/|70015||||||
 95.217.78.80|/GoldcoinCore:0.14.8/|70015||||||

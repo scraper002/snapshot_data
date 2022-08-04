@@ -1,7 +1,8 @@
 # https://chainz.cryptoid.info/ and whois results
 # PIVX
 IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
-108.171.83.0|/PIVX Core:5.4.0/|70924|11290|108.171.64.0/19|CA|arin|2012-02-17|CC-3272, CA
+108.171.83.0|/PIVX Core:5.4.0/|70924||||||
+109.192.45.14|/PIVX Core:5.4.0/|70924||||||
 109.202.196.77|/PIVX Core:5.3.3/|70924||||||
 134.249.171.83|/PIVX Core:5.3.0/|70923||||||
 135.181.164.190|/PIVX Core:5.4.0/|70924||||||
@@ -15,9 +16,9 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 157.100.171.240|/PIVX Core:5.3.3/|70924||||||
 157.245.79.208|/PIVX Core:5.4.0/|70924||||||
 159.65.195.30|/PIVX Core:5.4.0/|70924||||||
-161.35.145.61|/PIVX Core:5.4.0/|70924||||||
-161.97.140.91|/PIVX Core:5.4.0/|70924||||||
-161.97.146.105|/PIVX Core:5.4.0/|70924||||||
+161.35.145.61|/PIVX Core:5.4.0/|70924|14061|161.35.144.0/20|US|arin|2019-07-30|DIGITALOCEAN-ASN, US
+161.97.140.91|/PIVX Core:5.4.0/|70924|51167|161.97.128.0/19|DE|ripencc|1992-06-23|CONTABO, DE
+161.97.146.105|/PIVX Core:5.4.0/|70924|51167|161.97.128.0/19|DE|ripencc|1992-06-23|CONTABO, DE
 161.97.146.113|/PIVX Core:5.4.0/|70924||||||
 161.97.147.181|/PIVX Core:5.4.0/|70924||||||
 161.97.169.145|/PIVX Core:5.4.0/|70924||||||
@@ -45,7 +46,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 188.27.127.77|/PIVX Core:5.4.0/|70924||||||
 194.163.133.123|/PIVX Core:5.4.0/|70924||||||
 194.163.189.106|/PIVX Core:5.3.2/|70923||||||
-194.5.152.211|/PIVX Core:5.3.2/|70923|51167|194.5.152.0/24|DE|ripencc|2018-07-23|CONTABO, DE
+194.5.152.211|/PIVX Core:5.3.2/|70923||||||
 194.85.9.14|/PIVX Core:5.3.2.1/|70923||||||
 207.154.200.49|/PIVX Core:5.4.0/|70924||||||
 207.180.216.186|/PIVX Core:5.4.0/|70924||||||
@@ -94,7 +95,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 78.87.237.18|/PIVX Core:5.4.0/|70924||||||
 81.92.252.6|/PIVX Core:5.4.0/|70924||||||
 82.65.139.157|/PIVX Core:5.4.0/|70924||||||
-83.136.182.198|/PIVX Core:5.3.2.1/|70923||||||
 83.235.109.88|/PIVX Core:5.4.0/|70924||||||
 84.56.222.75|/PIVX Core:5.4.0/|70924||||||
 85.0.156.137|/PIVX Core:5.3.3/|70924||||||
