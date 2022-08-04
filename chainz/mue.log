@@ -4,8 +4,8 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 108.17.53.39|/MonetaryUnit Core:2.3.0/|70706||||||
 13.209.243.246|/MonetaryUnit Core:2.3.0/|70706||||||
 13.209.60.161|/MonetaryUnit Core:2.3.0/|70706||||||
-135.181.164.190|/MonetaryUnit Core:2.3.0/|70706||||||
-144.91.116.146|/MonetaryUnit Core:2.3.0/|70706|51167|144.91.116.0/23|DE|ripencc|1990-11-20|CONTABO, DE
+135.181.164.190|/MonetaryUnit Core:2.3.0/|70706|24940|135.181.0.0/16|DE|ripencc|1996-04-30|HETZNER-AS, DE
+144.91.116.146|/MonetaryUnit Core:2.3.0/|70706||||||
 159.196.13.47|/MonetaryUnit Core:2.3.0/|70706||||||
 161.8.206.174|/MonetaryUnit Core:2.3.0/|70706||||||
 161.81.34.41|/MonetaryUnit Core:2.3.0/|70706||||||
@@ -17,9 +17,9 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 185.242.112.23|/MonetaryUnit Core:2.3.0/|70706||||||
 185.242.112.9|/MonetaryUnit Core:2.3.0/|70706||||||
 193.2.36.36|/MonetaryUnit Core:2.3.0/|70706||||||
-194.163.143.68|/MonetaryUnit Core:2.3.0/|70706|51167|194.163.128.0/18|DE|ripencc|1995-05-16|CONTABO, DE
+194.163.143.68|/MonetaryUnit Core:2.3.0/|70706||||||
 194.163.189.109|/MonetaryUnit Core:2.3.0/|70706||||||
-194.5.152.211|/MonetaryUnit Core:2.3.0/|70706||||||
+194.5.152.211|/MonetaryUnit Core:2.3.0/|70706|51167|194.5.152.0/24|DE|ripencc|2018-07-23|CONTABO, DE
 2.96.211.101|/MonetaryUnit Core:2.3.0/|70706||||||
 213.149.8.181|/MonetaryUnit Core:2.3.0/|70706||||||
 220.238.19.24|/MonetaryUnit Core:2.3.0/|70706||||||
@@ -61,4 +61,5 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 98.169.92.173|/MonetaryUnit Core:2.3.0/|70706||||||
 98.202.227.110|/MonetaryUnit Core:2.3.0/|70706||||||
 98.215.160.113|/MonetaryUnit Core:2.3.0/|70706||||||
-99.9.57.174|/MonetaryUnit Core:2.3.0/|70706|7018|99.8.0.0/15|US|arin|2008-02-25|ATT-INTERNET4, US
+98.250.174.210|/MonetaryUnit Core:2.3.0/|70706||||||
+99.9.57.174|/MonetaryUnit Core:2.3.0/|70706||||||
