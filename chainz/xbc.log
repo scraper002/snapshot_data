@@ -14,7 +14,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 165.22.87.209|/bitcoinplus:2.8.1/|80016||||||
 167.99.175.7|/bitcoinplus:2.8.1/|80016||||||
 169.150.204.34|/bitcoinplus:2.8.3/|80016||||||
-172.58.59.109|/bitcoinplus:2.7.3/|80013|21928|172.58.56.0/21|US|arin|2012-09-18|T-MOBILE-AS21928, US
+172.58.59.109|/bitcoinplus:2.7.3/|80013||||||
 178.165.185.143|/bitcoinplus:2.7.0/|80010||||||
 178.219.168.244|/bitcoinplus:2.8.2/|80016||||||
 192.143.242.140|/bitcoinplus:2.8.3/|80016||||||
@@ -26,7 +26,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 197.210.227.121|/bitcoinplus:2.8.3/|80016||||||
 197.210.53.162|/bitcoinplus:2.8.3/|80016||||||
 197.210.53.35|/bitcoinplus:2.8.3/|80016||||||
-197.210.54.164|/bitcoinplus:2.8.3/|80016||||||
 197.210.55.196|/bitcoinplus:2.8.3/|80016||||||
 197.210.77.228|/bitcoinplus:2.8.3/|80016||||||
 197.215.173.106|/bitcoinplus:2.8.2/|80016||||||
@@ -43,6 +42,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 63.228.87.244|/bitcoinplus:2.7.3/|80013||||||
 65.43.35.14|/bitcoinplus:2.8.1/|80016||||||
 67.247.9.3|/bitcoinplus:2.8.3/|80016||||||
+73.55.15.50|/bitcoinplus:2.8.3/|80016||||||
 76.169.33.25|/bitcoinplus:2.8.1/|80016||||||
 76.231.142.14|/bitcoinplus:2.8.3/|80016||||||
 77.119.210.83|/bitcoinplus:2.7.0/|80010||||||

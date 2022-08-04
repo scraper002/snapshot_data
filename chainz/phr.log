@@ -17,7 +17,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 149.56.148.202|/Phore Core:1.7.0/|70008||||||
 152.228.135.232|/Phore Core:1.8.0/|70009||||||
 155.4.6.84|/Phore Core:1.8.0/|70009||||||
-156.96.151.132|/Phore Core:1.8.0/|70009||||||
 157.90.106.242|/Phore Core:1.8.0/|70009||||||
 159.223.67.159|/Phore Core:1.8.0/|70009||||||
 161.97.103.182|/Phore Core:1.7.0/|70008||||||
@@ -68,6 +67,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 207.180.242.187|/Phore Core:1.7.1/|70009||||||
 209.126.0.126|/Phore Core:1.8.0/|70009||||||
 209.126.81.51|/Phore Core:1.7.1/|70009||||||
+209.126.81.52|/Phore Core:1.7.1/|70009||||||
 209.126.9.201|/Phore Core:1.7.1/|70009||||||
 213.239.209.41|/Phore Core:1.7.0/|70008||||||
 216.240.252.80|/Phore Core:1.7.1/|70009||||||
@@ -83,9 +83,10 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 46.151.159.53|/Phore Core:1.7.0/|70008||||||
 46.165.62.127|/Phore Core:1.7.1/|70009||||||
 49.205.103.212|/Phore Core:1.7.1/|70009||||||
+5.189.63.143|/Phore Core:1.7.1/|70009||||||
 62.138.3.131|/Phore Core:1.7.0/|70008||||||
 62.138.6.9|/Phore Core:1.7.0/|70008||||||
-62.138.7.229|/Phore Core:1.7.0/|70008||||||
+62.138.7.229|/Phore Core:1.7.0/|70008|8972|62.138.7.0/24|DE|ripencc|2000-09-19|GD-EMEA-DC-SXB1, DE
 62.171.150.111|/Phore Core:1.7.0/|70008||||||
 64.253.19.19|/Phore Core:1.7.1/|70009||||||
 65.108.101.102|/Phore Core:1.8.0/|70009||||||

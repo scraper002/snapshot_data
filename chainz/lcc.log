@@ -1,7 +1,7 @@
 # https://chainz.cryptoid.info/ and whois results
 # Litecoin Cash
 IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
-1.214.30.247|/LitecoinCashCore:0.16.3/|70015|3786|1.208.0.0/12|KR|apnic|2010-06-11|LGDACOM LG DACOM Corporation, KR
+1.214.30.247|/LitecoinCashCore:0.16.3/|70015||||||
 106.51.60.213|/LitecoinCashCore:0.16.3/|70015||||||
 107.167.244.51|/LitecoinCashCore:0.16.3/|70015||||||
 108.214.64.194|/LitecoinCashCore:0.16.3/|70015||||||
@@ -17,6 +17,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 138.199.34.42|/LitecoinCashCore:0.16.3/|70015||||||
 138.201.81.23|/LitecoinCashCore:0.16.3/|70015||||||
 141.95.146.47|/LitecoinCashCore:0.16.3/|70015||||||
+142.68.162.147|/LitecoinCashCore:0.16.3/|70015||||||
 144.126.135.34|/LitecoinCashCore:0.16.3/|70015||||||
 145.40.32.198|/LitecoinCashCore:0.15.0.1/|70015||||||
 148.255.155.7|/LitecoinCashCore:0.16.3/|70015||||||
@@ -61,7 +62,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 188.146.142.154|/LitecoinCashCore:0.16.3/|70015||||||
 188.162.65.143|/LitecoinCashCore:0.16.3/|70015||||||
 188.166.117.139|/LitecoinCashCore:0.16.3/|70015||||||
-188.187.87.23|/LitecoinCashCore:0.16.3/|70015||||||
 188.221.32.90|/LitecoinCashCore:0.16.3/|70015||||||
 188.239.90.59|/LitecoinCashCore:0.16.3/|70015||||||
 188.83.236.122|/LitecoinCashCore:0.16.3/|70015||||||
@@ -98,12 +98,12 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 46.159.72.149|/LitecoinCashCore:0.16.3/|70015||||||
 46.73.15.249|/LitecoinCashCore:0.16.3/|70015||||||
 47.184.204.56|/LitecoinCashCore:0.16.3/|70015||||||
-5.135.136.12|/LitecoinCashCore:0.16.3/|70015|16276|5.135.0.0/16|FR|ripencc|2012-07-06|OVH, FR
+5.135.136.12|/LitecoinCashCore:0.16.3/|70015||||||
 5.141.84.130|/LitecoinCashCore:0.16.3/|70015||||||
 5.145.24.254|/LitecoinCashCore:0.16.3/|70015||||||
 51.161.117.115|/LitecoinCashCore:0.16.3/|70015||||||
 51.38.57.53|/LitecoinCashCore:0.16.3/|70015||||||
-51.79.177.216|/LitecoinCashCore:0.16.3/|70015|16276|51.79.128.0/17|CA|arin|2019-01-10|OVH, FR
+51.79.177.216|/LitecoinCashCore:0.16.3/|70015||||||
 51.83.186.57|/LitecoinCashCore:0.16.3/|70015||||||
 54.38.107.228|/LitecoinCashCore:0.16.3/|70015||||||
 54.68.86.241|/LitecoinCashCore:0.16.3/|70015||||||
