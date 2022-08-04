@@ -5,7 +5,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 106.51.60.213|/LitecoinCashCore:0.16.3/|70015||||||
 107.167.244.51|/LitecoinCashCore:0.16.3/|70015||||||
 107.185.67.188|/LitecoinCashCore:0.16.3/|70015||||||
-108.214.64.194|/LitecoinCashCore:0.16.3/|70015|7018|108.192.0.0/10|US|arin|2011-01-12|ATT-INTERNET4, US
+108.214.64.194|/LitecoinCashCore:0.16.3/|70015||||||
 108.28.95.128|/LitecoinCashCore:0.16.3/|70015||||||
 109.129.137.76|/LitecoinCashCore:0.16.3/|70015||||||
 109.227.212.76|/LitecoinCashCore:0.16.3/|70015||||||
@@ -23,13 +23,13 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 142.202.79.20|/LitecoinCashCore:0.16.1.3/|70015||||||
 142.68.162.147|/LitecoinCashCore:0.16.3/|70015||||||
 144.126.135.34|/LitecoinCashCore:0.16.3/|70015||||||
+144.86.182.82|/LitecoinCashCore:0.15.0.1/|70015||||||
 148.255.155.7|/LitecoinCashCore:0.16.3/|70015||||||
 149.233.254.216|/LitecoinCashCore:0.16.3/|70015||||||
 149.56.155.28|/LitecoinCashCore:0.16.3/|70015||||||
 151.229.125.150|/LitecoinCashCore:0.16.3/|70015||||||
 151.252.69.107|/LitecoinCashCore:0.16.3/|70015||||||
 154.12.237.238|/LitecoinCashCore:0.16.3/|70015||||||
-158.140.164.22|/LitecoinCashCore:0.16.3/|70015|63859|158.140.164.0/24|ID|apnic|1992-10-03|MYREPUBLIC-AS-ID PT. Eka Mas Republik, ID
 161.53.28.4|/LitecoinCashCore:0.16.3/|70015||||||
 161.97.83.204|/LitecoinCashCore:0.16.3/|70015||||||
 163.158.50.82|/LitecoinCashCore:0.16.3/|70015||||||
@@ -49,17 +49,17 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 177.55.225.250|/LitecoinCashCore:0.16.3/|70015||||||
 178.128.5.88|/LitecoinCashCore:0.16.3/|70015||||||
 178.166.161.84|/LitecoinCashCore:0.16.3/|70015||||||
-178.174.167.193|/LitecoinCashCore:0.16.3/|70015|8473|178.174.128.0/17|SE|ripencc|2010-04-28|BAHNHOF www.bahnhof.net, SE
-178.212.193.199|/LitecoinCashCore:0.16.3/|70015|39065|178.212.193.0/24|UA|ripencc|2010-08-26|SOHONET-AS Odessa, Ukraine, UA
-178.34.160.55|/LitecoinCashCore:0.16.3/|70015|12389|178.34.160.0/20|RU|ripencc|2010-01-21|ROSTELECOM-AS, RU
+178.174.167.193|/LitecoinCashCore:0.16.3/|70015||||||
+178.212.193.199|/LitecoinCashCore:0.16.3/|70015||||||
+178.34.160.55|/LitecoinCashCore:0.16.3/|70015||||||
 178.59.168.4|/LitecoinCashCore:0.16.3/|70015||||||
 18.27.124.232|/btcwire:0.4.1/LitecoinCashCore:0.16.1/|70012||||||
 181.94.226.207|/LitecoinCashCore:0.16.3/|70015||||||
 184.73.247.90|/LitecoinCashCore:0.16.3/|70015||||||
-185.3.32.32|/LitecoinCashCore:0.16.3/|70015|31163|185.3.32.0/23|RU|ripencc|2012-09-19|MF-KAVKAZ-AS, RU
+185.3.32.32|/LitecoinCashCore:0.16.3/|70015||||||
 185.82.203.241|/LitecoinCashCore:0.16.3/|70015||||||
-185.84.172.204|/LitecoinCashCore:0.16.3/|70015|208221|185.84.172.0/24|RU|ripencc|2015-01-19|ORIONNET-BRK, RU
-188.146.142.154|/LitecoinCashCore:0.16.3/|70015|12912|188.146.128.0/19|PL|ripencc|2009-04-01|TM, PL
+185.84.172.204|/LitecoinCashCore:0.16.3/|70015||||||
+188.146.142.154|/LitecoinCashCore:0.16.3/|70015||||||
 188.162.65.143|/LitecoinCashCore:0.16.3/|70015||||||
 188.166.117.139|/LitecoinCashCore:0.16.3/|70015||||||
 188.172.220.76|/LitecoinCashCore:0.16.3/|70015||||||
@@ -87,7 +87,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 36.71.88.229|/LitecoinCashCore:0.16.3/|70015||||||
 36.73.112.95|/LitecoinCashCore:0.16.3/|70015||||||
 36.79.68.61|/LitecoinCashCore:0.16.3/|70015||||||
-37.120.244.59|/LitecoinCashCore:0.16.3/|70015||||||
 37.20.249.53|/LitecoinCashCore:0.16.3/|70015||||||
 37.212.64.187|/LitecoinCashCore:0.16.3/|70015||||||
 43.227.255.124|/LitecoinCashCore:0.16.3/|70015||||||
