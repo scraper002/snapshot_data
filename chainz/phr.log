@@ -33,8 +33,8 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 173.249.49.54|/Phore Core:1.8.0/|70009||||||
 176.31.100.106|/Phore Core:1.7.1/|70009||||||
 176.9.188.21|/Phore Core:1.8.0/|70009||||||
-176.9.3.93|/Phore Core:1.8.0/|70009||||||
-178.128.230.151|/Phore Core:1.8.0/|70009||||||
+176.9.3.93|/Phore Core:1.8.0/|70009|24940|176.9.0.0/16|DE|ripencc|2011-05-17|HETZNER-AS, DE
+178.128.230.151|/Phore Core:1.8.0/|70009|14061|178.128.224.0/20|US|ripencc|2010-03-03|DIGITALOCEAN-ASN, US
 178.18.254.100|/Phore Core:1.7.1/|70009||||||
 178.27.180.160|/Phore Core:1.8.0/|70009||||||
 178.62.193.47|/Phore Core:1.8.0/|70009||||||
@@ -57,7 +57,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 185.83.110.45|/Phore Core:1.8.0/|70009||||||
 185.83.110.46|/Phore Core:1.8.0/|70009||||||
 188.2.142.215|/Phore Core:1.7.1/|70009||||||
-192.222.136.202|/Phore Core:1.8.0/|70009|1403|192.222.128.0/19|CA|arin|2012-12-20|EBOX, CA
+192.222.136.202|/Phore Core:1.8.0/|70009||||||
 193.26.157.215|/Phore Core:1.7.1/|70009||||||
 193.37.214.68|/Phore Core:1.7.0/|70008||||||
 194.163.143.68|/Phore Core:1.8.0/|70009||||||

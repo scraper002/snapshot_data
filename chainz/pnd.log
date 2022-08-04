@@ -3,7 +3,7 @@
 IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 1.47.72.114|/Satoshi:0.20.2/Pandacoin:4.11.7/|70016||||||
 104.200.16.230|/Satoshi:0.20.2/Pandacoin:4.11.7/|70016||||||
-110.170.117.110|/Satoshi:0.20.2/Pandacoin:4.10.5/|70015||||||
+110.170.117.110|/Satoshi:0.20.2/Pandacoin:4.10.5/|70015|7470|110.170.96.0/19|TH|apnic|2009-04-23|TRUEINTERNET-AS-AP TRUE INTERNET Co.,Ltd., TH
 116.203.114.73|/Satoshi:0.20.2/Pandacoin:4.11.8/|70016||||||
 139.177.204.161|/Satoshi:0.20.2/Pandacoin:4.11.7/|70016||||||
 157.90.155.61|/Satoshi:0.20.2/Pandacoin:4.11.8/|70016||||||
@@ -12,7 +12,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 172.104.100.25|/Satoshi:0.20.2/Pandacoin:4.11.7/|70016||||||
 172.104.178.96|/Satoshi:0.20.2/Pandacoin:4.11.7/|70016||||||
 172.245.245.8|/Satoshi:0.20.2/Pandacoin:4.11.7/|70016||||||
-173.230.142.84|/Satoshi:0.20.2/Pandacoin:4.11.8/|70016||||||
+173.230.142.84|/Satoshi:0.20.2/Pandacoin:4.11.8/|70016|63949|173.230.128.0/20|US|arin|2010-03-15|LINODE-AP Linode, LLC, US
 173.254.204.118|/Satoshi:0.20.2/Pandacoin:4.11.7/|70016||||||
 176.58.123.119|/Satoshi:0.20.2/Pandacoin:4.11.7/|70016||||||
 177.131.162.130|/Satoshi:0.16.3/Pandacoin:4.9.0/|70015||||||
@@ -35,9 +35,9 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 217.170.206.126|/Satoshi:0.20.2/Pandacoin:4.11.7/|70016||||||
 24.118.50.219|/Satoshi:0.20.2/Pandacoin:4.11.7/|70016||||||
 37.19.205.149|/Satoshi:0.20.2/Pandacoin:4.11.7/|70016||||||
-45.79.193.237|/Satoshi:0.20.2/Pandacoin:4.11.7/|70016||||||
-45.89.173.162|/Satoshi:0.20.2/Pandacoin:4.11.7/|70016||||||
-62.113.87.122|/Satoshi:0.20.2/Pandacoin:4.11.8/|70016||||||
+45.79.193.237|/Satoshi:0.20.2/Pandacoin:4.11.7/|70016|63949|45.79.192.0/19|US|arin|2015-04-29|LINODE-AP Linode, LLC, US
+45.89.173.162|/Satoshi:0.20.2/Pandacoin:4.11.7/|70016|9009|45.89.173.0/24|RO|ripencc|2019-06-21|M247, GB
+62.113.87.122|/Satoshi:0.20.2/Pandacoin:4.11.8/|70016|13155|62.113.87.0/24|RU|ripencc|2000-08-16|MTS-IRK-AS, RU
 62.113.87.19|/Satoshi:0.20.2/Pandacoin:4.11.8/|70016||||||
 65.108.79.47|/Satoshi:0.20.2/Pandacoin:4.10.5/|70015||||||
 66.175.216.64|/Satoshi:0.20.2/Pandacoin:4.11.7/|70016||||||

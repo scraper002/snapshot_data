@@ -30,11 +30,11 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 46.251.251.19|/MonetaryUnit Core:2.3.0/|70706||||||
 46.251.251.34|/MonetaryUnit Core:2.3.0/|70706||||||
 49.12.203.205|/MonetaryUnit Core:2.3.0/|70706||||||
-5.135.141.114|/MonetaryUnit Core:2.3.0/|70706||||||
+5.135.141.114|/MonetaryUnit Core:2.3.0/|70706|16276|5.135.0.0/16|FR|ripencc|2012-07-06|OVH, FR
 50.220.121.211|/MonetaryUnit Core:2.3.0/|70706||||||
-50.5.236.135|/MonetaryUnit Core:2.3.0/|70706||||||
+50.5.236.135|/MonetaryUnit Core:2.3.0/|70706|6181|50.5.128.0/17|US|arin|2010-09-09|FUSE-NET, US
 54.37.85.61|/MonetaryUnit Core:2.3.0/|70706||||||
-65.108.93.55|/MonetaryUnit Core:2.3.0/|70706||||||
+65.108.93.55|/MonetaryUnit Core:2.3.0/|70706|24940|65.108.0.0/16|DE|ripencc|2001-02-09|HETZNER-AS, DE
 69.61.172.31|/MonetaryUnit Core:2.3.0/|70706||||||
 71.190.78.98|/MonetaryUnit Core:2.3.0/|70706||||||
 73.84.111.198|/MonetaryUnit Core:2.3.0/|70706||||||
@@ -43,7 +43,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 78.47.70.253|/MonetaryUnit Core:2.3.0/|70706||||||
 83.215.142.159|/MonetaryUnit Core:2.3.0/|70706||||||
 83.68.128.148|/MonetaryUnit Core:2.3.0/|70706||||||
-88.212.55.252|/MonetaryUnit Core:2.3.0/|70706||||||
+88.212.55.252|/MonetaryUnit Core:2.3.0/|70706|42841|88.212.48.0/20|SK|ripencc|2005-12-08|ANTIK, SK
 89.154.80.156|/MonetaryUnit Core:2.3.0/|70706||||||
 91.218.58.6|/MonetaryUnit Core:2.3.0/|70706||||||
 91.246.66.175|/MonetaryUnit Core:2.3.0/|70706||||||
@@ -57,8 +57,8 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 92.60.45.220|/MonetaryUnit Core:2.3.0/|70706||||||
 92.60.45.250|/MonetaryUnit Core:2.3.0/|70706||||||
 93.234.32.184|/MonetaryUnit Core:2.3.0/|70706||||||
-94.130.70.205|/MonetaryUnit Core:2.3.0/|70706||||||
-95.216.23.211|/MonetaryUnit Core:2.3.0/|70706||||||
+94.130.70.205|/MonetaryUnit Core:2.3.0/|70706|24940|94.130.0.0/16|DE|ripencc|2008-06-23|HETZNER-AS, DE
+95.216.23.211|/MonetaryUnit Core:2.3.0/|70706|24940|95.216.0.0/16|DE|ripencc|2009-02-24|HETZNER-AS, DE
 98.169.92.173|/MonetaryUnit Core:2.3.0/|70706||||||
 98.202.227.110|/MonetaryUnit Core:2.3.0/|70706||||||
 98.215.160.113|/MonetaryUnit Core:2.3.0/|70706||||||
