@@ -1,7 +1,7 @@
 # https://chainz.cryptoid.info/ and whois results
 # e-Gulden
 IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
-104.45.51.96|/Christiaan Huygens:1.4.3.2/|70015|8075|104.40.0.0/13|US|arin|2014-05-07|MICROSOFT-CORP-MSN-AS-BLOCK, US
+104.45.51.96|/Christiaan Huygens:1.4.3.2/|70015||||||
 108.24.43.109|/Christiaan Huygens:1.4.3.2/|70015||||||
 136.144.130.142|/Christiaan Huygens:1.4.3/|70015||||||
 136.144.199.124|/Christiaan Huygens:1.4.3.2/|70015||||||
@@ -24,7 +24,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 62.171.185.166|/Christiaan Huygens:1.4.3.2/|70015||||||
 70.91.250.149|/Christiaan Huygens:1.4.3.2/|70015||||||
 77.165.138.44|/Christiaan Huygens:1.4.3.2/|70015||||||
-77.167.70.71|/Christiaan Huygens:1.4.3.2/|70015||||||
+77.167.70.71|/Christiaan Huygens:1.4.3.2/|70015|1136|77.160.0.0/13|NL|ripencc|2006-11-02|KPN KPN National, NL
 77.251.162.214|/Christiaan Huygens:1.4.0/|70015||||||
 78.141.212.102|/Christiaan Huygens:1.4.3.2/|70015||||||
 81.169.178.19|/Christiaan Huygens:1.5.0/|70015||||||
@@ -43,8 +43,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 85.214.27.66|/Christiaan Huygens:1.4.0/|70015||||||
 85.214.32.221|/Christiaan Huygens:1.4.0/|70015||||||
 85.214.61.209|/Christiaan Huygens:1.5.0/|70015||||||
-85.244.173.208|/Christiaan Huygens:1.5.0/|70015||||||
-86.100.49.209|/Christiaan Huygens:1.4.3.2/|70015|39007|86.100.0.0/17|LT|ripencc|2005-05-23|BALTICUM-TV-AS, LT
+86.100.49.209|/Christiaan Huygens:1.4.3.2/|70015||||||
 86.86.126.81|/Christiaan Huygens:1.4.3/|70015||||||
 86.94.62.197|/Christiaan Huygens:1.4.3/|70015||||||
 91.206.16.214|/Christiaan Huygens:1.4.3.2/|70015||||||

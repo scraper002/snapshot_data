@@ -1,7 +1,7 @@
 # https://chainz.cryptoid.info/ and whois results
 # PeerCoin
 IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
-101.177.207.134|/Satoshi:0.20.2/Peercoin:0.11.8/|70016|1221|101.160.0.0/11|AU|apnic|2010-12-23|ASN-TELSTRA Telstra Corporation Ltd, AU
+101.177.207.134|/Satoshi:0.20.2/Peercoin:0.11.8/|70016||||||
 104.238.221.41|Satoshi:0.20.2/Peercoin:0.11.4|70016||||||
 106.69.222.125|/Satoshi:0.20.2/Peercoin:0.11.7/|70016||||||
 109.60.60.32|/Satoshi:0.20.2/Peercoin:0.11.8/|70016|31012|109.60.0.0/17|HR|ripencc|2009-12-11|DCM-AS Vipnet d.o.o., HR
@@ -43,18 +43,18 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 180.74.65.210|/Satoshi:0.20.2/Peercoin:0.11.1/|70016||||||
 184.181.35.187|/Satoshi:0.20.2/Peercoin:0.11.8/|70016||||||
 185.244.193.79|/Satoshi:0.20.2/Peercoin:0.11.8/|70016||||||
-188.166.12.97|/Satoshi:0.20.2/Peercoin:0.11.7/|70016|14061|188.166.0.0/18|US|ripencc|2009-06-05|DIGITALOCEAN-ASN, US
+188.166.12.97|/Satoshi:0.20.2/Peercoin:0.11.7/|70016||||||
 188.169.230.31|/Satoshi:0.20.2/Peercoin:0.11.4/|70016||||||
 188.170.205.204|/Satoshi:0.20.2/Peercoin:0.11.8/|70016||||||
 188.170.205.59|/Satoshi:0.20.2/Peercoin:0.11.8/|70016||||||
-188.22.204.164|/Satoshi:0.20.2/Peercoin:0.11.7/|70016|8447|188.20.0.0/14|AT|ripencc|2009-02-03|A1TELEKOM-AT A1 Telekom Austria AG, AT
+188.22.204.164|/Satoshi:0.20.2/Peercoin:0.11.7/|70016||||||
 188.243.182.166|/Satoshi:0.20.2/Peercoin:0.11.7/|70016||||||
 188.31.149.221|/Satoshi:0.20.2/Peercoin:0.11.0/|70016||||||
 195.138.71.80|/Satoshi:0.20.2/Peercoin:0.11.7/|70016||||||
 195.201.207.43|/Satoshi:0.20.2/Peercoin:0.11.8/|70016||||||
 195.50.206.74|/Satoshi:0.20.2/Peercoin:0.11.0/|70016||||||
 199.102.155.227|/Satoshi:0.20.2/Peercoin:0.11.1/|70016||||||
-199.127.62.235|Satoshi:0.20.2/Peercoin:0.11.4|70016|23470|199.127.62.0/24|US|arin|2017-05-24|RELIABLESITE, US
+199.127.62.235|Satoshi:0.20.2/Peercoin:0.11.4|70016||||||
 203.91.242.55|/Satoshi:0.20.2/Peercoin:0.11.8/|70016||||||
 206.189.131.144|Satoshi:0.20.2/Peercoin:0.11.4|70016||||||
 212.102.36.25|/Satoshi:0.20.2/Peercoin:0.11.4/|70016||||||
@@ -78,7 +78,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 42.48.236.2|/Satoshi:0.20.2/Peercoin:0.11.1/|70016||||||
 45.126.209.106|Satoshi:0.20.2/Peercoin:0.11.4|70016||||||
 45.23.106.42|/Satoshi:0.20.2/Peercoin:0.11.4/|70016||||||
-46.53.241.215|/Satoshi:0.20.2/Peercoin:0.11.0/|70016||||||
+46.53.241.215|???|0||||||
 47.206.88.18|/Satoshi:0.20.2/Peercoin:0.11.8/|70016||||||
 47.92.87.183|/Satoshi:0.20.2/Peercoin:0.11.1/|70016||||||
 5.79.200.130|/Satoshi:0.20.2/Peercoin:0.11.8/|70016||||||
@@ -133,7 +133,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 92.240.100.175|/Satoshi:0.20.2/Peercoin:0.11.4/|70016||||||
 92.39.186.135|/Satoshi:0.20.2/Peercoin:0.11.0/|70016||||||
 93.34.146.141|/Satoshi:0.20.2/Peercoin:0.11.1/|70016||||||
-94.105.106.40|/Satoshi:0.20.2/Peercoin:0.11.4/|70016||||||
+94.105.106.40|/Satoshi:0.20.2/Peercoin:0.11.4/|70016|9031|94.105.96.0/19|BE|ripencc|2008-06-20|EDPNET, BE
 94.130.35.94|/Satoshi:0.20.2/Peercoin:0.11.8/|70016||||||
 94.31.87.28|/Satoshi:0.20.2/Peercoin:0.11.4/|70016||||||
 95.154.90.99|/Satoshi:0.20.2/Peercoin:0.11.1/|70016||||||
