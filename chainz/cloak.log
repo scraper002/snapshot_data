@@ -11,7 +11,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 13.209.243.246|/KlausFuchs:2.2.2.2/|60018||||||
 13.230.19.97|/KlausFuchs:2.2.2.1/|60018||||||
 149.172.43.192|/KlausFuchs:2.2.2.2/|60018||||||
-15.165.142.140|/KlausFuchs:2.2.2.2/|60018||||||
 152.97.207.73|/KlausFuchs:2.2.2.2/|60018||||||
 154.71.238.77|/KlausFuchs:2.2.2.2/|60018||||||
 155.4.123.92|/KlausFuchs:2.2.2.2/|60018||||||
@@ -38,7 +37,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 194.126.177.42|/KlausFuchs:2.2.2.2/|60018||||||
 194.126.177.68|/KlausFuchs:2.2.2.2/|60018||||||
 2.37.188.165|/KlausFuchs:2.2.2.2/|60018||||||
-211.219.203.174|/KlausFuchs:2.2.2.2/|60018||||||
+211.219.203.174|/KlausFuchs:2.2.2.2/|60018|4766|211.216.0.0/13|KR|apnic|2000-09-12|KIXS-AS-KR Korea Telecom, KR
 213.136.67.100|/KlausFuchs:2.2.2.2/|60018||||||
 213.167.79.24|/SidneyReilly:0.7.4.2/|60018||||||
 213.220.149.243|/KlausFuchs:2.2.2.2/|60018||||||
@@ -64,14 +63,12 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 54.229.160.166|/KlausFuchs:2.2.2.2/|60018||||||
 54.74.204.193|/KlausFuchs:2.2.2.2/|60018||||||
 62.195.213.58|/KlausFuchs:2.2.2.2/|60018||||||
-63.155.88.184|/KlausFuchs:2.2.2.2/|60018||||||
 63.34.20.244|/KlausFuchs:2.2.2.2/|60018||||||
 66.252.38.254|/KlausFuchs:2.2.2.2/|60018||||||
 66.252.51.132|/KlausFuchs:2.2.2.2/|60018||||||
 66.252.51.210|/KlausFuchs:2.2.2.2/|60018||||||
 66.81.176.208|/KlausFuchs:2.2.2.2/|60018||||||
 68.37.51.43|/KlausFuchs:2.2.2.1/|60018||||||
-70.114.134.82|/KlausFuchs:2.2.2.2/|60018||||||
 70.115.227.57|/KlausFuchs:2.2.2.1/|60018||||||
 71.89.27.111|/KlausFuchs:2.2.2.2/|60018||||||
 72.187.46.31|/KlausFuchs:2.2.2.2/|60018||||||
@@ -82,7 +79,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 78.173.81.60|/KlausFuchs:2.2.2.2/|60018||||||
 79.140.124.10|/KlausFuchs:2.2.2.2/|60018||||||
 79.143.186.122|/KlausFuchs:2.2.2.2/|60018||||||
-79.59.255.93|/KlausFuchs:2.2.2.2/|60018|3269|79.59.0.0/16|IT|ripencc|2007-02-21|ASN-IBSNAZ, IT
+79.59.255.93|/KlausFuchs:2.2.2.2/|60018||||||
 82.115.12.2|/KlausFuchs:2.2.2.2/|60018||||||
 82.135.82.163|/KlausFuchs:2.2.2.2/|60018||||||
 82.73.36.26|/KlausFuchs:2.2.2.2/|60018||||||
