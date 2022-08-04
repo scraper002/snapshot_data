@@ -5,7 +5,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 106.53.139.236|/GlobalToken:3.3.0.1/|80002||||||
 106.53.150.104|/GlobalToken:3.3.0.1/|80002||||||
 114.67.105.16|/GlobalToken:3.3.0.1/|80002||||||
-121.37.171.62|/GlobalToken:3.3.0.1/|80002||||||
+121.37.171.62|/GlobalToken:3.3.0.1/|80002|55990|121.37.160.0/19|CN|apnic|2006-07-26|HWCSNET Huawei Cloud Service data center, CN
 121.37.186.161|/GlobalToken:3.3.0.1/|80002||||||
 122.112.184.149|/GlobalToken:3.3.0.1/|80002||||||
 125.164.232.69|/GlobalToken:3.3.0.1/|80002||||||
@@ -45,6 +45,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 193.37.214.176|???|0||||||
 194.44.17.249|/GlobalToken:3.3.0.1/|80002||||||
 195.240.119.95|/GlobalToken:3.3.0.1/|80002||||||
+212.109.218.32|/GlobalToken:3.2.1/|80002||||||
 223.247.148.13|/GlobalToken:3.3.0.1/|80002||||||
 37.120.167.36|/GlobalToken:3.3.0.1/|80002||||||
 37.120.184.138|/GlobalToken:3.3.0.1/|80002||||||
@@ -55,6 +56,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 42.193.151.25|/GlobalToken:3.3.0.1/|80002||||||
 43.134.165.18|/GlobalToken:3.3.0.1/|80002||||||
 46.187.65.251|/GlobalToken:3.3.0.1/|80002||||||
+46.219.215.67|/GlobalToken:3.2.1/|80002||||||
 46.232.249.148|/GlobalToken:3.3.0.1/|80002||||||
 5.135.141.114|/GlobalToken:3.2.1/|80002||||||
 5.188.173.19|/GlobalToken:3.3.0.1/|80002||||||
@@ -68,7 +70,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 81.15.179.42|/GlobalToken:3.3.0.1/|80002||||||
 84.24.229.106|/GlobalToken:3.2.1/|80002||||||
 85.217.170.166|???|0||||||
-88.99.164.174|/GlobalToken:3.3.0.1/|80002|24940|88.99.0.0/16|DE|ripencc|2005-08-03|HETZNER-AS, DE
+88.99.164.174|/GlobalToken:3.3.0.1/|80002||||||
 91.206.16.214|/GlobalToken:3.2.1/|80002||||||
 92.60.37.172|/GlobalToken:3.2.0/|80002||||||
 95.217.53.240|/GlobalToken:3.3.0.1/|80002||||||

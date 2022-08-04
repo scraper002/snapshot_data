@@ -1,11 +1,11 @@
 # https://chainz.cryptoid.info/ and whois results
 # PeerCoin
 IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
-101.177.207.134|/Satoshi:0.20.2/Peercoin:0.11.8/|70016||||||
+101.177.207.134|/Satoshi:0.20.2/Peercoin:0.11.8/|70016|1221|101.160.0.0/11|AU|apnic|2010-12-23|ASN-TELSTRA Telstra Corporation Ltd, AU
 104.238.221.41|Satoshi:0.20.2/Peercoin:0.11.4|70016||||||
 106.69.222.125|/Satoshi:0.20.2/Peercoin:0.11.7/|70016||||||
-109.60.60.32|/Satoshi:0.20.2/Peercoin:0.11.8/|70016||||||
-109.80.194.146|/Satoshi:0.20.2/Peercoin:0.11.8/|70016||||||
+109.60.60.32|/Satoshi:0.20.2/Peercoin:0.11.8/|70016|31012|109.60.0.0/17|HR|ripencc|2009-12-11|DCM-AS Vipnet d.o.o., HR
+109.80.194.146|/Satoshi:0.20.2/Peercoin:0.11.8/|70016|5610|109.80.0.0/15|CZ|ripencc|2009-07-10|O2-CZECH-REPUBLIC, CZ
 111.85.71.166|/Satoshi:0.20.2/Peercoin:0.11.0/|70016||||||
 112.133.37.231|/Satoshi:0.20.2/Peercoin:0.11.1/|70016||||||
 119.123.199.158|/Satoshi:0.20.2/Peercoin:0.11.7/|70016||||||
@@ -29,7 +29,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 151.62.133.128|/Satoshi:0.20.2/Peercoin:0.11.2/|70016||||||
 151.80.22.47|/Satoshi:0.20.2/Peercoin:0.11.2/|70016||||||
 154.53.54.97|/Satoshi:0.20.2/Peercoin:0.11.4/|70016||||||
-154.56.193.160|/Satoshi:0.20.2/Peercoin:0.11.0/|70016||||||
 159.196.168.155|/Satoshi:0.20.2/Peercoin:0.11.8/|70016||||||
 159.69.37.17|/Satoshi:0.20.2/Peercoin:0.11.1/|70016||||||
 161.35.95.39|/Satoshi:0.20.2/Peercoin:0.11.1/|70016||||||
@@ -38,24 +37,24 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 167.172.215.202|/Satoshi:0.20.2/Peercoin:0.11.1/|70016||||||
 167.86.116.187|/Satoshi:0.20.2/Peercoin:0.11.8/|70016||||||
 173.212.202.33|/Satoshi:0.20.2/Peercoin:0.11.0/|70016||||||
+176.101.2.205|/Satoshi:0.20.2/Peercoin:0.11.4/|70016||||||
 178.22.192.34|/Satoshi:0.20.2/Peercoin:0.11.7/|70016||||||
 178.22.192.64|/Satoshi:0.20.2/Peercoin:0.11.7/|70016||||||
 180.74.65.210|/Satoshi:0.20.2/Peercoin:0.11.1/|70016||||||
 184.181.35.187|/Satoshi:0.20.2/Peercoin:0.11.8/|70016||||||
 185.244.193.79|/Satoshi:0.20.2/Peercoin:0.11.8/|70016||||||
-188.166.12.97|/Satoshi:0.20.2/Peercoin:0.11.7/|70016||||||
+188.166.12.97|/Satoshi:0.20.2/Peercoin:0.11.7/|70016|14061|188.166.0.0/18|US|ripencc|2009-06-05|DIGITALOCEAN-ASN, US
 188.169.230.31|/Satoshi:0.20.2/Peercoin:0.11.4/|70016||||||
 188.170.205.204|/Satoshi:0.20.2/Peercoin:0.11.8/|70016||||||
 188.170.205.59|/Satoshi:0.20.2/Peercoin:0.11.8/|70016||||||
-188.22.204.164|/Satoshi:0.20.2/Peercoin:0.11.7/|70016||||||
+188.22.204.164|/Satoshi:0.20.2/Peercoin:0.11.7/|70016|8447|188.20.0.0/14|AT|ripencc|2009-02-03|A1TELEKOM-AT A1 Telekom Austria AG, AT
 188.243.182.166|/Satoshi:0.20.2/Peercoin:0.11.7/|70016||||||
 188.31.149.221|/Satoshi:0.20.2/Peercoin:0.11.0/|70016||||||
 195.138.71.80|/Satoshi:0.20.2/Peercoin:0.11.7/|70016||||||
 195.201.207.43|/Satoshi:0.20.2/Peercoin:0.11.8/|70016||||||
 195.50.206.74|/Satoshi:0.20.2/Peercoin:0.11.0/|70016||||||
 199.102.155.227|/Satoshi:0.20.2/Peercoin:0.11.1/|70016||||||
-199.127.62.235|Satoshi:0.20.2/Peercoin:0.11.4|70016||||||
-203.214.37.75|/Satoshi:0.20.2/Peercoin:0.11.7/|70016||||||
+199.127.62.235|Satoshi:0.20.2/Peercoin:0.11.4|70016|23470|199.127.62.0/24|US|arin|2017-05-24|RELIABLESITE, US
 203.91.242.55|/Satoshi:0.20.2/Peercoin:0.11.8/|70016||||||
 206.189.131.144|Satoshi:0.20.2/Peercoin:0.11.4|70016||||||
 212.102.36.25|/Satoshi:0.20.2/Peercoin:0.11.4/|70016||||||
@@ -84,7 +83,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 47.92.87.183|/Satoshi:0.20.2/Peercoin:0.11.1/|70016||||||
 5.79.200.130|/Satoshi:0.20.2/Peercoin:0.11.8/|70016||||||
 50.101.169.109|/Satoshi:0.20.2/Peercoin:0.11.8/|70016||||||
-50.99.20.71|/Satoshi:0.20.2/Peercoin:0.11.4/|70016||||||
 51.159.2.44|/Satoshi:0.20.2/Peercoin:0.11.0/|70016||||||
 51.178.76.85|/Satoshi:0.20.2/Peercoin:0.11.8/|70016||||||
 51.210.208.202|/Satoshi:0.20.2/Peercoin:0.11.8/|70016||||||
@@ -103,16 +101,17 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 73.142.139.2|/Satoshi:0.20.2/Peercoin:0.11.4/|70016||||||
 74.135.197.38|/Satoshi:0.20.2/Peercoin:0.11.3/|70016||||||
 74.44.207.163|/Satoshi:0.20.2/Peercoin:0.11.0/|70016||||||
-74.91.126.192|/Satoshi:0.20.2/Peercoin:0.11.2/|70016||||||
+74.91.126.192|/Satoshi:0.20.2/Peercoin:0.11.2/|70016|400475|74.91.126.0/24|US|arin|2011-04-13|NUCLEARFALLOUT-DAL, US
 76.67.202.152|/Satoshi:0.20.2/Peercoin:0.11.4/|70016||||||
 77.119.114.251|/Satoshi:0.20.2/Peercoin:0.11.8/|70016||||||
 77.20.240.125|/Satoshi:0.20.2/Peercoin:0.11.8/|70016||||||
 77.75.36.104|/Satoshi:0.20.2/Peercoin:0.11.1/|70016||||||
 78.115.18.37|/Satoshi:0.20.2/Peercoin:0.11.4/|70016||||||
-78.46.234.212|/Satoshi:0.20.2/Peercoin:0.11.2/|70016||||||
+78.46.234.212|/Satoshi:0.20.2/Peercoin:0.11.2/|70016|24940|78.46.0.0/15|DE|ripencc|2007-04-16|HETZNER-AS, DE
 78.99.35.20|/Satoshi:0.20.2/Peercoin:0.11.4/|70016||||||
 79.135.192.31|/Satoshi:0.20.2/Peercoin:0.11.7/|70016||||||
 79.137.67.138|/Satoshi:0.20.2/Peercoin:0.11.8/|70016||||||
+79.224.184.96|/Satoshi:0.20.2/Peercoin:0.11.8/|70016||||||
 82.62.15.254|/Satoshi:0.20.2/Peercoin:0.11.0/|70016||||||
 83.4.131.122|/Satoshi:0.20.2/Peercoin:0.11.0/|70016||||||
 84.151.55.18|/Satoshi:0.20.2/Peercoin:0.11.8/|70016||||||

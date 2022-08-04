@@ -3,14 +3,14 @@
 IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 103.249.89.22|/dimecoin:2.0.0/|70005||||||
 103.249.89.22|/dimecoin:2.0.0/|70006||||||
-103.249.89.24|/dimecoin:2.0.0/|70005|134055|103.249.89.0/24|IN|apnic|2013-05-31|INTERMEDIACABLE-AS Intermedia Cable Communication Pvt Ltd, IN
-103.249.89.24|/dimecoin:2.0.0/|70006|134055|103.249.89.0/24|IN|apnic|2013-05-31|INTERMEDIACABLE-AS Intermedia Cable Communication Pvt Ltd, IN
-104.238.156.58|/dimecoin:2.0.0/|70005|20473|104.238.156.0/23|US|arin|2014-11-13|AS-CHOOPA, US
-104.238.156.58|/dimecoin:2.0.0/|70006|20473|104.238.156.0/23|US|arin|2014-11-13|AS-CHOOPA, US
-104.248.244.51|/dimecoin:2.0.0/|70005|14061|104.248.240.0/20|US|arin|2018-08-06|DIGITALOCEAN-ASN, US
-104.248.244.51|/dimecoin:2.0.0/|70006|14061|104.248.240.0/20|US|arin|2018-08-06|DIGITALOCEAN-ASN, US
-108.35.91.133|/dimecoin:2.0.0/|70005|701|108.35.0.0/16|US|arin|2009-06-05|UUNET, US
-108.35.91.133|/dimecoin:2.0.0/|70006|701|108.35.0.0/16|US|arin|2009-06-05|UUNET, US
+103.249.89.24|/dimecoin:2.0.0/|70005||||||
+103.249.89.24|/dimecoin:2.0.0/|70006||||||
+104.238.156.58|/dimecoin:2.0.0/|70005||||||
+104.238.156.58|/dimecoin:2.0.0/|70006||||||
+104.248.244.51|/dimecoin:2.0.0/|70005||||||
+104.248.244.51|/dimecoin:2.0.0/|70006||||||
+108.35.91.133|/dimecoin:2.0.0/|70005||||||
+108.35.91.133|/dimecoin:2.0.0/|70006||||||
 109.154.200.239|/dimecoin:2.0.0/|70005||||||
 109.154.200.239|/dimecoin:2.0.0/|70006||||||
 123.20.229.186|/dimecoin:2.0.0/|70005||||||
@@ -85,6 +85,10 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 5.161.96.112|/dimecoin:2.0.0/|70006||||||
 5.184.80.119|/dimecoin:2.0.0/|70005||||||
 5.184.80.119|/dimecoin:2.0.0/|70006||||||
+5.184.86.22|/dimecoin:2.0.0/|70005||||||
+5.184.86.22|/dimecoin:2.0.0/|70006||||||
+5.184.93.60|/dimecoin:2.0.0/|70005||||||
+5.184.93.60|/dimecoin:2.0.0/|70006||||||
 5.188.173.19|/dimecoin:2.0.0/|70005||||||
 5.188.173.19|/dimecoin:2.0.0/|70006||||||
 5.196.91.94|/dimecoin:2.0.0/|70005||||||
@@ -151,11 +155,11 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 85.19.25.38|/dimecoin:2.0.0/|70006||||||
 85.27.5.230|/dimecoin:2.0.0/|70005||||||
 85.27.5.230|/dimecoin:2.0.0/|70006||||||
-88.99.164.174|/dimecoin:2.0.0/|70005|24940|88.99.0.0/16|DE|ripencc|2005-08-03|HETZNER-AS, DE
-88.99.164.174|/dimecoin:2.0.0/|70006|24940|88.99.0.0/16|DE|ripencc|2005-08-03|HETZNER-AS, DE
-93.136.115.84|/dimecoin:2.0.0/|70005|5391|93.136.0.0/16|HR|ripencc|2008-04-23|T-HT Croatian Telecom Inc., HR
-93.136.115.84|/dimecoin:2.0.0/|70006|5391|93.136.0.0/16|HR|ripencc|2008-04-23|T-HT Croatian Telecom Inc., HR
-93.136.35.220|/dimecoin:2.0.0/|70005|5391|93.136.0.0/16|HR|ripencc|2008-04-23|T-HT Croatian Telecom Inc., HR
-93.136.35.220|/dimecoin:2.0.0/|70006|5391|93.136.0.0/16|HR|ripencc|2008-04-23|T-HT Croatian Telecom Inc., HR
-98.109.212.115|/dimecoin:2.0.0/|70005|701|98.109.0.0/16|US|arin|2008-04-02|UUNET, US
-98.109.212.115|/dimecoin:2.0.0/|70006|701|98.109.0.0/16|US|arin|2008-04-02|UUNET, US
+88.99.164.174|/dimecoin:2.0.0/|70005||||||
+88.99.164.174|/dimecoin:2.0.0/|70006||||||
+93.136.115.84|/dimecoin:2.0.0/|70005||||||
+93.136.115.84|/dimecoin:2.0.0/|70006||||||
+93.136.35.220|/dimecoin:2.0.0/|70005||||||
+93.136.35.220|/dimecoin:2.0.0/|70006||||||
+98.109.212.115|/dimecoin:2.0.0/|70005||||||
+98.109.212.115|/dimecoin:2.0.0/|70006||||||

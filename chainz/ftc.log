@@ -4,7 +4,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 1.13.171.254|/Feathercoin:0.19.1/|70016||||||
 104.238.221.41|Feathercoin:0.19.1|70016||||||
 115.64.153.192|/Feathercoin:0.19.1/|70016||||||
-13.209.60.161|/Feathercoin:0.19.1/|70016|16509|13.209.0.0/16|US|arin|2019-10-01|AMAZON-02, US
+13.209.60.161|/Feathercoin:0.19.1/|70016||||||
 139.162.205.147|/Feathercoin:0.19.1/|70016||||||
 139.162.246.207|/Feathercoin:0.19.1/|70016||||||
 139.59.154.236|/Feathercoin:0.19.1/|70016||||||
@@ -22,7 +22,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 176.9.50.227|/Feathercoin:0.17.0/|70016||||||
 178.18.247.153|/Feathercoin:0.19.1/|70016||||||
 178.187.35.222|/FeathercoinJ:0.99/Feathercoin Wallet:3.05/|70006||||||
-178.62.114.74|Feathercoin:0.19.1|70016||||||
+178.62.114.74|Feathercoin:0.19.1|70016|14061|178.62.64.0/18|US|ripencc|2010-02-26|DIGITALOCEAN-ASN, US
 188.126.9.83|/Feathercoin:0.19.1/|70016||||||
 188.131.162.86|/btc-seeder:0.0001/|70013||||||
 188.166.227.187|/Feathercoin:0.19.1/|70016||||||
@@ -31,7 +31,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 195.201.160.242|/Feathercoin:0.19.1/|70016||||||
 198.100.149.160|/Feathercoin:0.19.1/|70016||||||
 198.211.45.20|/Feathercoin:0.19.1/|70016||||||
-199.127.62.235|Feathercoin:0.19.1|70016||||||
+199.127.62.235|Feathercoin:0.19.1|70016|23470|199.127.62.0/24|US|arin|2017-05-24|RELIABLESITE, US
 206.189.131.144|Feathercoin:0.19.1|70016||||||
 217.240.193.12|/Feathercoin:0.18.3/|70016||||||
 23.227.150.229|/Feathercoin:0.18.2/|70016||||||
@@ -45,7 +45,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 62.12.153.168|/Feathercoin:0.19.1/|70016||||||
 64.98.75.19|/Feathercoin:0.19.1/|70016||||||
 65.21.140.149|/Feathercoin:0.19.1/|70016||||||
-69.30.211.114|/Feathercoin:0.18.3/|70016|32097|69.30.192.0/18|US|arin|2004-03-16|WII, US
+69.30.211.114|/Feathercoin:0.18.3/|70016||||||
 71.205.64.85|/Feathercoin:0.19.1/|70016||||||
 73.8.234.217|/Feathercoin:0.19.1/|70016||||||
 73.8.240.113|/Feathercoin:0.18.3/|70016||||||
@@ -58,11 +58,10 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 82.66.94.6|/Feathercoin:0.19.1/|70016||||||
 83.233.2.113|/Feathercoin:0.19.1/|70016||||||
 88.80.187.187|/litecoin-seeder:0.01/|70002||||||
-93.228.68.141|/Feathercoin:0.13.1/|70015||||||
+93.228.71.228|/Feathercoin:0.13.1/|70015||||||
 94.194.130.24|/Feathercoin:0.19.1/|70016||||||
 95.217.78.168|/Feathercoin:0.13.0/|70015||||||
 95.79.111.243|/Feathercoin:0.19.1/|70016||||||
 96.37.112.186|/Feathercoin:0.19.1/|70016||||||
-97.120.175.167|/Feathercoin:0.19.1/|70016||||||
 98.202.227.110|/Feathercoin:0.18.3/|70016||||||
-98.51.39.225|/Feathercoin:0.13.1/|70015||||||
+98.51.39.225|/Feathercoin:0.13.1/|70015|7922|98.32.0.0/11|US|arin|2007-06-06|COMCAST-7922, US
