@@ -4,14 +4,13 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 101.177.207.134|/Satoshi:0.20.2/Peercoin:0.11.8/|70016||||||
 104.238.221.41|Satoshi:0.20.2/Peercoin:0.11.4|70016||||||
 109.60.60.32|/Satoshi:0.20.2/Peercoin:0.11.8/|70016||||||
-109.60.63.48|/Satoshi:0.20.2/Peercoin:0.11.8/|70016||||||
 109.80.194.146|/Satoshi:0.20.2/Peercoin:0.11.8/|70016||||||
 111.85.66.227|/Satoshi:0.20.2/Peercoin:0.11.0/|70016||||||
 111.85.71.166|/Satoshi:0.20.2/Peercoin:0.11.0/|70016||||||
 112.133.37.231|/Satoshi:0.20.2/Peercoin:0.11.1/|70016||||||
 114.125.59.69|/Satoshi:0.20.2/Peercoin:0.11.3/|70016||||||
 118.211.121.149|/Satoshi:0.20.2/Peercoin:0.11.7/|70016||||||
-119.123.199.158|/Satoshi:0.20.2/Peercoin:0.11.7/|70016||||||
+119.123.199.158|/Satoshi:0.20.2/Peercoin:0.11.7/|70016|4134|119.120.0.0/13|CN|apnic|2008-02-07|CHINANET-BACKBONE No.31,Jin-rong Street, CN
 121.98.52.216|/Satoshi:0.20.2/Peercoin:0.11.0/|70016||||||
 122.228.157.92|/Satoshi:0.20.2/Peercoin:0.11.4/|70016||||||
 128.199.40.35|/Satoshi:0.20.2/Peercoin:0.11.7/|70016||||||
@@ -45,7 +44,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 180.74.65.210|/Satoshi:0.20.2/Peercoin:0.11.1/|70016||||||
 184.181.35.187|/Satoshi:0.20.2/Peercoin:0.11.8/|70016||||||
 185.244.193.79|/Satoshi:0.20.2/Peercoin:0.11.8/|70016||||||
-188.166.12.97|/Satoshi:0.20.2/Peercoin:0.11.7/|70016||||||
+188.166.12.97|/Satoshi:0.20.2/Peercoin:0.11.7/|70016|14061|188.166.0.0/18|US|ripencc|2009-06-05|DIGITALOCEAN-ASN, US
 188.169.230.31|/Satoshi:0.20.2/Peercoin:0.11.4/|70016||||||
 188.170.205.59|/Satoshi:0.20.2/Peercoin:0.11.8/|70016||||||
 188.22.204.164|/Satoshi:0.20.2/Peercoin:0.11.7/|70016||||||
@@ -94,7 +93,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 58.153.75.8|/Satoshi:0.20.2/Peercoin:0.11.8/|70016||||||
 62.112.9.165|/Satoshi:0.20.2/Peercoin:0.11.8/|70016||||||
 62.112.9.237|/Satoshi:0.20.2/Peercoin:0.11.8/|70016||||||
-62.143.247.196|/Satoshi:0.20.2/Peercoin:0.11.7/|70016|3209|62.143.128.0/17|DE|ripencc|2001-08-16|VODANET International IP-Backbone of Vodafone, DE
+62.143.247.196|/Satoshi:0.20.2/Peercoin:0.11.7/|70016||||||
 66.70.182.1|/Satoshi:0.20.2/Peercoin:0.11.4/|70016||||||
 68.105.170.159|/Satoshi:0.20.2/Peercoin:0.11.0/|70016||||||
 69.107.129.201|/Satoshi:0.20.2/Peercoin:0.11.7/|70016||||||
@@ -114,7 +113,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 79.135.192.31|/Satoshi:0.20.2/Peercoin:0.11.7/|70016||||||
 79.137.67.138|/Satoshi:0.20.2/Peercoin:0.11.8/|70016||||||
 82.62.15.254|/Satoshi:0.20.2/Peercoin:0.11.0/|70016||||||
-83.235.109.88|/Satoshi:0.20.2/Peercoin:0.11.8/|70016|6799|83.235.0.0/16|GR|ripencc|2004-02-10|OTENET-GR Athens - Greece, GR
+83.235.109.88|/Satoshi:0.20.2/Peercoin:0.11.8/|70016||||||
 83.4.131.122|/Satoshi:0.20.2/Peercoin:0.11.0/|70016||||||
 84.151.55.18|/Satoshi:0.20.2/Peercoin:0.11.8/|70016||||||
 84.61.255.40|/Satoshi:0.20.2/Peercoin:0.11.8/|70016||||||
@@ -126,6 +125,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 88.145.122.117|/Satoshi:0.20.2/Peercoin:0.11.1/|70016||||||
 88.99.235.240|/Satoshi:0.20.2/Peercoin:0.11.0/|70016||||||
 89.1.210.220|/Satoshi:0.20.2/Peercoin:0.11.2/|70016||||||
+91.246.66.175|/Satoshi:0.20.2/Peercoin:0.11.0/|70016||||||
 91.44.80.144|/Satoshi:0.20.2/Peercoin:0.11.8/|70016||||||
 91.44.82.87|/Satoshi:0.20.2/Peercoin:0.11.8/|70016||||||
 92.194.126.136|/Satoshi:0.20.2/Peercoin:0.11.0/|70016||||||
@@ -141,6 +141,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 95.217.78.81|/Satoshi:0.20.2/Peercoin:0.11.0/|70016||||||
 95.65.35.43|/Satoshi:0.20.2/Peercoin:0.11.8/|70016||||||
 95.91.242.230|/Satoshi:0.20.2/Peercoin:0.11.1/|70016||||||
+96.22.170.162|/Satoshi:0.20.2/Peercoin:0.11.4/|70016||||||
 96.235.188.152|/Satoshi:0.20.2/Peercoin:0.11.8/|70016||||||
 98.128.202.218|/Satoshi:0.20.2/Peercoin:0.11.8/|70016||||||
 98.155.181.178|/Satoshi:0.20.2/Peercoin:0.11.4/|70016||||||

@@ -28,11 +28,10 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 181.214.218.23|/KlausFuchs:2.2.2.2/|60018||||||
 184.155.36.186|/KlausFuchs:2.2.2.2/|60018||||||
 185.246.209.146|/KlausFuchs:2.2.2.2/|60018||||||
+187.190.174.255|/KlausFuchs:2.2.2.2/|60018||||||
 192.145.116.28|/KlausFuchs:2.2.2.2/|60018||||||
 193.70.44.101|/KlausFuchs:2.2.2.2/|60018||||||
-194.126.177.24|/KlausFuchs:2.2.2.2/|60018||||||
 194.126.177.42|/KlausFuchs:2.2.2.2/|60018||||||
-194.126.177.65|/KlausFuchs:2.2.2.2/|60018||||||
 194.126.177.68|/KlausFuchs:2.2.2.2/|60018||||||
 2.37.188.165|/KlausFuchs:2.2.2.2/|60018||||||
 211.219.203.174|/KlausFuchs:2.2.2.2/|60018||||||
@@ -66,6 +65,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 63.155.88.184|/KlausFuchs:2.2.2.2/|60018||||||
 66.252.38.254|/KlausFuchs:2.2.2.2/|60018||||||
 66.252.51.132|/KlausFuchs:2.2.2.2/|60018||||||
+66.252.51.210|/KlausFuchs:2.2.2.2/|60018||||||
 66.81.176.208|/KlausFuchs:2.2.2.2/|60018||||||
 68.37.51.43|/KlausFuchs:2.2.2.1/|60018||||||
 70.114.134.82|/KlausFuchs:2.2.2.2/|60018||||||
@@ -78,7 +78,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 78.173.81.60|/KlausFuchs:2.2.2.2/|60018||||||
 79.140.124.10|/KlausFuchs:2.2.2.2/|60018||||||
 79.143.186.122|/KlausFuchs:2.2.2.2/|60018||||||
-79.59.255.93|/KlausFuchs:2.2.2.2/|60018||||||
+79.59.255.93|/KlausFuchs:2.2.2.2/|60018|3269|79.59.0.0/16|IT|ripencc|2007-02-21|ASN-IBSNAZ, IT
 82.115.12.2|/KlausFuchs:2.2.2.2/|60018||||||
 82.73.36.26|/KlausFuchs:2.2.2.2/|60018||||||
 83.128.101.141|/KlausFuchs:2.2.2.2/|60018||||||

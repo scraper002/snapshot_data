@@ -1,8 +1,8 @@
 # https://chainz.cryptoid.info/ and whois results
 # BitConnect Coin
 IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
-1.54.252.53|/Satoshi:1.0.0/|60013|18403|1.54.252.0/24|VN|apnic|2010-05-26|FPT-AS-AP FPT Telecom Company, VN
-1.54.252.53|/Satoshi:1.0.0/|60014|18403|1.54.252.0/24|VN|apnic|2010-05-26|FPT-AS-AP FPT Telecom Company, VN
+1.54.252.53|/Satoshi:1.0.0/|60013||||||
+1.54.252.53|/Satoshi:1.0.0/|60014||||||
 1.55.14.86|/Satoshi:1.0.0/|60013||||||
 1.55.14.86|/Satoshi:1.0.0/|60014||||||
 101.161.201.219|/Satoshi:1.0.0/|60013||||||
@@ -43,8 +43,8 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 124.120.118.228|/Satoshi:1.0.0/|60014||||||
 124.170.106.71|/Satoshi:1.0.0/|60013||||||
 124.170.106.71|/Satoshi:1.0.0/|60014||||||
-14.10.66.160|/Satoshi:1.0.0/|60013|2516|14.10.0.0/15|JP|apnic|2010-08-17|KDDI KDDI CORPORATION, JP
-14.10.66.160|/Satoshi:1.0.0/|60014|2516|14.10.0.0/15|JP|apnic|2010-08-17|KDDI KDDI CORPORATION, JP
+14.10.66.160|/Satoshi:1.0.0/|60013||||||
+14.10.66.160|/Satoshi:1.0.0/|60014||||||
 142.11.236.254|/Satoshi:1.0.0/|60013||||||
 142.11.236.254|/Satoshi:1.0.0/|60014||||||
 144.202.27.52|/Satoshi:1.0.0/|60013||||||
@@ -65,6 +65,8 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 171.249.239.83|/Satoshi:1.0.0/|60014||||||
 172.98.33.167|/Satoshi:1.0.0/|60013||||||
 172.98.33.167|/Satoshi:1.0.0/|60014||||||
+178.132.223.2|/Satoshi:1.0.0/|60013||||||
+178.132.223.2|/Satoshi:1.0.0/|60014||||||
 178.151.214.196|/Satoshi:1.0.0/|60013||||||
 178.151.214.196|/Satoshi:1.0.0/|60014||||||
 185.199.102.98|/Satoshi:1.0.0/|60013||||||
@@ -91,8 +93,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 217.114.224.0|/Satoshi:1.0.0/|60014||||||
 217.114.224.12|/Satoshi:1.0.0/|60013||||||
 217.114.224.12|/Satoshi:1.0.0/|60014||||||
-217.114.224.3|/Satoshi:1.0.0/|60013||||||
-217.114.224.3|/Satoshi:1.0.0/|60014||||||
 218.164.112.114|/Satoshi:1.0.0/|60013||||||
 218.164.112.114|/Satoshi:1.0.0/|60014||||||
 222.114.151.167|/Satoshi:1.0.0/|60013||||||

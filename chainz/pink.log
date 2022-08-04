@@ -41,7 +41,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 23.227.150.229|/Pinkcoin:2.3.1/|60018||||||
 24.2.254.54|/Pinkcoin:2.3.1/|60018||||||
 24.229.236.161|/Pinkcoin:2.4.0/|60019||||||
-27.138.155.95|/Pinkcoin:2.4.0/|60019|9824|27.138.0.0/16|JP|apnic|2010-04-14|JTCL-JP-AS JCOM Co., Ltd., JP
+27.138.155.95|/Pinkcoin:2.4.0/|60019||||||
 3.237.38.55|/Pinkcoin:2.4.0/|60019||||||
 31.178.215.130|/Pinkcoin:2.4.0/|60019||||||
 34.90.96.17|/Pinkcoin:2.3.1/|60018||||||
@@ -61,7 +61,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 65.21.203.156|/Pinkcoin:2.3.1/|60018||||||
 68.76.151.174|/Pinkcoin:2.3.1/|60018||||||
 69.119.193.9|/Pinkcoin:2.4.0/|60019||||||
-71.120.206.144|/Pinkcoin:2.3.1/|60018|701|71.120.128.0/17|US|arin|2005-01-18|UUNET, US
+71.120.206.144|/Pinkcoin:2.3.1/|60018||||||
 71.87.247.163|/Pinkcoin:2.4.0/|60019||||||
 78.26.178.235|/Pinkcoin:2.4.0/|60019||||||
 80.104.45.239|/Pinkcoin:2.4.0/|60019||||||
@@ -71,7 +71,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 86.58.11.152|/Pinkcoin:2.4.0/|60019||||||
 86.95.107.144|/Pinkcoin:2.3.1/|60018||||||
 87.123.240.49|/Pinkcoin:2.4.0/|60019||||||
-87.123.240.61|/Pinkcoin:2.4.0/|60019||||||
+87.123.240.61|/Pinkcoin:2.4.0/|60019|8881|87.123.240.0/21|DE|ripencc|2005-07-27|VERSATEL, DE
 88.198.238.126|/Pinkcoin:2.3.1/|60018||||||
 95.179.165.154|/Pinkcoin:2.4.0/|60019||||||
 95.217.78.169|/Pinkcoin:2.3.1/|60018||||||
