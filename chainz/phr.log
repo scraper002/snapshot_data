@@ -25,7 +25,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 165.22.76.130|/Phore Core:1.8.0/|70009||||||
 167.179.115.39|/Phore Core:1.7.0/|70008||||||
 167.86.124.248|/Phore Core:1.8.0/|70009||||||
-167.86.79.43|/Phore Core:1.8.0/|70009|51167|167.86.78.0/23|DE|ripencc|1993-05-14|CONTABO, DE
+167.86.79.43|/Phore Core:1.8.0/|70009||||||
 167.86.90.25|/Phore Core:1.8.0/|70009||||||
 167.86.96.250|/Phore Core:1.8.0/|70009||||||
 173.249.29.110|/Phore Core:1.8.0/|70009||||||
@@ -68,12 +68,13 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 207.180.242.187|/Phore Core:1.7.1/|70009||||||
 209.126.0.126|/Phore Core:1.8.0/|70009||||||
 209.126.81.51|/Phore Core:1.7.1/|70009||||||
-209.126.81.52|/Phore Core:1.7.1/|70009|40021|209.126.80.0/21|US|arin|2021-03-18|CONTABO, US
-209.126.9.201|/Phore Core:1.7.1/|70009|40021|209.126.0.0/20|US|arin|2020-03-02|CONTABO, US
+209.126.81.52|/Phore Core:1.7.1/|70009||||||
+209.126.9.201|/Phore Core:1.7.1/|70009||||||
 213.239.209.41|/Phore Core:1.7.0/|70008||||||
 216.147.125.139|/Phore Core:1.8.0/|70009||||||
 216.240.252.80|/Phore Core:1.7.1/|70009||||||
 27.121.109.199|/Phore Core:1.8.0/|70009||||||
+27.96.212.61|/Phore Core:1.7.1/|70009||||||
 37.18.254.196|/Phore Core:1.7.1/|70009||||||
 38.242.214.134|/Phore Core:1.8.0/|70009||||||
 43.227.255.121|/Phore Core:1.7.0/|70008||||||
@@ -85,7 +86,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 46.165.62.127|/Phore Core:1.7.1/|70009||||||
 5.189.63.143|/Phore Core:1.7.1/|70009||||||
 62.138.3.131|/Phore Core:1.7.0/|70008||||||
-62.138.6.9|/Phore Core:1.7.0/|70008|8972|62.138.6.0/24|DE|ripencc|2000-09-19|GD-EMEA-DC-SXB1, DE
+62.138.6.9|/Phore Core:1.7.0/|70008||||||
 62.138.7.229|/Phore Core:1.7.0/|70008||||||
 62.171.150.111|/Phore Core:1.7.0/|70008||||||
 65.108.101.102|/Phore Core:1.8.0/|70009||||||
@@ -95,9 +96,8 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 65.21.148.238|/Phore Core:1.7.0/|70008||||||
 68.183.202.24|/Phore Core:1.8.0/|70009||||||
 69.109.238.146|/Phore Core:1.8.0/|70009||||||
-71.167.7.57|/Phore Core:1.7.1/|70009|701|71.167.0.0/17|US|arin|2005-06-01|UUNET, US
+71.167.7.57|/Phore Core:1.7.1/|70009||||||
 71.190.78.98|/Phore Core:1.8.0/|70009||||||
-72.213.132.105|/Phore Core:1.7.1/|70009||||||
 75.119.155.29|/Phore Core:1.8.0/|70009||||||
 75.119.159.160|/Phore Core:1.7.0/|70008||||||
 75.162.227.0|/Phore Core:1.8.0/|70009||||||
@@ -108,7 +108,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 78.46.37.50|/Phore Core:1.8.0/|70009||||||
 80.221.46.73|/Phore Core:1.8.0/|70009||||||
 82.181.29.50|/Phore Core:1.7.1/|70009||||||
-84.166.32.238|/Phore Core:1.7.1/|70009|3320|84.128.0.0/10|DE|ripencc|2004-03-10|DTAG Internet service provider operations, DE
+84.166.32.238|/Phore Core:1.7.1/|70009||||||
 84.17.63.9|/Phore Core:1.7.1/|70009||||||
 84.62.30.89|/Phore Core:1.8.0/|70009||||||
 85.187.182.189|/Phore Core:1.8.0/|70009||||||

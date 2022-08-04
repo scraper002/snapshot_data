@@ -24,7 +24,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 159.203.85.176|/Groestlcoin:23.0.0/|70016||||||
 162.243.116.31|/Groestlcoin:23.0.0/|70016||||||
 172.58.37.213|/Groestlcoin:22.0.0/|70016||||||
-178.200.105.125|/Groestlcoin:22.0.0/|70016||||||
+178.200.105.125|/Groestlcoin:22.0.0/|70016|3209|178.200.0.0/15|DE|ripencc|2010-03-16|VODANET International IP-Backbone of Vodafone, DE
 18.176.159.241|/Groestlcoin:2.19.1/|70015||||||
 188.166.19.174|/Groestlcoin:2.17.2/|70015||||||
 188.172.220.73|/Groestlcoin:2.17.2/|70015||||||
@@ -37,9 +37,8 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 206.189.131.144|Groestlcoin:22.0.0|70016||||||
 217.122.10.64|/groestlcoinj:0.16.1/Groestlcoin Wallet:9.03/|70013||||||
 23.239.10.171|/Groestlcoin:2.21.1/|70016||||||
-34.231.68.33|/Groestlcoin:2.21.1/|70016||||||
-40.118.232.138|/Groestlcoin:2.21.1/|70016||||||
-45.32.33.53|/Groestlcoin:23.0.0/|70016||||||
+34.231.68.33|/Groestlcoin:2.21.1/|70016|14618|34.224.0.0/12|US|arin|2016-09-12|AMAZON-AES, US
+40.118.232.138|/Groestlcoin:2.21.1/|70016|8075|40.112.0.0/13|US|arin|2015-02-23|MICROSOFT-CORP-MSN-AS-BLOCK, US
 45.55.208.58|/Groestlcoin:23.0.0/|70016||||||
 45.55.208.60|/Groestlcoin:23.0.0/|70016||||||
 45.63.25.237|/Groestlcoin:23.0.0/|70016||||||

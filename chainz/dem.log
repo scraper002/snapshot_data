@@ -19,7 +19,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 195.90.208.175|/eMark:1.6.1.2/|60012||||||
 195.90.211.174|/eMark:1.6.1.2/|60012||||||
 206.72.198.107|/eMark:1.6.1/|60012|19318|206.72.192.0/20|US|arin|2011-10-03|IS-AS-1, US
-207.89.76.178|/eMark:1.6.1.2/|60012||||||
+207.89.76.178|/eMark:1.6.1.2/|60012|58243|207.89.64.0/20|DE|ripencc|1996-03-27|TELEAG, DE
 208.110.169.2|/eMark:1.6.1.2/|60012||||||
 212.124.6.136|/eMark:1.6.1.2/|60012||||||
 213.136.80.217|/eMark:1.6.1.2/|60012||||||
@@ -30,24 +30,23 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 217.87.165.153|/eMark Android:1.0.0/|60011|3320|217.80.0.0/12|DE|ripencc|2000-10-26|DTAG Internet service provider operations, DE
 217.95.61.178|/eMark:1.6.1.2/|60012||||||
 217.95.61.202|/eMark:1.6.1.2/|60012||||||
-31.42.10.1|/eMark:1.6.1.2/|60012||||||
+31.42.10.1|/eMark:1.6.1.2/|60012|49528|31.42.0.0/20|PL|ripencc|2011-03-03|ALFANET-PL-AS, PL
 45.142.176.172|/eMark:1.6.1/|60012|197540|45.142.176.0/22|DE|ripencc|2019-08-19|NETCUP-AS netcup GmbH, DE
 46.232.249.107|/eMark:1.6.1/|60012|197540|46.232.248.0/22|DE|ripencc|2018-06-15|NETCUP-AS netcup GmbH, DE
-46.81.193.127|/eMark:1.6.1.2/|60012||||||
+46.81.193.127|/eMark:1.6.1.2/|60012|3320|46.80.0.0/12|DE|ripencc|2010-06-07|DTAG Internet service provider operations, DE
 47.156.122.218|/eMark:1.6.1.2/|60012||||||
-5.146.209.42|/eMark:1.6.1.2/|60012||||||
-5.146.211.190|/eMark:1.6.1.2/|60012||||||
-5.45.106.180|/eMark:1.6.1.2/|60012||||||
-62.1.240.181|/eMark:1.6.1.2/|60012||||||
-62.176.239.21|/eMark:1.6.1.2/|60012||||||
-69.180.65.143|/eMark:1.6.1.2/|60012||||||
-70.100.141.187|/eMark:1.6.1.2/|60012||||||
+5.146.209.42|/eMark:1.6.1.2/|60012|3209|5.146.0.0/16|DE|ripencc|2012-07-13|VODANET International IP-Backbone of Vodafone, DE
+5.146.211.190|/eMark:1.6.1.2/|60012|3209|5.146.0.0/16|DE|ripencc|2012-07-13|VODANET International IP-Backbone of Vodafone, DE
+5.45.106.180|/eMark:1.6.1.2/|60012|197540|5.45.96.0/20|DE|ripencc|2012-05-24|NETCUP-AS netcup GmbH, DE
+62.1.240.181|/eMark:1.6.1.2/|60012|1241|62.1.128.0/17|GR|ripencc|2000-02-16|FORTHNET-GR Forthnet, EU
+62.176.239.21|/eMark:1.6.1.2/|60012|9136|62.176.224.0/19|DE|ripencc|2003-04-11|WOBCOM, DE
+69.180.65.143|/eMark:1.6.1.2/|60012|7922|69.180.0.0/15|US|arin|2004-02-18|COMCAST-7922, US
+70.100.141.187|/eMark:1.6.1.2/|60012|5650|70.100.0.0/15|US|arin|2004-09-09|FRONTIER-FRTR, US
 73.241.213.2|/eMark:1.5.1/|60011|7922|73.0.0.0/8|US|arin|2005-04-19|COMCAST-7922, US
 77.165.67.182|/eMark:1.5.1/|60011|1136|77.160.0.0/13|NL|ripencc|2006-11-02|KPN KPN National, NL
-77.166.187.79|/eMark:1.6.1.2/|60012||||||
-78.26.176.4|/eMark:1.6.1.2/|60012||||||
-79.206.106.31|/eMark:1.5.0/|60011|3320|79.192.0.0/10|DE|ripencc|2007-06-06|DTAG Internet service provider operations, DE
-79.211.160.65|/eMark:1.6.1.2/|60012||||||
+77.166.187.79|/eMark:1.6.1.2/|60012|1136|77.160.0.0/13|NL|ripencc|2006-11-02|KPN KPN National, NL
+78.26.176.4|/eMark:1.6.1.2/|60012|34187|78.26.128.0/18|UA|ripencc|2007-08-29|RENOME-AS, UA
+79.211.160.65|/eMark:1.6.1.2/|60012|3320|79.192.0.0/10|DE|ripencc|2007-06-06|DTAG Internet service provider operations, DE
 79.211.168.244|/eMark:1.6.1.2/|60012|3320|79.192.0.0/10|DE|ripencc|2007-06-06|DTAG Internet service provider operations, DE
 79.226.205.133|/eMark:1.5.1/|60011|3320|79.192.0.0/10|DE|ripencc|2007-06-06|DTAG Internet service provider operations, DE
 79.230.74.13|/eMark:1.6.1.2/|60012|3320|79.192.0.0/10|DE|ripencc|2007-06-06|DTAG Internet service provider operations, DE

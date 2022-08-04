@@ -2,9 +2,8 @@
 # BlackCoin
 IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 1.14.146.223|/Blackcoin More:2.13.2.9/|70013||||||
-1.205.150.209|/Blackcoin More:2.13.2.9/|70013||||||
 104.238.221.41|Blackcoin More:2.13.2.8|70713||||||
-104.249.62.105|???|0||||||
+104.249.62.105|/Blackcoin More:2.13.2.9/|70013||||||
 104.255.169.131|/Blackcoin More:2.13.2.9/|70013||||||
 109.193.165.194|/Blackcoin More:2.13.2.9/|70013||||||
 109.65.37.140|/Blackcoin More:2.13.2.7/|70013||||||
@@ -14,7 +13,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 116.203.82.109|/Blackcoin More:2.13.2.9/|70013||||||
 119.123.199.158|/Blackcoin More:2.13.2.9/|70013||||||
 119.3.138.218|/Blackcoin More:2.13.2.8/|70013||||||
-119.45.242.241|/Blackcoin More:2.13.2.8/|70013|45090|119.45.240.0/20|CN|apnic|2008-01-03|TENCENT-NET-AP Shenzhen Tencent Computer Systems Company Limited, CN
+119.45.242.241|/Blackcoin More:2.13.2.8/|70013||||||
 125.228.69.196|/Blackcoin More:2.13.2.9/|70013||||||
 135.181.116.234|/Blackcoin More:2.13.2.9/|70013||||||
 136.53.88.111|/Satoshi:2.12.1/|70012||||||
@@ -40,7 +39,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 176.10.172.70|/Blackcoin More:2.13.2.9/|70013||||||
 176.147.41.160|/Blackcoin More:2.13.2.9/|70013||||||
 176.198.78.79|/Blackcoin More:2.13.2.9/|70013||||||
-178.239.168.216|/Blackcoin More:2.13.2.9/|70013||||||
 178.254.26.229|/Blackcoin More:2.13.2.8/|70013||||||
 178.254.34.173|/Blackcoin More:2.13.2.8/|70013||||||
 178.62.114.74|Blackcoin More:2.13.2.8|70713||||||
@@ -51,28 +49,29 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 185.220.100.242|/Blackcoin More:2.13.2.3/|70013||||||
 185.245.85.105|/Blackcoin More:2.13.2.9/|70013||||||
 185.245.85.108|/Blackcoin More:2.13.2.9/|70013||||||
+190.189.225.193|/Blackcoin More:2.13.2.9/|70013||||||
 193.164.140.87|/Blackcoin More:2.13.2.9/|70013||||||
 195.181.171.227|/Blackcoin More:2.13.2.9/|70013||||||
 195.181.171.229|/Blackcoin More:2.13.2.9/|70013||||||
-195.181.171.232|/Blackcoin More:2.13.2.9/|70013|60068|195.181.171.0/24|GB|ripencc|1997-03-20|CDN77 ^_^, GB
+195.181.171.232|/Blackcoin More:2.13.2.9/|70013||||||
 195.181.171.234|/Blackcoin More:2.13.2.9/|70013||||||
-195.181.171.237|/Blackcoin More:2.13.2.9/|70013||||||
+195.181.171.237|/Blackcoin More:2.13.2.9/|70013|60068|195.181.171.0/24|GB|ripencc|1997-03-20|CDN77 ^_^, GB
 195.181.171.239|/Blackcoin More:2.13.2.9/|70013||||||
 195.181.171.242|/Blackcoin More:2.13.2.9/|70013||||||
 195.181.171.244|/Blackcoin More:2.13.2.9/|70013||||||
 195.181.171.250|/Blackcoin More:2.13.2.9/|70013||||||
 195.201.104.49|/Blackcoin More:2.13.2.9/|70013||||||
-195.206.169.252|/Blackcoin More:2.13.2.9/|70013||||||
+195.206.169.252|/Blackcoin More:2.13.2.9/|70013|25369|195.206.169.0/24|GB|ripencc|1998-02-17|BANDWIDTH-AS, GB
 199.127.62.235|Blackcoin More:2.13.2.8|70713||||||
 199.241.187.130|/Blackcoin More:2.13.2.7/|70013||||||
 199.96.237.202|/Blackcoin More:2.13.2.8/|70013||||||
+2.203.85.200|/Blackcoin More:2.13.2.8/|70013||||||
 20.73.195.154|/Blackcoin More:2.13.2.8/|70013||||||
 204.111.39.38|/Blackcoin More:2.13.2.6/|70013||||||
 206.189.131.144|Blackcoin More:2.13.2.8|70713||||||
 212.102.42.197|/Blackcoin More:2.13.2.8/|70013||||||
 213.114.228.96|/Blackcoin More:2.13.2.8/|70013|2119|213.112.0.0/14|SE|ripencc|2000-12-15|TELENOR-NEXTEL Telenor Norge AS, NO
-213.152.165.98|/Blackcoin More:2.13.2.9/|70013||||||
-213.166.86.94|/Blackcoin More:2.13.2.9/|70013||||||
+213.152.165.98|/Blackcoin More:2.13.2.9/|70013|49453|213.152.165.0/24|NL|ripencc|2010-07-09|GLOBALLAYER, NL
 217.146.82.194|/Blackcoin More:2.13.2.9/|70013||||||
 217.146.82.253|/Blackcoin More:2.13.2.9/|70013||||||
 217.146.83.110|/Blackcoin More:2.13.2.9/|70013||||||
@@ -111,7 +110,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 80.109.142.124|/Blackcoin More:2.13.2.9/|70013||||||
 81.158.187.134|/Blackcoin More:2.13.2.8/|70013||||||
 81.19.214.31|/Blackcoin More:2.13.2.9/|70013||||||
-81.19.214.66|/Blackcoin More:2.13.2.9/|70013||||||
 81.69.250.50|/Blackcoin More:2.13.2.7/|70013||||||
 84.115.232.154|/Blackcoin More:2.13.2.9/|70013||||||
 84.199.52.154|/Blackcoin More:2.13.2.8/|70013||||||
@@ -124,7 +122,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 88.198.238.126|/Blackcoin More:2.13.2.8/|70013||||||
 89.221.13.194|/Blackcoin More:2.13.2.7/|70013||||||
 89.35.29.115|/Blackcoin More:2.13.2.9/|70013||||||
-89.35.29.65|/Blackcoin More:2.13.2.9/|70013||||||
 91.60.107.70|/Blackcoin More:2.13.2.8/|70013||||||
 92.119.16.73|/Blackcoin More:2.13.2.9/|70013||||||
 92.119.16.75|/Blackcoin More:2.13.2.9/|70013||||||
