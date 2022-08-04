@@ -5,8 +5,8 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 135.181.132.16|/Beenode Core:0.9.1.7/|70215||||||
 135.181.82.248|/Beenode Core:0.9.1.7/|70215||||||
 138.201.136.236|/Beenode Core:0.9.1.7/|70215||||||
-167.86.127.48|/Beenode Core:0.9.1.7/|70215|51167|167.86.126.0/23|DE|ripencc|1993-05-14|CONTABO, DE
-173.249.15.142|/Beenode Core:0.9.1.6/|70215||||||
+167.86.127.48|/Beenode Core:0.9.1.7/|70215||||||
+173.249.15.142|/Beenode Core:0.9.1.6/|70215|51167|173.249.14.0/23|DE|ripencc|2010-05-26|CONTABO, DE
 173.249.15.232|/Beenode Core:0.9.1.7/|70215||||||
 173.249.31.227|/Beenode Core:0.9.1.7/|70215||||||
 176.226.129.60|/Beenode Core:0.9.1.6/|70215||||||
@@ -21,7 +21,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 194.58.104.61|/Beenode Core:0.9.1.7/|70215||||||
 194.58.122.11|/Beenode Core:0.9.1.7/|70215||||||
 194.67.104.28|/Beenode Core:0.9.1.7/|70215||||||
-212.86.114.135|/Beenode Core:0.9.1.5/|70215|204601|212.86.114.0/24|NL|ripencc|1999-11-10|ON-LINE-DATA Server location - Netherlands, Dronten, NL
+212.86.114.135|/Beenode Core:0.9.1.5/|70215||||||
 213.87.127.154|/Beenode Core:0.9.1.7/|70215||||||
 213.87.127.168|/Beenode Core:0.9.1.7/|70215||||||
 3.142.95.231|/Beenode Core:0.9.1.7/|70215||||||
@@ -50,7 +50,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 77.222.105.196|/Beenode Core:0.9.1.7/|70215||||||
 77.222.98.252|/Beenode Core:0.9.1.6/|70215||||||
 78.47.238.36|/Beenode Core:0.9.1.7/|70215||||||
-78.57.248.53|/Beenode Core:0.9.1.7/|70215|8764|78.57.240.0/20|LT|ripencc|2007-03-21|TELIA-LIETUVA, LT
+78.57.248.53|/Beenode Core:0.9.1.7/|70215||||||
 80.211.97.82|/Beenode Core:0.9.1.7/|70215||||||
 80.78.253.181|/Beenode Core:0.9.1.7/|70215||||||
 87.125.243.112|/Beenode Core:0.9.1.7/|70215||||||

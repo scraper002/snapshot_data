@@ -13,7 +13,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 144.76.97.21|/Phore Core:1.7.0/|70008||||||
 144.91.106.129|/Phore Core:1.8.0/|70009||||||
 144.91.106.92|/Phore Core:1.8.0/|70009||||||
-144.91.116.146|/Phore Core:1.7.0/|70008|51167|144.91.116.0/23|DE|ripencc|1990-11-20|CONTABO, DE
+144.91.116.146|/Phore Core:1.7.0/|70008||||||
 149.56.148.202|/Phore Core:1.7.0/|70008||||||
 152.228.135.232|/Phore Core:1.8.0/|70009||||||
 155.4.6.84|/Phore Core:1.8.0/|70009||||||
@@ -56,9 +56,9 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 185.83.110.44|/Phore Core:1.8.0/|70009||||||
 185.83.110.45|/Phore Core:1.8.0/|70009||||||
 185.83.110.46|/Phore Core:1.8.0/|70009||||||
-188.2.142.215|/Phore Core:1.7.1/|70009|31042|188.2.128.0/17|RS|ripencc|2009-02-12|SERBIA-BROADBAND-AS Serbia BroadBand-Srpske Kablovske mreze d.o.o., RS
+188.2.142.215|/Phore Core:1.7.1/|70009||||||
 192.222.136.202|/Phore Core:1.8.0/|70009||||||
-193.26.157.215|/Phore Core:1.7.1/|70009|197540|193.26.156.0/22|AT|ripencc|2018-07-09|NETCUP-AS netcup GmbH, DE
+193.26.157.215|/Phore Core:1.7.1/|70009||||||
 193.37.214.68|/Phore Core:1.7.0/|70008||||||
 194.163.143.68|/Phore Core:1.8.0/|70009||||||
 194.60.86.31|/Phore Core:1.7.1/|70009||||||
@@ -118,7 +118,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 86.1.113.199|/Phore Core:1.7.0/|70008||||||
 86.95.107.144|/Phore Core:1.7.1/|70009||||||
 87.209.213.128|/Phore Core:1.7.1/|70009||||||
-89.101.225.26|/Phore Core:1.7.1/|70009|6830|89.101.0.0/16|IE|ripencc|2006-02-22|LIBERTYGLOBAL Liberty Global formerly UPC Broadband Holding, aka AORTA, NL
+89.101.225.26|/Phore Core:1.7.1/|70009||||||
 89.151.220.172|/Phore Core:1.8.0/|70009||||||
 92.204.53.227|/Phore Core:1.7.0/|70008||||||
 92.77.30.56|/Phore Core:1.7.1/|70009||||||

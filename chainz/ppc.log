@@ -10,7 +10,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 112.133.37.231|/Satoshi:0.20.2/Peercoin:0.11.1/|70016||||||
 114.125.59.69|/Satoshi:0.20.2/Peercoin:0.11.3/|70016||||||
 118.211.121.149|/Satoshi:0.20.2/Peercoin:0.11.7/|70016||||||
-119.123.199.158|/Satoshi:0.20.2/Peercoin:0.11.7/|70016|4134|119.120.0.0/13|CN|apnic|2008-02-07|CHINANET-BACKBONE No.31,Jin-rong Street, CN
+119.123.199.158|/Satoshi:0.20.2/Peercoin:0.11.7/|70016||||||
 121.98.52.216|/Satoshi:0.20.2/Peercoin:0.11.0/|70016||||||
 122.228.157.92|/Satoshi:0.20.2/Peercoin:0.11.4/|70016||||||
 128.199.40.35|/Satoshi:0.20.2/Peercoin:0.11.7/|70016||||||
@@ -24,7 +24,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 142.132.202.124|/Satoshi:0.20.2/Peercoin:0.11.8/|70016||||||
 142.132.212.130|/Satoshi:0.20.2/Peercoin:0.11.8/|70016||||||
 142.147.99.49|/Satoshi:0.20.2/Peercoin:0.11.8/|70016||||||
-144.172.73.66|/Satoshi:0.20.2/Peercoin:0.11.5/|70016||||||
 145.224.102.118|/Satoshi:0.20.2/Peercoin:0.11.0/|70016||||||
 145.224.125.172|/Satoshi:0.20.2/Peercoin:0.11.3/|70016||||||
 146.59.18.4|/Satoshi:0.20.2/Peercoin:0.11.1/|70016||||||
@@ -44,7 +43,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 180.74.65.210|/Satoshi:0.20.2/Peercoin:0.11.1/|70016||||||
 184.181.35.187|/Satoshi:0.20.2/Peercoin:0.11.8/|70016||||||
 185.244.193.79|/Satoshi:0.20.2/Peercoin:0.11.8/|70016||||||
-188.166.12.97|/Satoshi:0.20.2/Peercoin:0.11.7/|70016|14061|188.166.0.0/18|US|ripencc|2009-06-05|DIGITALOCEAN-ASN, US
+188.166.12.97|/Satoshi:0.20.2/Peercoin:0.11.7/|70016||||||
 188.169.230.31|/Satoshi:0.20.2/Peercoin:0.11.4/|70016||||||
 188.170.205.59|/Satoshi:0.20.2/Peercoin:0.11.8/|70016||||||
 188.22.204.164|/Satoshi:0.20.2/Peercoin:0.11.7/|70016||||||
@@ -62,12 +61,12 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 206.189.131.144|Satoshi:0.20.2/Peercoin:0.11.4|70016||||||
 212.102.36.25|/Satoshi:0.20.2/Peercoin:0.11.4/|70016||||||
 212.202.31.167|/Satoshi:0.20.2/Peercoin:0.11.8/|70016||||||
-213.159.81.229|/Satoshi:0.20.2/Peercoin:0.11.7/|70016||||||
+213.159.81.229|/Satoshi:0.20.2/Peercoin:0.11.7/|70016|43284|213.159.80.0/20|CH|ripencc|2000-03-01|IWB-TELEKOM Industrielle Werke Basel, CH
 213.87.158.51|/Satoshi:0.20.2/Peercoin:0.11.1/|70016||||||
-219.90.167.62|/Satoshi:0.20.2/Peercoin:0.11.7/|70016||||||
+219.90.167.62|/Satoshi:0.20.2/Peercoin:0.11.7/|70016|7545|219.90.160.0/19|AU|apnic|2004-10-05|TPG-INTERNET-AP TPG Telecom Limited, AU
 23.128.248.11|/Satoshi:0.20.2/Peercoin:0.11.8/|70016||||||
 24.229.236.161|/Satoshi:0.20.2/Peercoin:0.11.0/|70016||||||
-24.231.204.186|/Satoshi:0.20.2/Peercoin:0.11.7/|70016||||||
+24.231.204.186|/Satoshi:0.20.2/Peercoin:0.11.7/|70016|20115|24.231.192.0/20|US|arin|2003-02-11|CHARTER-20115, US
 24.57.240.58|/Satoshi:0.20.2/Peercoin:0.11.1/|70016||||||
 31.187.114.181|/Satoshi:0.20.2/Peercoin:0.11.0/|70016||||||
 31.43.107.75|/Satoshi:0.20.2/Peercoin:0.11.4/|70016||||||
