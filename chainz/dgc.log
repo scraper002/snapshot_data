@@ -18,7 +18,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 178.128.36.65|/Digitalcoin Core:5.0.2/|70208||||||
 185.189.13.80|/Digitalcoin Core:5.0.3/|70208||||||
 185.61.77.21|/Digitalcoin Core:5.0.3/|70208||||||
-188.25.99.2|/Digitalcoin Core:5.0.3/|70208||||||
+188.25.99.2|/Digitalcoin Core:5.0.3/|70208|8708|188.24.0.0/15|RO|ripencc|2009-02-11|RCS-RDS 73-75 Dr. Staicovici, RO
 188.40.85.215|/Digitalcoin Core:5.0.3/|70208||||||
 192.99.175.69|/Digitalcoin Core:5.0.2/|70208||||||
 193.37.212.155|/Digitalcoin Core:5.0.1/|70208||||||
@@ -30,7 +30,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 37.187.226.185|/Digitalcoin Core:5.0.3/|70208||||||
 37.25.111.106|/Digitalcoin Core:5.0.2/|70208||||||
 37.61.239.41|/Digitalcoin Core:5.0.2/|70208||||||
-45.126.209.106|Reddcoin:3.10.3|80000||||||
+45.126.209.106|Reddcoin:3.10.3|80000|23470|45.126.209.0/24|SG|apnic|2015-09-08|RELIABLESITE, US
 45.55.195.243|/Digitalcoin Core:5.0.3/|70208||||||
 45.63.78.182|/Digitalcoin Core:5.0.3/|70208||||||
 46.101.235.143|/Digitalcoin Core:5.0.2/|70208||||||
@@ -42,7 +42,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 74.3.163.33|/Digitalcoin Core:5.0.2/|70208||||||
 74.3.163.44|/Digitalcoin Core:5.0.2/|70208||||||
 75.138.197.238|/Digitalcoin Core:5.0.3/|70208||||||
-77.166.187.79|/Digitalcoin Core:5.0.3/|70208||||||
+77.166.187.79|/Digitalcoin Core:5.0.3/|70208|1136|77.160.0.0/13|NL|ripencc|2006-11-02|KPN KPN National, NL
 78.57.248.53|/Digitalcoin Core:5.0.3/|70208||||||
 84.240.60.56|/Digitalcoin Core:5.0.3/|70208||||||
 85.15.179.171|/Digitalcoin Core:5.0.3/|70208||||||
@@ -56,5 +56,5 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 93.190.93.133|/Digitalcoin Core:5.0.2/|70208||||||
 93.228.68.141|/Digitalcoin Core:5.0.3/|70208||||||
 93.228.71.228|/Digitalcoin Core:5.0.3/|70208||||||
-94.130.35.94|/Digitalcoin Core:5.0.3/|70208||||||
+94.130.35.94|/Digitalcoin Core:5.0.3/|70208|24940|94.130.0.0/16|DE|ripencc|2008-06-23|HETZNER-AS, DE
 95.179.185.40|/Digitalcoin Core:5.0.3/|70208||||||
