@@ -1,28 +1,28 @@
 # https://chainz.cryptoid.info/ and whois results
 # PutinCoin
 IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
-102.38.63.130|/Satoshi:1.0.0/|60013|5713|102.38.60.0/22|ZA|afrinic|2019-08-21|SAIX-NET, ZA
+102.38.63.130|/Satoshi:1.0.0/|60013||||||
 104.238.221.41|Satoshi:1.0.0|60013||||||
-109.245.111.101|/Satoshi:1.0.0/|60013|15958|109.245.0.0/16|RS|ripencc|2009-12-23|CETIN_DOO_AS CETINdoo-NET, RS
-109.40.241.27|/Satoshi:1.0.0/|60013|3209|109.40.0.0/14|DE|ripencc|2009-11-04|VODANET International IP-Backbone of Vodafone, DE
+109.245.111.101|/Satoshi:1.0.0/|60013||||||
+109.40.241.27|/Satoshi:1.0.0/|60013||||||
 13.214.86.135|/Satoshi:1.0.0/|60013||||||
-13.215.71.122|/Satoshi:1.0.0/|60013|16509|13.214.0.0/15|US|arin|2019-10-01|AMAZON-02, US
-135.181.73.5|/Satoshi:1.0.0/|60013|24940|135.181.0.0/16|DE|ripencc|1996-04-30|HETZNER-AS, DE
-136.144.207.246|/Satoshi:1.0.0/|60013|20857|136.144.192.0/18|NL|ripencc|1989-08-29|TRANSIP-AS Amsterdam, the Netherlands, NL
-139.162.229.182|/Satoshi:1.0.0/|60013|63949|139.162.224.0/19|NL|ripencc|1990-03-24|LINODE-AP Linode, LLC, US
+13.215.71.122|/Satoshi:1.0.0/|60013||||||
+135.181.73.5|/Satoshi:1.0.0/|60013||||||
+136.144.207.246|/Satoshi:1.0.0/|60013||||||
+139.162.229.182|/Satoshi:1.0.0/|60013||||||
 143.198.121.253|Satoshi:1.0.0|60013||||||
-149.248.17.139|/Satoshi:1.0.0/|60013|20473|149.248.0.0/19|US|arin|2018-07-03|AS-CHOOPA, US
-159.65.146.105|/Satoshi:1.0.0/|60013|14061|159.65.144.0/20|US|arin|2017-10-24|DIGITALOCEAN-ASN, US
-168.119.18.29|/Satoshi:1.0.0/|60013|24940|168.119.0.0/16|DE|ripencc|1994-04-05|HETZNER-AS, DE
-176.58.112.183|/Satoshi:1.0.0/|60013|63949|176.58.96.0/19|US|ripencc|2011-06-06|LINODE-AP Linode, LLC, US
-176.58.116.82|/Satoshi:1.0.0/|60013|63949|176.58.96.0/19|US|ripencc|2011-06-06|LINODE-AP Linode, LLC, US
-177.71.109.43|/Satoshi:1.0.0/|60013|271397|177.71.109.0/24|BR|lacnic|2021-11-24|Anderson Barreto da Cruz, BR
-177.71.109.48|/Satoshi:1.0.0/|60013|271397|177.71.109.0/24|BR|lacnic|2021-11-24|Anderson Barreto da Cruz, BR
-178.165.202.101|/Satoshi:1.0.0/|60013|25255|178.165.192.0/20|AT|ripencc|2010-02-23|H3G-AUSTRIA-AS TELE2 AUSTRIA , AT
-178.197.208.209|/Satoshi:1.0.0/|60013|3303|178.196.0.0/15|CH|ripencc|2010-02-24|SWISSCOM Swisscom Switzerland Ltd, CH
+149.248.17.139|/Satoshi:1.0.0/|60013||||||
+159.65.146.105|/Satoshi:1.0.0/|60013||||||
+168.119.18.29|/Satoshi:1.0.0/|60013||||||
+176.58.112.183|/Satoshi:1.0.0/|60013||||||
+176.58.116.82|/Satoshi:1.0.0/|60013||||||
+177.71.109.43|/Satoshi:1.0.0/|60013||||||
+177.71.109.48|/Satoshi:1.0.0/|60013||||||
+178.165.202.101|/Satoshi:1.0.0/|60013||||||
+178.197.208.209|/Satoshi:1.0.0/|60013||||||
 178.62.114.74|Satoshi:1.0.0|60013||||||
-178.79.169.181|/Satoshi:1.0.0/|60013|63949|178.79.128.0/18|US|ripencc|2010-05-10|LINODE-AP Linode, LLC, US
-178.79.170.166|/Satoshi:1.0.0/|60013|63949|178.79.128.0/18|US|ripencc|2010-05-10|LINODE-AP Linode, LLC, US
+178.79.169.181|/Satoshi:1.0.0/|60013||||||
+178.79.170.166|/Satoshi:1.0.0/|60013||||||
 180.190.154.84|/Satoshi:1.0.0/|60013|132199|180.190.152.0/22|PH|apnic|2009-09-17|GLOBE-MOBILE-5TH-GEN-AS Globe Telecom Inc., PH
 180.190.159.104|/Satoshi:1.0.0/|60013|132199|180.190.156.0/22|PH|apnic|2009-09-17|GLOBE-MOBILE-5TH-GEN-AS Globe Telecom Inc., PH
 185.182.187.87|/Satoshi:1.0.0/|60013|51167|185.182.186.0/23|DE|ripencc|2016-12-16|CONTABO, DE
@@ -90,15 +90,15 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 91.18.206.23|/Satoshi:1.0.0/|60013|3320|91.0.0.0/10|DE|ripencc|2006-07-03|DTAG Internet service provider operations, DE
 91.224.70.2|/Satoshi:1.0.0/|60013|13026|91.224.70.0/23|AT|ripencc|2011-02-04|K-WLAN-AS, AT
 91.42.69.52|/Satoshi:1.0.0/|60013|3320|91.0.0.0/10|DE|ripencc|2006-07-03|DTAG Internet service provider operations, DE
-91.7.191.47|/Satoshi:1.0.0/|60013|3320|91.0.0.0/10|DE|ripencc|2006-07-03|DTAG Internet service provider operations, DE
-92.116.98.212|/Satoshi:1.0.0/|60013|8881|92.116.96.0/19|DE|ripencc|2007-10-25|VERSATEL, DE
-92.201.213.198|/Satoshi:1.0.0/|60013|20676|92.200.0.0/15|DE|ripencc|2007-10-17|PLUSNET *****************, DE
-92.219.147.164|/Satoshi:1.0.0/|60013|3209|92.216.0.0/14|DE|ripencc|2007-10-17|VODANET International IP-Backbone of Vodafone, DE
-92.86.39.175|/Satoshi:1.0.0/|60013|9050|92.86.0.0/16|RO|ripencc|2007-08-15|RTD Bucharest, Romania, RO
-93.132.104.205|/Satoshi:1.0.0/|60013|6805|93.128.0.0/13|DE|ripencc|2008-04-14|TDDE-ASN1, DE
-93.133.61.20|/Satoshi:1.0.0/|60013|6805|93.128.0.0/13|DE|ripencc|2008-04-14|TDDE-ASN1, DE
-93.201.217.169|/Satoshi:1.0.0/|60013|3320|93.192.0.0/10|DE|ripencc|2008-02-12|DTAG Internet service provider operations, DE
-94.31.81.223|/Satoshi:1.0.0/|60013|60294|94.31.80.0/20|DE|ripencc|2010-02-03|DE-DGW Deutsche Glasfaser Wholesale Internet, DE
+91.7.191.47|/Satoshi:1.0.0/|60013||||||
+92.116.98.212|/Satoshi:1.0.0/|60013||||||
+92.201.213.198|/Satoshi:1.0.0/|60013||||||
+92.219.147.164|/Satoshi:1.0.0/|60013||||||
+92.86.39.175|/Satoshi:1.0.0/|60013||||||
+93.132.104.205|/Satoshi:1.0.0/|60013||||||
+93.133.61.20|/Satoshi:1.0.0/|60013||||||
+93.201.217.169|/Satoshi:1.0.0/|60013||||||
+94.31.81.223|/Satoshi:1.0.0/|60013||||||
 94.46.83.86|/Satoshi:1.0.0/|60013||||||
 95.223.12.12|/Satoshi:1.0.0/|60013||||||
 95.90.0.60|/Satoshi:1.0.0/|60013||||||
