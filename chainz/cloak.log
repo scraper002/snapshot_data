@@ -9,7 +9,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 116.203.113.137|/KlausFuchs:2.2.2.2/|60018||||||
 120.18.25.106|/KlausFuchs:2.2.2.2/|60018||||||
 13.209.243.246|/KlausFuchs:2.2.2.2/|60018||||||
-13.209.60.161|/KlausFuchs:2.2.2.2/|60018||||||
 13.230.19.97|/KlausFuchs:2.2.2.1/|60018||||||
 149.172.43.192|/KlausFuchs:2.2.2.2/|60018||||||
 15.165.142.140|/KlausFuchs:2.2.2.2/|60018||||||
@@ -21,6 +20,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 159.48.55.217|/KlausFuchs:2.2.2.2/|60018||||||
 166.48.214.236|/KlausFuchs:2.2.2.2/|60018||||||
 172.58.59.109|/KlausFuchs:2.2.2.2/|60018||||||
+172.58.63.133|/KlausFuchs:2.2.2.2/|60018||||||
 173.16.3.23|/KlausFuchs:2.2.2.2/|60018||||||
 173.95.193.146|/SidneyReilly:0.7.8/|60018||||||
 174.250.6.3|/KlausFuchs:2.2.2.2/|60018||||||
@@ -89,7 +89,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 83.128.101.141|/KlausFuchs:2.2.2.2/|60018||||||
 83.23.191.111|/KlausFuchs:2.2.2.2/|60018||||||
 85.11.189.84|/KlausFuchs:2.2.2.2/|60018||||||
-85.19.25.38|/KlausFuchs:2.2.2.2/|60018|25400|85.19.0.0/16|NO|ripencc|2005-03-16|TELIA-NORWAY-AS Telia Norway Core Networks, NO
+85.19.25.38|/KlausFuchs:2.2.2.2/|60018||||||
 85.222.190.145|/KlausFuchs:2.2.2.2/|60018||||||
 86.27.167.138|/KlausFuchs:2.2.2.2/|60018||||||
 90.200.60.243|/KlausFuchs:2.2.2.2/|60018||||||

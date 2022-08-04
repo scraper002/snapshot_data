@@ -35,7 +35,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 50.5.236.135|/MonetaryUnit Core:2.3.0/|70706||||||
 54.37.85.61|/MonetaryUnit Core:2.3.0/|70706||||||
 65.108.93.55|/MonetaryUnit Core:2.3.0/|70706||||||
-69.61.172.31|/MonetaryUnit Core:2.3.0/|70706||||||
+69.61.172.31|/MonetaryUnit Core:2.3.0/|70706|6181|69.61.128.0/18|US|arin|2004-08-04|FUSE-NET, US
 71.190.78.98|/MonetaryUnit Core:2.3.0/|70706||||||
 73.84.111.198|/MonetaryUnit Core:2.3.0/|70706||||||
 75.119.155.29|/MonetaryUnit Core:2.3.0/|70706||||||
@@ -62,5 +62,5 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 98.169.92.173|/MonetaryUnit Core:2.3.0/|70706||||||
 98.202.227.110|/MonetaryUnit Core:2.3.0/|70706||||||
 98.215.160.113|/MonetaryUnit Core:2.3.0/|70706||||||
-98.250.174.210|/MonetaryUnit Core:2.3.0/|70706|7922|98.192.0.0/10|US|arin|2007-04-20|COMCAST-7922, US
+98.250.174.210|/MonetaryUnit Core:2.3.0/|70706||||||
 99.9.57.174|/MonetaryUnit Core:2.3.0/|70706||||||

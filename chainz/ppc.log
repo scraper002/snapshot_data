@@ -6,7 +6,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 106.69.222.125|/Satoshi:0.20.2/Peercoin:0.11.7/|70016||||||
 109.60.60.32|/Satoshi:0.20.2/Peercoin:0.11.8/|70016||||||
 109.80.194.146|/Satoshi:0.20.2/Peercoin:0.11.8/|70016||||||
-111.85.66.227|/Satoshi:0.20.2/Peercoin:0.11.0/|70016||||||
 111.85.71.166|/Satoshi:0.20.2/Peercoin:0.11.0/|70016||||||
 112.133.37.231|/Satoshi:0.20.2/Peercoin:0.11.1/|70016||||||
 119.123.199.158|/Satoshi:0.20.2/Peercoin:0.11.7/|70016||||||
@@ -63,24 +62,26 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 213.159.81.229|/Satoshi:0.20.2/Peercoin:0.11.7/|70016||||||
 213.87.158.51|/Satoshi:0.20.2/Peercoin:0.11.1/|70016||||||
 23.128.248.11|/Satoshi:0.20.2/Peercoin:0.11.8/|70016||||||
+23.230.214.75|/Satoshi:0.20.2/Peercoin:0.11.1/|70016||||||
 24.229.236.161|/Satoshi:0.20.2/Peercoin:0.11.0/|70016||||||
 24.231.204.186|/Satoshi:0.20.2/Peercoin:0.11.7/|70016||||||
-24.57.240.58|/Satoshi:0.20.2/Peercoin:0.11.1/|70016|7992|24.57.0.0/16|CA|arin|2001-11-05|COGECOWAVE, CA
+24.57.240.58|/Satoshi:0.20.2/Peercoin:0.11.1/|70016||||||
 31.187.113.147|/Satoshi:0.20.2/Peercoin:0.11.0/|70016||||||
 31.187.114.181|/Satoshi:0.20.2/Peercoin:0.11.0/|70016||||||
+31.187.124.116|/Satoshi:0.20.2/Peercoin:0.11.0/|70016|9145|31.187.112.0/20|DE|ripencc|2011-03-25|EWETEL Cloppenburger Strasse 310, DE
 31.43.107.75|/Satoshi:0.20.2/Peercoin:0.11.4/|70016||||||
 34.242.205.169|/Satoshi:0.20.2/Peercoin:0.11.8/|70016||||||
-35.74.191.217|/Satoshi:0.20.2/Peercoin:0.11.1/|70016|16509|35.72.0.0/13|US|arin|2019-04-15|AMAZON-02, US
+35.74.191.217|/Satoshi:0.20.2/Peercoin:0.11.1/|70016||||||
 42.48.236.2|/Satoshi:0.20.2/Peercoin:0.11.1/|70016||||||
 45.126.209.106|Satoshi:0.20.2/Peercoin:0.11.4|70016||||||
 45.23.106.42|/Satoshi:0.20.2/Peercoin:0.11.4/|70016||||||
-46.53.241.215|/Satoshi:0.20.2/Peercoin:0.11.0/|70016||||||
+46.53.241.215|/Satoshi:0.20.2/Peercoin:0.11.0/|70016|42772|46.53.240.0/21|BY|ripencc|2010-08-24|A1-BY-AS, BY
 47.206.88.18|/Satoshi:0.20.2/Peercoin:0.11.8/|70016||||||
-47.92.87.183|/Satoshi:0.20.2/Peercoin:0.11.1/|70016|37963|47.92.0.0/15|CN|apnic|1989-01-06|ALIBABA-CN-NET Hangzhou Alibaba Advertising Co.,Ltd., CN
+47.92.87.183|/Satoshi:0.20.2/Peercoin:0.11.1/|70016||||||
 5.79.200.130|/Satoshi:0.20.2/Peercoin:0.11.8/|70016||||||
 50.101.169.109|/Satoshi:0.20.2/Peercoin:0.11.8/|70016||||||
 50.99.20.71|/Satoshi:0.20.2/Peercoin:0.11.4/|70016||||||
-51.159.2.44|/Satoshi:0.20.2/Peercoin:0.11.0/|70016||||||
+51.159.2.44|/Satoshi:0.20.2/Peercoin:0.11.0/|70016|12876|51.158.0.0/15|FR|ripencc|1993-09-01|Online SAS, FR
 51.178.76.85|/Satoshi:0.20.2/Peercoin:0.11.8/|70016||||||
 51.210.208.202|/Satoshi:0.20.2/Peercoin:0.11.8/|70016||||||
 51.210.216.77|/Satoshi:0.20.2/Peercoin:0.11.8/|70016||||||
@@ -98,13 +99,13 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 73.142.139.2|/Satoshi:0.20.2/Peercoin:0.11.4/|70016||||||
 74.135.197.38|/Satoshi:0.20.2/Peercoin:0.11.3/|70016||||||
 74.44.207.163|/Satoshi:0.20.2/Peercoin:0.11.0/|70016||||||
-74.91.126.192|/Satoshi:0.20.2/Peercoin:0.11.2/|70016|400475|74.91.126.0/24|US|arin|2011-04-13|NUCLEARFALLOUT-DAL, US
+74.91.126.192|/Satoshi:0.20.2/Peercoin:0.11.2/|70016||||||
 76.67.202.152|/Satoshi:0.20.2/Peercoin:0.11.4/|70016||||||
 77.119.114.251|/Satoshi:0.20.2/Peercoin:0.11.8/|70016||||||
 77.20.240.125|/Satoshi:0.20.2/Peercoin:0.11.8/|70016||||||
 77.75.36.104|/Satoshi:0.20.2/Peercoin:0.11.1/|70016||||||
 78.115.18.37|/Satoshi:0.20.2/Peercoin:0.11.4/|70016||||||
-78.46.234.212|/Satoshi:0.20.2/Peercoin:0.11.2/|70016|24940|78.46.0.0/15|DE|ripencc|2007-04-16|HETZNER-AS, DE
+78.46.234.212|/Satoshi:0.20.2/Peercoin:0.11.2/|70016||||||
 78.99.35.20|/Satoshi:0.20.2/Peercoin:0.11.4/|70016||||||
 79.135.192.31|/Satoshi:0.20.2/Peercoin:0.11.7/|70016||||||
 79.137.67.138|/Satoshi:0.20.2/Peercoin:0.11.8/|70016||||||
@@ -118,11 +119,12 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 86.248.86.253|/Satoshi:0.20.2/Peercoin:0.11.7/|70016||||||
 88.145.122.117|/Satoshi:0.20.2/Peercoin:0.11.1/|70016||||||
 88.99.235.240|/Satoshi:0.20.2/Peercoin:0.11.0/|70016||||||
-89.1.210.220|/Satoshi:0.20.2/Peercoin:0.11.2/|70016|8422|89.0.0.0/15|DE|ripencc|2009-06-30|NETCOLOGNE, DE
+89.1.210.220|/Satoshi:0.20.2/Peercoin:0.11.2/|70016||||||
 89.1.211.91|/Satoshi:0.20.2/Peercoin:0.11.2/|70016||||||
 91.246.66.175|/Satoshi:0.20.2/Peercoin:0.11.0/|70016||||||
 91.44.80.144|/Satoshi:0.20.2/Peercoin:0.11.8/|70016||||||
 91.44.82.87|/Satoshi:0.20.2/Peercoin:0.11.8/|70016||||||
+91.90.122.30|/Satoshi:0.20.2/Peercoin:0.11.1/|70016||||||
 92.210.58.163|/Satoshi:0.20.2/Peercoin:0.11.1/|70016||||||
 92.240.100.175|/Satoshi:0.20.2/Peercoin:0.11.4/|70016||||||
 92.39.186.135|/Satoshi:0.20.2/Peercoin:0.11.0/|70016||||||

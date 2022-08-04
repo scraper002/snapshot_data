@@ -11,8 +11,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 108.61.178.96|/DigiByte:7.17.2/|70017||||||
 108.76.185.237|/DigiByte:7.17.2/|70017||||||
 109.123.191.195|/DigiByte:7.17.2/|70017||||||
-112.96.225.34|/DigiByte:7.17.3/|70017||||||
-115.64.153.192|/DigiByte:7.17.2/|70017||||||
+115.64.153.192|/DigiByte:7.17.2/|70017|7545|115.64.153.0/24|AU|apnic|2008-07-11|TPG-INTERNET-AP TPG Telecom Limited, AU
 117.5.146.147|/digiwallet:1.0.0/|70017||||||
 12.201.236.34|/DigiByte:7.17.2/|70017||||||
 13.124.70.211|/DigiByte:7.17.2/|70017||||||
@@ -26,11 +25,11 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 142.112.0.42|/DigiByte:7.17.3/|70017||||||
 142.132.202.124|/DigiByte:7.17.2/|70017||||||
 142.161.252.95|/DigiByte:7.17.2/|70017||||||
-143.110.159.82|/DigiByte:7.17.2/|70017||||||
+143.110.159.82|/DigiByte:7.17.2/|70017|14061|143.110.144.0/20|US|arin|2020-01-17|DIGITALOCEAN-ASN, US
 147.229.14.216|/DigiByte:7.17.3/|70017||||||
 15.165.142.140|/DigiByte:7.17.3/|70017||||||
 154.0.26.41|/digiwallet:1.0.0/|70017||||||
-155.4.6.84|/DigiByte:7.17.2/|70017||||||
+155.4.6.84|/DigiByte:7.17.2/|70017|8473|155.4.0.0/16|NO|ripencc|1991-10-30|BAHNHOF www.bahnhof.net, SE
 156.146.140.206|/DigiByte:7.17.3/|70017||||||
 156.146.200.145|/DigiByte:7.17.2/|70017||||||
 157.100.171.232|/DigiByte:7.17.3/|70017||||||
@@ -69,7 +68,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 206.189.131.144|DigiByte:7.17.3|70017||||||
 207.134.216.145|/DigiByte:7.17.3/|70017||||||
 210.187.108.47|/DigiByte:7.17.3/|70017||||||
-213.136.91.231|/DigiByte:7.17.3/|70017||||||
+213.136.91.231|/DigiByte:7.17.3/|70017|51167|213.136.90.0/23|DE|ripencc|2000-02-28|CONTABO, DE
 213.167.79.24|/DigiByte:7.17.2/|70017||||||
 217.240.193.12|/DigiByte:7.17.2/|70017||||||
 24.158.249.19|/DigiByte:7.17.2/|70017||||||
@@ -125,10 +124,10 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 71.236.93.114|/DigiByte:7.17.3/|70017||||||
 75.137.68.251|/digiwallet:1.0.0/|70017||||||
 75.142.133.238|/DigiByte:7.17.2/|70017||||||
-77.47.111.138|/DigiByte:7.17.3/|70017|35244|77.47.0.0/17|DE|ripencc|2007-01-04|KMS-DE_AS, DE
+77.47.111.138|/DigiByte:7.17.3/|70017||||||
 77.75.36.104|/DigiByte:7.17.2/|70017||||||
 78.141.10.159|/DigiByte:7.17.3/|70017||||||
-78.31.74.32|/DigiByte:7.17.3/|70017||||||
+78.31.74.32|/DigiByte:7.17.3/|70017|56420|78.31.72.0/21|RU|ripencc|2007-11-01|RYAZAN-AS, RU
 79.137.67.138|/DigiByte:7.17.2/|70017||||||
 8.135.100.61|/DigiByte:7.17.2/|70017||||||
 83.99.245.20|/DigiByte:7.17.2/|70017||||||
@@ -136,8 +135,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 85.249.17.47|/DigiByte:7.17.3/|70017|16345|85.249.16.0/23|RU|ripencc|2005-01-24|BEE-AS Russia, RU
 86.104.135.110|/DigiByte:7.17.2/|70017||||||
 87.121.93.252|/digiwallet:1.0.0/|70017||||||
-87.178.183.29|/DigiByte:7.17.3/|70017||||||
-89.151.220.172|/DigiByte:7.17.2/|70017||||||
+87.178.183.29|/DigiByte:7.17.3/|70017|3320|87.128.0.0/10|DE|ripencc|2006-03-30|DTAG Internet service provider operations, DE
 89.208.16.114|/DigiByte:7.17.3/|70017||||||
 91.214.209.236|/DigiByte:7.17.3/|70017||||||
 93.115.26.116|/DigiByte:7.17.2/|70017||||||
@@ -147,6 +145,5 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 96.252.115.94|/DigiByte:7.17.3/|70017||||||
 96.255.170.68|/DigiByte:7.17.3/|70017||||||
 98.32.254.173|/DigiByte:7.17.2/|70017||||||
-98.97.82.216|/DigiByte:7.17.2/|70017||||||
 98.97.82.223|/DigiByte:7.17.2/|70017||||||
 99.80.66.29|/DigiByte:7.17.2/|70017||||||
