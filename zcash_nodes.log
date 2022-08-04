@@ -4,10 +4,9 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 100.2.60.79|16125|/MagicBean:6.0.0/|701|100.2.0.0/16|US|arin|2010-12-28|UUNET, US
 100.34.95.83|16125|/MagicBean:6.0.0/|701|100.34.0.0/16|US|arin|2010-12-28|UUNET, US
 100.36.94.192|16125|/MagicBean:6.0.0/|701|100.36.0.0/16|US|arin|2010-12-28|UUNET, US
-100.40.174.95|16125|/MagicBean:6.0.0/|701|100.40.128.0/17|US|arin|2010-12-28|UUNET, US
-100.42.64.117|16125|/MagicBean:6.0.0/|35916|100.42.64.0/20|US|arin|2011-11-18|MULTA-ASN1, US
+100.40.174.95|16125|/MagicBean:6.0.0/
+100.42.64.117|16125|/MagicBean:6.0.0/
 100.7.48.101|16125|/MagicBean:6.0.0/
-101.127.186.179|16125|/MagicBean:6.0.0/
 102.221.103.176|16125|/MagicBean:6.0.0/
 102.35.47.114|16125|/MagicBean:6.0.0/
 103.13.29.52|16125|/MagicBean:6.0.0/
@@ -28,7 +27,6 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 103.13.31.153|16125|/MagicBean:6.0.0/
 103.141.93.6|16125|/MagicBean:6.0.0/
 103.153.61.12|16125|/MagicBean:6.0.0/
-103.157.104.186|16125|/MagicBean:6.0.0/
 103.214.4.34|16125|/MagicBean:6.0.0/
 103.214.5.15|16125|/MagicBean:6.0.0/
 103.214.5.44|16125|/MagicBean:6.0.0/
@@ -96,7 +94,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 109.205.183.215|16125|/MagicBean:6.0.0/
 109.21.97.137|16125|/MagicBean:6.0.0/
 109.229.70.44|16125|/MagicBean:6.0.0/
-109.236.94.58|16125|/MagicBean:6.0.0/|49981|109.236.80.0/20|NL|ripencc|2009-12-04|WORLDSTREAM, NL
+109.236.94.58|16125|/MagicBean:6.0.0/
 109.238.11.40|16125|/MagicBean:6.0.0/
 109.238.11.59|16125|/MagicBean:6.0.0/
 109.238.12.108|16125|/MagicBean:6.0.0/
@@ -179,11 +177,10 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 135.125.54.76|16125|/MagicBean:6.0.0/|16276|135.125.0.0/17|FR|ripencc|2000-10-11|OVH, FR
 135.125.54.77|16125|/MagicBean:6.0.0/|16276|135.125.0.0/17|FR|ripencc|2000-10-11|OVH, FR
 135.125.54.78|16125|/MagicBean:6.0.0/|16276|135.125.0.0/17|FR|ripencc|2000-10-11|OVH, FR
-135.125.54.79|16125|/MagicBean:6.0.0/
-135.125.93.124|16125|/MagicBean:6.0.0/
-135.148.14.160|16125|/MagicBean:6.0.0/
-135.148.14.161|16125|/MagicBean:6.0.0/
-135.148.14.162|16125|/MagicBean:6.0.0/
+135.125.54.79|16125|/MagicBean:6.0.0/|16276|135.125.0.0/17|FR|ripencc|2000-10-11|OVH, FR
+135.125.93.124|16125|/MagicBean:6.0.0/|16276|135.125.0.0/17|FR|ripencc|2000-10-11|OVH, FR
+135.148.14.160|16125|/MagicBean:6.0.0/|16276|135.148.0.0/17|US|arin|2020-09-28|OVH, FR
+135.148.14.162|16125|/MagicBean:6.0.0/|16276|135.148.0.0/17|US|arin|2020-09-28|OVH, FR
 135.148.14.163|16125|/MagicBean:6.0.0/
 135.148.150.52|26125|/MagicBean:6.0.0/
 135.181.104.233|16125|/MagicBean:6.0.0/
@@ -327,7 +324,6 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 136.243.226.52|16125|/MagicBean:6.0.0/
 136.243.226.53|16125|/MagicBean:6.0.0/
 136.243.226.54|16125|/MagicBean:6.0.0/
-136.243.226.58|16125|/MagicBean:6.0.0/
 136.243.226.59|16125|/MagicBean:6.0.0/
 136.243.226.60|16125|/MagicBean:6.0.0/
 136.243.226.61|16125|/MagicBean:6.0.0/
@@ -373,11 +369,11 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 138.201.225.250|16125|/MagicBean:6.0.0/
 138.201.252.11|8233|/MagicBean:5.0.0/
 138.201.49.23|16125|/MagicBean:6.0.0/
+139.64.165.180|16125|/MagicBean:6.0.0/
 139.64.165.252|16125|/MagicBean:6.0.0/
 139.99.123.157|8233|/MagicBean:5.2.0/
 139.99.131.1|16125|/MagicBean:6.0.0/
 139.99.171.28|16125|/MagicBean:6.0.0/
-139.99.190.100|16125|/MagicBean:6.0.0/
 139.99.190.101|16125|/MagicBean:6.0.0/
 139.99.190.102|16125|/MagicBean:6.0.0/
 139.99.190.103|16125|/MagicBean:6.0.0/
@@ -434,11 +430,10 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 142.132.194.68|16125|/MagicBean:6.0.0/
 142.132.194.69|16125|/MagicBean:6.0.0/
 142.132.194.70|16125|/MagicBean:6.0.0/
-142.132.194.71|16125|/MagicBean:6.0.0/
 142.132.196.10|16125|/MagicBean:6.0.0/
 142.132.197.75|16125|/MagicBean:6.0.0/
-142.132.197.76|16125|/MagicBean:6.0.0/
-142.132.197.77|16125|/MagicBean:6.0.0/
+142.132.197.76|16125|/MagicBean:6.0.0/|24940|142.132.128.0/17|DE|ripencc|1990-03-26|HETZNER-AS, DE
+142.132.197.77|16125|/MagicBean:6.0.0/|24940|142.132.128.0/17|DE|ripencc|1990-03-26|HETZNER-AS, DE
 142.132.197.78|16125|/MagicBean:6.0.0/
 142.132.197.96|9058|/MagicBean:5.1.0/
 142.132.198.100|16125|/MagicBean:6.0.0/
@@ -463,7 +458,6 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 142.189.58.192|16125|/MagicBean:6.0.0/
 142.4.215.112|16125|/MagicBean:6.0.0/
 142.4.215.183|16125|/MagicBean:6.0.0/
-142.4.215.199|16125|/MagicBean:6.0.0/
 142.4.219.154|16125|/MagicBean:6.0.0/
 142.44.205.144|16125|/MagicBean:6.0.0/
 142.44.205.145|16125|/MagicBean:6.0.0/
@@ -526,7 +520,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 144.126.158.190|16125|/MagicBean:6.0.0/
 144.126.158.195|16125|/MagicBean:6.0.0/
 144.126.158.197|16125|/MagicBean:6.0.0/
-144.126.158.214|16125|/MagicBean:6.0.0/|40021|144.126.152.0/21|US|arin|2021-03-16|CONTABO, US
+144.126.158.214|16125|/MagicBean:6.0.0/
 144.126.158.217|16125|/MagicBean:6.0.0/
 144.126.159.103|16125|/MagicBean:6.0.0/
 144.126.159.108|16125|/MagicBean:6.0.0/
@@ -542,7 +536,6 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 144.217.213.38|16125|/MagicBean:6.0.0/
 144.217.213.39|16125|/MagicBean:6.0.0/
 144.217.254.28|16125|/MagicBean:6.0.0/
-144.217.75.147|16125|/MagicBean:6.0.0/
 144.76.184.89|16125|/MagicBean:6.0.0/
 144.76.195.245|16125|/MagicBean:6.0.0/
 144.76.199.111|16125|/MagicBean:6.0.0/
@@ -695,13 +688,13 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 149.202.240.169|16125|/MagicBean:6.0.0/
 149.202.240.170|16125|/MagicBean:6.0.0/
 149.202.240.171|16125|/MagicBean:6.0.0/
-149.202.70.45|16125|/MagicBean:6.0.0/
-149.202.73.169|16125|/MagicBean:6.0.0/
+149.202.70.45|16125|/MagicBean:6.0.0/|16276|149.202.0.0/16|FR|ripencc|1999-04-26|OVH, FR
+149.202.73.169|16125|/MagicBean:6.0.0/|16276|149.202.0.0/16|FR|ripencc|1999-04-26|OVH, FR
 149.202.86.133|16125|/MagicBean:6.0.0/
 149.202.89.103|16125|/MagicBean:6.0.0/
 149.202.89.227|16125|/MagicBean:6.0.0/
-149.202.94.110|16125|/MagicBean:6.0.0/
-149.248.63.126|16125|/MagicBean:6.0.0/
+149.202.94.110|16125|/MagicBean:6.0.0/|16276|149.202.0.0/16|FR|ripencc|1999-04-26|OVH, FR
+149.248.63.126|16125|/MagicBean:6.0.0/|20473|149.248.48.0/20|US|arin|2018-07-03|AS-CHOOPA, US
 149.255.39.17|16125|/MagicBean:6.0.0/
 149.28.136.233|26125|/MagicBean:6.0.0/
 149.56.152.220|16125|/MagicBean:6.0.0/
@@ -788,7 +781,6 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 151.80.70.49|16125|/MagicBean:6.0.0/
 151.80.70.50|16125|/MagicBean:6.0.0/
 151.80.70.51|16125|/MagicBean:6.0.0/
-152.36.139.113|16125|/MagicBean:6.0.0/
 152.89.94.214|16125|/MagicBean:6.0.0/
 154.12.224.105|16125|/MagicBean:6.0.0/
 154.12.224.177|16125|/MagicBean:6.0.0/
@@ -799,7 +791,6 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 154.12.225.16|16125|/MagicBean:6.0.0/
 154.12.225.204|16125|/MagicBean:6.0.0/
 154.12.225.212|16125|/MagicBean:6.0.0/
-154.12.226.118|16125|/MagicBean:6.0.0/
 154.12.226.221|16125|/MagicBean:6.0.0/
 154.12.226.33|16125|/MagicBean:6.0.0/
 154.12.226.44|16125|/MagicBean:6.0.0/
@@ -869,14 +860,12 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 154.12.243.227|16125|/MagicBean:6.0.0/
 154.12.243.234|16125|/MagicBean:6.0.0/
 154.12.243.235|16125|/MagicBean:6.0.0/
-154.12.243.236|16125|/MagicBean:6.0.0/
 154.12.243.64|16125|/MagicBean:6.0.0/
 154.12.244.170|16125|/MagicBean:6.0.0/
 154.12.244.173|16125|/MagicBean:6.0.0/
-154.12.244.92|16125|/MagicBean:6.0.0/
 154.12.244.94|16125|/MagicBean:6.0.0/
 154.12.244.96|16125|/MagicBean:6.0.0/
-154.12.244.97|16125|/MagicBean:6.0.0/|40021|154.12.240.0/21|US|arin|1992-02-05|CONTABO, US
+154.12.244.97|16125|/MagicBean:6.0.0/
 154.12.245.188|16125|/MagicBean:6.0.0/|40021|154.12.240.0/21|US|arin|1992-02-05|CONTABO, US
 154.12.245.7|16125|/MagicBean:6.0.0/
 154.12.253.162|16125|/MagicBean:6.0.0/
@@ -963,8 +952,8 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 154.53.51.23|16125|/MagicBean:6.0.0/
 154.53.51.58|16125|/MagicBean:6.0.0/
 154.53.51.61|16125|/MagicBean:6.0.0/
-154.53.53.222|16125|/MagicBean:6.0.0/
-154.53.54.14|16125|/MagicBean:6.0.0/
+154.53.53.222|16125|/MagicBean:6.0.0/|40021|154.53.48.0/21|US|arin|1992-02-05|CONTABO, US
+154.53.54.14|16125|/MagicBean:6.0.0/|40021|154.53.48.0/21|US|arin|1992-02-05|CONTABO, US
 154.53.54.156|16125|/MagicBean:6.0.0/
 154.53.54.236|16125|/MagicBean:6.0.0/
 154.53.54.237|16125|/MagicBean:6.0.0/
@@ -1007,7 +996,6 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 154.53.60.95|16125|/MagicBean:6.0.0/
 154.53.61.145|16125|/MagicBean:6.0.0/
 154.53.61.20|16125|/MagicBean:6.0.0/
-154.53.61.224|16125|/MagicBean:6.0.0/
 154.53.61.225|16125|/MagicBean:6.0.0/
 154.53.61.226|16125|/MagicBean:6.0.0/
 154.53.61.227|16125|/MagicBean:6.0.0/
@@ -1026,7 +1014,6 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 154.53.63.223|16125|/MagicBean:6.0.0/
 154.53.63.224|16125|/MagicBean:6.0.0/
 154.53.63.225|16125|/MagicBean:6.0.0/
-154.53.63.226|16125|/MagicBean:6.0.0/
 154.53.63.227|16125|/MagicBean:6.0.0/
 154.53.63.228|16125|/MagicBean:6.0.0/
 154.53.63.9|16125|/MagicBean:6.0.0/
@@ -1034,7 +1021,6 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 155.138.143.230|16125|/MagicBean:6.0.0/
 155.4.53.203|16125|/MagicBean:6.0.0/
 156.146.200.145|16125|/MagicBean:6.0.0/
-156.155.142.149|16125|/MagicBean:6.0.0/
 157.245.137.242|16125|/MagicBean:6.0.0/
 157.245.169.74|16125|/MagicBean:4.0.2/
 157.245.172.190|8233|/MagicBean:5.2.0/
@@ -1051,9 +1037,9 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 157.90.78.106|16125|/MagicBean:6.0.0/
 157.90.88.178|9058|/MagicBean:5.2.0/
 157.90.89.105|9058|/MagicBean:5.2.0/
-158.140.144.78|16125|/MagicBean:6.0.0/|56300|158.140.144.0/24|SG|apnic|1992-03-10|MYREPUBLIC-SG MyRepublic Ltd., SG
-158.174.112.198|16125|/MagicBean:6.0.0/|8473|158.174.0.0/16|GB|ripencc|1992-03-24|BAHNHOF www.bahnhof.net, SE
-158.69.100.56|16125|/MagicBean:6.0.0/|16276|158.69.0.0/16|CA|arin|2015-06-15|OVH, FR
+158.140.144.78|16125|/MagicBean:6.0.0/
+158.174.112.198|16125|/MagicBean:6.0.0/
+158.69.100.56|16125|/MagicBean:6.0.0/
 158.69.100.58|16125|/MagicBean:6.0.0/
 158.69.100.59|16125|/MagicBean:6.0.0/
 158.69.154.16|16125|/MagicBean:6.0.0/
@@ -1078,7 +1064,6 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 158.69.246.199|16125|/MagicBean:6.0.0/
 158.69.247.32|16125|/MagicBean:6.0.0/
 158.69.27.166|16125|/MagicBean:6.0.0/
-158.69.27.184|16125|/MagicBean:6.0.0/
 159.196.105.242|16125|/MagicBean:6.0.0/
 159.196.116.192|16125|/MagicBean:6.0.0/
 159.196.26.49|16125|/MagicBean:6.0.0/
@@ -1112,6 +1097,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 161.97.114.176|16125|/MagicBean:6.0.0/
 161.97.115.192|16125|/MagicBean:6.0.0/
 161.97.116.120|16125|/MagicBean:6.0.0/
+161.97.116.135|16125|/MagicBean:5.0.2/
 161.97.116.14|16125|/MagicBean:6.0.0/
 161.97.116.152|16125|/MagicBean:6.0.0/
 161.97.116.195|16125|/MagicBean:6.0.0/
@@ -1139,15 +1125,15 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 161.97.130.106|16125|/MagicBean:6.0.0/
 161.97.131.220|16125|/MagicBean:6.0.0/
 161.97.133.32|16125|/MagicBean:6.0.0/
-161.97.136.195|16125|/MagicBean:6.0.0/
-161.97.136.229|16125|/MagicBean:6.0.0/
-161.97.137.109|16125|/MagicBean:6.0.0/
-161.97.137.135|16125|/MagicBean:6.0.0/
-161.97.137.154|16125|/MagicBean:6.0.0/
-161.97.141.36|16125|/MagicBean:6.0.0/
-161.97.144.197|16125|/MagicBean:6.0.0/
-161.97.145.122|16125|/MagicBean:6.0.0/
-161.97.145.223|16125|/MagicBean:6.0.0/
+161.97.136.195|16125|/MagicBean:6.0.0/|51167|161.97.128.0/19|DE|ripencc|1992-06-23|CONTABO, DE
+161.97.136.229|16125|/MagicBean:6.0.0/|51167|161.97.128.0/19|DE|ripencc|1992-06-23|CONTABO, DE
+161.97.137.109|16125|/MagicBean:6.0.0/|51167|161.97.128.0/19|DE|ripencc|1992-06-23|CONTABO, DE
+161.97.137.135|16125|/MagicBean:6.0.0/|51167|161.97.128.0/19|DE|ripencc|1992-06-23|CONTABO, DE
+161.97.137.154|16125|/MagicBean:6.0.0/|51167|161.97.128.0/19|DE|ripencc|1992-06-23|CONTABO, DE
+161.97.141.36|16125|/MagicBean:6.0.0/|51167|161.97.128.0/19|DE|ripencc|1992-06-23|CONTABO, DE
+161.97.144.197|16125|/MagicBean:6.0.0/|51167|161.97.128.0/19|DE|ripencc|1992-06-23|CONTABO, DE
+161.97.145.122|16125|/MagicBean:6.0.0/|51167|161.97.128.0/19|DE|ripencc|1992-06-23|CONTABO, DE
+161.97.145.223|16125|/MagicBean:6.0.0/|51167|161.97.128.0/19|DE|ripencc|1992-06-23|CONTABO, DE
 161.97.145.30|16125|/MagicBean:6.0.0/
 161.97.147.155|16125|/MagicBean:6.0.0/
 161.97.152.119|16125|/MagicBean:6.0.0/
@@ -1158,7 +1144,6 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 161.97.157.137|16125|/MagicBean:6.0.0/
 161.97.160.136|16125|/MagicBean:6.0.0/
 161.97.161.19|16125|/MagicBean:6.0.0/
-161.97.162.210|16125|/MagicBean:6.0.0/
 161.97.165.161|16125|/MagicBean:6.0.0/
 161.97.166.112|16125|/MagicBean:6.0.0/
 161.97.170.37|16125|/MagicBean:6.0.0/
@@ -1224,11 +1209,10 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 162.33.247.26|16125|/MagicBean:6.0.0/
 162.33.247.27|16125|/MagicBean:6.0.0/
 162.33.247.28|16125|/MagicBean:6.0.0/
-162.33.247.29|16125|/MagicBean:6.0.0/
 162.55.103.190|8233|/MagicBean:5.2.0/
 162.55.144.86|16125|/MagicBean:6.0.0/
 162.55.166.254|16125|/MagicBean:6.0.0/
-162.55.232.86|16125|/MagicBean:6.0.0/
+162.55.232.86|16125|/MagicBean:6.0.0/|24940|162.55.0.0/16|DE|ripencc|1992-08-03|HETZNER-AS, DE
 162.55.53.54|16125|/MagicBean:6.0.0/
 162.55.62.181|16125|/MagicBean:6.0.0/
 162.55.83.243|16125|/MagicBean:6.0.0/
@@ -1441,7 +1425,6 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 173.249.16.42|16125|/MagicBean:6.0.0/
 173.249.19.242|16125|/MagicBean:6.0.0/
 173.249.2.11|16125|/MagicBean:6.0.0/
-173.249.24.34|16125|/MagicBean:5.0.2/
 173.249.25.125|16125|/MagicBean:6.0.0/
 173.249.31.188|16125|/MagicBean:6.0.0/
 173.249.34.146|16125|/MagicBean:6.0.0/
@@ -1492,9 +1475,9 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 176.145.165.226|16125|/MagicBean:6.0.0/
 176.146.199.77|16125|/MagicBean:6.0.0/
 176.159.48.8|16125|/MagicBean:6.0.0/
-176.173.90.9|16125|/MagicBean:6.0.0/|5410|176.128.0.0/10|FR|ripencc|2011-07-06|BOUYGTEL-ISP, FR
-176.174.115.19|16125|/MagicBean:6.0.0/|5410|176.128.0.0/10|FR|ripencc|2011-07-06|BOUYGTEL-ISP, FR
-176.182.135.187|16125|/MagicBean:6.0.0/|5410|176.128.0.0/10|FR|ripencc|2011-07-06|BOUYGTEL-ISP, FR
+176.173.90.9|16125|/MagicBean:6.0.0/
+176.174.115.19|16125|/MagicBean:6.0.0/
+176.182.135.187|16125|/MagicBean:6.0.0/
 176.189.18.39|16125|/MagicBean:6.0.0/
 176.189.74.142|16125|/MagicBean:6.0.0/
 176.31.117.10|16125|/MagicBean:6.0.0/
@@ -1711,7 +1694,6 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 185.16.38.93|16125|/MagicBean:6.0.0/
 185.16.38.94|16125|/MagicBean:6.0.0/
 185.16.38.95|16125|/MagicBean:6.0.0/
-185.16.38.96|16125|/MagicBean:6.0.0/
 185.16.39.111|16125|/MagicBean:6.0.0/
 185.16.39.112|16125|/MagicBean:6.0.0/
 185.16.39.136|16125|/MagicBean:6.0.0/
@@ -1724,7 +1706,6 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 185.16.39.85|16125|/MagicBean:6.0.0/
 185.16.60.109|16125|/MagicBean:6.0.0/
 185.16.60.119|16125|/MagicBean:6.0.0/
-185.16.60.142|16125|/MagicBean:6.0.0/
 185.16.60.174|16125|/MagicBean:6.0.0/
 185.16.60.239|16125|/MagicBean:6.0.0/
 185.16.60.247|16125|/MagicBean:6.0.0/
@@ -1766,6 +1747,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 185.185.83.172|16125|/MagicBean:6.0.0/
 185.185.83.174|16125|/MagicBean:6.0.0/
 185.185.83.40|16125|/MagicBean:6.0.0/
+185.185.83.76|16125|/MagicBean:6.0.0/
 185.185.83.98|16125|/MagicBean:6.0.0/
 185.187.169.253|16125|/MagicBean:6.0.0/
 185.188.250.201|16125|/MagicBean:6.0.0/
@@ -2018,9 +2000,8 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 188.165.92.3|16125|/MagicBean:6.0.0/
 188.166.173.215|8233|/MagicBean:5.1.0(bitcore)/
 188.166.47.39|16125|/MagicBean:6.0.0/
-188.167.179.84|16125|/MagicBean:6.0.0/
 188.167.179.85|16125|/MagicBean:6.0.0/
-188.167.179.86|16125|/MagicBean:6.0.0/
+188.167.179.86|16125|/MagicBean:6.0.0/|6830|188.167.128.0/17|SK|ripencc|2009-06-11|LIBERTYGLOBAL Liberty Global formerly UPC Broadband Holding, aka AORTA, NL
 188.175.144.152|16125|/MagicBean:6.0.0/
 188.213.140.180|16125|/MagicBean:6.0.0/
 188.213.140.54|16125|/MagicBean:6.0.0/
@@ -2058,7 +2039,6 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 192.95.11.13|16125|/MagicBean:6.0.0/
 192.95.11.14|16125|/MagicBean:6.0.0/
 192.95.11.15|16125|/MagicBean:6.0.0/
-192.95.29.10|16125|/MagicBean:6.0.0/
 192.95.29.11|16125|/MagicBean:6.0.0/
 192.95.29.142|16125|/MagicBean:6.0.0/
 192.95.29.145|16125|/MagicBean:6.0.0/
@@ -2097,7 +2077,6 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 192.99.0.18|16125|/MagicBean:6.0.0/
 192.99.0.216|16125|/MagicBean:6.0.0/
 192.99.0.42|16125|/MagicBean:6.0.0/
-192.99.103.252|16125|/MagicBean:6.0.0/
 192.99.103.253|16125|/MagicBean:6.0.0/
 192.99.103.254|16125|/MagicBean:6.0.0/
 192.99.103.255|16125|/MagicBean:6.0.0/
@@ -2108,6 +2087,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 192.99.122.136|16125|/MagicBean:6.0.0/
 192.99.122.137|16125|/MagicBean:6.0.0/
 192.99.122.138|16125|/MagicBean:6.0.0/
+192.99.122.139|16125|/MagicBean:6.0.0/
 192.99.13.76|16125|/MagicBean:6.0.0/
 192.99.139.136|16125|/MagicBean:6.0.0/
 192.99.139.137|16125|/MagicBean:6.0.0/
@@ -2116,9 +2096,9 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 192.99.14.205|16125|/MagicBean:6.0.0/
 192.99.14.39|16125|/MagicBean:6.0.0/
 192.99.15.142|16125|/MagicBean:6.0.0/
-192.99.15.159|16125|/MagicBean:6.0.0/|16276|192.99.0.0/16|CA|arin|2013-06-17|OVH, FR
+192.99.15.159|16125|/MagicBean:6.0.0/
 192.99.15.164|16125|/MagicBean:6.0.0/
-192.99.15.196|16125|/MagicBean:6.0.0/|16276|192.99.0.0/16|CA|arin|2013-06-17|OVH, FR
+192.99.15.196|16125|/MagicBean:6.0.0/
 192.99.15.68|16125|/MagicBean:6.0.0/
 192.99.15.98|16125|/MagicBean:6.0.0/
 192.99.16.198|16125|/MagicBean:6.0.0/
@@ -2126,7 +2106,6 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 192.99.160.80|16125|/MagicBean:6.0.0/
 192.99.183.24|16125|/MagicBean:6.0.0/
 192.99.183.25|16125|/MagicBean:6.0.0/
-192.99.183.26|16125|/MagicBean:6.0.0/
 192.99.183.27|16125|/MagicBean:6.0.0/
 192.99.223.172|16125|/MagicBean:6.0.0/
 192.99.223.173|16125|/MagicBean:6.0.0/
@@ -2208,7 +2187,6 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 192.99.88.146|16125|/MagicBean:6.0.0/
 192.99.88.147|16125|/MagicBean:6.0.0/
 192.99.88.240|16125|/MagicBean:6.0.0/
-192.99.9.116|16125|/MagicBean:6.0.0/
 192.99.9.144|16125|/MagicBean:6.0.0/
 192.99.9.146|16125|/MagicBean:6.0.0/
 192.99.9.95|16125|/MagicBean:6.0.0/
@@ -2226,7 +2204,6 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 193.198.68.181|8233|/MagicBean:5.1.0/
 193.198.68.188|8233|/MagicBean:5.1.0/
 193.26.156.21|16125|/MagicBean:6.0.0/
-193.26.156.60|16125|/MagicBean:6.0.0/
 193.26.156.96|16125|/MagicBean:6.0.0/
 193.26.157.102|16125|/MagicBean:6.0.0/
 193.26.157.137|16125|/MagicBean:6.0.0/
@@ -2250,9 +2227,9 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 193.38.33.184|16125|/MagicBean:6.0.0/
 193.38.33.185|16125|/MagicBean:6.0.0/
 193.38.33.186|16125|/MagicBean:6.0.0/
-193.38.33.187|16125|/MagicBean:6.0.0/
-193.38.33.192|16125|/MagicBean:6.0.0/
-193.42.110.30|8233|/MagicBean:5.2.0/
+193.38.33.187|16125|/MagicBean:6.0.0/|210197|193.38.33.0/24|FR|ripencc|2018-09-12|AS1TOTALCLOUD, FR
+193.38.33.192|16125|/MagicBean:6.0.0/|210197|193.38.33.0/24|FR|ripencc|2018-09-12|AS1TOTALCLOUD, FR
+193.42.110.30|8233|/MagicBean:5.2.0/|60144|193.42.110.0/23|RU|ripencc|2018-10-23|THREE-W-INFRA-AS -- TRANSIT --, NL
 193.46.243.20|16125|/MagicBean:6.0.0/
 193.46.243.21|16125|/MagicBean:6.0.0/
 193.58.255.201|16125|/MagicBean:6.0.0/
@@ -2265,11 +2242,10 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 193.70.95.126|16125|/MagicBean:6.0.0/
 193.70.95.127|16125|/MagicBean:6.0.0/
 194.106.127.56|16125|/MagicBean:6.0.0/
-194.13.80.110|16125|/MagicBean:6.0.0/
-194.13.80.131|16125|/MagicBean:6.0.0/
-194.13.80.15|16125|/MagicBean:6.0.0/
-194.13.81.41|16125|/MagicBean:6.0.0/
-194.13.81.71|16125|/MagicBean:6.0.0/
+194.13.80.131|16125|/MagicBean:6.0.0/|197540|194.13.80.0/22|DE|ripencc|2018-07-23|NETCUP-AS netcup GmbH, DE
+194.13.80.15|16125|/MagicBean:6.0.0/|197540|194.13.80.0/22|DE|ripencc|2018-07-23|NETCUP-AS netcup GmbH, DE
+194.13.81.41|16125|/MagicBean:6.0.0/|197540|194.13.80.0/22|DE|ripencc|2018-07-23|NETCUP-AS netcup GmbH, DE
+194.13.81.71|16125|/MagicBean:6.0.0/|197540|194.13.80.0/22|DE|ripencc|2018-07-23|NETCUP-AS netcup GmbH, DE
 194.13.83.128|16125|/MagicBean:6.0.0/
 194.13.83.199|16125|/MagicBean:6.0.0/
 194.13.83.246|16125|/MagicBean:6.0.0/
@@ -2288,7 +2264,6 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 194.163.136.171|16125|/MagicBean:6.0.0/
 194.163.139.133|16125|/MagicBean:6.0.0/
 194.163.140.150|16125|/MagicBean:6.0.0/
-194.163.143.7|16125|/MagicBean:6.0.0/
 194.163.144.234|16125|/MagicBean:6.0.0/
 194.163.145.16|16125|/MagicBean:6.0.0/
 194.163.146.74|16125|/MagicBean:6.0.0/
@@ -2390,7 +2365,6 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 194.60.201.60|16125|/MagicBean:6.0.0/
 194.60.87.119|16125|/MagicBean:6.0.0/
 194.61.28.100|16125|/MagicBean:6.0.0/
-194.61.28.156|16125|/MagicBean:6.0.0/
 194.61.28.27|16125|/MagicBean:6.0.0/
 194.61.28.29|16125|/MagicBean:6.0.0/
 195.154.232.54|16125|/MagicBean:6.0.0/
@@ -2473,7 +2447,6 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 195.3.221.211|16125|/MagicBean:6.0.0/
 195.3.221.212|16125|/MagicBean:6.0.0/
 195.3.221.213|16125|/MagicBean:6.0.0/
-195.3.221.214|16125|/MagicBean:6.0.0/
 195.3.221.219|16125|/MagicBean:6.0.0/
 195.3.221.220|16125|/MagicBean:6.0.0/
 195.3.221.221|16125|/MagicBean:6.0.0/
@@ -2551,7 +2524,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 195.3.223.167|16125|/MagicBean:6.0.0/
 195.3.223.168|16125|/MagicBean:6.0.0/
 195.3.223.169|16125|/MagicBean:6.0.0/
-195.3.223.17|16125|/MagicBean:6.0.0/|201814|195.3.220.0/22|PL|ripencc|2011-09-19|PL-SKYTECH-AS, PL
+195.3.223.17|16125|/MagicBean:6.0.0/
 195.3.223.170|16125|/MagicBean:6.0.0/
 195.3.223.171|16125|/MagicBean:6.0.0/
 195.3.223.172|16125|/MagicBean:6.0.0/
@@ -2563,13 +2536,12 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 195.3.223.178|16125|/MagicBean:6.0.0/
 195.3.223.179|16125|/MagicBean:6.0.0/
 195.3.223.18|16125|/MagicBean:6.0.0/
-195.3.223.180|16125|/MagicBean:6.0.0/|201814|195.3.220.0/22|PL|ripencc|2011-09-19|PL-SKYTECH-AS, PL
+195.3.223.180|16125|/MagicBean:6.0.0/
 195.3.223.181|16125|/MagicBean:6.0.0/
 195.3.223.182|16125|/MagicBean:6.0.0/
 195.3.223.183|16125|/MagicBean:6.0.0/
 195.3.223.184|16125|/MagicBean:6.0.0/
 195.3.223.207|16125|/MagicBean:6.0.0/
-195.3.223.209|16125|/MagicBean:6.0.0/
 195.3.223.23|16125|/MagicBean:6.0.0/
 195.3.223.25|16125|/MagicBean:6.0.0/
 195.3.223.26|16125|/MagicBean:6.0.0/
@@ -2633,7 +2605,6 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 198.244.239.97|16125|/MagicBean:6.0.0/
 198.244.239.98|16125|/MagicBean:6.0.0/
 198.244.239.99|16125|/MagicBean:6.0.0/
-198.27.103.132|16125|/MagicBean:6.0.0/
 198.27.103.133|16125|/MagicBean:6.0.0/
 198.27.103.134|16125|/MagicBean:6.0.0/
 198.27.103.135|16125|/MagicBean:6.0.0/
@@ -2720,7 +2691,6 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 198.50.227.152|16125|/MagicBean:6.0.0/
 198.50.227.153|16125|/MagicBean:6.0.0/
 198.50.227.154|16125|/MagicBean:6.0.0/
-198.50.227.155|16125|/MagicBean:6.0.0/
 198.50.229.32|16125|/MagicBean:6.0.0/
 198.50.229.33|16125|/MagicBean:6.0.0/
 198.50.229.34|16125|/MagicBean:6.0.0/
@@ -2747,7 +2717,6 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 198.55.53.199|16125|/MagicBean:6.0.0/
 199.189.229.93|16125|/MagicBean:6.0.0/
 199.203.102.78|16125|/MagicBean:6.0.0/
-199.83.113.212|16125|/MagicBean:6.0.0/
 199.83.113.213|16125|/MagicBean:6.0.0/
 2.136.140.217|16125|/MagicBean:6.0.0/
 2.139.194.185|16125|/MagicBean:6.0.0/
@@ -2778,9 +2747,9 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 2001:8b0:110e:b164:ac88:26c2:926c:6880|8233|/MagicBean:5.2.0/
 2001:8f8:1629:d4bb:485d:b8f1:e670:417a|16125|/MagicBean:6.0.0/
 2003:c6:9708:c500:219:99ff:fee3:3f8e|8233|/MagicBean:5.1.0/
-202.153.218.195|16125|/MagicBean:6.0.0/|4764|202.153.216.0/22|AU|apnic|2006-05-12|WIDEBAND-AS-AP Aussie Broadband, AU
-202.169.103.246|16125|/MagicBean:6.0.0/|9310|202.169.103.0/24|AU|apnic|2010-07-09|MYREPUBLICNETS-AS-AP MYREPUBLIC PTY LTD, AU
-202.170.120.130|16125|/MagicBean:6.0.0/|23884|202.170.120.0/23|TH|apnic|2005-11-22|PROENNET-AS Proen Corp Public Company Limited., TH
+202.153.218.195|16125|/MagicBean:6.0.0/
+202.169.103.246|16125|/MagicBean:6.0.0/
+202.170.120.130|16125|/MagicBean:6.0.0/
 202.170.120.131|16125|/MagicBean:6.0.0/
 202.170.120.133|16125|/MagicBean:6.0.0/
 202.170.120.134|16125|/MagicBean:6.0.0/
@@ -2807,7 +2776,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 202.61.196.215|16125|/MagicBean:6.0.0/
 202.61.196.223|16125|/MagicBean:6.0.0/
 202.61.197.0|16125|/MagicBean:6.0.0/
-202.61.197.154|16125|/MagicBean:6.0.0/
+202.61.197.154|16125|/MagicBean:6.0.0/|197540|202.61.192.0/20|AT|ripencc|2003-07-07|NETCUP-AS netcup GmbH, DE
 202.61.197.168|16125|/MagicBean:6.0.0/
 202.61.198.182|16125|/MagicBean:6.0.0/
 202.61.198.226|16125|/MagicBean:6.0.0/
@@ -2877,7 +2846,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 202.61.205.161|16125|/MagicBean:6.0.0/
 202.61.205.162|16125|/MagicBean:6.0.0/
 202.61.205.163|16125|/MagicBean:6.0.0/
-202.61.205.168|16125|/MagicBean:6.0.0/|197540|202.61.192.0/20|AT|ripencc|2003-07-07|NETCUP-AS netcup GmbH, DE
+202.61.205.168|16125|/MagicBean:6.0.0/
 202.61.205.44|16125|/MagicBean:6.0.0/
 202.61.205.49|16125|/MagicBean:6.0.0/
 202.61.206.118|16125|/MagicBean:6.0.0/
@@ -2895,13 +2864,13 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 202.61.207.236|16125|/MagicBean:6.0.0/
 202.61.207.240|16125|/MagicBean:6.0.0/
 202.61.207.248|16125|/MagicBean:6.0.0/
-202.61.207.29|16125|/MagicBean:6.0.0/
-202.61.207.40|16125|/MagicBean:6.0.0/
-202.61.207.45|16125|/MagicBean:6.0.0/
-202.61.224.157|16125|/MagicBean:6.0.0/
+202.61.207.29|16125|/MagicBean:6.0.0/|197540|202.61.192.0/20|AT|ripencc|2003-07-07|NETCUP-AS netcup GmbH, DE
+202.61.207.40|16125|/MagicBean:6.0.0/|197540|202.61.192.0/20|AT|ripencc|2003-07-07|NETCUP-AS netcup GmbH, DE
+202.61.207.45|16125|/MagicBean:6.0.0/|197540|202.61.192.0/20|AT|ripencc|2003-07-07|NETCUP-AS netcup GmbH, DE
+202.61.224.157|16125|/MagicBean:6.0.0/|197540|202.61.224.0/20|AT|ripencc|2003-07-07|NETCUP-AS netcup GmbH, DE
 202.61.224.178|16125|/MagicBean:6.0.0/
-202.61.224.249|16125|/MagicBean:6.0.0/|197540|202.61.224.0/20|AT|ripencc|2003-07-07|NETCUP-AS netcup GmbH, DE
-202.61.225.105|16125|/MagicBean:6.0.0/|197540|202.61.224.0/20|AT|ripencc|2003-07-07|NETCUP-AS netcup GmbH, DE
+202.61.224.249|16125|/MagicBean:6.0.0/
+202.61.225.105|16125|/MagicBean:6.0.0/
 202.61.225.183|16125|/MagicBean:6.0.0/
 202.61.225.20|16125|/MagicBean:6.0.0/
 202.61.226.14|16125|/MagicBean:6.0.0/
@@ -2953,7 +2922,6 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 202.61.239.225|16125|/MagicBean:6.0.0/
 202.61.239.233|16125|/MagicBean:6.0.0/
 202.61.239.72|16125|/MagicBean:6.0.0/
-202.61.239.82|16125|/MagicBean:6.0.0/
 202.61.240.161|16125|/MagicBean:6.0.0/
 202.61.240.172|16125|/MagicBean:6.0.0/
 202.61.240.19|16125|/MagicBean:6.0.0/
@@ -2985,7 +2953,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 202.61.243.94|16125|/MagicBean:6.0.0/
 202.61.244.122|16125|/MagicBean:6.0.0/
 202.61.244.124|16125|/MagicBean:6.0.0/
-202.61.244.182|16125|/MagicBean:6.0.0/|197540|202.61.240.0/20|AT|ripencc|2003-07-07|NETCUP-AS netcup GmbH, DE
+202.61.244.182|16125|/MagicBean:6.0.0/
 202.61.244.196|16125|/MagicBean:6.0.0/
 202.61.244.200|16125|/MagicBean:6.0.0/
 202.61.244.22|16125|/MagicBean:6.0.0/
@@ -2994,7 +2962,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 202.61.244.68|16125|/MagicBean:6.0.0/
 202.61.244.71|16125|/MagicBean:6.0.0/
 202.61.244.89|16125|/MagicBean:6.0.0/
-202.61.244.93|16125|/MagicBean:6.0.0/
+202.61.244.93|16125|/MagicBean:6.0.0/|197540|202.61.240.0/20|AT|ripencc|2003-07-07|NETCUP-AS netcup GmbH, DE
 202.61.244.94|16125|/MagicBean:6.0.0/
 202.61.245.109|16125|/MagicBean:6.0.0/
 202.61.245.112|16125|/MagicBean:6.0.0/
@@ -3077,7 +3045,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 204.10.194.150|16125|/MagicBean:6.0.0/
 204.10.194.152|16125|/MagicBean:6.0.0/
 204.10.194.153|16125|/MagicBean:6.0.0/
-204.10.194.154|16125|/MagicBean:6.0.0/|206216|204.10.194.0/24|CA|arin|2022-04-08|ADVIN-AS, US
+204.10.194.154|16125|/MagicBean:6.0.0/
 204.10.194.155|16125|/MagicBean:6.0.0/
 204.10.194.16|16125|/MagicBean:6.0.0/
 204.10.194.161|16125|/MagicBean:6.0.0/
@@ -3085,7 +3053,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 204.10.194.168|16125|/MagicBean:6.0.0/
 204.10.194.171|16125|/MagicBean:6.0.0/
 204.10.194.172|16125|/MagicBean:6.0.0/
-204.10.194.175|16125|/MagicBean:6.0.0/|206216|204.10.194.0/24|CA|arin|2022-04-08|ADVIN-AS, US
+204.10.194.175|16125|/MagicBean:6.0.0/
 204.10.194.178|16125|/MagicBean:6.0.0/
 204.10.194.186|16125|/MagicBean:6.0.0/
 204.10.194.189|16125|/MagicBean:6.0.0/
@@ -3094,8 +3062,8 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 204.10.194.21|16125|/MagicBean:6.0.0/
 204.10.194.216|16125|/MagicBean:6.0.0/
 204.10.194.217|16125|/MagicBean:6.0.0/
-204.10.194.222|16125|/MagicBean:6.0.0/
-204.10.194.223|16125|/MagicBean:6.0.0/
+204.10.194.222|16125|/MagicBean:6.0.0/|206216|204.10.194.0/24|CA|arin|2022-04-08|ADVIN-AS, US
+204.10.194.223|16125|/MagicBean:6.0.0/|206216|204.10.194.0/24|CA|arin|2022-04-08|ADVIN-AS, US
 204.10.194.224|16125|/MagicBean:6.0.0/
 204.10.194.225|16125|/MagicBean:6.0.0/
 204.10.194.226|16125|/MagicBean:6.0.0/
@@ -3142,7 +3110,6 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 207.180.248.166|16125|/MagicBean:6.0.0/
 207.180.248.73|16125|/MagicBean:6.0.0/
 207.180.252.4|16125|/MagicBean:6.0.0/
-207.180.253.72|16125|/MagicBean:6.0.0/
 207.201.218.189|16125|/MagicBean:5.0.2/
 207.244.151.170|16125|/MagicBean:6.0.0/
 207.244.224.233|16125|/MagicBean:6.0.0/
@@ -3166,10 +3133,10 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 207.244.241.3|16125|/MagicBean:6.0.0/
 207.244.242.192|16125|/MagicBean:6.0.0/
 207.244.244.39|16125|/MagicBean:6.0.0/
-207.244.245.4|16125|/MagicBean:6.0.0/|40021|207.244.240.0/20|US|arin|2021-05-07|CONTABO, US
-207.244.247.245|16125|/MagicBean:6.0.0/|40021|207.244.240.0/20|US|arin|2021-05-07|CONTABO, US
-207.244.249.119|16125|/MagicBean:6.0.0/|40021|207.244.240.0/20|US|arin|2021-05-07|CONTABO, US
-207.244.249.22|16125|/MagicBean:6.0.0/|40021|207.244.240.0/20|US|arin|2021-05-07|CONTABO, US
+207.244.245.4|16125|/MagicBean:6.0.0/
+207.244.247.245|16125|/MagicBean:6.0.0/
+207.244.249.119|16125|/MagicBean:6.0.0/
+207.244.249.22|16125|/MagicBean:6.0.0/
 207.244.251.100|16125|/MagicBean:6.0.0/
 207.244.251.171|16125|/MagicBean:6.0.0/
 207.244.251.20|16125|/MagicBean:6.0.0/
@@ -3218,7 +3185,6 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 209.145.49.123|16125|/MagicBean:6.0.0/
 209.145.49.6|16125|/MagicBean:6.0.0/
 209.145.50.64|16125|/MagicBean:6.0.0/
-209.145.52.155|16125|/MagicBean:6.0.0/
 209.145.52.176|16125|/MagicBean:6.0.0/
 209.145.52.177|16125|/MagicBean:6.0.0/
 209.145.52.179|16125|/MagicBean:6.0.0/
@@ -3251,7 +3217,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 209.253.195.51|16125|/MagicBean:6.0.0/
 209.253.195.53|16125|/MagicBean:6.0.0/
 209.253.195.54|16125|/MagicBean:6.0.0/
-209.253.195.55|16125|/MagicBean:6.0.0/
+209.253.195.55|16125|/MagicBean:6.0.0/|7029|209.252.0.0/14|US|arin|1998-06-18|WINDSTREAM, US
 209.30.147.126|16125|/MagicBean:6.0.0/
 209.59.232.128|16125|/MagicBean:6.0.0/
 211.35.166.200|16125|/MagicBean:6.0.0/
@@ -3274,7 +3240,6 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 212.79.183.178|16125|/MagicBean:6.0.0/
 212.80.212.164|16125|/MagicBean:6.0.0/
 212.80.212.165|16125|/MagicBean:6.0.0/
-212.80.212.166|16125|/MagicBean:6.0.0/
 212.80.212.205|16125|/MagicBean:6.0.0/
 212.80.212.228|16125|/MagicBean:6.0.0/
 212.80.212.238|16125|/MagicBean:6.0.0/
@@ -3332,7 +3297,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 213.64.1.102|16125|/MagicBean:6.0.0/
 213.67.247.85|16125|/MagicBean:6.0.0/
 216.128.178.2|16125|/MagicBean:6.0.0/
-216.137.189.39|16125|/MagicBean:6.0.0/
+216.137.189.39|16125|/MagicBean:6.0.0/|55293|216.137.188.0/22|US|arin|2020-08-20|A2HOSTING, US
 216.146.248.156|16125|/MagicBean:6.0.0/
 216.146.248.172|16125|/MagicBean:6.0.0/
 216.146.248.173|16125|/MagicBean:6.0.0/
@@ -3344,21 +3309,19 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 216.146.248.207|16125|/MagicBean:6.0.0/
 216.146.248.208|16125|/MagicBean:6.0.0/
 216.146.248.209|16125|/MagicBean:6.0.0/
-216.146.248.215|16125|/MagicBean:6.0.0/
 216.146.248.227|16125|/MagicBean:6.0.0/
 216.146.248.228|16125|/MagicBean:6.0.0/
 216.146.248.230|16125|/MagicBean:6.0.0/
-216.158.97.17|16125|/MagicBean:6.0.0/
 216.16.211.198|16125|/MagicBean:6.0.0/
 216.177.180.225|16125|/MagicBean:6.0.0/
 216.177.180.248|16125|/MagicBean:6.0.0/
 216.177.181.217|16125|/MagicBean:6.0.0/
 216.230.231.195|8233|/MagicBean:5.0.0/
 217.122.96.150|16125|/MagicBean:6.0.0/
-217.123.168.220|16125|/MagicBean:6.0.0/|33915|217.122.0.0/15|NL|ripencc|2000-12-19|TNF-AS, NL
-217.160.53.112|16125|/MagicBean:6.0.0/|8560|217.160.0.0/16|DE|ripencc|2001-03-07|IONOS-AS This is the joint network for IONOS, Fasthosts, Arsys, 1&1 Mail and Media and 1&1 Telecom. Formerly known as 1&1 Internet SE., DE
-217.160.58.227|16125|/MagicBean:6.0.0/|8560|217.160.0.0/16|DE|ripencc|2001-03-07|IONOS-AS This is the joint network for IONOS, Fasthosts, Arsys, 1&1 Mail and Media and 1&1 Telecom. Formerly known as 1&1 Internet SE., DE
-217.162.131.18|16125|/MagicBean:6.0.0/|6830|217.162.128.0/17|CH|ripencc|2001-04-04|LIBERTYGLOBAL Liberty Global formerly UPC Broadband Holding, aka AORTA, NL
+217.123.168.220|16125|/MagicBean:6.0.0/
+217.160.53.112|16125|/MagicBean:6.0.0/
+217.160.58.227|16125|/MagicBean:6.0.0/
+217.162.131.18|16125|/MagicBean:6.0.0/
 217.182.103.243|16125|/MagicBean:6.0.0/
 217.182.187.51|16125|/MagicBean:6.0.0/
 217.182.189.254|16125|/MagicBean:6.0.0/
@@ -3419,7 +3382,6 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 24.143.121.93|16125|/MagicBean:6.0.0/
 24.17.159.53|16125|/MagicBean:6.0.0/
 24.180.80.120|16125|/MagicBean:6.0.0/
-24.186.105.127|16125|/MagicBean:6.0.0/
 24.19.84.5|16125|/MagicBean:6.0.0/
 24.20.198.31|16125|/MagicBean:6.0.0/
 24.216.239.99|16125|/MagicBean:6.0.0/
@@ -3429,7 +3391,6 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 24.63.29.247|16125|/MagicBean:6.0.0/
 24.64.146.119|16125|/MagicBean:6.0.0/
 24.77.70.42|16125|/MagicBean:6.0.0/
-24.77.88.42|16125|/MagicBean:6.0.0/
 24.94.253.127|16125|/MagicBean:6.0.0/
 2400:6180:0:d0::15f7:f001|8233|/MagicBean:5.1.0/
 2404:8000:1007:2f7e:fbfc:d6d:cbff:902b|8233|/MagicBean:5.0.0/
@@ -3615,7 +3576,6 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 37.120.165.242|16125|/MagicBean:6.0.0/
 37.120.165.40|16125|/MagicBean:6.0.0/
 37.120.165.46|16125|/MagicBean:6.0.0/
-37.120.165.55|16125|/MagicBean:6.0.0/
 37.120.165.64|16125|/MagicBean:6.0.0/
 37.120.165.77|16125|/MagicBean:6.0.0/
 37.120.165.78|16125|/MagicBean:6.0.0/
@@ -3751,7 +3711,6 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 37.120.173.235|16125|/MagicBean:6.0.0/
 37.120.173.33|16125|/MagicBean:6.0.0/
 37.120.174.143|16125|/MagicBean:6.0.0/
-37.120.174.162|16125|/MagicBean:6.0.0/
 37.120.174.186|16125|/MagicBean:6.0.0/
 37.120.174.211|16125|/MagicBean:6.0.0/
 37.120.174.243|16125|/MagicBean:6.0.0/
@@ -3896,7 +3855,6 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 37.148.198.114|16125|/MagicBean:6.0.0/
 37.148.198.115|16125|/MagicBean:6.0.0/
 37.148.198.117|16125|/MagicBean:6.0.0/
-37.148.198.118|16125|/MagicBean:6.0.0/
 37.148.198.119|16125|/MagicBean:6.0.0/
 37.148.198.120|16125|/MagicBean:6.0.0/
 37.148.198.122|16125|/MagicBean:6.0.0/
@@ -3975,7 +3933,6 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 37.221.193.127|16125|/MagicBean:6.0.0/
 37.221.193.138|16125|/MagicBean:6.0.0/
 37.221.193.159|16125|/MagicBean:6.0.0/
-37.221.193.177|16125|/MagicBean:6.0.0/
 37.221.193.179|16125|/MagicBean:6.0.0/
 37.221.193.194|16125|/MagicBean:6.0.0/
 37.221.193.200|16125|/MagicBean:6.0.0/
@@ -4118,7 +4075,6 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 38.242.153.166|16125|/MagicBean:6.0.0/
 38.242.156.197|16125|/MagicBean:6.0.0/
 38.242.192.2|16125|/MagicBean:6.0.0/
-38.242.193.137|16125|/MagicBean:6.0.0/
 38.242.193.158|16125|/MagicBean:6.0.0/
 38.242.193.25|16125|/MagicBean:6.0.0/
 38.242.194.72|16125|/MagicBean:6.0.0/
@@ -4162,7 +4118,6 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 38.242.206.67|16125|/MagicBean:6.0.0/
 38.242.207.129|16125|/MagicBean:6.0.0/
 38.242.207.56|16125|/MagicBean:6.0.0/
-38.242.208.126|16125|/MagicBean:6.0.0/
 38.242.209.127|16125|/MagicBean:6.0.0/
 38.242.209.132|16125|/MagicBean:6.0.0/
 38.242.209.99|16125|/MagicBean:6.0.0/
@@ -4181,7 +4136,6 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 38.242.214.105|16125|/MagicBean:6.0.0/
 38.242.214.46|16125|/MagicBean:6.0.0/
 38.242.215.101|16125|/MagicBean:6.0.0/
-38.242.215.124|16125|/MagicBean:6.0.0/
 38.242.216.198|16125|/MagicBean:6.0.0/
 38.242.216.219|16125|/MagicBean:6.0.0/
 38.242.218.200|16125|/MagicBean:6.0.0/
@@ -4205,7 +4159,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 38.242.223.233|16125|/MagicBean:6.0.0/
 38.242.223.237|16125|/MagicBean:6.0.0/
 38.242.223.238|16125|/MagicBean:6.0.0/
-38.242.223.239|16125|/MagicBean:6.0.0/
+38.242.223.239|16125|/MagicBean:6.0.0/|51167|38.242.208.0/20|US|arin|1991-04-16|CONTABO, DE
 38.242.224.167|16125|/MagicBean:6.0.0/
 38.242.224.206|16125|/MagicBean:6.0.0/
 38.242.224.219|16125|/MagicBean:6.0.0/
@@ -4254,7 +4208,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 38.242.236.52|16125|/MagicBean:6.0.0/
 38.242.236.74|16125|/MagicBean:6.0.0/
 38.242.237.110|16125|/MagicBean:6.0.0/
-38.242.237.137|16125|/MagicBean:6.0.0/|51167|38.242.224.0/19|US|arin|1991-04-16|CONTABO, DE
+38.242.237.137|16125|/MagicBean:6.0.0/
 38.242.237.195|16125|/MagicBean:6.0.0/
 38.242.237.196|16125|/MagicBean:6.0.0/
 38.242.237.208|16125|/MagicBean:6.0.0/
@@ -4289,15 +4243,15 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 38.242.243.197|16125|/MagicBean:6.0.0/
 38.242.243.221|16125|/MagicBean:6.0.0/
 38.242.243.222|16125|/MagicBean:6.0.0/
-38.242.243.3|16125|/MagicBean:6.0.0/
+38.242.243.3|16125|/MagicBean:6.0.0/|51167|38.242.224.0/19|US|arin|1991-04-16|CONTABO, DE
 38.242.243.51|16125|/MagicBean:6.0.0/
 38.242.244.126|16125|/MagicBean:6.0.0/
 38.242.244.146|16125|/MagicBean:6.0.0/
 38.242.244.192|16125|/MagicBean:6.0.0/
 38.242.245.224|16125|/MagicBean:6.0.0/
 38.242.245.229|16125|/MagicBean:6.0.0/
-38.242.245.233|16125|/MagicBean:6.0.0/|51167|38.242.224.0/19|US|arin|1991-04-16|CONTABO, DE
-38.242.245.54|16125|/MagicBean:6.0.0/|51167|38.242.224.0/19|US|arin|1991-04-16|CONTABO, DE
+38.242.245.233|16125|/MagicBean:6.0.0/
+38.242.245.54|16125|/MagicBean:6.0.0/
 38.242.246.108|16125|/MagicBean:6.0.0/
 38.242.246.121|16125|/MagicBean:6.0.0/
 38.242.247.102|16125|/MagicBean:6.0.0/
@@ -4389,7 +4343,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 38.88.125.23|16125|/MagicBean:6.0.0/
 38.88.125.238|16125|/MagicBean:6.0.0/
 38.88.125.239|16125|/MagicBean:6.0.0/
-38.88.125.24|16125|/MagicBean:6.0.0/|394256|38.88.125.0/24|US|arin|1991-04-16|CLOUDSINGULARITY, CA
+38.88.125.24|16125|/MagicBean:6.0.0/
 38.88.125.240|16125|/MagicBean:6.0.0/
 38.88.125.241|16125|/MagicBean:6.0.0/
 38.88.125.242|16125|/MagicBean:6.0.0/
@@ -4399,9 +4353,9 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 38.88.125.246|16125|/MagicBean:6.0.0/
 38.88.125.247|16125|/MagicBean:6.0.0/
 38.88.125.248|16125|/MagicBean:6.0.0/
-38.88.125.249|16125|/MagicBean:6.0.0/|394256|38.88.125.0/24|US|arin|1991-04-16|CLOUDSINGULARITY, CA
+38.88.125.249|16125|/MagicBean:6.0.0/
 38.88.125.25|16125|/MagicBean:6.0.0/
-38.88.125.250|16125|/MagicBean:6.0.0/|394256|38.88.125.0/24|US|arin|1991-04-16|CLOUDSINGULARITY, CA
+38.88.125.250|16125|/MagicBean:6.0.0/
 38.88.125.251|16125|/MagicBean:6.0.0/
 38.88.125.252|16125|/MagicBean:6.0.0/
 38.88.125.26|16125|/MagicBean:6.0.0/
@@ -4422,8 +4376,8 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 38.88.125.46|16125|/MagicBean:6.0.0/
 38.88.125.47|16125|/MagicBean:6.0.0/
 38.88.125.48|16125|/MagicBean:6.0.0/
-38.88.125.49|16125|/MagicBean:6.0.0/|394256|38.88.125.0/24|US|arin|1991-04-16|CLOUDSINGULARITY, CA
-38.88.125.50|16125|/MagicBean:6.0.0/|394256|38.88.125.0/24|US|arin|1991-04-16|CLOUDSINGULARITY, CA
+38.88.125.49|16125|/MagicBean:6.0.0/
+38.88.125.50|16125|/MagicBean:6.0.0/
 38.88.125.52|16125|/MagicBean:6.0.0/
 38.88.125.53|16125|/MagicBean:6.0.0/
 38.88.125.54|16125|/MagicBean:6.0.0/
@@ -4662,7 +4616,6 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 45.91.132.185|16125|/MagicBean:6.0.0/
 45.91.132.186|16125|/MagicBean:6.0.0/
 45.91.132.196|16125|/MagicBean:6.0.0/
-45.91.132.218|16125|/MagicBean:6.0.0/
 45.91.132.220|16125|/MagicBean:6.0.0/
 45.91.132.224|16125|/MagicBean:6.0.0/
 45.91.132.241|16125|/MagicBean:6.0.0/
@@ -4703,11 +4656,11 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 46.105.225.189|16125|/MagicBean:6.0.0/
 46.105.225.190|16125|/MagicBean:6.0.0/
 46.105.225.191|16125|/MagicBean:6.0.0/
-46.105.245.252|16125|/MagicBean:6.0.0/|16276|46.105.0.0/16|FR|ripencc|2010-11-29|OVH, FR
-46.105.245.253|16125|/MagicBean:6.0.0/|16276|46.105.0.0/16|FR|ripencc|2010-11-29|OVH, FR
-46.105.245.254|16125|/MagicBean:6.0.0/|16276|46.105.0.0/16|FR|ripencc|2010-11-29|OVH, FR
-46.105.245.255|16125|/MagicBean:6.0.0/|16276|46.105.0.0/16|FR|ripencc|2010-11-29|OVH, FR
-46.105.252.80|16125|/MagicBean:6.0.0/|16276|46.105.0.0/16|FR|ripencc|2010-11-29|OVH, FR
+46.105.245.252|16125|/MagicBean:6.0.0/
+46.105.245.253|16125|/MagicBean:6.0.0/
+46.105.245.254|16125|/MagicBean:6.0.0/
+46.105.245.255|16125|/MagicBean:6.0.0/
+46.105.252.80|16125|/MagicBean:6.0.0/
 46.105.252.81|16125|/MagicBean:6.0.0/
 46.105.252.82|16125|/MagicBean:6.0.0/
 46.105.252.83|16125|/MagicBean:6.0.0/
@@ -4735,7 +4688,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 46.38.233.24|16125|/MagicBean:6.0.0/
 46.38.233.251|16125|/MagicBean:6.0.0/
 46.38.233.253|16125|/MagicBean:6.0.0/
-46.38.233.51|16125|/MagicBean:6.0.0/
+46.38.233.51|16125|/MagicBean:6.0.0/|197540|46.38.224.0/20|DE|ripencc|2010-12-02|NETCUP-AS netcup GmbH, DE
 46.38.233.70|16125|/MagicBean:6.0.0/
 46.38.234.125|16125|/MagicBean:6.0.0/
 46.38.234.137|16125|/MagicBean:6.0.0/
@@ -4825,7 +4778,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 46.38.240.32|16125|/MagicBean:6.0.0/
 46.38.240.93|16125|/MagicBean:6.0.0/
 46.38.240.98|16125|/MagicBean:6.0.0/
-46.38.241.109|16125|/MagicBean:6.0.0/|197540|46.38.240.0/21|DE|ripencc|2010-12-02|NETCUP-AS netcup GmbH, DE
+46.38.241.109|16125|/MagicBean:6.0.0/
 46.38.241.12|16125|/MagicBean:6.0.0/
 46.38.241.148|16125|/MagicBean:6.0.0/
 46.38.241.217|16125|/MagicBean:6.0.0/
@@ -4836,62 +4789,62 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 46.38.241.66|16125|/MagicBean:6.0.0/
 46.38.241.80|16125|/MagicBean:6.0.0/
 46.38.241.88|16125|/MagicBean:6.0.0/
-46.38.241.91|16125|/MagicBean:6.0.0/
-46.38.242.112|16125|/MagicBean:6.0.0/
-46.38.242.128|16125|/MagicBean:6.0.0/
-46.38.242.13|16125|/MagicBean:6.0.0/
-46.38.242.145|16125|/MagicBean:6.0.0/
-46.38.242.199|16125|/MagicBean:6.0.0/
-46.38.242.245|16125|/MagicBean:6.0.0/
-46.38.242.25|16125|/MagicBean:6.0.0/
-46.38.242.53|16125|/MagicBean:6.0.0/
-46.38.242.79|16125|/MagicBean:6.0.0/
-46.38.242.99|16125|/MagicBean:6.0.0/
-46.38.243.100|16125|/MagicBean:6.0.0/
-46.38.243.107|16125|/MagicBean:6.0.0/
-46.38.243.137|16125|/MagicBean:6.0.0/
-46.38.243.168|16125|/MagicBean:6.0.0/
-46.38.243.169|16125|/MagicBean:6.0.0/
-46.38.243.174|16125|/MagicBean:6.0.0/
-46.38.243.190|16125|/MagicBean:6.0.0/
-46.38.243.192|16125|/MagicBean:6.0.0/
-46.38.243.211|16125|/MagicBean:6.0.0/
-46.38.243.249|16125|/MagicBean:6.0.0/
-46.38.243.6|16125|/MagicBean:6.0.0/
-46.38.243.60|16125|/MagicBean:6.0.0/
-46.38.243.92|16125|/MagicBean:6.0.0/
-46.38.245.125|16125|/MagicBean:6.0.0/
-46.38.245.150|16125|/MagicBean:6.0.0/
-46.38.245.154|16125|/MagicBean:6.0.0/
-46.38.245.176|16125|/MagicBean:6.0.0/
-46.38.245.182|16125|/MagicBean:6.0.0/
-46.38.245.213|16125|/MagicBean:6.0.0/
-46.38.245.229|16125|/MagicBean:6.0.0/
-46.38.245.230|16125|/MagicBean:6.0.0/
-46.38.245.28|16125|/MagicBean:6.0.0/
-46.38.245.35|16125|/MagicBean:6.0.0/
-46.38.245.62|16125|/MagicBean:6.0.0/
-46.38.250.10|16125|/MagicBean:6.0.0/
-46.38.250.101|16125|/MagicBean:6.0.0/
-46.38.250.111|16125|/MagicBean:6.0.0/
-46.38.250.124|16125|/MagicBean:6.0.0/
-46.38.250.141|16125|/MagicBean:6.0.0/
-46.38.250.157|16125|/MagicBean:6.0.0/
-46.38.250.173|16125|/MagicBean:6.0.0/
-46.38.250.201|16125|/MagicBean:6.0.0/
-46.38.250.221|16125|/MagicBean:6.0.0/
-46.38.250.227|16125|/MagicBean:6.0.0/
-46.38.250.232|16125|/MagicBean:6.0.0/
-46.38.250.234|16125|/MagicBean:6.0.0/
-46.38.250.236|16125|/MagicBean:6.0.0/
-46.38.250.238|16125|/MagicBean:6.0.0/
-46.38.250.49|16125|/MagicBean:6.0.0/
-46.38.250.53|16125|/MagicBean:6.0.0/
-46.38.250.75|16125|/MagicBean:6.0.0/
-46.38.250.90|16125|/MagicBean:6.0.0/
-46.38.250.91|16125|/MagicBean:6.0.0/
-46.38.251.105|16125|/MagicBean:6.0.0/
-46.38.251.110|16125|/MagicBean:6.0.0/
+46.38.241.91|16125|/MagicBean:6.0.0/|197540|46.38.240.0/21|DE|ripencc|2010-12-02|NETCUP-AS netcup GmbH, DE
+46.38.242.112|16125|/MagicBean:6.0.0/|197540|46.38.240.0/21|DE|ripencc|2010-12-02|NETCUP-AS netcup GmbH, DE
+46.38.242.128|16125|/MagicBean:6.0.0/|197540|46.38.240.0/21|DE|ripencc|2010-12-02|NETCUP-AS netcup GmbH, DE
+46.38.242.13|16125|/MagicBean:6.0.0/|197540|46.38.240.0/21|DE|ripencc|2010-12-02|NETCUP-AS netcup GmbH, DE
+46.38.242.145|16125|/MagicBean:6.0.0/|197540|46.38.240.0/21|DE|ripencc|2010-12-02|NETCUP-AS netcup GmbH, DE
+46.38.242.199|16125|/MagicBean:6.0.0/|197540|46.38.240.0/21|DE|ripencc|2010-12-02|NETCUP-AS netcup GmbH, DE
+46.38.242.245|16125|/MagicBean:6.0.0/|197540|46.38.240.0/21|DE|ripencc|2010-12-02|NETCUP-AS netcup GmbH, DE
+46.38.242.25|16125|/MagicBean:6.0.0/|197540|46.38.240.0/21|DE|ripencc|2010-12-02|NETCUP-AS netcup GmbH, DE
+46.38.242.53|16125|/MagicBean:6.0.0/|197540|46.38.240.0/21|DE|ripencc|2010-12-02|NETCUP-AS netcup GmbH, DE
+46.38.242.79|16125|/MagicBean:6.0.0/|197540|46.38.240.0/21|DE|ripencc|2010-12-02|NETCUP-AS netcup GmbH, DE
+46.38.242.99|16125|/MagicBean:6.0.0/|197540|46.38.240.0/21|DE|ripencc|2010-12-02|NETCUP-AS netcup GmbH, DE
+46.38.243.100|16125|/MagicBean:6.0.0/|197540|46.38.240.0/21|DE|ripencc|2010-12-02|NETCUP-AS netcup GmbH, DE
+46.38.243.107|16125|/MagicBean:6.0.0/|197540|46.38.240.0/21|DE|ripencc|2010-12-02|NETCUP-AS netcup GmbH, DE
+46.38.243.137|16125|/MagicBean:6.0.0/|197540|46.38.240.0/21|DE|ripencc|2010-12-02|NETCUP-AS netcup GmbH, DE
+46.38.243.168|16125|/MagicBean:6.0.0/|197540|46.38.240.0/21|DE|ripencc|2010-12-02|NETCUP-AS netcup GmbH, DE
+46.38.243.169|16125|/MagicBean:6.0.0/|197540|46.38.240.0/21|DE|ripencc|2010-12-02|NETCUP-AS netcup GmbH, DE
+46.38.243.174|16125|/MagicBean:6.0.0/|197540|46.38.240.0/21|DE|ripencc|2010-12-02|NETCUP-AS netcup GmbH, DE
+46.38.243.190|16125|/MagicBean:6.0.0/|197540|46.38.240.0/21|DE|ripencc|2010-12-02|NETCUP-AS netcup GmbH, DE
+46.38.243.192|16125|/MagicBean:6.0.0/|197540|46.38.240.0/21|DE|ripencc|2010-12-02|NETCUP-AS netcup GmbH, DE
+46.38.243.211|16125|/MagicBean:6.0.0/|197540|46.38.240.0/21|DE|ripencc|2010-12-02|NETCUP-AS netcup GmbH, DE
+46.38.243.249|16125|/MagicBean:6.0.0/|197540|46.38.240.0/21|DE|ripencc|2010-12-02|NETCUP-AS netcup GmbH, DE
+46.38.243.6|16125|/MagicBean:6.0.0/|197540|46.38.240.0/21|DE|ripencc|2010-12-02|NETCUP-AS netcup GmbH, DE
+46.38.243.60|16125|/MagicBean:6.0.0/|197540|46.38.240.0/21|DE|ripencc|2010-12-02|NETCUP-AS netcup GmbH, DE
+46.38.243.92|16125|/MagicBean:6.0.0/|197540|46.38.240.0/21|DE|ripencc|2010-12-02|NETCUP-AS netcup GmbH, DE
+46.38.245.125|16125|/MagicBean:6.0.0/|197540|46.38.240.0/21|DE|ripencc|2010-12-02|NETCUP-AS netcup GmbH, DE
+46.38.245.150|16125|/MagicBean:6.0.0/|197540|46.38.240.0/21|DE|ripencc|2010-12-02|NETCUP-AS netcup GmbH, DE
+46.38.245.154|16125|/MagicBean:6.0.0/|197540|46.38.240.0/21|DE|ripencc|2010-12-02|NETCUP-AS netcup GmbH, DE
+46.38.245.176|16125|/MagicBean:6.0.0/|197540|46.38.240.0/21|DE|ripencc|2010-12-02|NETCUP-AS netcup GmbH, DE
+46.38.245.182|16125|/MagicBean:6.0.0/|197540|46.38.240.0/21|DE|ripencc|2010-12-02|NETCUP-AS netcup GmbH, DE
+46.38.245.213|16125|/MagicBean:6.0.0/|197540|46.38.240.0/21|DE|ripencc|2010-12-02|NETCUP-AS netcup GmbH, DE
+46.38.245.229|16125|/MagicBean:6.0.0/|197540|46.38.240.0/21|DE|ripencc|2010-12-02|NETCUP-AS netcup GmbH, DE
+46.38.245.230|16125|/MagicBean:6.0.0/|197540|46.38.240.0/21|DE|ripencc|2010-12-02|NETCUP-AS netcup GmbH, DE
+46.38.245.28|16125|/MagicBean:6.0.0/|197540|46.38.240.0/21|DE|ripencc|2010-12-02|NETCUP-AS netcup GmbH, DE
+46.38.245.35|16125|/MagicBean:6.0.0/|197540|46.38.240.0/21|DE|ripencc|2010-12-02|NETCUP-AS netcup GmbH, DE
+46.38.245.62|16125|/MagicBean:6.0.0/|197540|46.38.240.0/21|DE|ripencc|2010-12-02|NETCUP-AS netcup GmbH, DE
+46.38.250.10|16125|/MagicBean:6.0.0/|197540|46.38.248.0/22|DE|ripencc|2010-12-02|NETCUP-AS netcup GmbH, DE
+46.38.250.101|16125|/MagicBean:6.0.0/|197540|46.38.248.0/22|DE|ripencc|2010-12-02|NETCUP-AS netcup GmbH, DE
+46.38.250.111|16125|/MagicBean:6.0.0/|197540|46.38.248.0/22|DE|ripencc|2010-12-02|NETCUP-AS netcup GmbH, DE
+46.38.250.124|16125|/MagicBean:6.0.0/|197540|46.38.248.0/22|DE|ripencc|2010-12-02|NETCUP-AS netcup GmbH, DE
+46.38.250.141|16125|/MagicBean:6.0.0/|197540|46.38.248.0/22|DE|ripencc|2010-12-02|NETCUP-AS netcup GmbH, DE
+46.38.250.157|16125|/MagicBean:6.0.0/|197540|46.38.248.0/22|DE|ripencc|2010-12-02|NETCUP-AS netcup GmbH, DE
+46.38.250.173|16125|/MagicBean:6.0.0/|197540|46.38.248.0/22|DE|ripencc|2010-12-02|NETCUP-AS netcup GmbH, DE
+46.38.250.201|16125|/MagicBean:6.0.0/|197540|46.38.248.0/22|DE|ripencc|2010-12-02|NETCUP-AS netcup GmbH, DE
+46.38.250.221|16125|/MagicBean:6.0.0/|197540|46.38.248.0/22|DE|ripencc|2010-12-02|NETCUP-AS netcup GmbH, DE
+46.38.250.227|16125|/MagicBean:6.0.0/|197540|46.38.248.0/22|DE|ripencc|2010-12-02|NETCUP-AS netcup GmbH, DE
+46.38.250.232|16125|/MagicBean:6.0.0/|197540|46.38.248.0/22|DE|ripencc|2010-12-02|NETCUP-AS netcup GmbH, DE
+46.38.250.234|16125|/MagicBean:6.0.0/|197540|46.38.248.0/22|DE|ripencc|2010-12-02|NETCUP-AS netcup GmbH, DE
+46.38.250.236|16125|/MagicBean:6.0.0/|197540|46.38.248.0/22|DE|ripencc|2010-12-02|NETCUP-AS netcup GmbH, DE
+46.38.250.238|16125|/MagicBean:6.0.0/|197540|46.38.248.0/22|DE|ripencc|2010-12-02|NETCUP-AS netcup GmbH, DE
+46.38.250.49|16125|/MagicBean:6.0.0/|197540|46.38.248.0/22|DE|ripencc|2010-12-02|NETCUP-AS netcup GmbH, DE
+46.38.250.53|16125|/MagicBean:6.0.0/|197540|46.38.248.0/22|DE|ripencc|2010-12-02|NETCUP-AS netcup GmbH, DE
+46.38.250.75|16125|/MagicBean:6.0.0/|197540|46.38.248.0/22|DE|ripencc|2010-12-02|NETCUP-AS netcup GmbH, DE
+46.38.250.90|16125|/MagicBean:6.0.0/|197540|46.38.248.0/22|DE|ripencc|2010-12-02|NETCUP-AS netcup GmbH, DE
+46.38.250.91|16125|/MagicBean:6.0.0/|197540|46.38.248.0/22|DE|ripencc|2010-12-02|NETCUP-AS netcup GmbH, DE
+46.38.251.105|16125|/MagicBean:6.0.0/|197540|46.38.248.0/22|DE|ripencc|2010-12-02|NETCUP-AS netcup GmbH, DE
+46.38.251.110|16125|/MagicBean:6.0.0/|197540|46.38.248.0/22|DE|ripencc|2010-12-02|NETCUP-AS netcup GmbH, DE
 46.38.251.117|16125|/MagicBean:6.0.0/
 46.38.251.135|16125|/MagicBean:6.0.0/
 46.38.251.173|16125|/MagicBean:6.0.0/
@@ -4907,8 +4860,8 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 46.38.251.98|16125|/MagicBean:6.0.0/
 46.38.255.107|16125|/MagicBean:6.0.0/
 46.38.255.115|16125|/MagicBean:6.0.0/
-46.38.255.116|16125|/MagicBean:6.0.0/|197540|46.38.252.0/22|DE|ripencc|2010-12-02|NETCUP-AS netcup GmbH, DE
-46.38.255.118|16125|/MagicBean:6.0.0/|197540|46.38.252.0/22|DE|ripencc|2010-12-02|NETCUP-AS netcup GmbH, DE
+46.38.255.116|16125|/MagicBean:6.0.0/
+46.38.255.118|16125|/MagicBean:6.0.0/
 46.38.255.120|16125|/MagicBean:6.0.0/
 46.38.255.132|16125|/MagicBean:6.0.0/
 46.38.255.134|16125|/MagicBean:6.0.0/
@@ -4922,7 +4875,6 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 46.38.255.189|16125|/MagicBean:6.0.0/
 46.38.255.19|16125|/MagicBean:6.0.0/
 46.38.255.199|16125|/MagicBean:6.0.0/
-46.38.255.216|16125|/MagicBean:6.0.0/
 46.38.255.239|16125|/MagicBean:6.0.0/
 46.38.255.241|16125|/MagicBean:6.0.0/
 46.38.255.243|16125|/MagicBean:6.0.0/
@@ -5025,7 +4977,6 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 5.161.44.159|16125|/MagicBean:6.0.0/
 5.161.44.235|16125|/MagicBean:6.0.0/
 5.161.45.213|16125|/MagicBean:6.0.0/
-5.161.46.138|16125|/MagicBean:6.0.0/
 5.161.46.183|16125|/MagicBean:6.0.0/
 5.161.46.225|16125|/MagicBean:6.0.0/
 5.161.46.240|16125|/MagicBean:6.0.0/
@@ -5044,7 +4995,6 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 5.161.54.106|16125|/MagicBean:6.0.0/
 5.161.54.173|16125|/MagicBean:6.0.0/
 5.161.54.59|16125|/MagicBean:6.0.0/
-5.161.55.102|16125|/MagicBean:6.0.0/
 5.161.55.53|16125|/MagicBean:6.0.0/
 5.161.56.102|16125|/MagicBean:6.0.0/
 5.161.56.163|16125|/MagicBean:6.0.0/
@@ -5126,11 +5076,11 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 5.161.84.240|16125|/MagicBean:6.0.0/
 5.161.84.241|16125|/MagicBean:6.0.0/
 5.161.84.67|16125|/MagicBean:6.0.0/
-5.161.85.1|16125|/MagicBean:6.0.0/|213230|5.161.85.0/24|DE|ripencc|2012-07-25|HETZNER-CLOUD2-AS, DE
+5.161.85.1|16125|/MagicBean:6.0.0/
 5.161.85.132|16125|/MagicBean:6.0.0/
 5.161.85.173|16125|/MagicBean:6.0.0/
-5.161.85.192|16125|/MagicBean:6.0.0/|213230|5.161.85.0/24|DE|ripencc|2012-07-25|HETZNER-CLOUD2-AS, DE
-5.161.85.239|16125|/MagicBean:6.0.0/|213230|5.161.85.0/24|DE|ripencc|2012-07-25|HETZNER-CLOUD2-AS, DE
+5.161.85.192|16125|/MagicBean:6.0.0/
+5.161.85.239|16125|/MagicBean:6.0.0/
 5.161.85.244|16125|/MagicBean:6.0.0/
 5.161.85.36|16125|/MagicBean:6.0.0/
 5.161.85.40|16125|/MagicBean:6.0.0/
@@ -5158,10 +5108,10 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 5.161.88.254|16125|/MagicBean:6.0.0/
 5.161.88.58|16125|/MagicBean:6.0.0/
 5.161.88.95|16125|/MagicBean:6.0.0/
-5.161.89.103|16125|/MagicBean:6.0.0/
-5.161.89.141|16125|/MagicBean:6.0.0/
-5.161.89.144|16125|/MagicBean:6.0.0/
-5.161.89.197|16125|/MagicBean:6.0.0/
+5.161.89.103|16125|/MagicBean:6.0.0/|213230|5.161.89.0/24|DE|ripencc|2012-07-25|HETZNER-CLOUD2-AS, DE
+5.161.89.141|16125|/MagicBean:6.0.0/|213230|5.161.89.0/24|DE|ripencc|2012-07-25|HETZNER-CLOUD2-AS, DE
+5.161.89.144|16125|/MagicBean:6.0.0/|213230|5.161.89.0/24|DE|ripencc|2012-07-25|HETZNER-CLOUD2-AS, DE
+5.161.89.197|16125|/MagicBean:6.0.0/|213230|5.161.89.0/24|DE|ripencc|2012-07-25|HETZNER-CLOUD2-AS, DE
 5.161.89.2|16125|/MagicBean:6.0.0/
 5.161.89.222|16125|/MagicBean:6.0.0/
 5.161.89.3|16125|/MagicBean:6.0.0/
@@ -5170,7 +5120,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 5.161.89.49|16125|/MagicBean:6.0.0/
 5.161.90.114|16125|/MagicBean:6.0.0/
 5.161.90.119|16125|/MagicBean:6.0.0/
-5.161.90.122|16125|/MagicBean:6.0.0/|213230|5.161.90.0/24|DE|ripencc|2012-07-25|HETZNER-CLOUD2-AS, DE
+5.161.90.122|16125|/MagicBean:6.0.0/
 5.161.90.131|16125|/MagicBean:6.0.0/
 5.161.90.136|16125|/MagicBean:6.0.0/
 5.161.90.33|16125|/MagicBean:6.0.0/
@@ -5194,7 +5144,6 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 5.161.93.190|16125|/MagicBean:6.0.0/
 5.161.93.209|16125|/MagicBean:6.0.0/
 5.161.93.22|16125|/MagicBean:6.0.0/
-5.161.93.252|16125|/MagicBean:6.0.0/
 5.161.93.27|16125|/MagicBean:6.0.0/
 5.161.93.66|16125|/MagicBean:6.0.0/
 5.161.94.0|16125|/MagicBean:6.0.0/
@@ -5224,7 +5173,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 5.189.168.52|16125|/MagicBean:6.0.0/
 5.189.168.76|16125|/MagicBean:6.0.0/
 5.189.175.60|16125|/MagicBean:6.0.0/
-5.189.182.184|16125|/MagicBean:6.0.0/|51167|5.189.176.0/20|DE|ripencc|2012-08-09|CONTABO, DE
+5.189.182.184|16125|/MagicBean:6.0.0/
 5.189.186.172|16125|/MagicBean:6.0.0/
 5.189.19.249|16125|/MagicBean:6.0.0/
 5.196.101.212|16125|/MagicBean:6.0.0/
@@ -5242,7 +5191,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 5.196.122.196|16125|/MagicBean:6.0.0/
 5.196.122.197|16125|/MagicBean:6.0.0/
 5.196.122.198|16125|/MagicBean:6.0.0/
-5.196.122.199|16125|/MagicBean:6.0.0/
+5.196.122.199|16125|/MagicBean:6.0.0/|16276|5.196.0.0/16|FR|ripencc|2012-08-23|OVH, FR
 5.196.122.52|16125|/MagicBean:6.0.0/
 5.196.122.53|16125|/MagicBean:6.0.0/
 5.196.122.54|16125|/MagicBean:6.0.0/
@@ -5260,7 +5209,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 5.196.211.18|16125|/MagicBean:6.0.0/
 5.196.211.19|16125|/MagicBean:6.0.0/
 5.196.212.136|16125|/MagicBean:6.0.0/
-5.196.212.137|16125|/MagicBean:6.0.0/
+5.196.212.137|16125|/MagicBean:6.0.0/|16276|5.196.0.0/16|FR|ripencc|2012-08-23|OVH, FR
 5.196.212.138|16125|/MagicBean:6.0.0/
 5.196.212.139|16125|/MagicBean:6.0.0/
 5.196.242.32|16125|/MagicBean:6.0.0/
@@ -5337,7 +5286,6 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 5.45.110.57|16125|/MagicBean:6.0.0/
 5.45.110.60|16125|/MagicBean:6.0.0/
 5.45.110.68|16125|/MagicBean:6.0.0/
-5.45.110.82|16125|/MagicBean:6.0.0/
 5.45.111.106|16125|/MagicBean:6.0.0/
 5.45.111.115|16125|/MagicBean:6.0.0/
 5.45.111.118|16125|/MagicBean:6.0.0/
@@ -5355,14 +5303,14 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 5.45.79.81|12345|/MagicBean:5.0.0/
 5.9.104.189|16125|/MagicBean:6.0.0/
 5.9.105.69|16125|/MagicBean:6.0.0/
-5.9.120.18|8233|/MagicBean:5.2.0/
-5.9.136.117|16125|/MagicBean:6.0.0/
-5.9.49.79|16125|/MagicBean:6.0.0/
+5.9.120.18|8233|/MagicBean:5.2.0/|24940|5.9.0.0/16|DE|ripencc|2012-04-25|HETZNER-AS, DE
+5.9.136.117|16125|/MagicBean:6.0.0/|24940|5.9.0.0/16|DE|ripencc|2012-04-25|HETZNER-AS, DE
+5.9.49.79|16125|/MagicBean:6.0.0/|24940|5.9.0.0/16|DE|ripencc|2012-04-25|HETZNER-AS, DE
 5.9.70.100|16125|/MagicBean:6.0.0/
 5.9.74.158|8233|/MagicBean:5.2.0/
 5.9.78.207|16125|/MagicBean:6.0.0/
 50.125.95.199|16125|/MagicBean:6.0.0/
-50.213.167.113|8033|/MagicBean:2.1.1-6/
+50.213.167.113|8233|/MagicBean:5.2.0/
 50.255.53.121|16125|/MagicBean:6.0.0/
 50.35.89.157|16125|/MagicBean:6.0.0/
 50.46.192.122|16125|/MagicBean:6.0.0/
@@ -5402,7 +5350,6 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 51.195.189.7|16125|/MagicBean:6.0.0/
 51.195.21.188|16125|/MagicBean:6.0.0/
 51.195.21.189|16125|/MagicBean:6.0.0/
-51.195.21.190|16125|/MagicBean:6.0.0/
 51.195.21.191|16125|/MagicBean:6.0.0/
 51.195.234.88|2838|/MagicBean:5.1.0/
 51.195.31.188|16125|/MagicBean:6.0.0/
@@ -5494,7 +5441,6 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 51.254.231.137|16125|/MagicBean:6.0.0/
 51.254.231.138|16125|/MagicBean:6.0.0/
 51.254.231.139|16125|/MagicBean:6.0.0/
-51.254.50.232|16125|/MagicBean:6.0.0/
 51.254.50.233|16125|/MagicBean:6.0.0/
 51.254.50.234|16125|/MagicBean:6.0.0/
 51.254.50.235|16125|/MagicBean:6.0.0/
@@ -5666,6 +5612,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 51.79.39.23|16125|/MagicBean:6.0.0/
 51.79.57.29|8233|/MagicBean:5.1.0/
 51.81.109.177|16125|/MagicBean:6.0.0/
+51.81.166.64|26125|/MagicBean:6.0.0/
 51.81.208.186|8233|/MagicBean:5.2.0/
 51.81.221.194|16125|/MagicBean:6.0.0/
 51.83.114.80|16125|/MagicBean:6.0.0/
@@ -5796,16 +5743,16 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 54.36.239.246|16125|/MagicBean:6.0.0/
 54.36.239.247|16125|/MagicBean:6.0.0/
 54.36.248.240|16125|/MagicBean:6.0.0/
-54.36.248.241|16125|/MagicBean:6.0.0/|16276|54.36.0.0/16|FR|ripencc|1992-03-17|OVH, FR
-54.36.248.242|16125|/MagicBean:6.0.0/|16276|54.36.0.0/16|FR|ripencc|1992-03-17|OVH, FR
-54.36.248.243|16125|/MagicBean:6.0.0/|16276|54.36.0.0/16|FR|ripencc|1992-03-17|OVH, FR
-54.36.34.56|16125|/MagicBean:6.0.0/|16276|54.36.0.0/16|FR|ripencc|1992-03-17|OVH, FR
+54.36.248.241|16125|/MagicBean:6.0.0/
+54.36.248.242|16125|/MagicBean:6.0.0/
+54.36.248.243|16125|/MagicBean:6.0.0/
+54.36.34.56|16125|/MagicBean:6.0.0/
 54.36.34.57|16125|/MagicBean:6.0.0/
 54.36.34.58|16125|/MagicBean:6.0.0/
 54.36.34.59|16125|/MagicBean:6.0.0/
 54.36.61.123|8233|/MagicBean:5.1.0/
 54.36.88.243|16125|/MagicBean:6.0.0/
-54.37.134.188|16125|/MagicBean:6.0.0/
+54.37.134.188|16125|/MagicBean:6.0.0/|16276|54.37.0.0/16|FR|ripencc|1992-03-17|OVH, FR
 54.37.134.189|16125|/MagicBean:6.0.0/
 54.37.134.190|16125|/MagicBean:6.0.0/
 54.37.134.191|16125|/MagicBean:6.0.0/
@@ -5819,7 +5766,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 54.37.170.67|16125|/MagicBean:6.0.0/
 54.37.171.140|16125|/MagicBean:6.0.0/
 54.37.171.141|16125|/MagicBean:6.0.0/
-54.37.171.142|16125|/MagicBean:6.0.0/
+54.37.171.142|16125|/MagicBean:6.0.0/|16276|54.37.0.0/16|FR|ripencc|1992-03-17|OVH, FR
 54.37.171.143|16125|/MagicBean:6.0.0/
 54.37.195.108|16125|/MagicBean:6.0.0/
 54.37.195.109|16125|/MagicBean:6.0.0/
@@ -5846,116 +5793,115 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 54.38.154.89|16125|/MagicBean:6.0.0/
 54.38.154.90|16125|/MagicBean:6.0.0/
 54.38.154.91|16125|/MagicBean:6.0.0/
-54.38.199.33|16125|/MagicBean:6.0.0/|16276|54.38.0.0/16|FR|ripencc|1992-03-17|OVH, FR
-54.38.199.34|16125|/MagicBean:6.0.0/|16276|54.38.0.0/16|FR|ripencc|1992-03-17|OVH, FR
-54.38.199.35|16125|/MagicBean:6.0.0/|16276|54.38.0.0/16|FR|ripencc|1992-03-17|OVH, FR
-54.38.225.56|16125|/MagicBean:6.0.0/|16276|54.38.0.0/16|FR|ripencc|1992-03-17|OVH, FR
-54.38.225.57|16125|/MagicBean:6.0.0/|16276|54.38.0.0/16|FR|ripencc|1992-03-17|OVH, FR
-54.38.225.58|16125|/MagicBean:6.0.0/|16276|54.38.0.0/16|FR|ripencc|1992-03-17|OVH, FR
-54.38.225.59|16125|/MagicBean:6.0.0/|16276|54.38.0.0/16|FR|ripencc|1992-03-17|OVH, FR
-54.38.49.96|16125|/MagicBean:6.0.0/|16276|54.38.0.0/16|FR|ripencc|1992-03-17|OVH, FR
-54.38.49.97|16125|/MagicBean:6.0.0/|16276|54.38.0.0/16|FR|ripencc|1992-03-17|OVH, FR
-54.38.49.98|16125|/MagicBean:6.0.0/|16276|54.38.0.0/16|FR|ripencc|1992-03-17|OVH, FR
-54.38.49.99|16125|/MagicBean:6.0.0/|16276|54.38.0.0/16|FR|ripencc|1992-03-17|OVH, FR
-54.38.57.160|16125|/MagicBean:6.0.0/|16276|54.38.0.0/16|FR|ripencc|1992-03-17|OVH, FR
-54.38.57.161|16125|/MagicBean:6.0.0/|16276|54.38.0.0/16|FR|ripencc|1992-03-17|OVH, FR
-54.38.57.162|16125|/MagicBean:6.0.0/|16276|54.38.0.0/16|FR|ripencc|1992-03-17|OVH, FR
-54.38.57.163|16125|/MagicBean:6.0.0/|16276|54.38.0.0/16|FR|ripencc|1992-03-17|OVH, FR
-54.38.57.172|16125|/MagicBean:6.0.0/|16276|54.38.0.0/16|FR|ripencc|1992-03-17|OVH, FR
-54.38.57.173|16125|/MagicBean:6.0.0/|16276|54.38.0.0/16|FR|ripencc|1992-03-17|OVH, FR
-54.38.57.174|16125|/MagicBean:6.0.0/|16276|54.38.0.0/16|FR|ripencc|1992-03-17|OVH, FR
-54.38.57.175|16125|/MagicBean:6.0.0/|16276|54.38.0.0/16|FR|ripencc|1992-03-17|OVH, FR
-54.38.92.217|16125|/MagicBean:6.0.0/|16276|54.38.0.0/16|FR|ripencc|1992-03-17|OVH, FR
-54.39.173.203|16125|/MagicBean:6.0.0/|16276|54.39.0.0/16|CA|arin|2017-10-16|OVH, FR
-54.39.226.236|16125|/MagicBean:6.0.0/|16276|54.39.0.0/16|CA|arin|2017-10-16|OVH, FR
-54.39.226.237|16125|/MagicBean:6.0.0/|16276|54.39.0.0/16|CA|arin|2017-10-16|OVH, FR
-54.39.226.238|16125|/MagicBean:6.0.0/|16276|54.39.0.0/16|CA|arin|2017-10-16|OVH, FR
-54.39.226.239|16125|/MagicBean:6.0.0/|16276|54.39.0.0/16|CA|arin|2017-10-16|OVH, FR
-54.39.239.207|16125|/MagicBean:6.0.0/|16276|54.39.0.0/16|CA|arin|2017-10-16|OVH, FR
-54.39.7.155|16125|/MagicBean:6.0.0/|16276|54.39.0.0/16|CA|arin|2017-10-16|OVH, FR
-54.39.81.76|16125|/MagicBean:6.0.0/|16276|54.39.0.0/16|CA|arin|2017-10-16|OVH, FR
-54.39.81.77|16125|/MagicBean:6.0.0/|16276|54.39.0.0/16|CA|arin|2017-10-16|OVH, FR
-54.39.81.78|16125|/MagicBean:6.0.0/|16276|54.39.0.0/16|CA|arin|2017-10-16|OVH, FR
-54.39.81.79|16125|/MagicBean:6.0.0/|16276|54.39.0.0/16|CA|arin|2017-10-16|OVH, FR
-54.67.54.98|8233|/MagicBean:5.0.0/|16509|54.67.0.0/17|US|arin|2014-06-20|AMAZON-02, US
-54.77.50.97|8233|/MagicBean:5.0.0/|16509|54.77.0.0/16|US|arin|2014-06-20|AMAZON-02, US
-54.84.155.205|8233|/MagicBean:5.2.0/|14618|54.84.0.0/15|US|arin|2014-06-20|AMAZON-AES, US
-57.128.132.50|16125|/MagicBean:6.0.0/|16276|57.128.128.0/18|FR|ripencc|1993-06-21|OVH, FR
-57.128.132.52|16125|/MagicBean:6.0.0/|16276|57.128.128.0/18|FR|ripencc|1993-06-21|OVH, FR
-57.128.132.53|16125|/MagicBean:6.0.0/|16276|57.128.128.0/18|FR|ripencc|1993-06-21|OVH, FR
-59.127.253.17|16125|/MagicBean:6.0.0/|3462|59.127.128.0/17|TW|apnic|2005-10-18|HINET Data Communication Business Group, TW
-59.13.225.28|16125|/MagicBean:6.0.0/|4766|59.8.0.0/13|KR|apnic|2004-08-02|KIXS-AS-KR Korea Telecom, KR
-59.167.214.28|16125|/MagicBean:6.0.0/|4739|59.167.0.0/16|AU|apnic|2005-09-14|INTERNODE-AS Internode Pty Ltd, AU
-59.26.38.155|16125|/MagicBean:6.0.0/|4766|59.24.0.0/13|KR|apnic|2004-08-02|KIXS-AS-KR Korea Telecom, KR
-60.119.167.91|16125|/MagicBean:6.0.0/|17676|60.119.0.0/16|JP|apnic|2004-05-20|GIGAINFRA Softbank BB Corp., JP
-61.7.147.227|16125|/MagicBean:6.0.0/|131090|61.7.147.0/24|TH|apnic|2004-11-30|CAT-IDC-4BYTENET-AS-AP CAT TELECOM Public Company Ltd,CAT, TH
-61.72.209.205|16125|/MagicBean:6.0.0/|4766|61.72.0.0/13|KR|apnic|2000-12-12|KIXS-AS-KR Korea Telecom, KR
-61.72.209.214|16125|/MagicBean:6.0.0/|4766|61.72.0.0/13|KR|apnic|2000-12-12|KIXS-AS-KR Korea Telecom, KR
-61.84.38.250|16125|/MagicBean:6.0.0/|4766|61.84.0.0/15|KR|apnic|2001-05-11|KIXS-AS-KR Korea Telecom, KR
-62.131.218.3|16125|/MagicBean:6.0.0/|1136|62.131.0.0/16|NL|ripencc|2000-11-21|KPN KPN National, NL
-62.151.250.13|16125|/MagicBean:6.0.0/|12479|62.151.248.0/21|ES|ripencc|2000-11-21|UNI2-AS, ES
-62.171.129.35|16125|/MagicBean:6.0.0/|51167|62.171.128.0/23|DE|ripencc|2000-08-18|CONTABO, DE
-62.171.133.82|16125|/MagicBean:6.0.0/|51167|62.171.132.0/23|DE|ripencc|2000-08-18|CONTABO, DE
-62.171.138.28|16125|/MagicBean:6.0.0/|51167|62.171.138.0/23|DE|ripencc|2000-08-18|CONTABO, DE
-62.171.140.10|16125|/MagicBean:6.0.0/|51167|62.171.140.0/23|DE|ripencc|2000-08-18|CONTABO, DE
-62.171.140.156|16125|/MagicBean:6.0.0/|51167|62.171.140.0/23|DE|ripencc|2000-08-18|CONTABO, DE
-62.171.143.39|16125|/MagicBean:6.0.0/|51167|62.171.142.0/23|DE|ripencc|2000-08-18|CONTABO, DE
-62.171.143.43|16125|/MagicBean:6.0.0/|51167|62.171.142.0/23|DE|ripencc|2000-08-18|CONTABO, DE
-62.171.144.84|16125|/MagicBean:6.0.0/|51167|62.171.144.0/23|DE|ripencc|2000-08-18|CONTABO, DE
-62.171.147.23|16125|/MagicBean:5.0.0/|51167|62.171.146.0/23|DE|ripencc|2000-08-18|CONTABO, DE
-62.171.154.250|16125|/MagicBean:5.0.2/|51167|62.171.154.0/23|DE|ripencc|2000-08-18|CONTABO, DE
-62.171.155.204|16125|/MagicBean:6.0.0/|51167|62.171.154.0/23|DE|ripencc|2000-08-18|CONTABO, DE
-62.171.159.150|16125|/MagicBean:6.0.0/|51167|62.171.158.0/23|DE|ripencc|2000-08-18|CONTABO, DE
-62.171.159.72|16125|/MagicBean:6.0.0/|51167|62.171.158.0/23|DE|ripencc|2000-08-18|CONTABO, DE
-62.171.161.24|16125|/MagicBean:6.0.0/|51167|62.171.160.0/23|DE|ripencc|2000-08-18|CONTABO, DE
-62.171.162.0|16125|/MagicBean:6.0.0/|51167|62.171.162.0/23|DE|ripencc|2000-08-18|CONTABO, DE
-62.171.163.150|16125|/MagicBean:6.0.0/|51167|62.171.162.0/23|DE|ripencc|2000-08-18|CONTABO, DE
-62.171.166.247|16125|/MagicBean:6.0.0/|51167|62.171.166.0/23|DE|ripencc|2000-08-18|CONTABO, DE
-62.171.169.241|16125|/MagicBean:6.0.0/|51167|62.171.168.0/23|DE|ripencc|2000-08-18|CONTABO, DE
-62.171.171.239|16125|/MagicBean:6.0.0/|51167|62.171.170.0/23|DE|ripencc|2000-08-18|CONTABO, DE
-62.171.171.78|16125|/MagicBean:6.0.0/|51167|62.171.170.0/23|DE|ripencc|2000-08-18|CONTABO, DE
-62.171.174.182|16125|/MagicBean:6.0.0/|51167|62.171.174.0/23|DE|ripencc|2000-08-18|CONTABO, DE
-62.171.174.201|16125|/MagicBean:6.0.0/|51167|62.171.174.0/23|DE|ripencc|2000-08-18|CONTABO, DE
-62.171.176.247|16125|/MagicBean:6.0.0/|51167|62.171.176.0/23|DE|ripencc|2000-08-18|CONTABO, DE
-62.171.176.97|16125|/MagicBean:6.0.0/|51167|62.171.176.0/23|DE|ripencc|2000-08-18|CONTABO, DE
-62.171.178.251|16125|/MagicBean:6.0.0/|51167|62.171.178.0/23|DE|ripencc|2000-08-18|CONTABO, DE
-62.171.182.139|16125|/MagicBean:6.0.0/|51167|62.171.182.0/23|DE|ripencc|2000-08-18|CONTABO, DE
-62.171.182.190|16125|/MagicBean:6.0.0/|51167|62.171.182.0/23|DE|ripencc|2000-08-18|CONTABO, DE
-62.171.184.49|16125|/MagicBean:5.0.2/|51167|62.171.184.0/23|DE|ripencc|2000-08-18|CONTABO, DE
-62.171.185.160|16125|/MagicBean:6.0.0/|51167|62.171.184.0/23|DE|ripencc|2000-08-18|CONTABO, DE
-62.171.185.208|16125|/MagicBean:6.0.0/|51167|62.171.184.0/23|DE|ripencc|2000-08-18|CONTABO, DE
-62.171.185.62|16125|/MagicBean:6.0.0/|51167|62.171.184.0/23|DE|ripencc|2000-08-18|CONTABO, DE
-62.171.186.159|16125|/MagicBean:6.0.0/|51167|62.171.186.0/23|DE|ripencc|2000-08-18|CONTABO, DE
-62.171.191.145|16125|/MagicBean:6.0.0/|51167|62.171.190.0/23|DE|ripencc|2000-08-18|CONTABO, DE
-62.178.14.177|16125|/MagicBean:6.0.0/|8412|62.178.0.0/17|AT|ripencc|2000-09-18|TMA Magenta Telekom, AT
-62.178.98.169|16125|/MagicBean:6.0.0/|8412|62.178.0.0/17|AT|ripencc|2000-09-18|TMA Magenta Telekom, AT
-62.28.19.1|16125|/MagicBean:6.0.0/|15525|62.28.0.0/16|PT|ripencc|2006-06-08|MEO-EMPRESAS, PT
-62.76.65.43|16125|/MagicBean:6.0.0/|51054|62.76.65.0/24|RU|ripencc|1997-06-16|TRANSCOM-AS, RU
-63.135.49.143|16125|/MagicBean:6.0.0/|13370|63.135.48.0/20|US|arin|2007-08-03|NWI, US
-64.180.90.83|16125|/MagicBean:6.0.0/|852|64.180.0.0/16|CA|arin|2000-08-04|TELUS Communications, CA
-64.20.62.202|16125|/MagicBean:6.0.0/|19318|64.20.32.0/19|US|arin|2005-04-07|IS-AS-1, US
-64.31.47.102|16125|/MagicBean:6.0.0/|46475|64.31.47.0/24|US|arin|2010-12-27|LIMESTONENETWORKS, US
-64.32.48.104|16125|/MagicBean:6.0.0/|62943|64.32.48.0/24|US|arin|2022-07-06|AS62943-BLUEBIRD-NETWORK, US
-64.32.48.127|16125|/MagicBean:6.0.0/|62943|64.32.48.0/24|US|arin|2022-07-06|AS62943-BLUEBIRD-NETWORK, US
-64.32.48.5|16125|/MagicBean:6.0.0/|62943|64.32.48.0/24|US|arin|2022-07-06|AS62943-BLUEBIRD-NETWORK, US
-64.32.48.6|16125|/MagicBean:6.0.0/|62943|64.32.48.0/24|US|arin|2022-07-06|AS62943-BLUEBIRD-NETWORK, US
-64.32.48.7|16125|/MagicBean:6.0.0/|62943|64.32.48.0/24|US|arin|2022-07-06|AS62943-BLUEBIRD-NETWORK, US
-64.98.227.175|16125|/MagicBean:6.0.0/|32133|64.98.224.0/20|CA|arin|2000-05-18|AS-TING-BACKBONE, US
-65.103.119.178|16125|/MagicBean:6.0.0/|209|65.103.112.0/20|US|arin|2001-01-03|CENTURYLINK-US-LEGACY-QWEST, US
-65.108.1.252|16125|/MagicBean:6.0.0/|24940|65.108.0.0/16|DE|ripencc|2001-02-09|HETZNER-AS, DE
-65.108.10.125|16125|/MagicBean:6.0.0/|24940|65.108.0.0/16|DE|ripencc|2001-02-09|HETZNER-AS, DE
-65.108.10.174|16125|/MagicBean:6.0.0/|24940|65.108.0.0/16|DE|ripencc|2001-02-09|HETZNER-AS, DE
-65.108.10.178|16125|/MagicBean:6.0.0/|24940|65.108.0.0/16|DE|ripencc|2001-02-09|HETZNER-AS, DE
-65.108.10.182|16125|/MagicBean:6.0.0/|24940|65.108.0.0/16|DE|ripencc|2001-02-09|HETZNER-AS, DE
-65.108.10.183|16125|/MagicBean:6.0.0/|24940|65.108.0.0/16|DE|ripencc|2001-02-09|HETZNER-AS, DE
-65.108.10.27|16125|/MagicBean:6.0.0/|24940|65.108.0.0/16|DE|ripencc|2001-02-09|HETZNER-AS, DE
-65.108.10.29|16125|/MagicBean:6.0.0/|24940|65.108.0.0/16|DE|ripencc|2001-02-09|HETZNER-AS, DE
-65.108.10.30|16125|/MagicBean:6.0.0/|24940|65.108.0.0/16|DE|ripencc|2001-02-09|HETZNER-AS, DE
+54.38.199.33|16125|/MagicBean:6.0.0/
+54.38.199.34|16125|/MagicBean:6.0.0/
+54.38.199.35|16125|/MagicBean:6.0.0/
+54.38.225.56|16125|/MagicBean:6.0.0/
+54.38.225.57|16125|/MagicBean:6.0.0/
+54.38.225.58|16125|/MagicBean:6.0.0/
+54.38.225.59|16125|/MagicBean:6.0.0/
+54.38.49.96|16125|/MagicBean:6.0.0/
+54.38.49.97|16125|/MagicBean:6.0.0/
+54.38.49.98|16125|/MagicBean:6.0.0/
+54.38.49.99|16125|/MagicBean:6.0.0/
+54.38.57.160|16125|/MagicBean:6.0.0/
+54.38.57.161|16125|/MagicBean:6.0.0/
+54.38.57.162|16125|/MagicBean:6.0.0/
+54.38.57.163|16125|/MagicBean:6.0.0/
+54.38.57.172|16125|/MagicBean:6.0.0/
+54.38.57.173|16125|/MagicBean:6.0.0/
+54.38.57.175|16125|/MagicBean:6.0.0/
+54.38.92.217|16125|/MagicBean:6.0.0/
+54.39.173.203|16125|/MagicBean:6.0.0/
+54.39.226.236|16125|/MagicBean:6.0.0/
+54.39.226.237|16125|/MagicBean:6.0.0/
+54.39.226.238|16125|/MagicBean:6.0.0/
+54.39.226.239|16125|/MagicBean:6.0.0/
+54.39.239.207|16125|/MagicBean:6.0.0/
+54.39.7.155|16125|/MagicBean:6.0.0/
+54.39.81.76|16125|/MagicBean:6.0.0/
+54.39.81.77|16125|/MagicBean:6.0.0/
+54.39.81.78|16125|/MagicBean:6.0.0/
+54.39.81.79|16125|/MagicBean:6.0.0/
+54.67.54.98|8233|/MagicBean:5.0.0/
+54.77.50.97|8233|/MagicBean:5.0.0/
+54.84.155.205|8233|/MagicBean:5.2.0/
+57.128.132.50|16125|/MagicBean:6.0.0/
+57.128.132.52|16125|/MagicBean:6.0.0/
+57.128.132.53|16125|/MagicBean:6.0.0/
+59.127.253.17|16125|/MagicBean:6.0.0/
+59.13.225.28|16125|/MagicBean:6.0.0/
+59.167.214.28|16125|/MagicBean:6.0.0/
+59.26.38.155|16125|/MagicBean:6.0.0/
+60.119.167.91|16125|/MagicBean:6.0.0/
+61.7.147.227|16125|/MagicBean:6.0.0/
+61.72.209.205|16125|/MagicBean:6.0.0/
+61.72.209.214|16125|/MagicBean:6.0.0/
+61.84.38.250|16125|/MagicBean:6.0.0/
+62.131.218.3|16125|/MagicBean:6.0.0/
+62.151.250.13|16125|/MagicBean:6.0.0/
+62.171.129.35|16125|/MagicBean:6.0.0/
+62.171.133.82|16125|/MagicBean:6.0.0/
+62.171.138.28|16125|/MagicBean:6.0.0/
+62.171.140.10|16125|/MagicBean:6.0.0/
+62.171.140.156|16125|/MagicBean:6.0.0/
+62.171.143.39|16125|/MagicBean:6.0.0/
+62.171.143.43|16125|/MagicBean:6.0.0/
+62.171.144.84|16125|/MagicBean:6.0.0/
+62.171.147.23|16125|/MagicBean:5.0.0/
+62.171.154.250|16125|/MagicBean:5.0.2/
+62.171.155.204|16125|/MagicBean:6.0.0/
+62.171.159.150|16125|/MagicBean:6.0.0/
+62.171.159.72|16125|/MagicBean:6.0.0/
+62.171.161.24|16125|/MagicBean:6.0.0/
+62.171.162.0|16125|/MagicBean:6.0.0/
+62.171.163.150|16125|/MagicBean:6.0.0/
+62.171.166.247|16125|/MagicBean:6.0.0/
+62.171.169.241|16125|/MagicBean:6.0.0/
+62.171.171.239|16125|/MagicBean:6.0.0/
+62.171.171.78|16125|/MagicBean:6.0.0/
+62.171.174.182|16125|/MagicBean:6.0.0/
+62.171.174.201|16125|/MagicBean:6.0.0/
+62.171.176.247|16125|/MagicBean:6.0.0/
+62.171.176.97|16125|/MagicBean:6.0.0/
+62.171.178.251|16125|/MagicBean:6.0.0/
+62.171.182.139|16125|/MagicBean:6.0.0/
+62.171.182.190|16125|/MagicBean:6.0.0/
+62.171.184.49|16125|/MagicBean:5.0.2/
+62.171.185.160|16125|/MagicBean:6.0.0/
+62.171.185.208|16125|/MagicBean:6.0.0/
+62.171.185.62|16125|/MagicBean:6.0.0/
+62.171.186.159|16125|/MagicBean:6.0.0/
+62.171.191.145|16125|/MagicBean:6.0.0/
+62.178.14.177|16125|/MagicBean:6.0.0/
+62.178.98.169|16125|/MagicBean:6.0.0/
+62.28.19.1|16125|/MagicBean:6.0.0/
+62.76.65.43|16125|/MagicBean:6.0.0/
+63.135.49.143|16125|/MagicBean:6.0.0/
+64.180.90.83|16125|/MagicBean:6.0.0/
+64.20.62.202|16125|/MagicBean:6.0.0/
+64.31.47.102|16125|/MagicBean:6.0.0/
+64.32.48.104|16125|/MagicBean:6.0.0/
+64.32.48.127|16125|/MagicBean:6.0.0/
+64.32.48.5|16125|/MagicBean:6.0.0/
+64.32.48.6|16125|/MagicBean:6.0.0/
+64.32.48.7|16125|/MagicBean:6.0.0/
+64.98.227.175|16125|/MagicBean:6.0.0/
+65.103.119.178|16125|/MagicBean:6.0.0/
+65.108.1.252|16125|/MagicBean:6.0.0/
+65.108.10.125|16125|/MagicBean:6.0.0/
+65.108.10.174|16125|/MagicBean:6.0.0/
+65.108.10.178|16125|/MagicBean:6.0.0/
+65.108.10.182|16125|/MagicBean:6.0.0/
+65.108.10.183|16125|/MagicBean:6.0.0/
+65.108.10.27|16125|/MagicBean:6.0.0/
+65.108.10.29|16125|/MagicBean:6.0.0/
+65.108.10.30|16125|/MagicBean:6.0.0/
 65.108.10.32|16125|/MagicBean:6.0.0/
 65.108.10.78|16125|/MagicBean:6.0.0/
 65.108.10.80|16125|/MagicBean:6.0.0/
 65.108.10.81|16125|/MagicBean:6.0.0/
-65.108.10.82|16125|/MagicBean:6.0.0/|24940|65.108.0.0/16|DE|ripencc|2001-02-09|HETZNER-AS, DE
+65.108.10.82|16125|/MagicBean:6.0.0/
 65.108.101.179|16125|/MagicBean:6.0.0/
 65.108.101.237|16125|/MagicBean:6.0.0/
 65.108.102.216|16125|/MagicBean:6.0.0/
@@ -5970,8 +5916,8 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 65.108.103.188|16125|/MagicBean:6.0.0/
 65.108.103.189|16125|/MagicBean:6.0.0/
 65.108.103.213|16125|/MagicBean:6.0.0/
-65.108.103.243|16125|/MagicBean:6.0.0/
-65.108.103.247|16125|/MagicBean:6.0.0/
+65.108.103.243|16125|/MagicBean:6.0.0/|24940|65.108.0.0/16|DE|ripencc|2001-02-09|HETZNER-AS, DE
+65.108.103.247|16125|/MagicBean:6.0.0/|24940|65.108.0.0/16|DE|ripencc|2001-02-09|HETZNER-AS, DE
 65.108.103.248|16125|/MagicBean:6.0.0/
 65.108.103.66|16125|/MagicBean:6.0.0/
 65.108.103.90|16125|/MagicBean:6.0.0/
@@ -6045,71 +5991,71 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 65.108.125.41|16125|/MagicBean:6.0.0/
 65.108.128.93|16125|/MagicBean:6.0.0/
 65.108.129.138|16125|/MagicBean:6.0.0/
-65.108.129.146|16125|/MagicBean:6.0.0/
-65.108.129.147|16125|/MagicBean:6.0.0/
-65.108.129.148|16125|/MagicBean:6.0.0/
-65.108.129.181|16125|/MagicBean:6.0.0/
-65.108.129.96|16125|/MagicBean:6.0.0/
-65.108.134.132|16125|/MagicBean:6.0.0/
-65.108.134.133|16125|/MagicBean:6.0.0/
-65.108.134.134|16125|/MagicBean:6.0.0/
-65.108.135.101|16125|/MagicBean:6.0.0/
-65.108.135.113|16125|/MagicBean:6.0.0/
-65.108.135.145|16125|/MagicBean:6.0.0/
-65.108.135.160|16125|/MagicBean:6.0.0/
-65.108.135.170|16125|/MagicBean:6.0.0/
-65.108.135.174|16125|/MagicBean:6.0.0/
-65.108.135.175|16125|/MagicBean:6.0.0/
-65.108.135.176|16125|/MagicBean:6.0.0/
-65.108.135.180|16125|/MagicBean:6.0.0/
-65.108.135.217|16125|/MagicBean:6.0.0/
-65.108.136.49|16125|/MagicBean:6.0.0/
-65.108.138.229|16125|/MagicBean:6.0.0/
-65.108.138.5|16125|/MagicBean:6.0.0/
-65.108.138.6|16125|/MagicBean:6.0.0/
-65.108.138.68|16125|/MagicBean:6.0.0/
-65.108.138.69|16125|/MagicBean:6.0.0/
-65.108.138.70|16125|/MagicBean:6.0.0/
-65.108.139.109|16125|/MagicBean:6.0.0/
-65.108.14.36|16125|/MagicBean:6.0.0/
-65.108.14.37|16125|/MagicBean:6.0.0/
-65.108.14.39|16125|/MagicBean:6.0.0/
-65.108.14.42|16125|/MagicBean:6.0.0/
-65.108.140.117|16125|/MagicBean:6.0.0/
-65.108.140.119|16125|/MagicBean:6.0.0/
-65.108.140.79|16125|/MagicBean:6.0.0/
-65.108.140.97|16125|/MagicBean:6.0.0/
-65.108.140.98|16125|/MagicBean:6.0.0/
-65.108.141.151|16125|/MagicBean:6.0.0/
-65.108.141.213|16125|/MagicBean:6.0.0/
-65.108.141.7|16125|/MagicBean:6.0.0/
-65.108.141.77|16125|/MagicBean:6.0.0/
-65.108.141.78|16125|/MagicBean:6.0.0/
-65.108.141.79|16125|/MagicBean:6.0.0/
-65.108.142.18|16125|/MagicBean:6.0.0/
-65.108.142.185|16125|/MagicBean:6.0.0/
-65.108.142.198|16125|/MagicBean:6.0.0/
-65.108.142.66|16125|/MagicBean:6.0.0/
-65.108.142.75|16125|/MagicBean:6.0.0/
-65.108.143.107|16125|/MagicBean:6.0.0/
-65.108.143.108|16125|/MagicBean:6.0.0/
-65.108.143.109|16125|/MagicBean:6.0.0/
-65.108.143.167|16125|/MagicBean:6.0.0/
-65.108.143.172|16125|/MagicBean:6.0.0/
-65.108.143.173|16125|/MagicBean:6.0.0/
-65.108.143.174|16125|/MagicBean:6.0.0/
-65.108.143.175|16125|/MagicBean:6.0.0/
-65.108.143.176|16125|/MagicBean:6.0.0/
-65.108.143.177|16125|/MagicBean:6.0.0/
-65.108.143.178|16125|/MagicBean:6.0.0/
-65.108.143.179|16125|/MagicBean:6.0.0/
-65.108.143.180|16125|/MagicBean:6.0.0/
-65.108.143.181|16125|/MagicBean:6.0.0/
-65.108.143.182|16125|/MagicBean:6.0.0/
-65.108.149.139|16125|/MagicBean:6.0.0/
-65.108.151.240|16125|/MagicBean:6.0.0/
-65.108.151.62|16125|/MagicBean:6.0.0/
-65.108.152.39|16125|/MagicBean:6.0.0/
+65.108.129.146|16125|/MagicBean:6.0.0/|24940|65.108.0.0/16|DE|ripencc|2001-02-09|HETZNER-AS, DE
+65.108.129.147|16125|/MagicBean:6.0.0/|24940|65.108.0.0/16|DE|ripencc|2001-02-09|HETZNER-AS, DE
+65.108.129.148|16125|/MagicBean:6.0.0/|24940|65.108.0.0/16|DE|ripencc|2001-02-09|HETZNER-AS, DE
+65.108.129.181|16125|/MagicBean:6.0.0/|24940|65.108.0.0/16|DE|ripencc|2001-02-09|HETZNER-AS, DE
+65.108.129.96|16125|/MagicBean:6.0.0/|24940|65.108.0.0/16|DE|ripencc|2001-02-09|HETZNER-AS, DE
+65.108.134.132|16125|/MagicBean:6.0.0/|24940|65.108.0.0/16|DE|ripencc|2001-02-09|HETZNER-AS, DE
+65.108.134.133|16125|/MagicBean:6.0.0/|24940|65.108.0.0/16|DE|ripencc|2001-02-09|HETZNER-AS, DE
+65.108.134.134|16125|/MagicBean:6.0.0/|24940|65.108.0.0/16|DE|ripencc|2001-02-09|HETZNER-AS, DE
+65.108.135.101|16125|/MagicBean:6.0.0/|24940|65.108.0.0/16|DE|ripencc|2001-02-09|HETZNER-AS, DE
+65.108.135.113|16125|/MagicBean:6.0.0/|24940|65.108.0.0/16|DE|ripencc|2001-02-09|HETZNER-AS, DE
+65.108.135.145|16125|/MagicBean:6.0.0/|24940|65.108.0.0/16|DE|ripencc|2001-02-09|HETZNER-AS, DE
+65.108.135.160|16125|/MagicBean:6.0.0/|24940|65.108.0.0/16|DE|ripencc|2001-02-09|HETZNER-AS, DE
+65.108.135.170|16125|/MagicBean:6.0.0/|24940|65.108.0.0/16|DE|ripencc|2001-02-09|HETZNER-AS, DE
+65.108.135.174|16125|/MagicBean:6.0.0/|24940|65.108.0.0/16|DE|ripencc|2001-02-09|HETZNER-AS, DE
+65.108.135.175|16125|/MagicBean:6.0.0/|24940|65.108.0.0/16|DE|ripencc|2001-02-09|HETZNER-AS, DE
+65.108.135.176|16125|/MagicBean:6.0.0/|24940|65.108.0.0/16|DE|ripencc|2001-02-09|HETZNER-AS, DE
+65.108.135.180|16125|/MagicBean:6.0.0/|24940|65.108.0.0/16|DE|ripencc|2001-02-09|HETZNER-AS, DE
+65.108.135.217|16125|/MagicBean:6.0.0/|24940|65.108.0.0/16|DE|ripencc|2001-02-09|HETZNER-AS, DE
+65.108.136.49|16125|/MagicBean:6.0.0/|24940|65.108.0.0/16|DE|ripencc|2001-02-09|HETZNER-AS, DE
+65.108.138.229|16125|/MagicBean:6.0.0/|24940|65.108.0.0/16|DE|ripencc|2001-02-09|HETZNER-AS, DE
+65.108.138.5|16125|/MagicBean:6.0.0/|24940|65.108.0.0/16|DE|ripencc|2001-02-09|HETZNER-AS, DE
+65.108.138.6|16125|/MagicBean:6.0.0/|24940|65.108.0.0/16|DE|ripencc|2001-02-09|HETZNER-AS, DE
+65.108.138.68|16125|/MagicBean:6.0.0/|24940|65.108.0.0/16|DE|ripencc|2001-02-09|HETZNER-AS, DE
+65.108.138.69|16125|/MagicBean:6.0.0/|24940|65.108.0.0/16|DE|ripencc|2001-02-09|HETZNER-AS, DE
+65.108.138.70|16125|/MagicBean:6.0.0/|24940|65.108.0.0/16|DE|ripencc|2001-02-09|HETZNER-AS, DE
+65.108.139.109|16125|/MagicBean:6.0.0/|24940|65.108.0.0/16|DE|ripencc|2001-02-09|HETZNER-AS, DE
+65.108.14.36|16125|/MagicBean:6.0.0/|24940|65.108.0.0/16|DE|ripencc|2001-02-09|HETZNER-AS, DE
+65.108.14.37|16125|/MagicBean:6.0.0/|24940|65.108.0.0/16|DE|ripencc|2001-02-09|HETZNER-AS, DE
+65.108.14.39|16125|/MagicBean:6.0.0/|24940|65.108.0.0/16|DE|ripencc|2001-02-09|HETZNER-AS, DE
+65.108.14.42|16125|/MagicBean:6.0.0/|24940|65.108.0.0/16|DE|ripencc|2001-02-09|HETZNER-AS, DE
+65.108.140.117|16125|/MagicBean:6.0.0/|24940|65.108.0.0/16|DE|ripencc|2001-02-09|HETZNER-AS, DE
+65.108.140.119|16125|/MagicBean:6.0.0/|24940|65.108.0.0/16|DE|ripencc|2001-02-09|HETZNER-AS, DE
+65.108.140.79|16125|/MagicBean:6.0.0/|24940|65.108.0.0/16|DE|ripencc|2001-02-09|HETZNER-AS, DE
+65.108.140.97|16125|/MagicBean:6.0.0/|24940|65.108.0.0/16|DE|ripencc|2001-02-09|HETZNER-AS, DE
+65.108.140.98|16125|/MagicBean:6.0.0/|24940|65.108.0.0/16|DE|ripencc|2001-02-09|HETZNER-AS, DE
+65.108.141.151|16125|/MagicBean:6.0.0/|24940|65.108.0.0/16|DE|ripencc|2001-02-09|HETZNER-AS, DE
+65.108.141.213|16125|/MagicBean:6.0.0/|24940|65.108.0.0/16|DE|ripencc|2001-02-09|HETZNER-AS, DE
+65.108.141.7|16125|/MagicBean:6.0.0/|24940|65.108.0.0/16|DE|ripencc|2001-02-09|HETZNER-AS, DE
+65.108.141.77|16125|/MagicBean:6.0.0/|24940|65.108.0.0/16|DE|ripencc|2001-02-09|HETZNER-AS, DE
+65.108.141.78|16125|/MagicBean:6.0.0/|24940|65.108.0.0/16|DE|ripencc|2001-02-09|HETZNER-AS, DE
+65.108.141.79|16125|/MagicBean:6.0.0/|24940|65.108.0.0/16|DE|ripencc|2001-02-09|HETZNER-AS, DE
+65.108.142.18|16125|/MagicBean:6.0.0/|24940|65.108.0.0/16|DE|ripencc|2001-02-09|HETZNER-AS, DE
+65.108.142.185|16125|/MagicBean:6.0.0/|24940|65.108.0.0/16|DE|ripencc|2001-02-09|HETZNER-AS, DE
+65.108.142.198|16125|/MagicBean:6.0.0/|24940|65.108.0.0/16|DE|ripencc|2001-02-09|HETZNER-AS, DE
+65.108.142.66|16125|/MagicBean:6.0.0/|24940|65.108.0.0/16|DE|ripencc|2001-02-09|HETZNER-AS, DE
+65.108.142.75|16125|/MagicBean:6.0.0/|24940|65.108.0.0/16|DE|ripencc|2001-02-09|HETZNER-AS, DE
+65.108.143.107|16125|/MagicBean:6.0.0/|24940|65.108.0.0/16|DE|ripencc|2001-02-09|HETZNER-AS, DE
+65.108.143.108|16125|/MagicBean:6.0.0/|24940|65.108.0.0/16|DE|ripencc|2001-02-09|HETZNER-AS, DE
+65.108.143.109|16125|/MagicBean:6.0.0/|24940|65.108.0.0/16|DE|ripencc|2001-02-09|HETZNER-AS, DE
+65.108.143.167|16125|/MagicBean:6.0.0/|24940|65.108.0.0/16|DE|ripencc|2001-02-09|HETZNER-AS, DE
+65.108.143.172|16125|/MagicBean:6.0.0/|24940|65.108.0.0/16|DE|ripencc|2001-02-09|HETZNER-AS, DE
+65.108.143.173|16125|/MagicBean:6.0.0/|24940|65.108.0.0/16|DE|ripencc|2001-02-09|HETZNER-AS, DE
+65.108.143.174|16125|/MagicBean:6.0.0/|24940|65.108.0.0/16|DE|ripencc|2001-02-09|HETZNER-AS, DE
+65.108.143.175|16125|/MagicBean:6.0.0/|24940|65.108.0.0/16|DE|ripencc|2001-02-09|HETZNER-AS, DE
+65.108.143.176|16125|/MagicBean:6.0.0/|24940|65.108.0.0/16|DE|ripencc|2001-02-09|HETZNER-AS, DE
+65.108.143.177|16125|/MagicBean:6.0.0/|24940|65.108.0.0/16|DE|ripencc|2001-02-09|HETZNER-AS, DE
+65.108.143.178|16125|/MagicBean:6.0.0/|24940|65.108.0.0/16|DE|ripencc|2001-02-09|HETZNER-AS, DE
+65.108.143.179|16125|/MagicBean:6.0.0/|24940|65.108.0.0/16|DE|ripencc|2001-02-09|HETZNER-AS, DE
+65.108.143.180|16125|/MagicBean:6.0.0/|24940|65.108.0.0/16|DE|ripencc|2001-02-09|HETZNER-AS, DE
+65.108.143.181|16125|/MagicBean:6.0.0/|24940|65.108.0.0/16|DE|ripencc|2001-02-09|HETZNER-AS, DE
+65.108.143.182|16125|/MagicBean:6.0.0/|24940|65.108.0.0/16|DE|ripencc|2001-02-09|HETZNER-AS, DE
+65.108.149.139|16125|/MagicBean:6.0.0/|24940|65.108.0.0/16|DE|ripencc|2001-02-09|HETZNER-AS, DE
+65.108.151.240|16125|/MagicBean:6.0.0/|24940|65.108.0.0/16|DE|ripencc|2001-02-09|HETZNER-AS, DE
+65.108.151.62|16125|/MagicBean:6.0.0/|24940|65.108.0.0/16|DE|ripencc|2001-02-09|HETZNER-AS, DE
+65.108.152.39|16125|/MagicBean:6.0.0/|24940|65.108.0.0/16|DE|ripencc|2001-02-09|HETZNER-AS, DE
 65.108.153.77|16125|/MagicBean:6.0.0/
 65.108.154.175|16125|/MagicBean:6.0.0/
 65.108.159.22|16125|/MagicBean:6.0.0/
@@ -6315,8 +6261,8 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 65.108.82.163|16125|/MagicBean:6.0.0/
 65.108.82.96|16125|/MagicBean:6.0.0/
 65.108.84.10|16125|/MagicBean:6.0.0/
-65.108.85.112|16125|/MagicBean:6.0.0/|24940|65.108.0.0/16|DE|ripencc|2001-02-09|HETZNER-AS, DE
-65.108.85.7|16125|/MagicBean:6.0.0/|24940|65.108.0.0/16|DE|ripencc|2001-02-09|HETZNER-AS, DE
+65.108.85.112|16125|/MagicBean:6.0.0/
+65.108.85.7|16125|/MagicBean:6.0.0/
 65.108.9.161|16125|/MagicBean:6.0.0/
 65.108.9.188|16125|/MagicBean:6.0.0/
 65.108.96.50|16125|/MagicBean:6.0.0/
@@ -6364,7 +6310,6 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 65.21.126.163|16125|/MagicBean:6.0.0/
 65.21.127.48|16125|/MagicBean:6.0.0/
 65.21.129.102|16125|/MagicBean:6.0.0/
-65.21.129.71|16125|/MagicBean:6.0.0/
 65.21.129.72|16125|/MagicBean:6.0.0/
 65.21.129.74|16125|/MagicBean:6.0.0/
 65.21.130.141|16125|/MagicBean:6.0.0/
@@ -6409,7 +6354,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 65.21.152.110|16125|/MagicBean:6.0.0/
 65.21.152.56|16125|/MagicBean:6.0.0/
 65.21.153.141|16125|/MagicBean:6.0.0/
-65.21.157.207|16125|/MagicBean:6.0.0/|24940|65.21.0.0/16|DE|ripencc|2001-09-26|HETZNER-AS, DE
+65.21.157.207|16125|/MagicBean:6.0.0/
 65.21.157.5|16125|/MagicBean:6.0.0/
 65.21.158.150|16125|/MagicBean:6.0.0/
 65.21.158.7|16125|/MagicBean:6.0.0/
@@ -6608,12 +6553,12 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 66.94.100.219|16125|/MagicBean:6.0.0/
 66.94.100.54|16125|/MagicBean:6.0.0/
 66.94.101.100|16125|/MagicBean:6.0.0/
-66.94.101.178|16125|/MagicBean:6.0.0/|40021|66.94.96.0/21|US|arin|2021-07-28|CONTABO, US
-66.94.101.6|16125|/MagicBean:6.0.0/|40021|66.94.96.0/21|US|arin|2021-07-28|CONTABO, US
+66.94.101.178|16125|/MagicBean:6.0.0/
+66.94.101.6|16125|/MagicBean:6.0.0/
 66.94.101.94|16125|/MagicBean:6.0.0/
 66.94.103.103|16125|/MagicBean:6.0.0/
 66.94.103.226|16125|/MagicBean:6.0.0/
-66.94.103.45|16125|/MagicBean:6.0.0/
+66.94.103.45|16125|/MagicBean:6.0.0/|40021|66.94.96.0/21|US|arin|2021-07-28|CONTABO, US
 66.94.104.147|16125|/MagicBean:6.0.0/
 66.94.105.32|16125|/MagicBean:6.0.0/
 66.94.106.110|8033|/MagicBean:2.1.1-5/
@@ -6655,7 +6600,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 66.94.120.249|16125|/MagicBean:6.0.0/
 66.94.120.42|16125|/MagicBean:6.0.0/
 66.94.121.10|16125|/MagicBean:6.0.0/
-66.94.121.136|16125|/MagicBean:6.0.0/|40021|66.94.120.0/21|US|arin|2021-07-28|CONTABO, US
+66.94.121.136|16125|/MagicBean:6.0.0/
 66.94.121.158|16125|/MagicBean:6.0.0/
 66.94.121.162|16125|/MagicBean:6.0.0/
 66.94.121.17|16125|/MagicBean:6.0.0/
@@ -6693,8 +6638,8 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 66.94.99.210|16125|/MagicBean:6.0.0/
 67.149.211.89|16125|/MagicBean:6.0.0/
 67.169.70.100|16125|/MagicBean:6.0.0/
-67.182.68.43|16125|/MagicBean:6.0.0/|7922|67.160.0.0/11|US|arin|2002-12-16|COMCAST-7922, US
-67.205.177.189|16125|/MagicBean:6.0.0/|14061|67.205.176.0/20|US|arin|2016-04-12|DIGITALOCEAN-ASN, US
+67.182.68.43|16125|/MagicBean:6.0.0/
+67.205.177.189|16125|/MagicBean:6.0.0/
 67.209.68.156|16125|/MagicBean:6.0.0/
 67.240.135.145|16125|/MagicBean:6.0.0/
 67.53.183.6|16125|/MagicBean:6.0.0/
@@ -6702,115 +6647,112 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 67.63.67.92|16125|/MagicBean:6.0.0/
 67.84.51.30|16125|/MagicBean:6.0.0/
 67.86.218.151|16125|/MagicBean:6.0.0/
-68.103.255.208|16125|/MagicBean:6.0.0/
+68.103.255.208|16125|/MagicBean:6.0.0/|22773|68.102.0.0/15|US|arin|2002-02-04|ASN-CXA-ALL-CCI-22773-RDC, US
 68.108.235.13|16125|/MagicBean:6.0.0/
 68.114.218.73|16125|/MagicBean:6.0.0/
 68.117.34.6|16125|/MagicBean:6.0.0/
 68.127.179.210|16125|/MagicBean:6.0.0/
-68.144.92.96|16125|/MagicBean:6.0.0/
-68.163.55.250|16125|/MagicBean:6.0.0/
-68.163.55.251|16125|/MagicBean:6.0.0/
-68.163.55.253|16125|/MagicBean:6.0.0/
-68.36.204.69|16125|/MagicBean:6.0.0/
-68.53.169.226|16125|/MagicBean:6.0.0/
-68.60.189.74|16125|/MagicBean:6.0.0/
-68.60.34.64|16125|/MagicBean:6.0.0/
-68.72.138.169|16125|/MagicBean:6.0.0/
-68.72.138.170|16125|/MagicBean:6.0.0/
-68.77.250.103|16125|/MagicBean:6.0.0/
-68.77.56.55|16125|/MagicBean:6.0.0/
-68.81.64.249|16125|/MagicBean:6.0.0/
-68.89.232.91|16125|/MagicBean:6.0.0/
-68.91.147.104|16125|/MagicBean:6.0.0/
-69.112.141.29|16125|/MagicBean:6.0.0/
-69.118.17.174|16125|/MagicBean:6.0.0/
-69.120.221.7|16125|/MagicBean:6.0.0/
-69.124.28.101|16125|/MagicBean:6.0.0/
-69.131.208.26|16125|/MagicBean:6.0.0/
-69.144.54.68|16125|/MagicBean:6.0.0/
-69.174.155.186|16125|/MagicBean:6.0.0/
-69.207.9.14|16125|/MagicBean:6.0.0/
-69.242.227.229|16125|/MagicBean:6.0.0/
-69.47.229.126|16125|/MagicBean:6.0.0/
-69.65.77.62|16125|/MagicBean:6.0.0/
-70.106.245.146|16125|/MagicBean:6.0.0/
-70.124.169.82|16125|/MagicBean:6.0.0/
-70.161.19.112|16125|/MagicBean:6.0.0/
-70.177.170.192|16125|/MagicBean:6.0.0/
-70.184.169.250|16125|/MagicBean:6.0.0/
-70.187.209.246|16125|/MagicBean:6.0.0/
-70.20.241.43|16125|/MagicBean:6.0.0/
-70.240.238.189|16125|/MagicBean:6.0.0/
-70.25.75.161|16125|/MagicBean:6.0.0/
-70.67.210.148|16125|/MagicBean:6.0.0/
-70.69.20.135|16125|/MagicBean:6.0.0/
-70.77.95.34|16125|/MagicBean:6.0.0/
-71.115.150.67|16125|/MagicBean:6.0.0/
-71.115.150.68|16125|/MagicBean:6.0.0/
-71.115.150.69|16125|/MagicBean:6.0.0/
-71.115.150.70|16125|/MagicBean:6.0.0/
-71.115.150.71|16125|/MagicBean:6.0.0/
-71.115.150.72|16125|/MagicBean:6.0.0/
-71.115.150.73|16125|/MagicBean:6.0.0/
-71.115.150.74|16125|/MagicBean:6.0.0/
-71.115.150.75|16125|/MagicBean:6.0.0/
-71.115.150.76|16125|/MagicBean:6.0.0/
-71.115.150.77|16125|/MagicBean:6.0.0/
-71.115.150.78|16125|/MagicBean:6.0.0/
-71.115.150.79|16125|/MagicBean:6.0.0/
-71.115.150.80|16125|/MagicBean:6.0.0/
-71.115.150.81|16125|/MagicBean:6.0.0/
-71.115.150.82|16125|/MagicBean:6.0.0/
-71.115.150.83|16125|/MagicBean:6.0.0/
-71.115.150.84|16125|/MagicBean:6.0.0/
-71.115.150.85|16125|/MagicBean:6.0.0/
-71.115.150.86|16125|/MagicBean:6.0.0/
-71.115.150.87|16125|/MagicBean:6.0.0/
-71.115.150.88|16125|/MagicBean:6.0.0/
-71.115.150.89|16125|/MagicBean:6.0.0/
-71.115.150.94|16125|/MagicBean:6.0.0/
-71.115.161.13|16125|/MagicBean:6.0.0/
-71.115.163.84|16125|/MagicBean:6.0.0/
-71.115.172.151|16125|/MagicBean:6.0.0/
-71.126.67.82|16125|/MagicBean:6.0.0/
-71.126.67.83|16125|/MagicBean:6.0.0/
-71.126.67.84|16125|/MagicBean:6.0.0/
-71.126.67.85|16125|/MagicBean:6.0.0/
-71.126.67.86|16125|/MagicBean:6.0.0/
-71.131.68.108|16125|/MagicBean:6.0.0/
-71.179.107.171|16125|/MagicBean:6.0.0/
-71.184.214.113|16125|/MagicBean:6.0.0/
-71.185.54.2|16125|/MagicBean:6.0.0/
-71.191.248.94|16125|/MagicBean:6.0.0/
-71.193.55.120|16125|/MagicBean:6.0.0/
-71.200.47.29|16125|/MagicBean:6.0.0/
-71.203.219.63|16125|/MagicBean:6.0.0/
-71.212.168.39|16125|/MagicBean:6.0.0/
-71.244.132.70|16125|/MagicBean:6.0.0/
-71.29.175.73|16125|/MagicBean:6.0.0/
-71.57.38.255|16125|/MagicBean:6.0.0/
-71.58.79.200|16125|/MagicBean:6.0.0/
-71.75.228.107|16125|/MagicBean:6.0.0/
-71.8.1.105|16125|/MagicBean:6.0.0/
-71.86.134.190|16125|/MagicBean:6.0.0/
-72.183.131.27|16125|/MagicBean:6.0.0/
-72.194.134.227|16125|/MagicBean:6.0.0/
-72.212.172.145|16125|/MagicBean:6.0.0/
-72.217.67.153|16125|/MagicBean:6.0.0/
-72.224.114.63|16125|/MagicBean:6.0.0/
-72.239.106.60|16125|/MagicBean:6.0.0/
-72.24.133.38|16125|/MagicBean:6.0.0/
-72.28.234.121|16125|/MagicBean:6.0.0/
-72.46.50.9|16125|/MagicBean:6.0.0/
-72.52.72.244|16125|/MagicBean:6.0.0/
-72.52.72.245|16125|/MagicBean:6.0.0/
-72.52.72.246|16125|/MagicBean:6.0.0/
+68.163.55.250|16125|/MagicBean:6.0.0/|701|68.163.32.0/19|US|arin|2002-08-30|UUNET, US
+68.163.55.251|16125|/MagicBean:6.0.0/|701|68.163.32.0/19|US|arin|2002-08-30|UUNET, US
+68.163.55.253|16125|/MagicBean:6.0.0/|701|68.163.32.0/19|US|arin|2002-08-30|UUNET, US
+68.36.204.69|16125|/MagicBean:6.0.0/|7922|68.32.0.0/11|US|arin|2001-11-29|COMCAST-7922, US
+68.53.169.226|16125|/MagicBean:6.0.0/|7922|68.32.0.0/11|US|arin|2001-11-29|COMCAST-7922, US
+68.60.189.74|16125|/MagicBean:6.0.0/|7922|68.32.0.0/11|US|arin|2001-11-29|COMCAST-7922, US
+68.72.138.169|16125|/MagicBean:6.0.0/|7018|68.72.0.0/14|US|arin|2002-10-15|ATT-INTERNET4, US
+68.72.138.170|16125|/MagicBean:6.0.0/|7018|68.72.0.0/14|US|arin|2002-10-15|ATT-INTERNET4, US
+68.77.250.103|16125|/MagicBean:6.0.0/|7018|68.76.0.0/15|US|arin|2002-10-15|ATT-INTERNET4, US
+68.77.56.55|16125|/MagicBean:6.0.0/|7018|68.76.0.0/15|US|arin|2002-10-15|ATT-INTERNET4, US
+68.81.64.249|16125|/MagicBean:6.0.0/|7922|68.80.0.0/13|US|arin|2002-01-28|COMCAST-7922, US
+68.89.232.91|16125|/MagicBean:6.0.0/|7018|68.88.0.0/13|US|arin|2003-02-12|ATT-INTERNET4, US
+68.91.147.104|16125|/MagicBean:6.0.0/|7018|68.88.0.0/13|US|arin|2003-02-12|ATT-INTERNET4, US
+69.112.141.29|16125|/MagicBean:6.0.0/|6128|69.112.0.0/14|US|arin|2004-01-15|CABLE-NET-1, US
+69.118.17.174|16125|/MagicBean:6.0.0/|6128|69.116.0.0/14|US|arin|2004-01-15|CABLE-NET-1, US
+69.120.221.7|16125|/MagicBean:6.0.0/|6128|69.120.0.0/14|US|arin|2004-01-15|CABLE-NET-1, US
+69.124.28.101|16125|/MagicBean:6.0.0/|6128|69.124.0.0/14|US|arin|2004-01-15|CABLE-NET-1, US
+69.131.208.26|16125|/MagicBean:6.0.0/|4181|69.131.208.0/21|US|arin|2003-03-25|TDS-AS, US
+69.144.54.68|16125|/MagicBean:6.0.0/|33588|69.144.0.0/15|US|arin|2003-05-13|BRESNAN-33588, US
+69.174.155.186|16125|/MagicBean:6.0.0/|30600|69.174.128.0/19|US|arin|2009-04-29|AS-CMN, US
+69.207.9.14|16125|/MagicBean:6.0.0/|11351|69.207.0.0/16|US|arin|2004-03-26|TWC-11351-NORTHEAST, US
+69.242.227.229|16125|/MagicBean:6.0.0/|7922|69.240.0.0/12|US|arin|2004-02-11|COMCAST-7922, US
+69.47.229.126|16125|/MagicBean:6.0.0/|12083|69.47.228.0/22|US|arin|2003-05-13|WOW-INTERNET, US
+69.65.77.62|16125|/MagicBean:6.0.0/|30404|69.65.76.0/22|US|arin|2004-08-17|BLUESTREAMFIBER, US
+70.106.245.146|16125|/MagicBean:6.0.0/|701|70.106.192.0/18|US|arin|2004-09-21|UUNET, US
+70.124.169.82|16125|/MagicBean:6.0.0/|11427|70.124.0.0/16|US|arin|2004-09-17|TWC-11427-TEXAS, US
+70.161.19.112|16125|/MagicBean:6.0.0/|22773|70.160.0.0/15|US|arin|2004-07-21|ASN-CXA-ALL-CCI-22773-RDC, US
+70.177.170.192|16125|/MagicBean:6.0.0/|22773|70.177.160.0/19|US|arin|2004-07-21|ASN-CXA-ALL-CCI-22773-RDC, US
+70.184.169.250|16125|/MagicBean:6.0.0/|22773|70.184.160.0/19|US|arin|2004-07-21|ASN-CXA-ALL-CCI-22773-RDC, US
+70.187.209.246|16125|/MagicBean:6.0.0/|22773|70.187.192.0/18|US|arin|2004-07-21|ASN-CXA-ALL-CCI-22773-RDC, US
+70.20.241.43|16125|/MagicBean:6.0.0/|701|70.20.128.0/17|US|arin|2004-03-30|UUNET, US
+70.240.238.189|16125|/MagicBean:6.0.0/|7018|70.240.128.0/17|US|arin|2004-02-25|ATT-INTERNET4, US
+70.25.75.161|16125|/MagicBean:6.0.0/|577|70.25.0.0/16|CA|arin|2008-01-28|BACOM, CA
+70.67.210.148|16125|/MagicBean:6.0.0/|6327|70.67.208.0/22|CA|arin|2004-06-18|SHAW, CA
+70.69.20.135|16125|/MagicBean:6.0.0/|6327|70.69.20.0/22|CA|arin|2004-06-18|SHAW, CA
+70.77.95.34|16125|/MagicBean:6.0.0/|6327|70.77.92.0/22|CA|arin|2004-06-18|SHAW, CA
+71.115.150.67|16125|/MagicBean:6.0.0/|701|71.115.128.0/17|US|arin|2005-01-18|UUNET, US
+71.115.150.68|16125|/MagicBean:6.0.0/|701|71.115.128.0/17|US|arin|2005-01-18|UUNET, US
+71.115.150.69|16125|/MagicBean:6.0.0/|701|71.115.128.0/17|US|arin|2005-01-18|UUNET, US
+71.115.150.70|16125|/MagicBean:6.0.0/|701|71.115.128.0/17|US|arin|2005-01-18|UUNET, US
+71.115.150.71|16125|/MagicBean:6.0.0/|701|71.115.128.0/17|US|arin|2005-01-18|UUNET, US
+71.115.150.72|16125|/MagicBean:6.0.0/|701|71.115.128.0/17|US|arin|2005-01-18|UUNET, US
+71.115.150.73|16125|/MagicBean:6.0.0/|701|71.115.128.0/17|US|arin|2005-01-18|UUNET, US
+71.115.150.74|16125|/MagicBean:6.0.0/|701|71.115.128.0/17|US|arin|2005-01-18|UUNET, US
+71.115.150.75|16125|/MagicBean:6.0.0/|701|71.115.128.0/17|US|arin|2005-01-18|UUNET, US
+71.115.150.76|16125|/MagicBean:6.0.0/|701|71.115.128.0/17|US|arin|2005-01-18|UUNET, US
+71.115.150.77|16125|/MagicBean:6.0.0/|701|71.115.128.0/17|US|arin|2005-01-18|UUNET, US
+71.115.150.78|16125|/MagicBean:6.0.0/|701|71.115.128.0/17|US|arin|2005-01-18|UUNET, US
+71.115.150.79|16125|/MagicBean:6.0.0/|701|71.115.128.0/17|US|arin|2005-01-18|UUNET, US
+71.115.150.80|16125|/MagicBean:6.0.0/|701|71.115.128.0/17|US|arin|2005-01-18|UUNET, US
+71.115.150.81|16125|/MagicBean:6.0.0/|701|71.115.128.0/17|US|arin|2005-01-18|UUNET, US
+71.115.150.82|16125|/MagicBean:6.0.0/|701|71.115.128.0/17|US|arin|2005-01-18|UUNET, US
+71.115.150.83|16125|/MagicBean:6.0.0/|701|71.115.128.0/17|US|arin|2005-01-18|UUNET, US
+71.115.150.84|16125|/MagicBean:6.0.0/|701|71.115.128.0/17|US|arin|2005-01-18|UUNET, US
+71.115.150.85|16125|/MagicBean:6.0.0/|701|71.115.128.0/17|US|arin|2005-01-18|UUNET, US
+71.115.150.86|16125|/MagicBean:6.0.0/|701|71.115.128.0/17|US|arin|2005-01-18|UUNET, US
+71.115.150.87|16125|/MagicBean:6.0.0/|701|71.115.128.0/17|US|arin|2005-01-18|UUNET, US
+71.115.150.88|16125|/MagicBean:6.0.0/|701|71.115.128.0/17|US|arin|2005-01-18|UUNET, US
+71.115.150.89|16125|/MagicBean:6.0.0/|701|71.115.128.0/17|US|arin|2005-01-18|UUNET, US
+71.115.150.94|16125|/MagicBean:6.0.0/|701|71.115.128.0/17|US|arin|2005-01-18|UUNET, US
+71.115.161.13|16125|/MagicBean:6.0.0/|701|71.115.128.0/17|US|arin|2005-01-18|UUNET, US
+71.115.163.84|16125|/MagicBean:6.0.0/|701|71.115.128.0/17|US|arin|2005-01-18|UUNET, US
+71.115.172.151|16125|/MagicBean:6.0.0/|701|71.115.128.0/17|US|arin|2005-01-18|UUNET, US
+71.126.67.82|16125|/MagicBean:6.0.0/|701|71.126.64.0/18|US|arin|2005-01-18|UUNET, US
+71.126.67.83|16125|/MagicBean:6.0.0/|701|71.126.64.0/18|US|arin|2005-01-18|UUNET, US
+71.126.67.84|16125|/MagicBean:6.0.0/|701|71.126.64.0/18|US|arin|2005-01-18|UUNET, US
+71.126.67.85|16125|/MagicBean:6.0.0/|701|71.126.64.0/18|US|arin|2005-01-18|UUNET, US
+71.126.67.86|16125|/MagicBean:6.0.0/|701|71.126.64.0/18|US|arin|2005-01-18|UUNET, US
+71.131.68.108|16125|/MagicBean:6.0.0/|7018|71.131.0.0/17|US|arin|2005-01-11|ATT-INTERNET4, US
+71.179.107.171|16125|/MagicBean:6.0.0/|701|71.179.0.0/16|US|arin|2005-06-01|UUNET, US
+71.184.214.113|16125|/MagicBean:6.0.0/|701|71.184.0.0/16|US|arin|2005-06-01|UUNET, US
+71.185.54.2|16125|/MagicBean:6.0.0/|701|71.185.0.0/16|US|arin|2005-06-01|UUNET, US
+71.191.248.94|16125|/MagicBean:6.0.0/|701|71.191.0.0/16|US|arin|2005-06-01|UUNET, US
+71.193.55.120|16125|/MagicBean:6.0.0/|7922|71.192.0.0/12|US|arin|2005-07-27|COMCAST-7922, US
+71.200.47.29|16125|/MagicBean:6.0.0/|7922|71.192.0.0/12|US|arin|2005-07-27|COMCAST-7922, US
+71.203.219.63|16125|/MagicBean:6.0.0/|7922|71.192.0.0/12|US|arin|2005-07-27|COMCAST-7922, US
+71.212.168.39|16125|/MagicBean:6.0.0/|209|71.212.0.0/16|US|arin|2005-05-06|CENTURYLINK-US-LEGACY-QWEST, US
+71.244.132.70|16125|/MagicBean:6.0.0/|701|71.244.128.0/17|US|arin|2004-11-09|UUNET, US
+71.29.175.73|16125|/MagicBean:6.0.0/|7029|71.28.0.0/14|US|arin|2005-03-16|WINDSTREAM, US
+71.57.38.255|16125|/MagicBean:6.0.0/|7922|71.56.0.0/13|US|arin|2005-04-29|COMCAST-7922, US
+71.58.79.200|16125|/MagicBean:6.0.0/|7922|71.56.0.0/13|US|arin|2005-04-29|COMCAST-7922, US
+71.75.228.107|16125|/MagicBean:6.0.0/|11426|71.75.0.0/16|US|arin|2005-05-16|TWC-11426-CAROLINAS, US
+71.8.1.105|16125|/MagicBean:6.0.0/|20115|71.8.0.0/20|US|arin|2004-10-01|CHARTER-20115, US
+71.86.134.190|16125|/MagicBean:6.0.0/|20115|71.86.128.0/20|US|arin|2005-05-19|CHARTER-20115, US
+72.183.131.27|16125|/MagicBean:6.0.0/|11427|72.176.0.0/13|US|arin|2005-11-21|TWC-11427-TEXAS, US
+72.194.134.227|16125|/MagicBean:6.0.0/|22773|72.194.132.0/22|US|arin|2005-08-03|ASN-CXA-ALL-CCI-22773-RDC, US
+72.212.172.145|16125|/MagicBean:6.0.0/|22773|72.212.168.0/21|US|arin|2005-08-03|ASN-CXA-ALL-CCI-22773-RDC, US
+72.217.67.153|16125|/MagicBean:6.0.0/|22773|72.217.64.0/18|US|arin|2005-08-03|ASN-CXA-ALL-CCI-22773-RDC, US
+72.224.114.63|16125|/MagicBean:6.0.0/|11351|72.224.0.0/16|US|arin|2005-07-21|TWC-11351-NORTHEAST, US
+72.239.106.60|16125|/MagicBean:6.0.0/|33363|72.238.0.0/15|US|arin|2005-04-21|BHN-33363, US
+72.24.133.38|16125|/MagicBean:6.0.0/|11492|72.24.133.0/24|US|arin|2004-12-14|CABLEONE, US
+72.28.234.121|16125|/MagicBean:6.0.0/|11776|72.28.232.0/21|US|arin|2006-09-01|ATLANTICBB-JOHNSTOWN, US
+72.46.50.9|16125|/MagicBean:6.0.0/|15108|72.46.48.0/20|US|arin|2016-08-01|ALLO-COMM, US
+72.52.72.244|16125|/MagicBean:6.0.0/|6939|72.52.64.0/18|US|arin|2006-08-04|HURRICANE, US
+72.52.72.245|16125|/MagicBean:6.0.0/|6939|72.52.64.0/18|US|arin|2006-08-04|HURRICANE, US
+72.52.72.246|16125|/MagicBean:6.0.0/|6939|72.52.64.0/18|US|arin|2006-08-04|HURRICANE, US
 72.52.72.247|16125|/MagicBean:6.0.0/
 72.52.72.248|16125|/MagicBean:6.0.0/
 72.52.72.249|16125|/MagicBean:6.0.0/
-72.52.72.250|16125|/MagicBean:6.0.0/
 72.52.72.251|16125|/MagicBean:6.0.0/
-72.52.72.252|16125|/MagicBean:6.0.0/
+72.52.72.252|16125|/MagicBean:6.0.0/|6939|72.52.64.0/18|US|arin|2006-08-04|HURRICANE, US
 72.52.72.253|16125|/MagicBean:6.0.0/
 72.68.67.27|16125|/MagicBean:6.0.0/
 72.83.33.168|16125|/MagicBean:6.0.0/
@@ -6852,7 +6794,6 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 75.119.138.82|16125|/MagicBean:6.0.0/
 75.119.139.210|16125|/MagicBean:6.0.0/
 75.119.140.197|16125|/MagicBean:6.0.0/
-75.119.140.46|16125|/MagicBean:6.0.0/
 75.119.141.228|16125|/MagicBean:6.0.0/
 75.119.141.234|16125|/MagicBean:6.0.0/
 75.119.145.113|16125|/MagicBean:6.0.0/
@@ -6909,98 +6850,98 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 77.103.34.226|16125|/MagicBean:6.0.0/
 77.160.136.181|16125|/MagicBean:6.0.0/
 77.168.176.36|16125|/MagicBean:6.0.0/
-77.193.9.235|16125|/MagicBean:6.0.0/|15557|77.192.0.0/12|FR|ripencc|2006-11-30|LDCOMNET, FR
-77.194.34.145|16125|/MagicBean:6.0.0/|15557|77.192.0.0/12|FR|ripencc|2006-11-30|LDCOMNET, FR
-77.206.2.219|16125|/MagicBean:6.0.0/|15557|77.192.0.0/12|FR|ripencc|2006-11-30|LDCOMNET, FR
-77.250.34.88|16125|/MagicBean:6.0.0/|33915|77.250.0.0/15|NL|ripencc|2007-01-26|TNF-AS, NL
-77.34.74.115|16125|/MagicBean:6.0.0/|12389|77.34.74.0/24|RU|ripencc|2007-01-24|ROSTELECOM-AS, RU
-77.56.81.133|16125|/MagicBean:6.0.0/|6830|77.56.0.0/15|CH|ripencc|2006-10-19|LIBERTYGLOBAL Liberty Global formerly UPC Broadband Holding, aka AORTA, NL
-77.68.82.81|16125|/MagicBean:6.0.0/|8560|77.68.0.0/17|GB|ripencc|2007-02-07|IONOS-AS This is the joint network for IONOS, Fasthosts, Arsys, 1&1 Mail and Media and 1&1 Telecom. Formerly known as 1&1 Internet SE., DE
-77.99.164.75|16125|/MagicBean:6.0.0/|5089|77.99.0.0/16|GB|ripencc|2006-10-18|NTL, GB
-78.10.222.146|16125|/MagicBean:6.0.0/|12741|78.8.0.0/14|PL|ripencc|2007-02-26|AS-NETIA Warszawa 02-822, PL
-78.117.140.167|16125|/MagicBean:6.0.0/|8228|78.112.0.0/12|FR|ripencc|2007-05-03|CEGETEL-AS, FR
-78.117.142.209|16125|/MagicBean:6.0.0/|8228|78.112.0.0/12|FR|ripencc|2007-05-03|CEGETEL-AS, FR
-78.118.125.230|16125|/MagicBean:6.0.0/|8228|78.112.0.0/12|FR|ripencc|2007-05-03|CEGETEL-AS, FR
-78.141.222.192|16125|/MagicBean:6.0.0/|20473|78.141.208.0/20|US|ripencc|2007-07-30|AS-CHOOPA, US
-78.189.206.225|8144|/MagicBean:2.1.0/|9121|78.189.206.0/24|TR|ripencc|2007-05-01|TTNET, TR
-78.192.55.26|16125|/MagicBean:6.0.0/|12322|78.192.0.0/11|FR|ripencc|2007-03-15|PROXAD, FR
-78.193.224.96|16125|/MagicBean:6.0.0/|12322|78.192.0.0/11|FR|ripencc|2007-03-15|PROXAD, FR
-78.199.50.87|16125|/MagicBean:6.0.0/|12322|78.192.0.0/11|FR|ripencc|2007-03-15|PROXAD, FR
-78.216.153.225|16125|/MagicBean:6.0.0/|12322|78.192.0.0/11|FR|ripencc|2007-03-15|PROXAD, FR
-78.22.251.178|16125|/MagicBean:6.0.0/|6848|78.20.0.0/14|BE|ripencc|2007-05-14|TELENET-AS, BE
-78.29.21.26|16125|/MagicBean:6.0.0/|8369|78.29.16.0/21|RU|ripencc|2007-09-20|INTERSVYAZ-AS 38-B, Komsomolsky prospekt, RU
-78.31.67.202|16125|/MagicBean:6.0.0/|24961|78.31.64.0/21|DE|ripencc|2007-10-25|MYLOC-AS IP Backbone of myLoc managed IT AG, DE
-78.46.103.147|16125|/MagicBean:6.0.0/|24940|78.46.0.0/15|DE|ripencc|2007-04-16|HETZNER-AS, DE
-78.46.108.106|16125|/MagicBean:6.0.0/|24940|78.46.0.0/15|DE|ripencc|2007-04-16|HETZNER-AS, DE
-78.46.79.131|16125|/MagicBean:6.0.0/|24940|78.46.0.0/15|DE|ripencc|2007-04-16|HETZNER-AS, DE
-78.47.109.43|16125|/MagicBean:6.0.0/|24940|78.46.0.0/15|DE|ripencc|2007-04-16|HETZNER-AS, DE
-78.47.145.71|16125|/MagicBean:6.0.0/|24940|78.46.0.0/15|DE|ripencc|2007-04-16|HETZNER-AS, DE
-78.47.165.114|16125|/MagicBean:6.0.0/|24940|78.46.0.0/15|DE|ripencc|2007-04-16|HETZNER-AS, DE
-78.47.195.43|16125|/MagicBean:6.0.0/|24940|78.46.0.0/15|DE|ripencc|2007-04-16|HETZNER-AS, DE
-78.47.246.38|16125|/MagicBean:6.0.0/|24940|78.46.0.0/15|DE|ripencc|2007-04-16|HETZNER-AS, DE
-78.47.85.193|16125|/MagicBean:6.0.0/|24940|78.46.0.0/15|DE|ripencc|2007-04-16|HETZNER-AS, DE
-78.47.90.190|16125|/MagicBean:6.0.0/|24940|78.46.0.0/15|DE|ripencc|2007-04-16|HETZNER-AS, DE
-78.57.226.173|16125|/MagicBean:6.0.0/|8764|78.57.224.0/20|LT|ripencc|2007-03-21|TELIA-LIETUVA, LT
-78.60.214.72|16125|/MagicBean:6.0.0/|8764|78.60.212.0/22|LT|ripencc|2007-03-21|TELIA-LIETUVA, LT
-78.69.198.44|16125|/MagicBean:6.0.0/|3301|78.64.0.0/12|SE|ripencc|2007-03-09|TELIANET-SWEDEN Telia Company, SE
-78.70.184.153|16125|/MagicBean:6.0.0/|3301|78.64.0.0/12|SE|ripencc|2007-03-09|TELIANET-SWEDEN Telia Company, SE
-78.73.3.131|16125|/MagicBean:6.0.0/|3301|78.64.0.0/12|SE|ripencc|2007-03-09|TELIANET-SWEDEN Telia Company, SE
-79.119.105.107|16125|/MagicBean:6.0.0/|8708|79.118.0.0/15|RO|ripencc|2007-05-29|RCS-RDS 73-75 Dr. Staicovici, RO
-79.137.22.204|16125|/MagicBean:6.0.0/|16276|79.137.0.0/17|FR|ripencc|2007-10-18|OVH, FR
-79.137.22.205|16125|/MagicBean:6.0.0/|16276|79.137.0.0/17|FR|ripencc|2007-10-18|OVH, FR
-79.137.22.206|16125|/MagicBean:6.0.0/|16276|79.137.0.0/17|FR|ripencc|2007-10-18|OVH, FR
-79.137.22.207|16125|/MagicBean:6.0.0/|16276|79.137.0.0/17|FR|ripencc|2007-10-18|OVH, FR
-79.137.27.104|16125|/MagicBean:6.0.0/|16276|79.137.0.0/17|FR|ripencc|2007-10-18|OVH, FR
-79.137.27.221|16125|/MagicBean:6.0.0/|16276|79.137.0.0/17|FR|ripencc|2007-10-18|OVH, FR
-79.137.27.90|16125|/MagicBean:6.0.0/|16276|79.137.0.0/17|FR|ripencc|2007-10-18|OVH, FR
-79.137.53.1|16125|/MagicBean:6.0.0/|16276|79.137.0.0/17|FR|ripencc|2007-10-18|OVH, FR
-79.137.67.110|16125|/MagicBean:6.0.0/|16276|79.137.0.0/17|FR|ripencc|2007-10-18|OVH, FR
-79.143.179.218|16125|/MagicBean:6.0.0/|51167|79.143.178.0/23|DE|ripencc|2010-01-08|CONTABO, DE
-79.143.188.127|16125|/MagicBean:6.0.0/|51167|79.143.188.0/23|DE|ripencc|2010-01-08|CONTABO, DE
-79.98.26.135|16125|/MagicBean:6.0.0/|212531|79.98.24.0/21|LT|ripencc|2007-10-23|INTERNETO-VIZIJA, LT
-8.131.253.129|8233|/MagicBean:5.1.0/|37963|8.131.0.0/16|SG|apnic|1992-12-01|ALIBABA-CN-NET Hangzhou Alibaba Advertising Co.,Ltd., CN
-8.135.7.215|8233|/MagicBean:5.1.0/|37963|8.135.0.0/17|SG|apnic|1992-12-01|ALIBABA-CN-NET Hangzhou Alibaba Advertising Co.,Ltd., CN
-8.209.65.101|8233|/MagicBean:5.2.0/|45102|8.209.64.0/19|SG|apnic|1992-12-01|ALIBABA-CN-NET Alibaba US Technology Co., Ltd., CN
-8.209.80.185|8233|/MagicBean:5.2.0/|45102|8.209.64.0/19|SG|apnic|1992-12-01|ALIBABA-CN-NET Alibaba US Technology Co., Ltd., CN
-8.210.14.154|8233|/MagicBean:5.0.0/|45102|8.210.0.0/17|SG|apnic|1992-12-01|ALIBABA-CN-NET Alibaba US Technology Co., Ltd., CN
-8.210.73.119|8233|/MagicBean:5.0.0/|45102|8.210.0.0/17|SG|apnic|1992-12-01|ALIBABA-CN-NET Alibaba US Technology Co., Ltd., CN
-8.214.158.97|8233|/MagicBean:5.2.0/|45102|8.214.128.0/17|SG|apnic|1992-12-01|ALIBABA-CN-NET Alibaba US Technology Co., Ltd., CN
-8.218.10.114|8233|/MagicBean:5.2.0/|45102|8.218.0.0/17|SG|apnic|1992-12-01|ALIBABA-CN-NET Alibaba US Technology Co., Ltd., CN
-8.218.11.43|8233|/MagicBean:5.2.0/|45102|8.218.0.0/17|SG|apnic|1992-12-01|ALIBABA-CN-NET Alibaba US Technology Co., Ltd., CN
-80.0.126.198|16125|/MagicBean:6.0.0/|5089|80.0.0.0/16|GB|ripencc|2001-04-25|NTL, GB
-80.0.8.3|16125|/MagicBean:6.0.0/|5089|80.0.0.0/16|GB|ripencc|2001-04-25|NTL, GB
-80.11.59.26|16125|/MagicBean:6.0.0/|3215|80.11.0.0/16|FR|ripencc|2001-05-03|France Telecom - Orange, FR
-80.178.83.102|16125|/MagicBean:6.0.0/|12400|80.178.64.0/19|IL|ripencc|2002-07-05|PARTNER-AS, IL
-80.209.67.26|16125|/MagicBean:6.0.0/|44869|80.209.0.0/17|DK|ripencc|2001-12-12|FIBIA-P-S, DK
-80.211.207.17|16125|/MagicBean:6.0.0(bitcore)/|24806|80.211.192.0/19|IT|ripencc|2001-12-12|INTERNET-CZ Ktis 2, 384 03 Ktis, CZ
-80.241.213.126|16125|/MagicBean:6.0.0/|51167|80.241.212.0/23|DE|ripencc|2011-02-14|CONTABO, DE
-81.108.113.136|16125|/MagicBean:6.0.0/|5089|81.108.0.0/15|GB|ripencc|2002-06-14|NTL, GB
-81.130.66.161|16125|/MagicBean:6.0.0/|2856|81.128.0.0/12|GB|ripencc|2002-07-25|BT-UK-AS BTnet UK Regional network, GB
-81.130.66.163|16125|/MagicBean:6.0.0/|2856|81.128.0.0/12|GB|ripencc|2002-07-25|BT-UK-AS BTnet UK Regional network, GB
-81.169.177.63|16125|/MagicBean:6.0.0/|6724|81.169.128.0/17|DE|ripencc|2003-04-17|STRATO STRATO AG, DE
-81.169.178.67|16125|/MagicBean:6.0.0/|6724|81.169.128.0/17|DE|ripencc|2003-04-17|STRATO STRATO AG, DE
-81.182.245.98|16125|/MagicBean:6.0.0/|5483|81.182.0.0/15|HU|ripencc|2003-02-05|MAGYAR-TELEKOM-MAIN-AS Magyar Telekom Nyrt., HU
-81.2.80.52|8233|/MagicBean:5.2.0/|20712|81.2.64.0/18|GB|ripencc|2002-04-03|AS20712 Andrews & Arnold Ltd, GB
-81.242.209.67|16125|/MagicBean:6.0.0/|5432|81.240.0.0/14|BE|ripencc|2002-11-29|PROXIMUS-ISP-AS, BE
-81.28.200.99|16125|/MagicBean:6.0.0/|24904|81.28.192.0/20|FR|ripencc|2002-04-23|KWAOO K-NET SARL, FR
-81.34.56.232|16125|/MagicBean:6.0.0/|3352|81.34.0.0/16|ES|ripencc|2002-02-15|TELEFONICA_DE_ESPANA, ES
-81.7.10.111|16125|/MagicBean:6.0.0/|35366|81.7.0.0/18|DE|ripencc|2009-09-18|ISPPRO-AS ISPPRO-AS covers the networks of ISPpro, DE
-81.7.10.70|16125|/MagicBean:6.0.0/|35366|81.7.0.0/18|DE|ripencc|2009-09-18|ISPPRO-AS ISPPRO-AS covers the networks of ISPpro, DE
-81.7.11.103|16125|/MagicBean:6.0.0/|35366|81.7.0.0/18|DE|ripencc|2009-09-18|ISPPRO-AS ISPPRO-AS covers the networks of ISPpro, DE
-81.7.11.160|16125|/MagicBean:6.0.0/|35366|81.7.0.0/18|DE|ripencc|2009-09-18|ISPPRO-AS ISPPRO-AS covers the networks of ISPpro, DE
-81.7.13.152|16125|/MagicBean:6.0.0/|35366|81.7.0.0/18|DE|ripencc|2009-09-18|ISPPRO-AS ISPPRO-AS covers the networks of ISPpro, DE
-81.7.13.237|16125|/MagicBean:6.0.0/|35366|81.7.0.0/18|DE|ripencc|2009-09-18|ISPPRO-AS ISPPRO-AS covers the networks of ISPpro, DE
-81.7.14.177|16125|/MagicBean:6.0.0/|35366|81.7.0.0/18|DE|ripencc|2009-09-18|ISPPRO-AS ISPPRO-AS covers the networks of ISPpro, DE
-81.82.208.56|16125|/MagicBean:6.0.0/|6848|81.82.0.0/15|BE|ripencc|2002-04-29|TELENET-AS, BE
-81.82.231.96|16125|/MagicBean:6.0.0/|6848|81.82.0.0/15|BE|ripencc|2002-04-29|TELENET-AS, BE
-82.118.243.226|16125|/MagicBean:6.0.0/|31083|82.118.243.0/24|BG|ripencc|2004-02-13|TELEPOINT, BG
-82.135.241.163|16125|/MagicBean:6.0.0/|8764|82.135.240.0/21|LT|ripencc|2003-09-17|TELIA-LIETUVA, LT
-82.158.248.80|16125|/MagicBean:6.0.0/|6739|82.158.0.0/16|ES|ripencc|2003-12-02|ONO-AS Cableuropa - ONO, ES
-82.165.236.129|16125|/MagicBean:6.0.0/|8560|82.165.0.0/16|DE|ripencc|2003-08-06|IONOS-AS This is the joint network for IONOS, Fasthosts, Arsys, 1&1 Mail and Media and 1&1 Telecom. Formerly known as 1&1 Internet SE., DE
-82.165.32.23|16125|/MagicBean:6.0.0/|8560|82.165.0.0/16|DE|ripencc|2003-08-06|IONOS-AS This is the joint network for IONOS, Fasthosts, Arsys, 1&1 Mail and Media and 1&1 Telecom. Formerly known as 1&1 Internet SE., DE
-82.165.49.240|16125|/MagicBean:6.0.0/|8560|82.165.0.0/16|DE|ripencc|2003-08-06|IONOS-AS This is the joint network for IONOS, Fasthosts, Arsys, 1&1 Mail and Media and 1&1 Telecom. Formerly known as 1&1 Internet SE., DE
-82.174.43.67|16125|/MagicBean:6.0.0/|50266|82.174.0.0/16|NL|ripencc|2003-09-29|TMOBILE-THUIS, NL
-82.209.175.164|16125|/MagicBean:6.0.0/|29518|82.209.128.0/18|SE|ripencc|2003-09-30|BREDBAND2, SE
+77.193.9.235|16125|/MagicBean:6.0.0/
+77.194.34.145|16125|/MagicBean:6.0.0/
+77.206.2.219|16125|/MagicBean:6.0.0/
+77.250.34.88|16125|/MagicBean:6.0.0/
+77.34.74.115|16125|/MagicBean:6.0.0/
+77.56.81.133|16125|/MagicBean:6.0.0/
+77.68.82.81|16125|/MagicBean:6.0.0/
+77.99.164.75|16125|/MagicBean:6.0.0/
+78.10.222.146|16125|/MagicBean:6.0.0/
+78.117.140.167|16125|/MagicBean:6.0.0/
+78.117.142.209|16125|/MagicBean:6.0.0/
+78.118.125.230|16125|/MagicBean:6.0.0/
+78.141.222.192|16125|/MagicBean:6.0.0/
+78.189.206.225|8144|/MagicBean:2.1.0/
+78.192.55.26|16125|/MagicBean:6.0.0/
+78.193.224.96|16125|/MagicBean:6.0.0/
+78.199.50.87|16125|/MagicBean:6.0.0/
+78.216.153.225|16125|/MagicBean:6.0.0/
+78.22.251.178|16125|/MagicBean:6.0.0/
+78.29.21.26|16125|/MagicBean:6.0.0/
+78.31.67.202|16125|/MagicBean:6.0.0/
+78.46.103.147|16125|/MagicBean:6.0.0/
+78.46.108.106|16125|/MagicBean:6.0.0/
+78.46.79.131|16125|/MagicBean:6.0.0/
+78.47.109.43|16125|/MagicBean:6.0.0/
+78.47.165.114|16125|/MagicBean:6.0.0/
+78.47.195.43|16125|/MagicBean:6.0.0/
+78.47.246.38|16125|/MagicBean:6.0.0/
+78.47.85.193|16125|/MagicBean:6.0.0/
+78.47.90.190|16125|/MagicBean:6.0.0/
+78.57.226.173|16125|/MagicBean:6.0.0/
+78.60.214.72|16125|/MagicBean:6.0.0/
+78.69.198.44|16125|/MagicBean:6.0.0/
+78.70.184.153|16125|/MagicBean:6.0.0/
+78.73.3.131|16125|/MagicBean:6.0.0/
+79.119.105.107|16125|/MagicBean:6.0.0/
+79.137.22.204|16125|/MagicBean:6.0.0/
+79.137.22.205|16125|/MagicBean:6.0.0/
+79.137.22.206|16125|/MagicBean:6.0.0/
+79.137.22.207|16125|/MagicBean:6.0.0/
+79.137.27.104|16125|/MagicBean:6.0.0/
+79.137.27.221|16125|/MagicBean:6.0.0/
+79.137.27.90|16125|/MagicBean:6.0.0/
+79.137.53.1|16125|/MagicBean:6.0.0/
+79.137.67.110|16125|/MagicBean:6.0.0/
+79.143.179.218|16125|/MagicBean:6.0.0/
+79.143.188.127|16125|/MagicBean:6.0.0/
+79.98.26.135|16125|/MagicBean:6.0.0/
+8.131.253.129|8233|/MagicBean:5.1.0/
+8.135.7.215|8233|/MagicBean:5.1.0/
+8.209.65.101|8233|/MagicBean:5.2.0/
+8.209.80.185|8233|/MagicBean:5.2.0/
+8.210.14.154|8233|/MagicBean:5.0.0/
+8.210.73.119|8233|/MagicBean:5.0.0/
+8.214.158.97|8233|/MagicBean:5.2.0/
+8.218.10.114|8233|/MagicBean:5.2.0/
+8.218.11.43|8233|/MagicBean:5.2.0/
+80.0.126.198|16125|/MagicBean:6.0.0/
+80.0.8.3|16125|/MagicBean:6.0.0/
+80.11.59.26|16125|/MagicBean:6.0.0/
+80.178.83.102|16125|/MagicBean:6.0.0/
+80.209.67.26|16125|/MagicBean:6.0.0/
+80.211.207.17|16125|/MagicBean:6.0.0(bitcore)/
+80.241.213.126|16125|/MagicBean:6.0.0/
+81.108.113.136|16125|/MagicBean:6.0.0/
+81.130.66.161|16125|/MagicBean:6.0.0/
+81.130.66.163|16125|/MagicBean:6.0.0/
+81.169.177.63|16125|/MagicBean:6.0.0/
+81.169.178.67|16125|/MagicBean:6.0.0/
+81.182.245.98|16125|/MagicBean:6.0.0/
+81.2.80.52|8233|/MagicBean:5.2.0/
+81.242.209.67|16125|/MagicBean:6.0.0/
+81.28.200.99|16125|/MagicBean:6.0.0/
+81.34.56.232|16125|/MagicBean:6.0.0/
+81.7.10.111|16125|/MagicBean:6.0.0/
+81.7.10.70|16125|/MagicBean:6.0.0/
+81.7.11.103|16125|/MagicBean:6.0.0/
+81.7.11.160|16125|/MagicBean:6.0.0/
+81.7.11.209|16125|/MagicBean:6.0.0/
+81.7.13.152|16125|/MagicBean:6.0.0/
+81.7.13.237|16125|/MagicBean:6.0.0/
+81.7.14.177|16125|/MagicBean:6.0.0/
+81.82.208.56|16125|/MagicBean:6.0.0/
+81.82.231.96|16125|/MagicBean:6.0.0/
+82.118.243.226|16125|/MagicBean:6.0.0/
+82.135.241.163|16125|/MagicBean:6.0.0/
+82.158.248.80|16125|/MagicBean:6.0.0/
+82.165.236.129|16125|/MagicBean:6.0.0/
+82.165.32.23|16125|/MagicBean:6.0.0/
+82.165.49.240|16125|/MagicBean:6.0.0/
+82.174.43.67|16125|/MagicBean:6.0.0/
+82.209.175.164|16125|/MagicBean:6.0.0/
 82.212.96.131|16125|/MagicBean:6.0.0/
 82.220.86.60|16125|/MagicBean:6.0.0/
 82.38.113.7|16125|/MagicBean:6.0.0/
@@ -7087,6 +7028,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 85.214.226.32|16125|/MagicBean:6.0.0/
 85.214.247.108|16125|/MagicBean:6.0.0/
 85.214.80.248|16125|/MagicBean:6.0.0/
+85.234.7.73|16125|/MagicBean:6.0.0/
 85.24.168.120|16125|/MagicBean:6.0.0/
 85.243.105.117|16125|/MagicBean:6.0.0/
 85.247.253.140|16125|/MagicBean:6.0.0/
@@ -7129,29 +7071,29 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 88.99.20.14|16125|/MagicBean:6.0.0/
 88.99.20.2|16125|/MagicBean:6.0.0/
 88.99.20.3|16125|/MagicBean:6.0.0/
-88.99.20.4|16125|/MagicBean:6.0.0/
-88.99.20.5|16125|/MagicBean:6.0.0/
-88.99.20.6|16125|/MagicBean:6.0.0/
-88.99.209.94|8233|/MagicBean:5.0.0/
-88.99.32.103|16125|/MagicBean:6.0.0/
-88.99.52.117|16125|/MagicBean:6.0.0/
-88.99.6.216|16125|/MagicBean:6.0.0/
-89.115.204.141|16125|/MagicBean:6.0.0/
-89.142.197.247|16125|/MagicBean:6.0.0/
-89.143.198.53|16125|/MagicBean:6.0.0/
-89.143.198.60|16125|/MagicBean:6.0.0/
-89.163.206.240|16125|/MagicBean:6.0.0/
-89.176.117.67|16125|/MagicBean:6.0.0/
-89.233.105.18|16125|/MagicBean:6.0.0/
-89.233.105.57|16125|/MagicBean:6.0.0/
-89.234.142.58|16125|/MagicBean:6.0.0/
-89.234.143.39|16125|/MagicBean:6.0.0/
-89.234.149.11|16125|/MagicBean:6.0.0/
-89.234.149.125|16125|/MagicBean:6.0.0/
-89.238.200.37|16125|/MagicBean:6.0.0/
-89.32.242.251|16125|/MagicBean:6.0.0/
-89.35.248.26|16125|/MagicBean:6.0.0/
-89.47.166.170|16125|/MagicBean:5.0.2/
+88.99.20.4|16125|/MagicBean:6.0.0/|24940|88.99.0.0/16|DE|ripencc|2005-08-03|HETZNER-AS, DE
+88.99.20.5|16125|/MagicBean:6.0.0/|24940|88.99.0.0/16|DE|ripencc|2005-08-03|HETZNER-AS, DE
+88.99.20.6|16125|/MagicBean:6.0.0/|24940|88.99.0.0/16|DE|ripencc|2005-08-03|HETZNER-AS, DE
+88.99.209.94|8233|/MagicBean:5.0.0/|24940|88.99.0.0/16|DE|ripencc|2005-08-03|HETZNER-AS, DE
+88.99.32.103|16125|/MagicBean:6.0.0/|24940|88.99.0.0/16|DE|ripencc|2005-08-03|HETZNER-AS, DE
+88.99.52.117|16125|/MagicBean:6.0.0/|24940|88.99.0.0/16|DE|ripencc|2005-08-03|HETZNER-AS, DE
+88.99.6.216|16125|/MagicBean:6.0.0/|24940|88.99.0.0/16|DE|ripencc|2005-08-03|HETZNER-AS, DE
+89.115.204.141|16125|/MagicBean:6.0.0/|12353|89.114.0.0/15|PT|ripencc|2006-04-10|VODAFONE-PT Vodafone Portugal, PT
+89.142.197.247|16125|/MagicBean:6.0.0/|5603|89.142.192.0/18|SI|ripencc|2006-03-03|SIOL-NET Telekom Slovenije d.d., SI
+89.143.198.53|16125|/MagicBean:6.0.0/|5603|89.143.192.0/18|SI|ripencc|2006-03-03|SIOL-NET Telekom Slovenije d.d., SI
+89.143.198.60|16125|/MagicBean:6.0.0/|5603|89.143.192.0/18|SI|ripencc|2006-03-03|SIOL-NET Telekom Slovenije d.d., SI
+89.163.206.240|16125|/MagicBean:6.0.0/|24961|89.163.128.0/17|DE|ripencc|2006-02-17|MYLOC-AS IP Backbone of myLoc managed IT AG, DE
+89.176.117.67|16125|/MagicBean:6.0.0/|16019|89.176.0.0/16|CZ|ripencc|2006-03-16|VODAFONE-CZ-AS, CZ
+89.233.105.18|16125|/MagicBean:6.0.0/|29802|89.233.105.0/24|US|ripencc|2012-09-11|HVC-AS, US
+89.233.105.57|16125|/MagicBean:6.0.0/|29802|89.233.105.0/24|US|ripencc|2012-09-11|HVC-AS, US
+89.234.142.58|16125|/MagicBean:6.0.0/|197922|89.234.142.0/23|FR|ripencc|2006-05-23|FIRSTHEBERG, FR
+89.234.143.39|16125|/MagicBean:6.0.0/|197922|89.234.142.0/23|FR|ripencc|2006-05-23|FIRSTHEBERG, FR
+89.234.149.11|16125|/MagicBean:6.0.0/|197922|89.234.149.0/24|FR|ripencc|2006-05-23|FIRSTHEBERG, FR
+89.234.149.125|16125|/MagicBean:6.0.0/|197922|89.234.149.0/24|FR|ripencc|2006-05-23|FIRSTHEBERG, FR
+89.238.200.37|16125|/MagicBean:6.0.0/|6663|89.238.192.0/18|RO|ripencc|2006-08-01|TTI-NET, RO
+89.32.242.251|16125|/MagicBean:6.0.0/|207375|89.32.240.0/21|NL|ripencc|2005-11-29|FIBO, NL
+89.35.248.26|16125|/MagicBean:6.0.0/|207375|89.35.248.0/24|NL|ripencc|2005-11-29|FIBO, NL
+89.47.166.170|16125|/MagicBean:5.0.2/|212531|89.47.160.0/21|LT|ripencc|2005-11-29|INTERNETO-VIZIJA, LT
 89.58.0.113|16125|/MagicBean:6.0.0/
 89.58.0.122|16125|/MagicBean:6.0.0/
 89.58.0.131|16125|/MagicBean:6.0.0/
@@ -7264,7 +7206,6 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 89.58.26.144|16125|/MagicBean:6.0.0/
 89.58.26.145|16125|/MagicBean:6.0.0/
 89.58.26.159|16125|/MagicBean:6.0.0/
-89.58.26.174|16125|/MagicBean:6.0.0/
 89.58.26.175|16125|/MagicBean:6.0.0/
 89.58.26.181|16125|/MagicBean:6.0.0/
 89.58.26.195|16125|/MagicBean:6.0.0/
@@ -7339,166 +7280,166 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 89.58.30.78|16125|/MagicBean:6.0.0/
 89.58.30.98|16125|/MagicBean:6.0.0/
 89.58.31.10|16125|/MagicBean:6.0.0/
-89.58.31.122|16125|/MagicBean:6.0.0/
-89.58.31.130|16125|/MagicBean:6.0.0/
-89.58.31.168|16125|/MagicBean:6.0.0/
-89.58.31.184|16125|/MagicBean:6.0.0/
-89.58.31.193|16125|/MagicBean:6.0.0/
-89.58.31.22|16125|/MagicBean:6.0.0/
-89.58.31.254|16125|/MagicBean:6.0.0/
-89.58.31.30|16125|/MagicBean:6.0.0/
-89.58.31.49|16125|/MagicBean:6.0.0/
-89.58.31.71|16125|/MagicBean:6.0.0(bitcore)/
-89.58.32.118|16125|/MagicBean:6.0.0/
-89.58.32.127|16125|/MagicBean:6.0.0/
-89.58.32.13|16125|/MagicBean:6.0.0/
-89.58.32.131|16125|/MagicBean:6.0.0/
-89.58.32.134|16125|/MagicBean:6.0.0/
-89.58.32.138|16125|/MagicBean:6.0.0/
-89.58.32.14|16125|/MagicBean:6.0.0/
-89.58.32.156|16125|/MagicBean:6.0.0/
-89.58.32.159|16125|/MagicBean:6.0.0/
-89.58.32.162|16125|/MagicBean:6.0.0/
-89.58.32.166|16125|/MagicBean:6.0.0/
-89.58.32.186|16125|/MagicBean:6.0.0/
-89.58.32.199|16125|/MagicBean:6.0.0/
-89.58.32.209|16125|/MagicBean:6.0.0/
-89.58.32.232|16125|/MagicBean:6.0.0/
-89.58.32.242|16125|/MagicBean:6.0.0/
-89.58.32.245|16125|/MagicBean:6.0.0/
-89.58.32.25|16125|/MagicBean:6.0.0/
-89.58.32.252|16125|/MagicBean:6.0.0/
-89.58.32.35|16125|/MagicBean:6.0.0/
-89.58.32.77|16125|/MagicBean:6.0.0/
-89.58.32.79|16125|/MagicBean:6.0.0/
-89.58.32.83|16125|/MagicBean:6.0.0/
-89.58.32.96|16125|/MagicBean:6.0.0/
-89.58.33.100|16125|/MagicBean:6.0.0/
-89.58.33.105|16125|/MagicBean:6.0.0/
-89.58.33.123|16125|/MagicBean:6.0.0/
-89.58.33.129|16125|/MagicBean:6.0.0/
-89.58.33.130|16125|/MagicBean:6.0.0/
-89.58.33.159|16125|/MagicBean:6.0.0/
-89.58.33.163|16125|/MagicBean:6.0.0/
-89.58.33.164|16125|/MagicBean:6.0.0/
-89.58.33.177|16125|/MagicBean:6.0.0/
-89.58.33.192|16125|/MagicBean:6.0.0/
-89.58.33.2|16125|/MagicBean:6.0.0/
-89.58.33.202|16125|/MagicBean:6.0.0/
-89.58.33.204|16125|/MagicBean:6.0.0/
-89.58.33.215|16125|/MagicBean:6.0.0/
-89.58.33.221|16125|/MagicBean:6.0.0/
-89.58.33.224|16125|/MagicBean:6.0.0/
-89.58.33.233|16125|/MagicBean:6.0.0/
-89.58.33.58|16125|/MagicBean:6.0.0/
-89.58.34.122|16125|/MagicBean:6.0.0/
-89.58.34.128|16125|/MagicBean:6.0.0/
-89.58.34.160|16125|/MagicBean:6.0.0/
-89.58.34.177|16125|/MagicBean:6.0.0/
-89.58.34.178|16125|/MagicBean:6.0.0/
-89.58.34.183|16125|/MagicBean:6.0.0/
-89.58.34.193|16125|/MagicBean:6.0.0/
-89.58.34.221|16125|/MagicBean:6.0.0/
-89.58.34.225|16125|/MagicBean:6.0.0/
-89.58.34.232|16125|/MagicBean:6.0.0/
-89.58.34.241|16125|/MagicBean:6.0.0/
-89.58.34.44|16125|/MagicBean:6.0.0/
-89.58.34.54|16125|/MagicBean:6.0.0/
-89.58.34.91|16125|/MagicBean:6.0.0/
-89.58.34.92|16125|/MagicBean:6.0.0/
-89.58.35.113|16125|/MagicBean:6.0.0/
-89.58.35.119|16125|/MagicBean:6.0.0/
-89.58.35.175|16125|/MagicBean:6.0.0/
-89.58.35.183|16125|/MagicBean:6.0.0/
-89.58.35.199|16125|/MagicBean:6.0.0/
-89.58.35.222|16125|/MagicBean:6.0.0/
-89.58.35.253|16125|/MagicBean:6.0.0/
-89.58.35.4|16125|/MagicBean:6.0.0/
-89.58.35.76|16125|/MagicBean:6.0.0/
-89.58.35.78|16125|/MagicBean:6.0.0/
-89.58.35.81|16125|/MagicBean:6.0.0/
-89.58.35.86|16125|/MagicBean:6.0.0/
-89.58.35.92|16125|/MagicBean:6.0.0/
-89.58.36.108|16125|/MagicBean:6.0.0/
-89.58.36.112|16125|/MagicBean:6.0.0/
-89.58.36.125|16125|/MagicBean:6.0.0/
-89.58.36.126|16125|/MagicBean:6.0.0/
-89.58.36.132|16125|/MagicBean:6.0.0/
-89.58.36.134|16125|/MagicBean:6.0.0/
-89.58.36.154|16125|/MagicBean:6.0.0/
-89.58.36.158|16125|/MagicBean:6.0.0/
-89.58.36.165|16125|/MagicBean:6.0.0/
-89.58.36.180|16125|/MagicBean:6.0.0/
-89.58.36.188|16125|/MagicBean:6.0.0/
-89.58.36.21|16125|/MagicBean:6.0.0/
-89.58.36.211|16125|/MagicBean:6.0.0/
-89.58.36.212|16125|/MagicBean:6.0.0/
-89.58.36.228|16125|/MagicBean:6.0.0/
-89.58.36.246|16125|/MagicBean:6.0.0/
-89.58.36.63|16125|/MagicBean:6.0.0/
-89.58.36.71|16125|/MagicBean:6.0.0/
-89.58.36.76|16125|/MagicBean:6.0.0/
-89.58.37.108|16125|/MagicBean:6.0.0/
-89.58.37.145|16125|/MagicBean:6.0.0/
-89.58.37.150|16125|/MagicBean:6.0.0/
-89.58.37.156|16125|/MagicBean:6.0.0/
-89.58.37.158|16125|/MagicBean:6.0.0/
-89.58.37.163|16125|/MagicBean:6.0.0/
-89.58.37.164|16125|/MagicBean:6.0.0/
-89.58.37.18|16125|/MagicBean:6.0.0/
-89.58.37.206|16125|/MagicBean:6.0.0/
-89.58.37.208|16125|/MagicBean:6.0.0/
-89.58.37.213|16125|/MagicBean:6.0.0/
-89.58.37.217|16125|/MagicBean:6.0.0/
-89.58.37.222|16125|/MagicBean:6.0.0/
-89.58.37.52|16125|/MagicBean:6.0.0/
-89.58.37.73|16125|/MagicBean:6.0.0/
-89.58.37.9|16125|/MagicBean:6.0.0/
-89.58.37.95|16125|/MagicBean:6.0.0/
-89.58.38.1|16125|/MagicBean:6.0.0/
-89.58.38.107|16125|/MagicBean:6.0.0/
-89.58.38.112|16125|/MagicBean:6.0.0/
-89.58.38.126|16125|/MagicBean:6.0.0/
-89.58.38.130|16125|/MagicBean:6.0.0/
-89.58.38.135|16125|/MagicBean:6.0.0/
-89.58.38.164|16125|/MagicBean:6.0.0/
-89.58.38.168|16125|/MagicBean:6.0.0/
-89.58.38.177|16125|/MagicBean:6.0.0/
-89.58.38.178|16125|/MagicBean:6.0.0/
-89.58.38.179|16125|/MagicBean:6.0.0/
-89.58.38.188|16125|/MagicBean:6.0.0/
-89.58.38.195|16125|/MagicBean:6.0.0/
-89.58.38.196|16125|/MagicBean:6.0.0/
-89.58.38.206|16125|/MagicBean:6.0.0/
-89.58.38.210|16125|/MagicBean:6.0.0/
-89.58.38.220|16125|/MagicBean:6.0.0/
-89.58.38.31|16125|/MagicBean:6.0.0/
-89.58.38.36|16125|/MagicBean:6.0.0/
-89.58.38.37|16125|/MagicBean:6.0.0/
-89.58.38.42|16125|/MagicBean:6.0.0/
-89.58.38.5|16125|/MagicBean:6.0.0/
-89.58.38.67|16125|/MagicBean:6.0.0/
-89.58.38.8|16125|/MagicBean:6.0.0/
-89.58.38.82|16125|/MagicBean:6.0.0/
-89.58.38.98|16125|/MagicBean:6.0.0/
-89.58.39.109|16125|/MagicBean:6.0.0/
-89.58.39.119|16125|/MagicBean:6.0.0/
-89.58.39.122|16125|/MagicBean:6.0.0/
-89.58.39.132|16125|/MagicBean:6.0.0/
-89.58.39.157|16125|/MagicBean:6.0.0/
-89.58.39.2|16125|/MagicBean:6.0.0/
-89.58.39.208|16125|/MagicBean:6.0.0/
-89.58.39.212|16125|/MagicBean:6.0.0/
-89.58.39.30|16125|/MagicBean:6.0.0/
-89.58.39.43|16125|/MagicBean:6.0.0/
-89.58.39.53|16125|/MagicBean:6.0.0/
-89.58.39.69|16125|/MagicBean:6.0.0/
-89.58.39.73|16125|/MagicBean:6.0.0/
-89.58.39.94|16125|/MagicBean:6.0.0/
-89.58.4.107|16125|/MagicBean:6.0.0/
-89.58.4.131|16125|/MagicBean:6.0.0/
-89.58.4.140|16125|/MagicBean:6.0.0/
-89.58.4.154|16125|/MagicBean:6.0.0/
+89.58.31.122|16125|/MagicBean:6.0.0/|197540|89.58.28.0/22|DE|ripencc|2005-11-23|NETCUP-AS netcup GmbH, DE
+89.58.31.130|16125|/MagicBean:6.0.0/|197540|89.58.28.0/22|DE|ripencc|2005-11-23|NETCUP-AS netcup GmbH, DE
+89.58.31.168|16125|/MagicBean:6.0.0/|197540|89.58.28.0/22|DE|ripencc|2005-11-23|NETCUP-AS netcup GmbH, DE
+89.58.31.184|16125|/MagicBean:6.0.0/|197540|89.58.28.0/22|DE|ripencc|2005-11-23|NETCUP-AS netcup GmbH, DE
+89.58.31.193|16125|/MagicBean:6.0.0/|197540|89.58.28.0/22|DE|ripencc|2005-11-23|NETCUP-AS netcup GmbH, DE
+89.58.31.22|16125|/MagicBean:6.0.0/|197540|89.58.28.0/22|DE|ripencc|2005-11-23|NETCUP-AS netcup GmbH, DE
+89.58.31.254|16125|/MagicBean:6.0.0/|197540|89.58.28.0/22|DE|ripencc|2005-11-23|NETCUP-AS netcup GmbH, DE
+89.58.31.30|16125|/MagicBean:6.0.0/|197540|89.58.28.0/22|DE|ripencc|2005-11-23|NETCUP-AS netcup GmbH, DE
+89.58.31.49|16125|/MagicBean:6.0.0/|197540|89.58.28.0/22|DE|ripencc|2005-11-23|NETCUP-AS netcup GmbH, DE
+89.58.31.71|16125|/MagicBean:6.0.0(bitcore)/|197540|89.58.28.0/22|DE|ripencc|2005-11-23|NETCUP-AS netcup GmbH, DE
+89.58.32.118|16125|/MagicBean:6.0.0/|197540|89.58.32.0/22|DE|ripencc|2005-11-23|NETCUP-AS netcup GmbH, DE
+89.58.32.127|16125|/MagicBean:6.0.0/|197540|89.58.32.0/22|DE|ripencc|2005-11-23|NETCUP-AS netcup GmbH, DE
+89.58.32.13|16125|/MagicBean:6.0.0/|197540|89.58.32.0/22|DE|ripencc|2005-11-23|NETCUP-AS netcup GmbH, DE
+89.58.32.131|16125|/MagicBean:6.0.0/|197540|89.58.32.0/22|DE|ripencc|2005-11-23|NETCUP-AS netcup GmbH, DE
+89.58.32.134|16125|/MagicBean:6.0.0/|197540|89.58.32.0/22|DE|ripencc|2005-11-23|NETCUP-AS netcup GmbH, DE
+89.58.32.138|16125|/MagicBean:6.0.0/|197540|89.58.32.0/22|DE|ripencc|2005-11-23|NETCUP-AS netcup GmbH, DE
+89.58.32.14|16125|/MagicBean:6.0.0/|197540|89.58.32.0/22|DE|ripencc|2005-11-23|NETCUP-AS netcup GmbH, DE
+89.58.32.156|16125|/MagicBean:6.0.0/|197540|89.58.32.0/22|DE|ripencc|2005-11-23|NETCUP-AS netcup GmbH, DE
+89.58.32.159|16125|/MagicBean:6.0.0/|197540|89.58.32.0/22|DE|ripencc|2005-11-23|NETCUP-AS netcup GmbH, DE
+89.58.32.162|16125|/MagicBean:6.0.0/|197540|89.58.32.0/22|DE|ripencc|2005-11-23|NETCUP-AS netcup GmbH, DE
+89.58.32.166|16125|/MagicBean:6.0.0/|197540|89.58.32.0/22|DE|ripencc|2005-11-23|NETCUP-AS netcup GmbH, DE
+89.58.32.186|16125|/MagicBean:6.0.0/|197540|89.58.32.0/22|DE|ripencc|2005-11-23|NETCUP-AS netcup GmbH, DE
+89.58.32.199|16125|/MagicBean:6.0.0/|197540|89.58.32.0/22|DE|ripencc|2005-11-23|NETCUP-AS netcup GmbH, DE
+89.58.32.209|16125|/MagicBean:6.0.0/|197540|89.58.32.0/22|DE|ripencc|2005-11-23|NETCUP-AS netcup GmbH, DE
+89.58.32.232|16125|/MagicBean:6.0.0/|197540|89.58.32.0/22|DE|ripencc|2005-11-23|NETCUP-AS netcup GmbH, DE
+89.58.32.242|16125|/MagicBean:6.0.0/|197540|89.58.32.0/22|DE|ripencc|2005-11-23|NETCUP-AS netcup GmbH, DE
+89.58.32.245|16125|/MagicBean:6.0.0/|197540|89.58.32.0/22|DE|ripencc|2005-11-23|NETCUP-AS netcup GmbH, DE
+89.58.32.25|16125|/MagicBean:6.0.0/|197540|89.58.32.0/22|DE|ripencc|2005-11-23|NETCUP-AS netcup GmbH, DE
+89.58.32.252|16125|/MagicBean:6.0.0/|197540|89.58.32.0/22|DE|ripencc|2005-11-23|NETCUP-AS netcup GmbH, DE
+89.58.32.35|16125|/MagicBean:6.0.0/|197540|89.58.32.0/22|DE|ripencc|2005-11-23|NETCUP-AS netcup GmbH, DE
+89.58.32.77|16125|/MagicBean:6.0.0/|197540|89.58.32.0/22|DE|ripencc|2005-11-23|NETCUP-AS netcup GmbH, DE
+89.58.32.79|16125|/MagicBean:6.0.0/|197540|89.58.32.0/22|DE|ripencc|2005-11-23|NETCUP-AS netcup GmbH, DE
+89.58.32.83|16125|/MagicBean:6.0.0/|197540|89.58.32.0/22|DE|ripencc|2005-11-23|NETCUP-AS netcup GmbH, DE
+89.58.32.96|16125|/MagicBean:6.0.0/|197540|89.58.32.0/22|DE|ripencc|2005-11-23|NETCUP-AS netcup GmbH, DE
+89.58.33.100|16125|/MagicBean:6.0.0/|197540|89.58.32.0/22|DE|ripencc|2005-11-23|NETCUP-AS netcup GmbH, DE
+89.58.33.105|16125|/MagicBean:6.0.0/|197540|89.58.32.0/22|DE|ripencc|2005-11-23|NETCUP-AS netcup GmbH, DE
+89.58.33.123|16125|/MagicBean:6.0.0/|197540|89.58.32.0/22|DE|ripencc|2005-11-23|NETCUP-AS netcup GmbH, DE
+89.58.33.129|16125|/MagicBean:6.0.0/|197540|89.58.32.0/22|DE|ripencc|2005-11-23|NETCUP-AS netcup GmbH, DE
+89.58.33.130|16125|/MagicBean:6.0.0/|197540|89.58.32.0/22|DE|ripencc|2005-11-23|NETCUP-AS netcup GmbH, DE
+89.58.33.159|16125|/MagicBean:6.0.0/|197540|89.58.32.0/22|DE|ripencc|2005-11-23|NETCUP-AS netcup GmbH, DE
+89.58.33.163|16125|/MagicBean:6.0.0/|197540|89.58.32.0/22|DE|ripencc|2005-11-23|NETCUP-AS netcup GmbH, DE
+89.58.33.164|16125|/MagicBean:6.0.0/|197540|89.58.32.0/22|DE|ripencc|2005-11-23|NETCUP-AS netcup GmbH, DE
+89.58.33.177|16125|/MagicBean:6.0.0/|197540|89.58.32.0/22|DE|ripencc|2005-11-23|NETCUP-AS netcup GmbH, DE
+89.58.33.192|16125|/MagicBean:6.0.0/|197540|89.58.32.0/22|DE|ripencc|2005-11-23|NETCUP-AS netcup GmbH, DE
+89.58.33.2|16125|/MagicBean:6.0.0/|197540|89.58.32.0/22|DE|ripencc|2005-11-23|NETCUP-AS netcup GmbH, DE
+89.58.33.202|16125|/MagicBean:6.0.0/|197540|89.58.32.0/22|DE|ripencc|2005-11-23|NETCUP-AS netcup GmbH, DE
+89.58.33.204|16125|/MagicBean:6.0.0/|197540|89.58.32.0/22|DE|ripencc|2005-11-23|NETCUP-AS netcup GmbH, DE
+89.58.33.215|16125|/MagicBean:6.0.0/|197540|89.58.32.0/22|DE|ripencc|2005-11-23|NETCUP-AS netcup GmbH, DE
+89.58.33.221|16125|/MagicBean:6.0.0/|197540|89.58.32.0/22|DE|ripencc|2005-11-23|NETCUP-AS netcup GmbH, DE
+89.58.33.224|16125|/MagicBean:6.0.0/|197540|89.58.32.0/22|DE|ripencc|2005-11-23|NETCUP-AS netcup GmbH, DE
+89.58.33.233|16125|/MagicBean:6.0.0/|197540|89.58.32.0/22|DE|ripencc|2005-11-23|NETCUP-AS netcup GmbH, DE
+89.58.33.58|16125|/MagicBean:6.0.0/|197540|89.58.32.0/22|DE|ripencc|2005-11-23|NETCUP-AS netcup GmbH, DE
+89.58.34.122|16125|/MagicBean:6.0.0/|197540|89.58.32.0/22|DE|ripencc|2005-11-23|NETCUP-AS netcup GmbH, DE
+89.58.34.128|16125|/MagicBean:6.0.0/|197540|89.58.32.0/22|DE|ripencc|2005-11-23|NETCUP-AS netcup GmbH, DE
+89.58.34.160|16125|/MagicBean:6.0.0/|197540|89.58.32.0/22|DE|ripencc|2005-11-23|NETCUP-AS netcup GmbH, DE
+89.58.34.177|16125|/MagicBean:6.0.0/|197540|89.58.32.0/22|DE|ripencc|2005-11-23|NETCUP-AS netcup GmbH, DE
+89.58.34.178|16125|/MagicBean:6.0.0/|197540|89.58.32.0/22|DE|ripencc|2005-11-23|NETCUP-AS netcup GmbH, DE
+89.58.34.183|16125|/MagicBean:6.0.0/|197540|89.58.32.0/22|DE|ripencc|2005-11-23|NETCUP-AS netcup GmbH, DE
+89.58.34.193|16125|/MagicBean:6.0.0/|197540|89.58.32.0/22|DE|ripencc|2005-11-23|NETCUP-AS netcup GmbH, DE
+89.58.34.221|16125|/MagicBean:6.0.0/|197540|89.58.32.0/22|DE|ripencc|2005-11-23|NETCUP-AS netcup GmbH, DE
+89.58.34.225|16125|/MagicBean:6.0.0/|197540|89.58.32.0/22|DE|ripencc|2005-11-23|NETCUP-AS netcup GmbH, DE
+89.58.34.232|16125|/MagicBean:6.0.0/|197540|89.58.32.0/22|DE|ripencc|2005-11-23|NETCUP-AS netcup GmbH, DE
+89.58.34.241|16125|/MagicBean:6.0.0/|197540|89.58.32.0/22|DE|ripencc|2005-11-23|NETCUP-AS netcup GmbH, DE
+89.58.34.44|16125|/MagicBean:6.0.0/|197540|89.58.32.0/22|DE|ripencc|2005-11-23|NETCUP-AS netcup GmbH, DE
+89.58.34.54|16125|/MagicBean:6.0.0/|197540|89.58.32.0/22|DE|ripencc|2005-11-23|NETCUP-AS netcup GmbH, DE
+89.58.34.91|16125|/MagicBean:6.0.0/|197540|89.58.32.0/22|DE|ripencc|2005-11-23|NETCUP-AS netcup GmbH, DE
+89.58.34.92|16125|/MagicBean:6.0.0/|197540|89.58.32.0/22|DE|ripencc|2005-11-23|NETCUP-AS netcup GmbH, DE
+89.58.35.113|16125|/MagicBean:6.0.0/|197540|89.58.32.0/22|DE|ripencc|2005-11-23|NETCUP-AS netcup GmbH, DE
+89.58.35.119|16125|/MagicBean:6.0.0/|197540|89.58.32.0/22|DE|ripencc|2005-11-23|NETCUP-AS netcup GmbH, DE
+89.58.35.175|16125|/MagicBean:6.0.0/|197540|89.58.32.0/22|DE|ripencc|2005-11-23|NETCUP-AS netcup GmbH, DE
+89.58.35.183|16125|/MagicBean:6.0.0/|197540|89.58.32.0/22|DE|ripencc|2005-11-23|NETCUP-AS netcup GmbH, DE
+89.58.35.199|16125|/MagicBean:6.0.0/|197540|89.58.32.0/22|DE|ripencc|2005-11-23|NETCUP-AS netcup GmbH, DE
+89.58.35.222|16125|/MagicBean:6.0.0/|197540|89.58.32.0/22|DE|ripencc|2005-11-23|NETCUP-AS netcup GmbH, DE
+89.58.35.253|16125|/MagicBean:6.0.0/|197540|89.58.32.0/22|DE|ripencc|2005-11-23|NETCUP-AS netcup GmbH, DE
+89.58.35.4|16125|/MagicBean:6.0.0/|197540|89.58.32.0/22|DE|ripencc|2005-11-23|NETCUP-AS netcup GmbH, DE
+89.58.35.76|16125|/MagicBean:6.0.0/|197540|89.58.32.0/22|DE|ripencc|2005-11-23|NETCUP-AS netcup GmbH, DE
+89.58.35.78|16125|/MagicBean:6.0.0/|197540|89.58.32.0/22|DE|ripencc|2005-11-23|NETCUP-AS netcup GmbH, DE
+89.58.35.81|16125|/MagicBean:6.0.0/|197540|89.58.32.0/22|DE|ripencc|2005-11-23|NETCUP-AS netcup GmbH, DE
+89.58.35.86|16125|/MagicBean:6.0.0/|197540|89.58.32.0/22|DE|ripencc|2005-11-23|NETCUP-AS netcup GmbH, DE
+89.58.35.92|16125|/MagicBean:6.0.0/|197540|89.58.32.0/22|DE|ripencc|2005-11-23|NETCUP-AS netcup GmbH, DE
+89.58.36.108|16125|/MagicBean:6.0.0/|197540|89.58.36.0/22|DE|ripencc|2005-11-23|NETCUP-AS netcup GmbH, DE
+89.58.36.112|16125|/MagicBean:6.0.0/|197540|89.58.36.0/22|DE|ripencc|2005-11-23|NETCUP-AS netcup GmbH, DE
+89.58.36.125|16125|/MagicBean:6.0.0/|197540|89.58.36.0/22|DE|ripencc|2005-11-23|NETCUP-AS netcup GmbH, DE
+89.58.36.126|16125|/MagicBean:6.0.0/|197540|89.58.36.0/22|DE|ripencc|2005-11-23|NETCUP-AS netcup GmbH, DE
+89.58.36.132|16125|/MagicBean:6.0.0/|197540|89.58.36.0/22|DE|ripencc|2005-11-23|NETCUP-AS netcup GmbH, DE
+89.58.36.134|16125|/MagicBean:6.0.0/|197540|89.58.36.0/22|DE|ripencc|2005-11-23|NETCUP-AS netcup GmbH, DE
+89.58.36.154|16125|/MagicBean:6.0.0/|197540|89.58.36.0/22|DE|ripencc|2005-11-23|NETCUP-AS netcup GmbH, DE
+89.58.36.158|16125|/MagicBean:6.0.0/|197540|89.58.36.0/22|DE|ripencc|2005-11-23|NETCUP-AS netcup GmbH, DE
+89.58.36.165|16125|/MagicBean:6.0.0/|197540|89.58.36.0/22|DE|ripencc|2005-11-23|NETCUP-AS netcup GmbH, DE
+89.58.36.180|16125|/MagicBean:6.0.0/|197540|89.58.36.0/22|DE|ripencc|2005-11-23|NETCUP-AS netcup GmbH, DE
+89.58.36.188|16125|/MagicBean:6.0.0/|197540|89.58.36.0/22|DE|ripencc|2005-11-23|NETCUP-AS netcup GmbH, DE
+89.58.36.21|16125|/MagicBean:6.0.0/|197540|89.58.36.0/22|DE|ripencc|2005-11-23|NETCUP-AS netcup GmbH, DE
+89.58.36.211|16125|/MagicBean:6.0.0/|197540|89.58.36.0/22|DE|ripencc|2005-11-23|NETCUP-AS netcup GmbH, DE
+89.58.36.212|16125|/MagicBean:6.0.0/|197540|89.58.36.0/22|DE|ripencc|2005-11-23|NETCUP-AS netcup GmbH, DE
+89.58.36.228|16125|/MagicBean:6.0.0/|197540|89.58.36.0/22|DE|ripencc|2005-11-23|NETCUP-AS netcup GmbH, DE
+89.58.36.246|16125|/MagicBean:6.0.0/|197540|89.58.36.0/22|DE|ripencc|2005-11-23|NETCUP-AS netcup GmbH, DE
+89.58.36.63|16125|/MagicBean:6.0.0/|197540|89.58.36.0/22|DE|ripencc|2005-11-23|NETCUP-AS netcup GmbH, DE
+89.58.36.71|16125|/MagicBean:6.0.0/|197540|89.58.36.0/22|DE|ripencc|2005-11-23|NETCUP-AS netcup GmbH, DE
+89.58.36.76|16125|/MagicBean:6.0.0/|197540|89.58.36.0/22|DE|ripencc|2005-11-23|NETCUP-AS netcup GmbH, DE
+89.58.37.108|16125|/MagicBean:6.0.0/|197540|89.58.36.0/22|DE|ripencc|2005-11-23|NETCUP-AS netcup GmbH, DE
+89.58.37.145|16125|/MagicBean:6.0.0/|197540|89.58.36.0/22|DE|ripencc|2005-11-23|NETCUP-AS netcup GmbH, DE
+89.58.37.150|16125|/MagicBean:6.0.0/|197540|89.58.36.0/22|DE|ripencc|2005-11-23|NETCUP-AS netcup GmbH, DE
+89.58.37.156|16125|/MagicBean:6.0.0/|197540|89.58.36.0/22|DE|ripencc|2005-11-23|NETCUP-AS netcup GmbH, DE
+89.58.37.158|16125|/MagicBean:6.0.0/|197540|89.58.36.0/22|DE|ripencc|2005-11-23|NETCUP-AS netcup GmbH, DE
+89.58.37.163|16125|/MagicBean:6.0.0/|197540|89.58.36.0/22|DE|ripencc|2005-11-23|NETCUP-AS netcup GmbH, DE
+89.58.37.164|16125|/MagicBean:6.0.0/|197540|89.58.36.0/22|DE|ripencc|2005-11-23|NETCUP-AS netcup GmbH, DE
+89.58.37.18|16125|/MagicBean:6.0.0/|197540|89.58.36.0/22|DE|ripencc|2005-11-23|NETCUP-AS netcup GmbH, DE
+89.58.37.206|16125|/MagicBean:6.0.0/|197540|89.58.36.0/22|DE|ripencc|2005-11-23|NETCUP-AS netcup GmbH, DE
+89.58.37.208|16125|/MagicBean:6.0.0/|197540|89.58.36.0/22|DE|ripencc|2005-11-23|NETCUP-AS netcup GmbH, DE
+89.58.37.213|16125|/MagicBean:6.0.0/|197540|89.58.36.0/22|DE|ripencc|2005-11-23|NETCUP-AS netcup GmbH, DE
+89.58.37.217|16125|/MagicBean:6.0.0/|197540|89.58.36.0/22|DE|ripencc|2005-11-23|NETCUP-AS netcup GmbH, DE
+89.58.37.222|16125|/MagicBean:6.0.0/|197540|89.58.36.0/22|DE|ripencc|2005-11-23|NETCUP-AS netcup GmbH, DE
+89.58.37.52|16125|/MagicBean:6.0.0/|197540|89.58.36.0/22|DE|ripencc|2005-11-23|NETCUP-AS netcup GmbH, DE
+89.58.37.73|16125|/MagicBean:6.0.0/|197540|89.58.36.0/22|DE|ripencc|2005-11-23|NETCUP-AS netcup GmbH, DE
+89.58.37.9|16125|/MagicBean:6.0.0/|197540|89.58.36.0/22|DE|ripencc|2005-11-23|NETCUP-AS netcup GmbH, DE
+89.58.37.95|16125|/MagicBean:6.0.0/|197540|89.58.36.0/22|DE|ripencc|2005-11-23|NETCUP-AS netcup GmbH, DE
+89.58.38.1|16125|/MagicBean:6.0.0/|197540|89.58.36.0/22|DE|ripencc|2005-11-23|NETCUP-AS netcup GmbH, DE
+89.58.38.107|16125|/MagicBean:6.0.0/|197540|89.58.36.0/22|DE|ripencc|2005-11-23|NETCUP-AS netcup GmbH, DE
+89.58.38.112|16125|/MagicBean:6.0.0/|197540|89.58.36.0/22|DE|ripencc|2005-11-23|NETCUP-AS netcup GmbH, DE
+89.58.38.126|16125|/MagicBean:6.0.0/|197540|89.58.36.0/22|DE|ripencc|2005-11-23|NETCUP-AS netcup GmbH, DE
+89.58.38.130|16125|/MagicBean:6.0.0/|197540|89.58.36.0/22|DE|ripencc|2005-11-23|NETCUP-AS netcup GmbH, DE
+89.58.38.135|16125|/MagicBean:6.0.0/|197540|89.58.36.0/22|DE|ripencc|2005-11-23|NETCUP-AS netcup GmbH, DE
+89.58.38.164|16125|/MagicBean:6.0.0/|197540|89.58.36.0/22|DE|ripencc|2005-11-23|NETCUP-AS netcup GmbH, DE
+89.58.38.168|16125|/MagicBean:6.0.0/|197540|89.58.36.0/22|DE|ripencc|2005-11-23|NETCUP-AS netcup GmbH, DE
+89.58.38.177|16125|/MagicBean:6.0.0/|197540|89.58.36.0/22|DE|ripencc|2005-11-23|NETCUP-AS netcup GmbH, DE
+89.58.38.178|16125|/MagicBean:6.0.0/|197540|89.58.36.0/22|DE|ripencc|2005-11-23|NETCUP-AS netcup GmbH, DE
+89.58.38.179|16125|/MagicBean:6.0.0/|197540|89.58.36.0/22|DE|ripencc|2005-11-23|NETCUP-AS netcup GmbH, DE
+89.58.38.188|16125|/MagicBean:6.0.0/|197540|89.58.36.0/22|DE|ripencc|2005-11-23|NETCUP-AS netcup GmbH, DE
+89.58.38.195|16125|/MagicBean:6.0.0/|197540|89.58.36.0/22|DE|ripencc|2005-11-23|NETCUP-AS netcup GmbH, DE
+89.58.38.196|16125|/MagicBean:6.0.0/|197540|89.58.36.0/22|DE|ripencc|2005-11-23|NETCUP-AS netcup GmbH, DE
+89.58.38.206|16125|/MagicBean:6.0.0/|197540|89.58.36.0/22|DE|ripencc|2005-11-23|NETCUP-AS netcup GmbH, DE
+89.58.38.210|16125|/MagicBean:6.0.0/|197540|89.58.36.0/22|DE|ripencc|2005-11-23|NETCUP-AS netcup GmbH, DE
+89.58.38.220|16125|/MagicBean:6.0.0/|197540|89.58.36.0/22|DE|ripencc|2005-11-23|NETCUP-AS netcup GmbH, DE
+89.58.38.31|16125|/MagicBean:6.0.0/|197540|89.58.36.0/22|DE|ripencc|2005-11-23|NETCUP-AS netcup GmbH, DE
+89.58.38.36|16125|/MagicBean:6.0.0/|197540|89.58.36.0/22|DE|ripencc|2005-11-23|NETCUP-AS netcup GmbH, DE
+89.58.38.37|16125|/MagicBean:6.0.0/|197540|89.58.36.0/22|DE|ripencc|2005-11-23|NETCUP-AS netcup GmbH, DE
+89.58.38.42|16125|/MagicBean:6.0.0/|197540|89.58.36.0/22|DE|ripencc|2005-11-23|NETCUP-AS netcup GmbH, DE
+89.58.38.5|16125|/MagicBean:6.0.0/|197540|89.58.36.0/22|DE|ripencc|2005-11-23|NETCUP-AS netcup GmbH, DE
+89.58.38.67|16125|/MagicBean:6.0.0/|197540|89.58.36.0/22|DE|ripencc|2005-11-23|NETCUP-AS netcup GmbH, DE
+89.58.38.8|16125|/MagicBean:6.0.0/|197540|89.58.36.0/22|DE|ripencc|2005-11-23|NETCUP-AS netcup GmbH, DE
+89.58.38.82|16125|/MagicBean:6.0.0/|197540|89.58.36.0/22|DE|ripencc|2005-11-23|NETCUP-AS netcup GmbH, DE
+89.58.38.98|16125|/MagicBean:6.0.0/|197540|89.58.36.0/22|DE|ripencc|2005-11-23|NETCUP-AS netcup GmbH, DE
+89.58.39.109|16125|/MagicBean:6.0.0/|197540|89.58.36.0/22|DE|ripencc|2005-11-23|NETCUP-AS netcup GmbH, DE
+89.58.39.119|16125|/MagicBean:6.0.0/|197540|89.58.36.0/22|DE|ripencc|2005-11-23|NETCUP-AS netcup GmbH, DE
+89.58.39.122|16125|/MagicBean:6.0.0/|197540|89.58.36.0/22|DE|ripencc|2005-11-23|NETCUP-AS netcup GmbH, DE
+89.58.39.132|16125|/MagicBean:6.0.0/|197540|89.58.36.0/22|DE|ripencc|2005-11-23|NETCUP-AS netcup GmbH, DE
+89.58.39.157|16125|/MagicBean:6.0.0/|197540|89.58.36.0/22|DE|ripencc|2005-11-23|NETCUP-AS netcup GmbH, DE
+89.58.39.2|16125|/MagicBean:6.0.0/|197540|89.58.36.0/22|DE|ripencc|2005-11-23|NETCUP-AS netcup GmbH, DE
+89.58.39.208|16125|/MagicBean:6.0.0/|197540|89.58.36.0/22|DE|ripencc|2005-11-23|NETCUP-AS netcup GmbH, DE
+89.58.39.212|16125|/MagicBean:6.0.0/|197540|89.58.36.0/22|DE|ripencc|2005-11-23|NETCUP-AS netcup GmbH, DE
+89.58.39.30|16125|/MagicBean:6.0.0/|197540|89.58.36.0/22|DE|ripencc|2005-11-23|NETCUP-AS netcup GmbH, DE
+89.58.39.43|16125|/MagicBean:6.0.0/|197540|89.58.36.0/22|DE|ripencc|2005-11-23|NETCUP-AS netcup GmbH, DE
+89.58.39.53|16125|/MagicBean:6.0.0/|197540|89.58.36.0/22|DE|ripencc|2005-11-23|NETCUP-AS netcup GmbH, DE
+89.58.39.69|16125|/MagicBean:6.0.0/|197540|89.58.36.0/22|DE|ripencc|2005-11-23|NETCUP-AS netcup GmbH, DE
+89.58.39.73|16125|/MagicBean:6.0.0/|197540|89.58.36.0/22|DE|ripencc|2005-11-23|NETCUP-AS netcup GmbH, DE
+89.58.39.94|16125|/MagicBean:6.0.0/|197540|89.58.36.0/22|DE|ripencc|2005-11-23|NETCUP-AS netcup GmbH, DE
+89.58.4.107|16125|/MagicBean:6.0.0/|197540|89.58.4.0/22|DE|ripencc|2005-11-23|NETCUP-AS netcup GmbH, DE
+89.58.4.131|16125|/MagicBean:6.0.0/|197540|89.58.4.0/22|DE|ripencc|2005-11-23|NETCUP-AS netcup GmbH, DE
+89.58.4.140|16125|/MagicBean:6.0.0/|197540|89.58.4.0/22|DE|ripencc|2005-11-23|NETCUP-AS netcup GmbH, DE
+89.58.4.154|16125|/MagicBean:6.0.0/|197540|89.58.4.0/22|DE|ripencc|2005-11-23|NETCUP-AS netcup GmbH, DE
 89.58.4.164|16125|/MagicBean:6.0.0/
 89.58.4.173|16125|/MagicBean:6.0.0/
 89.58.4.178|16125|/MagicBean:6.0.0/
@@ -7509,7 +7450,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 89.58.4.194|16125|/MagicBean:6.0.0/
 89.58.4.201|16125|/MagicBean:6.0.0/
 89.58.4.204|16125|/MagicBean:6.0.0/
-89.58.4.21|16125|/MagicBean:6.0.0/|197540|89.58.4.0/22|DE|ripencc|2005-11-23|NETCUP-AS netcup GmbH, DE
+89.58.4.21|16125|/MagicBean:6.0.0/
 89.58.4.212|16125|/MagicBean:6.0.0/
 89.58.4.220|16125|/MagicBean:6.0.0/
 89.58.4.23|16125|/MagicBean:6.0.0/
@@ -7696,11 +7637,11 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 89.58.42.53|16125|/MagicBean:6.0.0/
 89.58.42.6|16125|/MagicBean:6.0.0/
 89.58.42.63|16125|/MagicBean:6.0.0/
-89.58.42.71|16125|/MagicBean:6.0.0/|197540|89.58.40.0/22|DE|ripencc|2005-11-23|NETCUP-AS netcup GmbH, DE
-89.58.42.80|16125|/MagicBean:6.0.0/|197540|89.58.40.0/22|DE|ripencc|2005-11-23|NETCUP-AS netcup GmbH, DE
-89.58.42.81|16125|/MagicBean:6.0.0/|197540|89.58.40.0/22|DE|ripencc|2005-11-23|NETCUP-AS netcup GmbH, DE
-89.58.42.83|16125|/MagicBean:6.0.0/|197540|89.58.40.0/22|DE|ripencc|2005-11-23|NETCUP-AS netcup GmbH, DE
-89.58.42.84|16125|/MagicBean:6.0.0/|197540|89.58.40.0/22|DE|ripencc|2005-11-23|NETCUP-AS netcup GmbH, DE
+89.58.42.71|16125|/MagicBean:6.0.0/
+89.58.42.80|16125|/MagicBean:6.0.0/
+89.58.42.81|16125|/MagicBean:6.0.0/
+89.58.42.83|16125|/MagicBean:6.0.0/
+89.58.42.84|16125|/MagicBean:6.0.0/
 89.58.42.9|16125|/MagicBean:6.0.0/
 89.58.42.90|16125|/MagicBean:6.0.0/
 89.58.42.98|16125|/MagicBean:6.0.0/
@@ -7903,11 +7844,9 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 89.76.34.43|16125|/MagicBean:6.0.0/
 89.90.185.53|16125|/MagicBean:6.0.0/
 90.231.78.110|16125|/MagicBean:6.0.0/
-90.24.141.1|16125|/MagicBean:6.0.0/
 90.250.10.165|16125|/MagicBean:6.0.0/
 90.64.245.211|16125|/MagicBean:6.0.0/
 91.121.219.112|16125|/MagicBean:6.0.0/
-91.121.219.145|16125|/MagicBean:6.0.0/
 91.121.222.163|16125|/MagicBean:6.0.0/
 91.121.237.44|16125|/MagicBean:6.0.0/
 91.121.237.45|16125|/MagicBean:6.0.0/
@@ -7929,128 +7868,126 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 91.134.146.108|16125|/MagicBean:6.0.0/
 91.134.146.109|16125|/MagicBean:6.0.0/
 91.134.146.110|16125|/MagicBean:6.0.0/
-91.134.146.111|16125|/MagicBean:6.0.0/
 91.134.158.212|16125|/MagicBean:6.0.0/
-91.134.158.213|16125|/MagicBean:6.0.0/|16276|91.134.0.0/16|FR|ripencc|2006-10-30|OVH, FR
-91.134.158.214|16125|/MagicBean:6.0.0/|16276|91.134.0.0/16|FR|ripencc|2006-10-30|OVH, FR
-91.134.158.215|16125|/MagicBean:6.0.0/|16276|91.134.0.0/16|FR|ripencc|2006-10-30|OVH, FR
-91.134.185.76|16125|/MagicBean:6.0.0/|16276|91.134.0.0/16|FR|ripencc|2006-10-30|OVH, FR
-91.134.185.77|16125|/MagicBean:6.0.0/|16276|91.134.0.0/16|FR|ripencc|2006-10-30|OVH, FR
-91.134.185.78|16125|/MagicBean:6.0.0/|16276|91.134.0.0/16|FR|ripencc|2006-10-30|OVH, FR
-91.134.185.79|16125|/MagicBean:6.0.0/|16276|91.134.0.0/16|FR|ripencc|2006-10-30|OVH, FR
-91.134.187.66|16125|/MagicBean:6.0.0/|16276|91.134.0.0/16|FR|ripencc|2006-10-30|OVH, FR
-91.134.187.67|16125|/MagicBean:6.0.0/|16276|91.134.0.0/16|FR|ripencc|2006-10-30|OVH, FR
-91.134.187.68|16125|/MagicBean:6.0.0/|16276|91.134.0.0/16|FR|ripencc|2006-10-30|OVH, FR
-91.134.187.69|16125|/MagicBean:6.0.0/|16276|91.134.0.0/16|FR|ripencc|2006-10-30|OVH, FR
-91.134.187.70|16125|/MagicBean:6.0.0/|16276|91.134.0.0/16|FR|ripencc|2006-10-30|OVH, FR
-91.134.187.71|16125|/MagicBean:6.0.0/|16276|91.134.0.0/16|FR|ripencc|2006-10-30|OVH, FR
-91.134.202.240|16125|/MagicBean:6.0.0/|16276|91.134.0.0/16|FR|ripencc|2006-10-30|OVH, FR
-91.134.202.241|16125|/MagicBean:6.0.0/|16276|91.134.0.0/16|FR|ripencc|2006-10-30|OVH, FR
-91.134.202.242|16125|/MagicBean:6.0.0/|16276|91.134.0.0/16|FR|ripencc|2006-10-30|OVH, FR
-91.134.202.243|16125|/MagicBean:6.0.0/|16276|91.134.0.0/16|FR|ripencc|2006-10-30|OVH, FR
-91.134.218.246|16125|/MagicBean:6.0.0/|16276|91.134.0.0/16|FR|ripencc|2006-10-30|OVH, FR
-91.139.162.208|16125|/MagicBean:6.0.0/|43205|91.139.128.0/17|BG|ripencc|2006-10-18|BULSATCOM-BG-AS Sofia, BG
-91.144.129.123|16125|/MagicBean:6.0.0/|41682|91.144.128.0/22|RU|ripencc|2006-09-22|ERTH-TMN-AS, RU
-91.146.152.213|16125|/MagicBean:6.0.0/|8462|91.146.128.0/18|HU|ripencc|2006-10-20|TARR1, HU
-91.157.208.62|16125|/MagicBean:6.0.0/|719|91.152.0.0/13|FI|ripencc|2006-09-06|ELISA-AS Helsinki, Finland, FI
-91.166.134.203|16125|/MagicBean:6.0.0/|12322|91.160.0.0/12|FR|ripencc|2006-08-25|PROXAD, FR
-91.172.227.119|16125|/MagicBean:6.0.0/|12322|91.160.0.0/12|FR|ripencc|2006-08-25|PROXAD, FR
-91.192.196.58|16125|/MagicBean:6.0.0/|43153|91.192.196.0/22|PL|ripencc|2007-03-05|SFERANET-AS, PL
-91.20.222.208|8233|/MagicBean:5.1.0/|3320|91.0.0.0/10|DE|ripencc|2006-07-03|DTAG Internet service provider operations, DE
-91.206.16.214|8233|/MagicBean:5.2.0/|13259|91.206.16.0/23|RU|ripencc|2008-06-09|DELTA-TELESYSTEMS-AS, RU
-91.229.245.161|16125|/MagicBean:6.0.0(bitcore)/|51167|91.229.245.0/24|DE|ripencc|2019-10-03|CONTABO, DE
-91.236.254.155|16125|/MagicBean:6.0.0/|197922|91.236.254.0/24|FR|ripencc|2012-03-16|FIRSTHEBERG, FR
-91.236.254.220|16125|/MagicBean:6.0.0/|197922|91.236.254.0/24|FR|ripencc|2012-03-16|FIRSTHEBERG, FR
-92.154.108.173|16125|/MagicBean:6.0.0/|3215|92.154.0.0/17|FR|ripencc|2007-07-12|France Telecom - Orange, FR
-92.154.116.121|16125|/MagicBean:6.0.0/|3215|92.154.0.0/17|FR|ripencc|2007-07-12|France Telecom - Orange, FR
-92.222.105.156|16125|/MagicBean:6.0.0/|16276|92.222.0.0/16|FR|ripencc|2007-10-17|OVH, FR
-92.222.105.157|16125|/MagicBean:6.0.0/|16276|92.222.0.0/16|FR|ripencc|2007-10-17|OVH, FR
-92.222.105.158|16125|/MagicBean:6.0.0/|16276|92.222.0.0/16|FR|ripencc|2007-10-17|OVH, FR
-92.222.105.159|16125|/MagicBean:6.0.0/|16276|92.222.0.0/16|FR|ripencc|2007-10-17|OVH, FR
-92.222.157.68|16125|/MagicBean:6.0.0/|16276|92.222.0.0/16|FR|ripencc|2007-10-17|OVH, FR
-92.222.157.69|16125|/MagicBean:6.0.0/|16276|92.222.0.0/16|FR|ripencc|2007-10-17|OVH, FR
-92.222.157.70|16125|/MagicBean:6.0.0/|16276|92.222.0.0/16|FR|ripencc|2007-10-17|OVH, FR
-92.222.157.71|16125|/MagicBean:6.0.0/|16276|92.222.0.0/16|FR|ripencc|2007-10-17|OVH, FR
-92.222.179.80|16125|/MagicBean:6.0.0/|16276|92.222.0.0/16|FR|ripencc|2007-10-17|OVH, FR
-92.222.179.81|16125|/MagicBean:6.0.0/|16276|92.222.0.0/16|FR|ripencc|2007-10-17|OVH, FR
-92.222.179.82|16125|/MagicBean:6.0.0/|16276|92.222.0.0/16|FR|ripencc|2007-10-17|OVH, FR
-92.222.179.83|16125|/MagicBean:6.0.0/|16276|92.222.0.0/16|FR|ripencc|2007-10-17|OVH, FR
-92.222.179.84|16125|/MagicBean:6.0.0/|16276|92.222.0.0/16|FR|ripencc|2007-10-17|OVH, FR
-92.222.179.85|16125|/MagicBean:6.0.0/|16276|92.222.0.0/16|FR|ripencc|2007-10-17|OVH, FR
-92.222.179.86|16125|/MagicBean:6.0.0/|16276|92.222.0.0/16|FR|ripencc|2007-10-17|OVH, FR
-92.222.179.87|16125|/MagicBean:6.0.0/|16276|92.222.0.0/16|FR|ripencc|2007-10-17|OVH, FR
-92.222.238.84|16125|/MagicBean:6.0.0/|16276|92.222.0.0/16|FR|ripencc|2007-10-17|OVH, FR
-92.222.238.85|16125|/MagicBean:6.0.0/|16276|92.222.0.0/16|FR|ripencc|2007-10-17|OVH, FR
-92.222.238.86|16125|/MagicBean:6.0.0/|16276|92.222.0.0/16|FR|ripencc|2007-10-17|OVH, FR
-92.222.238.87|16125|/MagicBean:6.0.0/|16276|92.222.0.0/16|FR|ripencc|2007-10-17|OVH, FR
-92.222.240.27|16125|/MagicBean:6.0.0/|16276|92.222.0.0/16|FR|ripencc|2007-10-17|OVH, FR
-92.222.240.28|16125|/MagicBean:6.0.0/|16276|92.222.0.0/16|FR|ripencc|2007-10-17|OVH, FR
-92.222.240.74|16125|/MagicBean:6.0.0/|16276|92.222.0.0/16|FR|ripencc|2007-10-17|OVH, FR
-92.222.240.75|16125|/MagicBean:6.0.0/|16276|92.222.0.0/16|FR|ripencc|2007-10-17|OVH, FR
-92.240.66.180|16125|/MagicBean:6.0.0/|5538|92.240.64.0/19|LV|ripencc|2007-11-20|SIGMANET-NIC, LV
-92.240.66.183|16125|/MagicBean:6.0.0/|5538|92.240.64.0/19|LV|ripencc|2007-11-20|SIGMANET-NIC, LV
-92.240.66.184|16125|/MagicBean:6.0.0/|5538|92.240.64.0/19|LV|ripencc|2007-11-20|SIGMANET-NIC, LV
-92.240.66.185|16125|/MagicBean:6.0.0/|5538|92.240.64.0/19|LV|ripencc|2007-11-20|SIGMANET-NIC, LV
-92.240.66.186|16125|/MagicBean:6.0.0/|5538|92.240.64.0/19|LV|ripencc|2007-11-20|SIGMANET-NIC, LV
-92.240.66.187|16125|/MagicBean:6.0.0/|5538|92.240.64.0/19|LV|ripencc|2007-11-20|SIGMANET-NIC, LV
-92.240.66.188|16125|/MagicBean:6.0.0/|5538|92.240.64.0/19|LV|ripencc|2007-11-20|SIGMANET-NIC, LV
-92.240.66.189|16125|/MagicBean:6.0.0/|5538|92.240.64.0/19|LV|ripencc|2007-11-20|SIGMANET-NIC, LV
-92.247.51.54|16125|/MagicBean:6.0.0/|29580|92.247.48.0/20|BG|ripencc|2008-04-18|A1BG A1 EAD, BG
-92.35.39.116|16125|/MagicBean:6.0.0/|2119|92.32.0.0/14|SE|ripencc|2007-11-28|TELENOR-NEXTEL Telenor Norge AS, NO
-92.60.45.209|16125|/MagicBean:6.0.0/|3170|92.60.45.0/24|GB|ripencc|2018-08-24|VELOXSERV VeloxServ Communications Ltd, GB
-92.91.213.35|16125|/MagicBean:6.0.0/|15557|92.88.0.0/13|FR|ripencc|2007-10-17|LDCOMNET, FR
-92.98.132.59|16125|/MagicBean:6.0.0/|5384|92.98.128.0/19|AE|ripencc|2007-09-26|EMIRATES-INTERNET Emirates Internet, AE
-92.98.246.151|16125|/MagicBean:6.0.0/|5384|92.98.224.0/19|AE|ripencc|2007-09-26|EMIRATES-INTERNET Emirates Internet, AE
-93.105.22.4|16125|/MagicBean:6.0.0/|29314|93.105.0.0/17|PL|ripencc|2008-03-31|VECTRANET-AS Al. Zwyciestwa 253, 81-525 Gdynia, Poland, PL
-93.108.37.111|16125|/MagicBean:6.0.0/|12353|93.108.0.0/16|PT|ripencc|2008-04-09|VODAFONE-PT Vodafone Portugal, PT
-93.108.41.159|16125|/MagicBean:6.0.0/|12353|93.108.0.0/16|PT|ripencc|2008-04-09|VODAFONE-PT Vodafone Portugal, PT
-93.212.243.58|16125|/MagicBean:6.0.0/|3320|93.192.0.0/10|DE|ripencc|2008-02-12|DTAG Internet service provider operations, DE
-93.4.199.143|16125|/MagicBean:6.0.0/|15557|93.0.0.0/11|FR|ripencc|2007-10-30|LDCOMNET, FR
-93.6.34.119|16125|/MagicBean:6.0.0/|15557|93.0.0.0/11|FR|ripencc|2007-10-30|LDCOMNET, FR
-93.8.198.238|16125|/MagicBean:6.0.0/|15557|93.0.0.0/11|FR|ripencc|2007-10-30|LDCOMNET, FR
-94.105.53.248|16125|/MagicBean:6.0.0/|47377|94.105.48.0/20|BE|ripencc|2008-06-20|ORANGE_BELGIUM_SA New company name is Orange Belgium SA, BE
-94.130.129.54|16125|/MagicBean:6.0.0/|24940|94.130.0.0/16|DE|ripencc|2008-06-23|HETZNER-AS, DE
-94.130.132.97|16125|/MagicBean:6.0.0/|24940|94.130.0.0/16|DE|ripencc|2008-06-23|HETZNER-AS, DE
-94.130.137.91|16125|/MagicBean:6.0.0/|24940|94.130.0.0/16|DE|ripencc|2008-06-23|HETZNER-AS, DE
-94.130.141.124|16125|/MagicBean:6.0.0/|24940|94.130.0.0/16|DE|ripencc|2008-06-23|HETZNER-AS, DE
-94.130.160.116|16125|/MagicBean:6.0.0/|24940|94.130.0.0/16|DE|ripencc|2008-06-23|HETZNER-AS, DE
-94.130.161.218|16125|/MagicBean:6.0.0/|24940|94.130.0.0/16|DE|ripencc|2008-06-23|HETZNER-AS, DE
-94.130.162.178|16125|/MagicBean:6.0.0/|24940|94.130.0.0/16|DE|ripencc|2008-06-23|HETZNER-AS, DE
-94.130.163.61|16125|/MagicBean:6.0.0/|24940|94.130.0.0/16|DE|ripencc|2008-06-23|HETZNER-AS, DE
-94.130.165.237|16125|/MagicBean:6.0.0/|24940|94.130.0.0/16|DE|ripencc|2008-06-23|HETZNER-AS, DE
-94.130.168.229|16125|/MagicBean:6.0.0/|24940|94.130.0.0/16|DE|ripencc|2008-06-23|HETZNER-AS, DE
-94.130.241.60|16125|/MagicBean:6.0.0/|24940|94.130.0.0/16|DE|ripencc|2008-06-23|HETZNER-AS, DE
-94.130.52.251|16125|/MagicBean:6.0.0/|24940|94.130.0.0/16|DE|ripencc|2008-06-23|HETZNER-AS, DE
-94.130.96.6|16125|/MagicBean:6.0.0/|24940|94.130.0.0/16|DE|ripencc|2008-06-23|HETZNER-AS, DE
-94.156.174.100|8233|/MagicBean:5.0.0/|44901|94.156.174.0/24|BG|ripencc|2008-08-27|BELCLOUD, BG
-94.16.104.218|16125|/MagicBean:6.0.0/|197540|94.16.104.0/22|AT|ripencc|2008-06-05|NETCUP-AS netcup GmbH, DE
-94.16.104.47|16125|/MagicBean:6.0.0/|197540|94.16.104.0/22|AT|ripencc|2008-06-05|NETCUP-AS netcup GmbH, DE
-94.16.104.81|16125|/MagicBean:6.0.0/|197540|94.16.104.0/22|AT|ripencc|2008-06-05|NETCUP-AS netcup GmbH, DE
-94.16.104.85|16125|/MagicBean:6.0.0/|197540|94.16.104.0/22|AT|ripencc|2008-06-05|NETCUP-AS netcup GmbH, DE
-94.16.104.96|16125|/MagicBean:6.0.0/|197540|94.16.104.0/22|AT|ripencc|2008-06-05|NETCUP-AS netcup GmbH, DE
-94.16.105.171|16125|/MagicBean:6.0.0/|197540|94.16.104.0/22|AT|ripencc|2008-06-05|NETCUP-AS netcup GmbH, DE
-94.16.106.142|16125|/MagicBean:6.0.0/|197540|94.16.104.0/22|AT|ripencc|2008-06-05|NETCUP-AS netcup GmbH, DE
-94.16.106.185|16125|/MagicBean:6.0.0/|197540|94.16.104.0/22|AT|ripencc|2008-06-05|NETCUP-AS netcup GmbH, DE
-94.16.106.196|16125|/MagicBean:6.0.0/|197540|94.16.104.0/22|AT|ripencc|2008-06-05|NETCUP-AS netcup GmbH, DE
-94.16.106.214|16125|/MagicBean:6.0.0/|197540|94.16.104.0/22|AT|ripencc|2008-06-05|NETCUP-AS netcup GmbH, DE
-94.16.107.143|16125|/MagicBean:6.0.0/|197540|94.16.104.0/22|AT|ripencc|2008-06-05|NETCUP-AS netcup GmbH, DE
-94.16.107.200|16125|/MagicBean:6.0.0/|197540|94.16.104.0/22|AT|ripencc|2008-06-05|NETCUP-AS netcup GmbH, DE
-94.16.107.240|16125|/MagicBean:5.0.2/|197540|94.16.104.0/22|AT|ripencc|2008-06-05|NETCUP-AS netcup GmbH, DE
-94.16.107.56|16125|/MagicBean:6.0.0/|197540|94.16.104.0/22|AT|ripencc|2008-06-05|NETCUP-AS netcup GmbH, DE
-94.16.107.84|16125|/MagicBean:6.0.0/|197540|94.16.104.0/22|AT|ripencc|2008-06-05|NETCUP-AS netcup GmbH, DE
-94.16.108.123|16125|/MagicBean:6.0.0/|197540|94.16.108.0/22|AT|ripencc|2008-06-05|NETCUP-AS netcup GmbH, DE
-94.16.108.166|16125|/MagicBean:6.0.0/|197540|94.16.108.0/22|AT|ripencc|2008-06-05|NETCUP-AS netcup GmbH, DE
-94.16.108.168|16125|/MagicBean:6.0.0/|197540|94.16.108.0/22|AT|ripencc|2008-06-05|NETCUP-AS netcup GmbH, DE
-94.16.108.216|16125|/MagicBean:6.0.0/|197540|94.16.108.0/22|AT|ripencc|2008-06-05|NETCUP-AS netcup GmbH, DE
-94.16.108.57|16125|/MagicBean:6.0.0/|197540|94.16.108.0/22|AT|ripencc|2008-06-05|NETCUP-AS netcup GmbH, DE
-94.16.109.166|16125|/MagicBean:6.0.0/|197540|94.16.108.0/22|AT|ripencc|2008-06-05|NETCUP-AS netcup GmbH, DE
-94.16.109.169|16125|/MagicBean:6.0.0/|197540|94.16.108.0/22|AT|ripencc|2008-06-05|NETCUP-AS netcup GmbH, DE
-94.16.109.36|16125|/MagicBean:6.0.0/|197540|94.16.108.0/22|AT|ripencc|2008-06-05|NETCUP-AS netcup GmbH, DE
-94.16.109.76|16125|/MagicBean:6.0.0/|197540|94.16.108.0/22|AT|ripencc|2008-06-05|NETCUP-AS netcup GmbH, DE
-94.16.110.255|16125|/MagicBean:6.0.0/|197540|94.16.108.0/22|AT|ripencc|2008-06-05|NETCUP-AS netcup GmbH, DE
-94.16.110.55|16125|/MagicBean:6.0.0/|197540|94.16.108.0/22|AT|ripencc|2008-06-05|NETCUP-AS netcup GmbH, DE
-94.16.110.78|16125|/MagicBean:6.0.0/|197540|94.16.108.0/22|AT|ripencc|2008-06-05|NETCUP-AS netcup GmbH, DE
-94.16.111.227|16125|/MagicBean:6.0.0/|197540|94.16.108.0/22|AT|ripencc|2008-06-05|NETCUP-AS netcup GmbH, DE
+91.134.158.213|16125|/MagicBean:6.0.0/
+91.134.158.214|16125|/MagicBean:6.0.0/
+91.134.158.215|16125|/MagicBean:6.0.0/
+91.134.185.76|16125|/MagicBean:6.0.0/
+91.134.185.77|16125|/MagicBean:6.0.0/
+91.134.185.78|16125|/MagicBean:6.0.0/
+91.134.185.79|16125|/MagicBean:6.0.0/
+91.134.187.66|16125|/MagicBean:6.0.0/
+91.134.187.67|16125|/MagicBean:6.0.0/
+91.134.187.68|16125|/MagicBean:6.0.0/
+91.134.187.69|16125|/MagicBean:6.0.0/
+91.134.187.70|16125|/MagicBean:6.0.0/
+91.134.187.71|16125|/MagicBean:6.0.0/
+91.134.202.240|16125|/MagicBean:6.0.0/
+91.134.202.241|16125|/MagicBean:6.0.0/
+91.134.202.242|16125|/MagicBean:6.0.0/
+91.134.202.243|16125|/MagicBean:6.0.0/
+91.134.218.246|16125|/MagicBean:6.0.0/
+91.139.162.208|16125|/MagicBean:6.0.0/
+91.144.129.123|16125|/MagicBean:6.0.0/
+91.146.152.213|16125|/MagicBean:6.0.0/
+91.157.208.62|16125|/MagicBean:6.0.0/
+91.166.134.203|16125|/MagicBean:6.0.0/
+91.172.227.119|16125|/MagicBean:6.0.0/
+91.192.196.58|16125|/MagicBean:6.0.0/
+91.20.222.208|8233|/MagicBean:5.1.0/
+91.206.16.214|8233|/MagicBean:5.2.0/
+91.229.245.161|16125|/MagicBean:6.0.0(bitcore)/
+91.236.254.155|16125|/MagicBean:6.0.0/
+91.236.254.220|16125|/MagicBean:6.0.0/
+92.154.108.173|16125|/MagicBean:6.0.0/
+92.154.116.121|16125|/MagicBean:6.0.0/
+92.222.105.156|16125|/MagicBean:6.0.0/
+92.222.105.157|16125|/MagicBean:6.0.0/
+92.222.105.158|16125|/MagicBean:6.0.0/
+92.222.105.159|16125|/MagicBean:6.0.0/
+92.222.157.68|16125|/MagicBean:6.0.0/
+92.222.157.69|16125|/MagicBean:6.0.0/
+92.222.157.70|16125|/MagicBean:6.0.0/
+92.222.157.71|16125|/MagicBean:6.0.0/
+92.222.179.80|16125|/MagicBean:6.0.0/
+92.222.179.81|16125|/MagicBean:6.0.0/
+92.222.179.82|16125|/MagicBean:6.0.0/
+92.222.179.83|16125|/MagicBean:6.0.0/
+92.222.179.84|16125|/MagicBean:6.0.0/
+92.222.179.85|16125|/MagicBean:6.0.0/
+92.222.179.86|16125|/MagicBean:6.0.0/
+92.222.179.87|16125|/MagicBean:6.0.0/
+92.222.238.84|16125|/MagicBean:6.0.0/
+92.222.238.85|16125|/MagicBean:6.0.0/
+92.222.238.86|16125|/MagicBean:6.0.0/
+92.222.238.87|16125|/MagicBean:6.0.0/
+92.222.240.27|16125|/MagicBean:6.0.0/
+92.222.240.28|16125|/MagicBean:6.0.0/
+92.222.240.74|16125|/MagicBean:6.0.0/
+92.222.240.75|16125|/MagicBean:6.0.0/
+92.240.66.180|16125|/MagicBean:6.0.0/
+92.240.66.183|16125|/MagicBean:6.0.0/
+92.240.66.184|16125|/MagicBean:6.0.0/
+92.240.66.185|16125|/MagicBean:6.0.0/
+92.240.66.186|16125|/MagicBean:6.0.0/
+92.240.66.187|16125|/MagicBean:6.0.0/
+92.240.66.188|16125|/MagicBean:6.0.0/
+92.240.66.189|16125|/MagicBean:6.0.0/
+92.247.51.54|16125|/MagicBean:6.0.0/
+92.35.39.116|16125|/MagicBean:6.0.0/
+92.60.45.209|16125|/MagicBean:6.0.0/
+92.91.213.35|16125|/MagicBean:6.0.0/
+92.98.132.59|16125|/MagicBean:6.0.0/
+92.98.246.151|16125|/MagicBean:6.0.0/
+93.108.37.111|16125|/MagicBean:6.0.0/
+93.108.41.159|16125|/MagicBean:6.0.0/
+93.212.243.58|16125|/MagicBean:6.0.0/
+93.4.199.143|16125|/MagicBean:6.0.0/
+93.6.34.119|16125|/MagicBean:6.0.0/
+93.8.198.238|16125|/MagicBean:6.0.0/
+94.105.53.248|16125|/MagicBean:6.0.0/
+94.130.129.54|16125|/MagicBean:6.0.0/
+94.130.132.97|16125|/MagicBean:6.0.0/
+94.130.137.91|16125|/MagicBean:6.0.0/
+94.130.141.124|16125|/MagicBean:6.0.0/
+94.130.160.116|16125|/MagicBean:6.0.0/
+94.130.161.218|16125|/MagicBean:6.0.0/
+94.130.162.178|16125|/MagicBean:6.0.0/
+94.130.163.61|16125|/MagicBean:6.0.0/
+94.130.165.237|16125|/MagicBean:6.0.0/
+94.130.168.229|16125|/MagicBean:6.0.0/
+94.130.241.60|16125|/MagicBean:6.0.0/
+94.130.52.251|16125|/MagicBean:6.0.0/
+94.130.96.6|16125|/MagicBean:6.0.0/
+94.156.174.100|8233|/MagicBean:5.0.0/
+94.16.104.218|16125|/MagicBean:6.0.0/
+94.16.104.47|16125|/MagicBean:6.0.0/
+94.16.104.81|16125|/MagicBean:6.0.0/
+94.16.104.85|16125|/MagicBean:6.0.0/
+94.16.104.96|16125|/MagicBean:6.0.0/
+94.16.105.171|16125|/MagicBean:6.0.0/
+94.16.106.142|16125|/MagicBean:6.0.0/
+94.16.106.185|16125|/MagicBean:6.0.0/
+94.16.106.196|16125|/MagicBean:6.0.0/
+94.16.106.214|16125|/MagicBean:6.0.0/
+94.16.107.143|16125|/MagicBean:6.0.0/
+94.16.107.200|16125|/MagicBean:6.0.0/
+94.16.107.240|16125|/MagicBean:5.0.2/
+94.16.107.56|16125|/MagicBean:6.0.0/
+94.16.107.84|16125|/MagicBean:6.0.0/
+94.16.108.123|16125|/MagicBean:6.0.0/
+94.16.108.166|16125|/MagicBean:6.0.0/
+94.16.108.168|16125|/MagicBean:6.0.0/
+94.16.108.216|16125|/MagicBean:6.0.0/
+94.16.108.57|16125|/MagicBean:6.0.0/
+94.16.109.166|16125|/MagicBean:6.0.0/
+94.16.109.169|16125|/MagicBean:6.0.0/
+94.16.109.36|16125|/MagicBean:6.0.0/
+94.16.109.76|16125|/MagicBean:6.0.0/
+94.16.110.255|16125|/MagicBean:6.0.0/
+94.16.110.55|16125|/MagicBean:6.0.0/
+94.16.110.78|16125|/MagicBean:6.0.0/
+94.16.111.227|16125|/MagicBean:6.0.0/
 94.16.111.236|16125|/MagicBean:6.0.0/
 94.16.111.37|16125|/MagicBean:6.0.0/
 94.16.111.99|16125|/MagicBean:6.0.0/
@@ -8069,76 +8006,75 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 94.23.173.58|16125|/MagicBean:6.0.0/
 94.23.173.8|16125|/MagicBean:6.0.0/
 94.23.199.26|16125|/MagicBean:6.0.0/
-94.23.204.164|16125|/MagicBean:6.0.0/
-94.23.247.167|16125|/MagicBean:6.0.0/
-94.23.248.63|16125|/MagicBean:6.0.0/
-94.23.251.169|16125|/MagicBean:6.0.0/
-94.23.253.59|16125|/MagicBean:6.0.0/
-94.23.29.211|16125|/MagicBean:6.0.0/
-94.23.86.120|16125|/MagicBean:6.0.0/
-94.23.87.138|16125|/MagicBean:6.0.0/
-94.244.65.194|16125|/MagicBean:6.0.0/
-94.244.80.204|16125|/MagicBean:6.0.0/
-94.250.201.103|16125|/MagicBean:6.0.0/
-94.250.201.213|16125|/MagicBean:6.0.0/
-94.250.202.114|16125|/MagicBean:6.0.0/
-94.250.202.212|16125|/MagicBean:6.0.0/
-94.250.203.180|16125|/MagicBean:6.0.0/
-94.250.203.31|16125|/MagicBean:6.0.0/
-94.250.203.48|16125|/MagicBean:6.0.0/
-94.250.203.81|16125|/MagicBean:6.0.0/
-94.250.203.87|16125|/MagicBean:6.0.0/
-94.255.170.22|16125|/MagicBean:6.0.0/
-95.111.224.33|16125|/MagicBean:6.0.0/
-95.111.225.69|16125|/MagicBean:6.0.0/
-95.111.226.101|16125|/MagicBean:6.0.0/
-95.111.226.143|16125|/MagicBean:6.0.0/
-95.111.226.162|16125|/MagicBean:6.0.0/
-95.111.226.254|16125|/MagicBean:6.0.0/
-95.111.226.44|16125|/MagicBean:6.0.0/
-95.111.226.45|16125|/MagicBean:6.0.0/
-95.111.227.124|16125|/MagicBean:6.0.0/
-95.111.227.194|16125|/MagicBean:6.0.0/
-95.111.228.169|16125|/MagicBean:6.0.0/
-95.111.233.193|16125|/MagicBean:6.0.0/
-95.111.234.228|16125|/MagicBean:6.0.0/
-95.111.237.121|16125|/MagicBean:4.0.1/
-95.111.237.122|16125|/MagicBean:4.0.1/
-95.111.238.252|16125|/MagicBean:6.0.0/
-95.111.251.162|16125|/MagicBean:6.0.0/
-95.111.255.237|16125|/MagicBean:6.0.0/
-95.155.97.125|16125|/MagicBean:6.0.0/
-95.157.1.190|16125|/MagicBean:6.0.0/
-95.179.250.17|16125|/MagicBean:6.0.0/
-95.214.52.190|16125|/MagicBean:6.0.0/
-95.214.52.195|16125|/MagicBean:6.0.0/
-95.214.53.111|16125|/MagicBean:6.0.0/
-95.214.53.112|16125|/MagicBean:6.0.0/
-95.214.53.136|16125|/MagicBean:6.0.0/
-95.214.53.139|16125|/MagicBean:6.0.0/
-95.214.53.151|16125|/MagicBean:6.0.0/
-95.214.53.152|16125|/MagicBean:6.0.0/
-95.214.53.205|16125|/MagicBean:6.0.0/
-95.214.53.219|16125|/MagicBean:6.0.0/
-95.214.53.80|16125|/MagicBean:6.0.0/
-95.214.54.114|16125|/MagicBean:6.0.0/
-95.214.54.117|16125|/MagicBean:6.0.0/
-95.214.54.118|16125|/MagicBean:6.0.0/
-95.214.54.121|16125|/MagicBean:6.0.0/
-95.214.54.122|16125|/MagicBean:6.0.0/
-95.214.54.133|16125|/MagicBean:6.0.0/
-95.214.54.135|16125|/MagicBean:6.0.0/
-95.214.54.162|16125|/MagicBean:6.0.0/
-95.214.55.110|16125|/MagicBean:6.0.0/
-95.214.55.113|16125|/MagicBean:6.0.0/
-95.214.55.144|16125|/MagicBean:6.0.0/
-95.214.55.148|16125|/MagicBean:6.0.0/
-95.214.55.149|16125|/MagicBean:6.0.0/
-95.214.55.199|16125|/MagicBean:6.0.0/
-95.214.55.204|16125|/MagicBean:6.0.0/
-95.214.55.207|16125|/MagicBean:6.0.0/
-95.214.55.208|16125|/MagicBean:6.0.0/
-95.214.55.211|16125|/MagicBean:6.0.0/
+94.23.204.164|16125|/MagicBean:6.0.0/|16276|94.23.0.0/16|FR|ripencc|2008-07-15|OVH, FR
+94.23.247.167|16125|/MagicBean:6.0.0/|16276|94.23.0.0/16|FR|ripencc|2008-07-15|OVH, FR
+94.23.248.63|16125|/MagicBean:6.0.0/|16276|94.23.0.0/16|FR|ripencc|2008-07-15|OVH, FR
+94.23.251.169|16125|/MagicBean:6.0.0/|16276|94.23.0.0/16|FR|ripencc|2008-07-15|OVH, FR
+94.23.253.59|16125|/MagicBean:6.0.0/|16276|94.23.0.0/16|FR|ripencc|2008-07-15|OVH, FR
+94.23.29.211|16125|/MagicBean:6.0.0/|16276|94.23.0.0/16|FR|ripencc|2008-07-15|OVH, FR
+94.23.86.120|16125|/MagicBean:6.0.0/|16276|94.23.0.0/16|FR|ripencc|2008-07-15|OVH, FR
+94.23.87.138|16125|/MagicBean:6.0.0/|16276|94.23.0.0/16|FR|ripencc|2008-07-15|OVH, FR
+94.244.65.194|16125|/MagicBean:6.0.0/|25190|94.244.64.0/18|LT|ripencc|2009-09-09|KIS-AS, LT
+94.244.80.204|16125|/MagicBean:6.0.0/|25190|94.244.64.0/18|LT|ripencc|2009-09-09|KIS-AS, LT
+94.250.201.103|16125|/MagicBean:6.0.0/|51167|94.250.201.0/24|DE|ripencc|2012-09-11|CONTABO, DE
+94.250.201.213|16125|/MagicBean:6.0.0/|51167|94.250.201.0/24|DE|ripencc|2012-09-11|CONTABO, DE
+94.250.202.114|16125|/MagicBean:6.0.0/|51167|94.250.202.0/24|DE|ripencc|2012-09-11|CONTABO, DE
+94.250.202.212|16125|/MagicBean:6.0.0/|51167|94.250.202.0/24|DE|ripencc|2012-09-11|CONTABO, DE
+94.250.203.180|16125|/MagicBean:6.0.0/|51167|94.250.203.0/24|DE|ripencc|2012-09-11|CONTABO, DE
+94.250.203.31|16125|/MagicBean:6.0.0/|51167|94.250.203.0/24|DE|ripencc|2012-09-11|CONTABO, DE
+94.250.203.48|16125|/MagicBean:6.0.0/|51167|94.250.203.0/24|DE|ripencc|2012-09-11|CONTABO, DE
+94.250.203.81|16125|/MagicBean:6.0.0/|51167|94.250.203.0/24|DE|ripencc|2012-09-11|CONTABO, DE
+94.250.203.87|16125|/MagicBean:6.0.0/|51167|94.250.203.0/24|DE|ripencc|2012-09-11|CONTABO, DE
+94.255.170.22|16125|/MagicBean:6.0.0/|29518|94.255.128.0/17|SE|ripencc|2008-10-20|BREDBAND2, SE
+95.111.224.33|16125|/MagicBean:6.0.0/|51167|95.111.224.0/23|DE|ripencc|2008-12-30|CONTABO, DE
+95.111.225.69|16125|/MagicBean:6.0.0/|51167|95.111.224.0/23|DE|ripencc|2008-12-30|CONTABO, DE
+95.111.226.101|16125|/MagicBean:6.0.0/|51167|95.111.226.0/23|DE|ripencc|2008-12-30|CONTABO, DE
+95.111.226.143|16125|/MagicBean:6.0.0/|51167|95.111.226.0/23|DE|ripencc|2008-12-30|CONTABO, DE
+95.111.226.162|16125|/MagicBean:6.0.0/|51167|95.111.226.0/23|DE|ripencc|2008-12-30|CONTABO, DE
+95.111.226.254|16125|/MagicBean:6.0.0/|51167|95.111.226.0/23|DE|ripencc|2008-12-30|CONTABO, DE
+95.111.226.44|16125|/MagicBean:6.0.0/|51167|95.111.226.0/23|DE|ripencc|2008-12-30|CONTABO, DE
+95.111.226.45|16125|/MagicBean:6.0.0/|51167|95.111.226.0/23|DE|ripencc|2008-12-30|CONTABO, DE
+95.111.227.124|16125|/MagicBean:6.0.0/|51167|95.111.226.0/23|DE|ripencc|2008-12-30|CONTABO, DE
+95.111.227.194|16125|/MagicBean:6.0.0/|51167|95.111.226.0/23|DE|ripencc|2008-12-30|CONTABO, DE
+95.111.233.193|16125|/MagicBean:6.0.0/|51167|95.111.232.0/23|DE|ripencc|2008-12-30|CONTABO, DE
+95.111.234.228|16125|/MagicBean:6.0.0/|51167|95.111.234.0/23|DE|ripencc|2008-12-30|CONTABO, DE
+95.111.237.121|16125|/MagicBean:4.0.1/|51167|95.111.236.0/23|DE|ripencc|2008-12-30|CONTABO, DE
+95.111.237.122|16125|/MagicBean:4.0.1/|51167|95.111.236.0/23|DE|ripencc|2008-12-30|CONTABO, DE
+95.111.238.252|16125|/MagicBean:6.0.0/|51167|95.111.238.0/23|DE|ripencc|2008-12-30|CONTABO, DE
+95.111.251.162|16125|/MagicBean:6.0.0/|51167|95.111.250.0/23|DE|ripencc|2008-12-30|CONTABO, DE
+95.111.255.237|16125|/MagicBean:6.0.0/|51167|95.111.254.0/23|DE|ripencc|2008-12-30|CONTABO, DE
+95.155.97.125|16125|/MagicBean:6.0.0/|43939|95.155.64.0/18|PL|ripencc|2009-03-03|INTERNETIA_ETTH2-AS Noc-Bialystok, PL
+95.157.1.190|16125|/MagicBean:6.0.0/|35244|95.157.0.0/18|DE|ripencc|2009-03-31|KMS-DE_AS, DE
+95.179.250.17|16125|/MagicBean:6.0.0/|20473|95.179.240.0/20|US|ripencc|2009-01-22|AS-CHOOPA, US
+95.214.52.190|16125|/MagicBean:6.0.0/|201814|95.214.52.0/22|PL|ripencc|2018-12-21|PL-SKYTECH-AS, PL
+95.214.52.195|16125|/MagicBean:6.0.0/|201814|95.214.52.0/22|PL|ripencc|2018-12-21|PL-SKYTECH-AS, PL
+95.214.53.111|16125|/MagicBean:6.0.0/|201814|95.214.52.0/22|PL|ripencc|2018-12-21|PL-SKYTECH-AS, PL
+95.214.53.112|16125|/MagicBean:6.0.0/|201814|95.214.52.0/22|PL|ripencc|2018-12-21|PL-SKYTECH-AS, PL
+95.214.53.136|16125|/MagicBean:6.0.0/|201814|95.214.52.0/22|PL|ripencc|2018-12-21|PL-SKYTECH-AS, PL
+95.214.53.139|16125|/MagicBean:6.0.0/|201814|95.214.52.0/22|PL|ripencc|2018-12-21|PL-SKYTECH-AS, PL
+95.214.53.151|16125|/MagicBean:6.0.0/|201814|95.214.52.0/22|PL|ripencc|2018-12-21|PL-SKYTECH-AS, PL
+95.214.53.152|16125|/MagicBean:6.0.0/|201814|95.214.52.0/22|PL|ripencc|2018-12-21|PL-SKYTECH-AS, PL
+95.214.53.205|16125|/MagicBean:6.0.0/|201814|95.214.52.0/22|PL|ripencc|2018-12-21|PL-SKYTECH-AS, PL
+95.214.53.219|16125|/MagicBean:6.0.0/|201814|95.214.52.0/22|PL|ripencc|2018-12-21|PL-SKYTECH-AS, PL
+95.214.53.80|16125|/MagicBean:6.0.0/|201814|95.214.52.0/22|PL|ripencc|2018-12-21|PL-SKYTECH-AS, PL
+95.214.54.114|16125|/MagicBean:6.0.0/|201814|95.214.52.0/22|PL|ripencc|2018-12-21|PL-SKYTECH-AS, PL
+95.214.54.117|16125|/MagicBean:6.0.0/|201814|95.214.52.0/22|PL|ripencc|2018-12-21|PL-SKYTECH-AS, PL
+95.214.54.118|16125|/MagicBean:6.0.0/|201814|95.214.52.0/22|PL|ripencc|2018-12-21|PL-SKYTECH-AS, PL
+95.214.54.121|16125|/MagicBean:6.0.0/|201814|95.214.52.0/22|PL|ripencc|2018-12-21|PL-SKYTECH-AS, PL
+95.214.54.122|16125|/MagicBean:6.0.0/|201814|95.214.52.0/22|PL|ripencc|2018-12-21|PL-SKYTECH-AS, PL
+95.214.54.133|16125|/MagicBean:6.0.0/|201814|95.214.52.0/22|PL|ripencc|2018-12-21|PL-SKYTECH-AS, PL
+95.214.54.135|16125|/MagicBean:6.0.0/|201814|95.214.52.0/22|PL|ripencc|2018-12-21|PL-SKYTECH-AS, PL
+95.214.54.162|16125|/MagicBean:6.0.0/|201814|95.214.52.0/22|PL|ripencc|2018-12-21|PL-SKYTECH-AS, PL
+95.214.55.110|16125|/MagicBean:6.0.0/|201814|95.214.52.0/22|PL|ripencc|2018-12-21|PL-SKYTECH-AS, PL
+95.214.55.113|16125|/MagicBean:6.0.0/|201814|95.214.52.0/22|PL|ripencc|2018-12-21|PL-SKYTECH-AS, PL
+95.214.55.144|16125|/MagicBean:6.0.0/|201814|95.214.52.0/22|PL|ripencc|2018-12-21|PL-SKYTECH-AS, PL
+95.214.55.148|16125|/MagicBean:6.0.0/|201814|95.214.52.0/22|PL|ripencc|2018-12-21|PL-SKYTECH-AS, PL
+95.214.55.149|16125|/MagicBean:6.0.0/|201814|95.214.52.0/22|PL|ripencc|2018-12-21|PL-SKYTECH-AS, PL
+95.214.55.199|16125|/MagicBean:6.0.0/|201814|95.214.52.0/22|PL|ripencc|2018-12-21|PL-SKYTECH-AS, PL
+95.214.55.204|16125|/MagicBean:6.0.0/|201814|95.214.52.0/22|PL|ripencc|2018-12-21|PL-SKYTECH-AS, PL
+95.214.55.207|16125|/MagicBean:6.0.0/|201814|95.214.52.0/22|PL|ripencc|2018-12-21|PL-SKYTECH-AS, PL
+95.214.55.208|16125|/MagicBean:6.0.0/|201814|95.214.52.0/22|PL|ripencc|2018-12-21|PL-SKYTECH-AS, PL
+95.214.55.211|16125|/MagicBean:6.0.0/|201814|95.214.52.0/22|PL|ripencc|2018-12-21|PL-SKYTECH-AS, PL
 95.214.55.220|16125|/MagicBean:6.0.0/|201814|95.214.52.0/22|PL|ripencc|2018-12-21|PL-SKYTECH-AS, PL
 95.214.55.222|16125|/MagicBean:6.0.0/|201814|95.214.52.0/22|PL|ripencc|2018-12-21|PL-SKYTECH-AS, PL
 95.214.55.223|16125|/MagicBean:6.0.0/|201814|95.214.52.0/22|PL|ripencc|2018-12-21|PL-SKYTECH-AS, PL
@@ -8196,36 +8132,36 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 95.216.166.183|16125|/MagicBean:6.0.0/|24940|95.216.0.0/16|DE|ripencc|2009-02-24|HETZNER-AS, DE
 95.216.168.161|16125|/MagicBean:6.0.0/|24940|95.216.0.0/16|DE|ripencc|2009-02-24|HETZNER-AS, DE
 95.216.169.9|16125|/MagicBean:6.0.0/|24940|95.216.0.0/16|DE|ripencc|2009-02-24|HETZNER-AS, DE
-95.216.174.239|16125|/MagicBean:6.0.0/|24940|95.216.0.0/16|DE|ripencc|2009-02-24|HETZNER-AS, DE
-95.216.18.92|16125|/MagicBean:6.0.0/|24940|95.216.0.0/16|DE|ripencc|2009-02-24|HETZNER-AS, DE
-95.216.185.155|16125|/MagicBean:6.0.0/|24940|95.216.0.0/16|DE|ripencc|2009-02-24|HETZNER-AS, DE
-95.216.186.255|16125|/MagicBean:6.0.0/|24940|95.216.0.0/16|DE|ripencc|2009-02-24|HETZNER-AS, DE
-95.216.187.211|16125|/MagicBean:6.0.0/|24940|95.216.0.0/16|DE|ripencc|2009-02-24|HETZNER-AS, DE
-95.216.189.68|16125|/MagicBean:6.0.0/|24940|95.216.0.0/16|DE|ripencc|2009-02-24|HETZNER-AS, DE
-95.216.196.41|16125|/MagicBean:6.0.0/|24940|95.216.0.0/16|DE|ripencc|2009-02-24|HETZNER-AS, DE
-95.216.2.48|16125|/MagicBean:6.0.0/|24940|95.216.0.0/16|DE|ripencc|2009-02-24|HETZNER-AS, DE
-95.216.21.234|16125|/MagicBean:6.0.0/|24940|95.216.0.0/16|DE|ripencc|2009-02-24|HETZNER-AS, DE
-95.216.214.19|16125|/MagicBean:6.0.0/|24940|95.216.0.0/16|DE|ripencc|2009-02-24|HETZNER-AS, DE
-95.216.216.216|16125|/MagicBean:6.0.0/|24940|95.216.0.0/16|DE|ripencc|2009-02-24|HETZNER-AS, DE
-95.216.218.249|16125|/MagicBean:6.0.0/|24940|95.216.0.0/16|DE|ripencc|2009-02-24|HETZNER-AS, DE
-95.216.221.176|16125|/MagicBean:6.0.0/|24940|95.216.0.0/16|DE|ripencc|2009-02-24|HETZNER-AS, DE
-95.216.224.207|16125|/MagicBean:6.0.0/|24940|95.216.0.0/16|DE|ripencc|2009-02-24|HETZNER-AS, DE
-95.216.226.90|16125|/MagicBean:6.0.0/|24940|95.216.0.0/16|DE|ripencc|2009-02-24|HETZNER-AS, DE
-95.216.228.121|16125|/MagicBean:6.0.0/|24940|95.216.0.0/16|DE|ripencc|2009-02-24|HETZNER-AS, DE
-95.216.23.179|16125|/MagicBean:6.0.0/|24940|95.216.0.0/16|DE|ripencc|2009-02-24|HETZNER-AS, DE
-95.216.23.248|16125|/MagicBean:6.0.0/|24940|95.216.0.0/16|DE|ripencc|2009-02-24|HETZNER-AS, DE
-95.216.247.121|16125|/MagicBean:6.0.0/|24940|95.216.0.0/16|DE|ripencc|2009-02-24|HETZNER-AS, DE
-95.216.25.99|16125|/MagicBean:6.0.0/|24940|95.216.0.0/16|DE|ripencc|2009-02-24|HETZNER-AS, DE
-95.216.29.249|16125|/MagicBean:6.0.0/|24940|95.216.0.0/16|DE|ripencc|2009-02-24|HETZNER-AS, DE
-95.216.3.59|16125|/MagicBean:6.0.0/|24940|95.216.0.0/16|DE|ripencc|2009-02-24|HETZNER-AS, DE
-95.216.32.11|16125|/MagicBean:6.0.0/|24940|95.216.0.0/16|DE|ripencc|2009-02-24|HETZNER-AS, DE
-95.216.32.14|16125|/MagicBean:6.0.0/|24940|95.216.0.0/16|DE|ripencc|2009-02-24|HETZNER-AS, DE
-95.216.32.41|16125|/MagicBean:6.0.0/|24940|95.216.0.0/16|DE|ripencc|2009-02-24|HETZNER-AS, DE
-95.216.32.49|16125|/MagicBean:6.0.0/|24940|95.216.0.0/16|DE|ripencc|2009-02-24|HETZNER-AS, DE
-95.216.33.224|16125|/MagicBean:6.0.0/|24940|95.216.0.0/16|DE|ripencc|2009-02-24|HETZNER-AS, DE
-95.216.33.227|16125|/MagicBean:6.0.0/|24940|95.216.0.0/16|DE|ripencc|2009-02-24|HETZNER-AS, DE
-95.216.35.112|16125|/MagicBean:6.0.0/|24940|95.216.0.0/16|DE|ripencc|2009-02-24|HETZNER-AS, DE
-95.216.35.162|16125|/MagicBean:6.0.0/|24940|95.216.0.0/16|DE|ripencc|2009-02-24|HETZNER-AS, DE
+95.216.174.239|16125|/MagicBean:6.0.0/
+95.216.18.92|16125|/MagicBean:6.0.0/
+95.216.185.155|16125|/MagicBean:6.0.0/
+95.216.186.255|16125|/MagicBean:6.0.0/
+95.216.187.211|16125|/MagicBean:6.0.0/
+95.216.189.68|16125|/MagicBean:6.0.0/
+95.216.196.41|16125|/MagicBean:6.0.0/
+95.216.2.48|16125|/MagicBean:6.0.0/
+95.216.21.234|16125|/MagicBean:6.0.0/
+95.216.214.19|16125|/MagicBean:6.0.0/
+95.216.216.216|16125|/MagicBean:6.0.0/
+95.216.218.249|16125|/MagicBean:6.0.0/
+95.216.221.176|16125|/MagicBean:6.0.0/
+95.216.224.207|16125|/MagicBean:6.0.0/
+95.216.226.90|16125|/MagicBean:6.0.0/
+95.216.228.121|16125|/MagicBean:6.0.0/
+95.216.23.179|16125|/MagicBean:6.0.0/
+95.216.23.248|16125|/MagicBean:6.0.0/
+95.216.247.121|16125|/MagicBean:6.0.0/
+95.216.25.99|16125|/MagicBean:6.0.0/
+95.216.29.249|16125|/MagicBean:6.0.0/
+95.216.3.59|16125|/MagicBean:6.0.0/
+95.216.32.11|16125|/MagicBean:6.0.0/
+95.216.32.14|16125|/MagicBean:6.0.0/
+95.216.32.41|16125|/MagicBean:6.0.0/
+95.216.32.49|16125|/MagicBean:6.0.0/
+95.216.33.224|16125|/MagicBean:6.0.0/
+95.216.33.227|16125|/MagicBean:6.0.0/
+95.216.35.112|16125|/MagicBean:6.0.0/
+95.216.35.162|16125|/MagicBean:6.0.0/
 95.216.35.182|16125|/MagicBean:6.0.0/
 95.216.37.68|16125|/MagicBean:6.0.0/
 95.216.37.70|16125|/MagicBean:6.0.0/
@@ -8313,61 +8249,59 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 95.217.6.4|16125|/MagicBean:6.0.0/
 95.217.61.43|16125|/MagicBean:6.0.0/
 95.217.63.95|16125|/MagicBean:6.0.0/
-95.217.73.221|16125|/MagicBean:6.0.0/|24940|95.217.0.0/16|DE|ripencc|2009-02-24|HETZNER-AS, DE
-95.217.73.234|16125|/MagicBean:6.0.0/|24940|95.217.0.0/16|DE|ripencc|2009-02-24|HETZNER-AS, DE
-95.217.74.57|16125|/MagicBean:6.0.0/|24940|95.217.0.0/16|DE|ripencc|2009-02-24|HETZNER-AS, DE
-95.217.78.116|16125|/MagicBean:6.0.0/|24940|95.217.0.0/16|DE|ripencc|2009-02-24|HETZNER-AS, DE
-95.217.78.170|8233|/MagicBean:5.0.0/|24940|95.217.0.0/16|DE|ripencc|2009-02-24|HETZNER-AS, DE
-95.217.8.109|16125|/MagicBean:6.0.0/|24940|95.217.0.0/16|DE|ripencc|2009-02-24|HETZNER-AS, DE
-95.217.8.173|16125|/MagicBean:6.0.0/|24940|95.217.0.0/16|DE|ripencc|2009-02-24|HETZNER-AS, DE
-95.217.84.227|16125|/MagicBean:6.0.0/|24940|95.217.0.0/16|DE|ripencc|2009-02-24|HETZNER-AS, DE
-95.217.89.45|16125|/MagicBean:6.0.0/|24940|95.217.0.0/16|DE|ripencc|2009-02-24|HETZNER-AS, DE
-95.31.4.66|16125|/MagicBean:6.0.0/|8402|95.30.0.0/15|RU|ripencc|2008-10-10|CORBINA-AS OJSC Vimpelcom, RU
-95.80.213.77|16125|/MagicBean:6.0.0/|29208|95.80.192.0/18|CZ|ripencc|2008-11-26|DIALTELECOM-AS Dial Telecom a.s., CZ
-95.92.129.113|16125|/MagicBean:6.0.0/|2860|95.92.128.0/18|PT|ripencc|2008-12-15|NOS_COMUNICACOES, PT
-96.22.251.50|16125|/MagicBean:6.0.0/|5769|96.22.192.0/18|CA|arin|2007-10-30|VIDEOTRON, CA
-96.225.42.46|16125|/MagicBean:6.0.0/|701|96.225.0.0/17|US|arin|2006-12-29|UUNET, US
-96.231.245.2|16125|/MagicBean:6.0.0/|701|96.231.0.0/16|US|arin|2006-12-29|UUNET, US
-96.231.245.3|16125|/MagicBean:6.0.0/|701|96.231.0.0/16|US|arin|2006-12-29|UUNET, US
-96.231.245.5|16125|/MagicBean:6.0.0/|701|96.231.0.0/16|US|arin|2006-12-29|UUNET, US
-96.231.245.6|16125|/MagicBean:6.0.0/|701|96.231.0.0/16|US|arin|2006-12-29|UUNET, US
-96.252.79.125|16125|/MagicBean:6.0.0/|701|96.252.0.0/17|US|arin|2006-12-29|UUNET, US
-96.27.56.48|16125|/MagicBean:6.0.0/|12083|96.27.56.0/21|US|arin|2009-01-22|WOW-INTERNET, US
-96.65.155.153|16125|/MagicBean:6.0.0/|7922|96.64.0.0/11|US|arin|2008-02-21|COMCAST-7922, US
-96.69.30.72|16125|/MagicBean:6.0.0/|7922|96.64.0.0/11|US|arin|2008-02-21|COMCAST-7922, US
-96.86.15.73|16125|/MagicBean:6.0.0/|7922|96.64.0.0/11|US|arin|2008-02-21|COMCAST-7922, US
-97.125.41.60|16125|/MagicBean:6.0.0/|209|97.112.0.0/12|US|arin|2007-12-19|CENTURYLINK-US-LEGACY-QWEST, US
-98.118.154.161|16125|/MagicBean:6.0.0/|701|98.118.128.0/18|US|arin|2008-04-02|UUNET, US
-98.144.156.9|16125|/MagicBean:6.0.0/|10796|98.144.0.0/16|US|arin|2007-12-18|TWC-10796-MIDWEST, US
-98.159.78.148|16125|/MagicBean:6.0.0/|36146|98.159.78.0/24|US|arin|2010-03-15|ARKWEST-COMMUICATIONS, US
-98.169.136.138|16125|/MagicBean:6.0.0/|22773|98.169.0.0/16|US|arin|2007-07-20|ASN-CXA-ALL-CCI-22773-RDC, US
-98.174.3.178|16125|/MagicBean:6.0.0/|22773|98.174.0.0/20|US|arin|2007-07-20|ASN-CXA-ALL-CCI-22773-RDC, US
-98.174.3.181|16125|/MagicBean:6.0.0/|22773|98.174.0.0/20|US|arin|2007-07-20|ASN-CXA-ALL-CCI-22773-RDC, US
-98.183.96.145|16125|/MagicBean:6.0.0/|22773|98.183.96.0/19|US|arin|2007-07-20|ASN-CXA-ALL-CCI-22773-RDC, US
-98.238.202.171|16125|/MagicBean:6.0.0/|7922|98.192.0.0/10|US|arin|2007-04-20|COMCAST-7922, US
-98.242.53.10|16125|/MagicBean:6.0.0/|7922|98.192.0.0/10|US|arin|2007-04-20|COMCAST-7922, US
-98.25.170.115|16125|/MagicBean:6.0.0/|11426|98.24.0.0/15|US|arin|2007-11-02|TWC-11426-CAROLINAS, US
-98.34.4.50|16125|/MagicBean:6.0.0/|7922|98.32.0.0/11|US|arin|2007-06-06|COMCAST-7922, US
-98.49.134.92|16125|/MagicBean:6.0.0/|7922|98.32.0.0/11|US|arin|2007-06-06|COMCAST-7922, US
-98.63.80.99|16125|/MagicBean:6.0.0/|7922|98.32.0.0/11|US|arin|2007-06-06|COMCAST-7922, US
-99.106.31.73|16125|/MagicBean:6.0.0/|7018|99.106.0.0/15|US|arin|2008-02-25|ATT-INTERNET4, US
-99.145.126.191|16125|/MagicBean:6.0.0/|7018|99.145.0.0/16|US|arin|2007-08-29|ATT-INTERNET4, US
-99.155.46.8|16125|/MagicBean:6.0.0/|7018|99.152.0.0/14|US|arin|2007-08-29|ATT-INTERNET4, US
-99.184.73.204|16125|/MagicBean:6.0.0/|7018|99.184.0.0/13|US|arin|2007-08-29|ATT-INTERNET4, US
-99.199.131.72|16125|/MagicBean:6.0.0/|852|99.199.128.0/18|CA|arin|2008-08-01|TELUS Communications, CA
-99.231.181.58|16125|/MagicBean:6.0.0/|812|99.231.128.0/17|CA|arin|2007-03-12|ROGERS-COMMUNICATIONS, CA
-99.231.74.26|8233|/MagicBean:5.0.0/|812|99.231.64.0/19|CA|arin|2007-03-12|ROGERS-COMMUNICATIONS, CA
-99.233.97.174|16125|/MagicBean:6.0.0/|812|99.233.64.0/18|CA|arin|2007-03-12|ROGERS-COMMUNICATIONS, CA
-99.243.188.185|16125|/MagicBean:6.0.0/|812|99.243.0.0/16|CA|arin|2007-03-12|ROGERS-COMMUNICATIONS, CA
-99.248.38.189|16125|/MagicBean:6.0.0/|812|99.248.0.0/16|CA|arin|2007-03-12|ROGERS-COMMUNICATIONS, CA
-99.252.152.162|16125|/MagicBean:6.0.0/|812|99.252.0.0/16|CA|arin|2007-03-12|ROGERS-COMMUNICATIONS, CA
-99.35.60.240|16125|/MagicBean:6.0.0/|7018|99.32.0.0/12|US|arin|2008-02-25|ATT-INTERNET4, US
-99.48.161.100|16125|/MagicBean:6.0.0/|7018|99.48.0.0/13|US|arin|2008-02-25|ATT-INTERNET4, US
-99.48.161.97|16125|/MagicBean:6.0.0/|7018|99.48.0.0/13|US|arin|2008-02-25|ATT-INTERNET4, US
-99.50.12.226|16125|/MagicBean:6.0.0/|7018|99.48.0.0/13|US|arin|2008-02-25|ATT-INTERNET4, US
-99.50.12.227|16125|/MagicBean:6.0.0/|7018|99.48.0.0/13|US|arin|2008-02-25|ATT-INTERNET4, US
-99.50.224.177|16125|/MagicBean:6.0.0/|7018|99.48.0.0/13|US|arin|2008-02-25|ATT-INTERNET4, US
-99.50.224.178|16125|/MagicBean:6.0.0/|7018|99.48.0.0/13|US|arin|2008-02-25|ATT-INTERNET4, US
-99.50.224.179|16125|/MagicBean:6.0.0/|7018|99.48.0.0/13|US|arin|2008-02-25|ATT-INTERNET4, US
-99.53.207.184|16125|/MagicBean:6.0.0/|7018|99.48.0.0/13|US|arin|2008-02-25|ATT-INTERNET4, US
-99.74.173.69|16125|/MagicBean:6.0.0/|7018|99.74.0.0/16|US|arin|2008-02-25|ATT-INTERNET4, US
+95.217.73.221|16125|/MagicBean:6.0.0/
+95.217.73.234|16125|/MagicBean:6.0.0/
+95.217.74.57|16125|/MagicBean:6.0.0/
+95.217.78.116|16125|/MagicBean:6.0.0/
+95.217.78.170|8233|/MagicBean:5.0.0/
+95.217.8.109|16125|/MagicBean:6.0.0/
+95.217.8.173|16125|/MagicBean:6.0.0/
+95.217.84.227|16125|/MagicBean:6.0.0/
+95.217.89.45|16125|/MagicBean:6.0.0/
+95.31.4.66|16125|/MagicBean:6.0.0/
+95.80.213.77|16125|/MagicBean:6.0.0/
+95.92.129.113|16125|/MagicBean:6.0.0/
+96.22.251.50|16125|/MagicBean:6.0.0/
+96.231.245.2|16125|/MagicBean:6.0.0/
+96.231.245.5|16125|/MagicBean:6.0.0/
+96.231.245.6|16125|/MagicBean:6.0.0/
+96.252.79.125|16125|/MagicBean:6.0.0/
+96.27.56.48|16125|/MagicBean:6.0.0/
+96.65.155.153|16125|/MagicBean:6.0.0/
+96.69.30.72|16125|/MagicBean:6.0.0/
+96.86.15.73|16125|/MagicBean:6.0.0/
+97.125.41.60|16125|/MagicBean:6.0.0/
+98.118.154.161|16125|/MagicBean:6.0.0/
+98.144.156.9|16125|/MagicBean:6.0.0/
+98.159.78.148|16125|/MagicBean:6.0.0/
+98.169.136.138|16125|/MagicBean:6.0.0/
+98.174.3.178|16125|/MagicBean:6.0.0/
+98.174.3.181|16125|/MagicBean:6.0.0/
+98.183.96.145|16125|/MagicBean:6.0.0/
+98.238.202.171|16125|/MagicBean:6.0.0/
+98.242.53.10|16125|/MagicBean:6.0.0/
+98.25.170.115|16125|/MagicBean:6.0.0/
+98.34.4.50|16125|/MagicBean:6.0.0/
+98.49.134.92|16125|/MagicBean:6.0.0/
+98.63.80.99|16125|/MagicBean:6.0.0/
+99.106.31.73|16125|/MagicBean:6.0.0/
+99.145.126.191|16125|/MagicBean:6.0.0/
+99.155.46.8|16125|/MagicBean:6.0.0/
+99.184.73.204|16125|/MagicBean:6.0.0/
+99.199.131.72|16125|/MagicBean:6.0.0/
+99.231.181.58|16125|/MagicBean:6.0.0/
+99.231.74.26|8233|/MagicBean:5.0.0/
+99.233.97.174|16125|/MagicBean:6.0.0/
+99.243.188.185|16125|/MagicBean:6.0.0/
+99.248.38.189|16125|/MagicBean:6.0.0/
+99.252.152.162|16125|/MagicBean:6.0.0/
+99.35.60.240|16125|/MagicBean:6.0.0/
+99.48.161.100|16125|/MagicBean:6.0.0/
+99.48.161.97|16125|/MagicBean:6.0.0/
+99.50.12.226|16125|/MagicBean:6.0.0/
+99.50.12.227|16125|/MagicBean:6.0.0/
+99.50.224.177|16125|/MagicBean:6.0.0/
+99.50.224.178|16125|/MagicBean:6.0.0/
+99.50.224.179|16125|/MagicBean:6.0.0/
+99.53.207.184|16125|/MagicBean:6.0.0/
+99.74.173.69|16125|/MagicBean:6.0.0/
