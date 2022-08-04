@@ -4,12 +4,12 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 104.131.140.204|/Digitalcoin Core:5.0.3/|70208||||||
 104.131.180.71|/Digitalcoin Core:5.0.3/|70208||||||
 104.236.183.29|/Digitalcoin Core:5.0.3/|70208||||||
-104.236.58.131|/Digitalcoin Core:5.0.3/|70208|14061|104.236.0.0/18|US|arin|2014-10-28|DIGITALOCEAN-ASN, US
-104.236.60.15|/Digitalcoin Core:5.0.3/|70208|14061|104.236.0.0/18|US|arin|2014-10-28|DIGITALOCEAN-ASN, US
+104.236.58.131|/Digitalcoin Core:5.0.3/|70208||||||
+104.236.60.15|/Digitalcoin Core:5.0.3/|70208||||||
 104.238.156.46|/Digitalcoin Core:5.0.3/|70208||||||
 117.4.69.163|/Digitalcoin Core:5.0.3/|70208||||||
-121.36.61.114|/Digitalcoin Core:5.0.3/|70208||||||
-122.59.8.177|/Digitalcoin Core:5.0.3/|70208||||||
+121.36.61.114|/Digitalcoin Core:5.0.3/|70208|55990|121.36.0.0/17|CN|apnic|2006-05-23|HWCSNET Huawei Cloud Service data center, CN
+122.59.8.177|/Digitalcoin Core:5.0.3/|70208|4771|122.59.8.0/21|NZ|apnic|2008-09-16|SPARKNZ Spark New Zealand Trading Ltd., NZ
 149.56.251.89|/Digitalcoin Core:5.0.2/|70208||||||
 162.250.169.188|/Digitalcoin Core:5.0.2/|70208||||||
 162.250.169.190|/Digitalcoin Core:5.0.2/|70208||||||
@@ -23,15 +23,19 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 188.40.85.215|/Digitalcoin Core:5.0.3/|70208||||||
 192.99.175.69|/Digitalcoin Core:5.0.2/|70208||||||
 193.37.212.155|/Digitalcoin Core:5.0.1/|70208||||||
-194.5.212.22|???|0||||||
+194.5.212.22|/Digitalcoin Core:5.0.2/|70208||||||
 198.245.63.142|/Digitalcoin Core:5.0.2/|70208||||||
+199.127.62.235|Reddcoin:3.10.3|80000||||||
+199.127.62.235|Reddcoin:3.10.3|80015||||||
 213.32.6.132|/Digitalcoin Core:5.0.3/|70208||||||
-217.240.193.12|/Digitalcoin Core:5.0.2/|70208||||||
+217.240.193.12|/Digitalcoin Core:5.0.2/|70208|3320|217.224.0.0/11|DE|ripencc|2001-04-04|DTAG Internet service provider operations, DE
 218.16.125.118|/Digitalcoin Core:5.0.3/|70208||||||
+24.158.124.186|/Digitalcoin Core:5.0.3/|70208||||||
 37.187.226.185|/Digitalcoin Core:5.0.3/|70208||||||
 37.25.111.106|/Digitalcoin Core:5.0.2/|70208||||||
 37.61.239.41|/Digitalcoin Core:5.0.2/|70208||||||
 45.126.209.106|Reddcoin:3.10.3|80000||||||
+45.126.209.106|Reddcoin:3.10.3|80015||||||
 45.55.195.243|/Digitalcoin Core:5.0.3/|70208||||||
 45.63.78.182|/Digitalcoin Core:5.0.3/|70208||||||
 46.101.235.143|/Digitalcoin Core:5.0.2/|70208||||||

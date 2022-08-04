@@ -13,7 +13,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 139.59.209.150|/Trezarcoin:2.1.3/|70001||||||
 141.98.252.168|/Trezarcoin:2.1.3/|70001||||||
 142.165.82.189|/Trezarcoin:2.1.3/|70001||||||
-143.244.37.153|/Trezarcoin:2.1.3/|70001||||||
+143.244.37.153|/Trezarcoin:2.1.3/|70001|60068|143.244.36.0/22|GB|ripencc|1990-10-26|CDN77 ^_^, GB
 145.236.152.17|/Trezarcoin:2.1.3/|70001||||||
 146.70.132.10|/Trezarcoin:2.1.3/|70001||||||
 146.70.80.172|/Trezarcoin:2.1.3/|70001||||||
@@ -21,7 +21,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 149.56.155.28|/Trezarcoin:2.1.3/|70001||||||
 158.58.129.32|/Trezarcoin:2.1.0/|70001||||||
 166.172.185.189|/Trezarcoin:2.1.3/|70001||||||
-167.172.186.111|/Trezarcoin:2.1.3/|70001||||||
+167.172.186.111|/Trezarcoin:2.1.3/|70001|14061|167.172.176.0/20|US|ripencc|1993-08-30|DIGITALOCEAN-ASN, US
 171.25.167.187|/Trezarcoin:2.1.3/|70001||||||
 172.0.94.218|/Trezarcoin:2.1.3/|70001||||||
 174.231.82.146|/Trezarcoin:2.1.3/|70001||||||
@@ -33,6 +33,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 178.18.240.231|/Trezarcoin:2.1.3/|70001||||||
 178.200.253.210|/Trezarcoin:2.1.3/|70001||||||
 178.32.41.81|/Trezarcoin:2.1.3/|70001||||||
+179.67.20.196|/Trezarcoin:2.1.3/|70001||||||
 185.156.123.43|/Trezarcoin:2.1.3/|70001||||||
 185.212.169.126|/Trezarcoin:2.1.3/|70001||||||
 185.224.133.186|/Trezarcoin:2.1.0/|70001||||||
@@ -41,12 +42,12 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 194.166.246.248|/Trezarcoin:2.1.2/|70001||||||
 202.57.55.219|/Trezarcoin:2.1.3/|70001||||||
 206.81.27.174|/Trezarcoin:2.1.1/|70001||||||
-207.134.216.145|/Trezarcoin:2.1.3/|70001||||||
+207.134.216.145|/Trezarcoin:2.1.3/|70001|852|207.134.0.0/16|CA|arin|1996-05-09|TELUS Communications, CA
 212.164.64.248|/Trezarcoin:2.1.3/|70001||||||
 216.24.210.125|/Trezarcoin:2.1.3/|70001||||||
 223.16.104.23|/Trezarcoin:2.1.3/|70001||||||
 24.115.13.182|/Trezarcoin:2.1.2/|70001||||||
-24.192.230.210|/Trezarcoin:2.1.3/|70001||||||
+24.192.230.210|/Trezarcoin:2.1.3/|70001|12083|24.192.230.0/23|US|arin|2005-06-30|WOW-INTERNET, US
 24.209.26.137|/Trezarcoin:2.1.3/|70001||||||
 24.94.67.244|/Trezarcoin:2.1.3/|70001||||||
 37.144.210.250|/Trezarcoin:2.1.3/|70001||||||
@@ -79,20 +80,21 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 72.174.174.131|/Trezarcoin:2.1.3/|70001||||||
 72.76.223.248|/Trezarcoin:2.1.3/|70001||||||
 73.156.206.84|/Trezarcoin:2.1.3/|70001||||||
+73.169.76.212|/Trezarcoin:2.1.3/|70001||||||
 73.173.30.100|/Trezarcoin:2.1.2/|70001||||||
 73.216.151.145|/Trezarcoin:2.1.3/|70001||||||
 76.170.99.120|/Trezarcoin:2.1.3/|70001||||||
 77.119.210.83|/Trezarcoin:2.1.3/|70001||||||
 77.3.120.171|/Trezarcoin:2.1.1/|70001||||||
-79.204.191.38|/Trezarcoin:2.1.3/|70001|3320|79.192.0.0/10|DE|ripencc|2007-06-06|DTAG Internet service provider operations, DE
-79.248.147.24|/Trezarcoin:2.1.3/|70001|3320|79.192.0.0/10|DE|ripencc|2007-06-06|DTAG Internet service provider operations, DE
+79.204.191.38|/Trezarcoin:2.1.3/|70001||||||
+79.248.147.24|/Trezarcoin:2.1.3/|70001||||||
 79.248.152.76|/Trezarcoin:2.1.3/|70001||||||
 81.169.175.185|/Trezarcoin:2.1.2/|70001||||||
 81.217.179.10|/Trezarcoin:2.1.3/|70001||||||
 81.217.96.171|/Trezarcoin:2.1.3/|70001||||||
 81.249.251.202|/Trezarcoin:2.1.3/|70001||||||
 83.11.19.113|/Trezarcoin:2.1.3/|70001||||||
-83.233.2.113|/Trezarcoin:2.1.3/|70001||||||
+83.233.2.113|/Trezarcoin:2.1.3/|70001|29518|83.233.0.0/16|SE|ripencc|2004-02-06|BREDBAND2, SE
 84.114.163.250|/Trezarcoin:2.1.3/|70001||||||
 84.191.74.163|/Trezarcoin:2.1.3/|70001||||||
 84.249.27.197|/Trezarcoin:2.1.3/|70001||||||

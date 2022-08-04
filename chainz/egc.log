@@ -4,19 +4,19 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 107.15.220.153|/EverGreenCoin:1.8.0.1/|80015||||||
 108.61.191.233|/EverGreenCoin:1.9.5/|80015||||||
 108.61.216.195|/EverGreenCoin:1.9.5/|80015||||||
-120.152.32.211|/EverGreenCoin:1.9.0/|80015|1221|120.152.0.0/14|AU|apnic|2008-04-09|ASN-TELSTRA Telstra Corporation Ltd, AU
-135.19.198.193|/EverGreenCoin:1.9.0/|80015|5769|135.19.192.0/18|CA|arin|2012-04-10|VIDEOTRON, CA
+120.152.32.211|/EverGreenCoin:1.9.0/|80015||||||
+135.19.198.193|/EverGreenCoin:1.9.0/|80015||||||
 136.24.173.82|/EverGreenCoin:1.8.4/|80015||||||
-142.188.72.240|/EverGreenCoin:1.9.0/|80015|577|142.188.0.0/16|CA|arin|1992-08-27|BACOM, CA
-143.244.37.153|/EverGreenCoin:1.9.0/|80015||||||
-172.116.58.113|/EverGreenCoin:1.9.0/|80015|20001|172.112.0.0/13|US|arin|2015-06-19|TWC-20001-PACWEST, US
+142.188.72.240|/EverGreenCoin:1.9.0/|80015||||||
+143.244.37.153|/EverGreenCoin:1.9.0/|80015|60068|143.244.36.0/22|GB|ripencc|1990-10-26|CDN77 ^_^, GB
+172.116.58.113|/EverGreenCoin:1.9.0/|80015||||||
 184.145.162.122|/EverGreenCoin:1.9.5.2/|80015||||||
 185.92.223.144|/EverGreenCoin:1.8.3/|80015||||||
-192.182.202.156|/EverGreenCoin:1.9.0/|80015|5650|192.182.0.0/15|US|arin|2012-10-22|FRONTIER-FRTR, US
+192.182.202.156|/EverGreenCoin:1.9.0/|80015||||||
 193.122.9.166|/EverGreenCoin:1.9.5.2/|80015||||||
 222.10.191.65|/EverGreenCoin:1.9.5.2/|80015||||||
 23.227.150.229|/EverGreenCoin:1.8.4/|80015||||||
-38.78.200.165|/EverGreenCoin:1.9.0/|80015|54329|38.78.200.0/24|US|arin|1991-04-16|SUMO, US
+38.78.200.165|/EverGreenCoin:1.9.0/|80015||||||
 45.32.178.232|/EverGreenCoin:1.9.5/|80015||||||
 61.69.159.178|/EverGreenCoin:1.8.0.1/|80015||||||
 65.29.77.252|/EverGreenCoin:1.9.5.2/|80015||||||
@@ -27,11 +27,11 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 72.23.124.232|/EverGreenCoin:1.9.5.2/|80015||||||
 87.211.154.182|/EverGreenCoin:1.9.5.2/|80015||||||
 89.40.121.11|/EverGreenCoin:1.9.5.2/|80015||||||
-90.243.226.91|/EverGreenCoin:1.9.0/|80015|5378|90.240.0.0/14|GB|ripencc|2006-09-08|Vodafone, GB
+90.243.226.91|/EverGreenCoin:1.9.0/|80015||||||
 91.218.58.19|/EverGreenCoin:1.9.2/|80015||||||
 92.60.45.250|/EverGreenCoin:1.9.2/|80015||||||
 94.130.220.87|/EverGreenCoin:1.9.2/|80015||||||
-95.171.197.214|/EverGreenCoin:1.9.0/|80015|39507|95.171.192.0/19|PL|ripencc|2009-02-25|IPIVISION-AS, PL
+95.171.197.214|/EverGreenCoin:1.9.0/|80015||||||
 95.217.78.169|/EverGreenCoin:1.9.2/|80015||||||
-95.31.160.124|/EverGreenCoin:1.9.5.2/|80015||||||
+95.31.160.124|/EverGreenCoin:1.9.5.2/|80015|8402|95.30.0.0/15|RU|ripencc|2008-10-10|CORBINA-AS OJSC Vimpelcom, RU
 95.90.235.203|/EverGreenCoin:1.9.0/|80015||||||
