@@ -13,10 +13,10 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 157.90.89.105|/bitcoinplus:2.8.3/|80016||||||
 159.242.234.250|/bitcoinplus:2.8.3/|80016||||||
 159.65.148.110|/bitcoinplus:2.8.1/|80016||||||
-165.22.87.209|/bitcoinplus:2.8.1/|80016||||||
+165.22.87.209|/bitcoinplus:2.8.1/|80016|14061|165.22.80.0/20|US|arin|2018-10-16|DIGITALOCEAN-ASN, US
 167.99.175.7|/bitcoinplus:2.8.1/|80016||||||
 169.150.204.34|/bitcoinplus:2.8.3/|80016||||||
-172.58.59.109|/bitcoinplus:2.7.3/|80013||||||
+172.58.59.109|/bitcoinplus:2.7.3/|80013|21928|172.58.56.0/21|US|arin|2012-09-18|T-MOBILE-AS21928, US
 178.165.185.143|/bitcoinplus:2.7.0/|80010||||||
 178.219.168.244|/bitcoinplus:2.8.2/|80016||||||
 192.143.43.137|/bitcoinplus:2.8.3/|80016||||||
@@ -47,8 +47,8 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 81.197.108.52|/bitcoinplus:2.8.3/|80016||||||
 82.180.151.20|/bitcoinplus:2.8.3/|80016||||||
 82.180.151.75|/bitcoinplus:2.8.3/|80016||||||
-85.19.25.38|/bitcoinplus:2.8.3/|80016|25400|85.19.0.0/16|NO|ripencc|2005-03-16|TELIA-NORWAY-AS Telia Norway Core Networks, NO
-86.101.113.216|/bitcoinplus:2.8.3/|80016||||||
+85.19.25.38|/bitcoinplus:2.8.3/|80016||||||
+86.101.113.216|/bitcoinplus:2.8.3/|80016|21334|86.101.0.0/17|HU|ripencc|2005-05-25|ASN-VODAFONE-, HU
 92.12.27.240|/bitcoinplus:2.8.2/|80016||||||
 92.239.1.17|/bitcoinplus:2.8.3/|80016||||||
 94.130.9.100|/bitcoinplus:2.8.3/|80016||||||

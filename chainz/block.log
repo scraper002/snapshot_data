@@ -5,7 +5,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 102.132.192.37|/Blocknet:4.3.3/|70713||||||
 104.175.54.44|/Blocknet:4.3.3/|70713||||||
 104.238.221.41|Blocknet:4.3.3|70713||||||
-108.7.54.10|/Blocknet:4.3.3/|70713||||||
+108.7.54.10|/Blocknet:4.3.3/|70713|701|108.7.0.0/16|US|arin|2009-06-05|UUNET, US
 116.203.187.130|/Blocknet:4.3.3/|70713||||||
 120.25.223.186|/Blocknet:4.3.3/|70713||||||
 121.151.119.189|/Blocknet:4.3.1/|70713||||||
@@ -29,20 +29,20 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 173.249.9.77|/Blocknet:4.3.3/|70713||||||
 174.0.61.19|/Blocknet:4.2.0/|70713||||||
 174.56.32.25|/Blocknet:4.3.3/|70713||||||
-175.45.149.14|/Blocknet:4.3.3/|70713||||||
-175.45.149.3|/Blocknet:4.3.3/|70713||||||
+175.45.149.14|/Blocknet:4.3.3/|70713|134139|175.45.148.0/22|AU|apnic|2009-12-17|HARBOURISPPTYLTD-AS-AP Harbour ISP Pty LTD, AU
+175.45.149.3|/Blocknet:4.3.3/|70713|134139|175.45.148.0/22|AU|apnic|2009-12-17|HARBOURISPPTYLTD-AS-AP Harbour ISP Pty LTD, AU
 176.223.141.232|/Blocknet:4.3.2/|70713||||||
 176.9.8.76|/Blocknet:4.3.2/|70713||||||
 178.164.146.236|/Blocknet:4.3.2/|70713||||||
-178.191.141.125|/Blocknet:4.3.3/|70713||||||
-178.21.55.135|/Blocknet:4.3.3/|70713||||||
-178.27.180.160|/Blocknet:4.3.3/|70713||||||
-178.27.192.10|/Blocknet:4.3.3/|70713||||||
+178.191.141.125|/Blocknet:4.3.3/|70713|8447|178.188.0.0/14|AT|ripencc|2010-02-08|A1TELEKOM-AT A1 Telekom Austria AG, AT
+178.21.55.135|/Blocknet:4.3.3/|70713|44651|178.21.48.0/21|HU|ripencc|2010-03-10|COMUNIQUE, HU
+178.27.180.160|/Blocknet:4.3.3/|70713|3209|178.24.0.0/14|DE|ripencc|2010-02-17|VODANET International IP-Backbone of Vodafone, DE
+178.27.192.10|/Blocknet:4.3.3/|70713|3209|178.24.0.0/14|DE|ripencc|2010-02-17|VODANET International IP-Backbone of Vodafone, DE
 178.62.114.74|Blocknet:4.3.3|70713||||||
 181.58.38.229|/Blocknet:4.3.3/|70713||||||
 182.253.132.170|/Blocknet:4.3.0/|70713||||||
 184.75.223.227|/Blocknet:4.3.3/|70713||||||
-185.129.62.62|/Blocknet:4.3.3/|70713|57860|185.129.62.0/23|DK|ripencc|2015-11-30|ZENCURITY-NET, DK
+185.129.62.62|/Blocknet:4.3.3/|70713||||||
 185.220.100.248|/Blocknet:4.3.3/|70713||||||
 185.231.155.27|/Blocknet:4.3.3/|70713||||||
 188.116.92.184|/Blocknet:4.3.3/|70713||||||
@@ -72,7 +72,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 46.39.20.182|/Blocknet:4.3.3/|70713||||||
 46.59.40.91|/Blocknet:4.3.3/|70713||||||
 47.32.64.231|/Blocknet:4.3.2/|70713||||||
-47.6.24.68|/Blocknet:4.3.3/|70713|20115|47.6.0.0/18|US|arin|2017-11-27|CHARTER-20115, US
+47.6.24.68|/Blocknet:4.3.3/|70713||||||
 5.12.25.212|/Blocknet:4.3.3/|70713||||||
 5.189.139.168|/Blocknet:4.3.1/|70713||||||
 50.38.58.170|/Blocknet:4.3.3/|70713||||||
@@ -99,11 +99,12 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 76.94.228.210|/Blocknet:4.3.3/|70713||||||
 77.161.255.69|/Blocknet:4.3.3/|70713||||||
 77.21.255.126|/Blocknet:4.3.2/|70713||||||
+79.248.133.223|/Blocknet:4.3.3/|70713||||||
 8.129.187.22|/Blocknet:4.3.1/|70713||||||
 81.196.253.7|/Blocknet:4.3.2/|70713||||||
 82.208.177.249|/Blocknet:4.3.2/|70713||||||
 82.31.75.185|/Blocknet:4.3.3/|70713||||||
-82.76.88.91|/Blocknet:4.3.3/|70713|8708|82.76.0.0/14|RO|ripencc|2003-07-14|RCS-RDS 73-75 Dr. Staicovici, RO
+82.76.88.91|/Blocknet:4.3.3/|70713||||||
 83.135.243.74|/Blocknet:4.3.2/|70713||||||
 83.135.243.82|/Blocknet:4.3.2/|70713||||||
 83.99.245.20|/Blocknet:4.3.1/|70713||||||
