@@ -14,7 +14,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 144.91.106.129|/Phore Core:1.8.0/|70009||||||
 144.91.106.92|/Phore Core:1.8.0/|70009||||||
 144.91.116.146|/Phore Core:1.7.0/|70008||||||
-149.56.148.202|/Phore Core:1.7.0/|70008|16276|149.56.0.0/16|CA|arin|2016-02-09|OVH, FR
+149.56.148.202|/Phore Core:1.7.0/|70008||||||
 152.228.135.232|/Phore Core:1.8.0/|70009||||||
 155.4.6.84|/Phore Core:1.8.0/|70009||||||
 157.90.106.242|/Phore Core:1.8.0/|70009||||||
@@ -28,7 +28,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 167.86.124.248|/Phore Core:1.8.0/|70009||||||
 167.86.79.43|/Phore Core:1.8.0/|70009||||||
 167.86.90.25|/Phore Core:1.8.0/|70009||||||
-167.86.96.250|/Phore Core:1.8.0/|70009||||||
+167.86.96.250|/Phore Core:1.8.0/|70009|51167|167.86.96.0/23|DE|ripencc|1993-05-14|CONTABO, DE
 173.249.29.110|/Phore Core:1.8.0/|70009||||||
 173.249.49.54|/Phore Core:1.8.0/|70009||||||
 176.31.100.106|/Phore Core:1.7.1/|70009||||||
@@ -54,8 +54,8 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 185.83.110.42|/Phore Core:1.8.0/|70009||||||
 185.83.110.43|/Phore Core:1.8.0/|70009||||||
 185.83.110.44|/Phore Core:1.8.0/|70009||||||
-185.83.110.45|/Phore Core:1.8.0/|70009||||||
-185.83.110.46|/Phore Core:1.8.0/|70009||||||
+185.83.110.45|/Phore Core:1.8.0/|70009|64462|185.83.110.0/24|CH|ripencc|2015-01-08|WOLFSEC-AS, CH
+185.83.110.46|/Phore Core:1.8.0/|70009|64462|185.83.110.0/24|CH|ripencc|2015-01-08|WOLFSEC-AS, CH
 188.2.142.215|/Phore Core:1.7.1/|70009||||||
 192.222.136.202|/Phore Core:1.8.0/|70009||||||
 193.26.157.215|/Phore Core:1.7.1/|70009||||||
@@ -63,6 +63,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 194.163.143.68|/Phore Core:1.8.0/|70009||||||
 194.60.86.31|/Phore Core:1.7.1/|70009||||||
 195.24.140.254|/Phore Core:1.8.0/|70009||||||
+199.126.18.17|/Phore Core:1.7.1/|70009||||||
 206.81.20.184|/Phore Core:1.8.0/|70009||||||
 207.180.242.187|/Phore Core:1.7.1/|70009||||||
 209.126.0.126|/Phore Core:1.8.0/|70009||||||
@@ -89,8 +90,8 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 62.138.7.229|/Phore Core:1.7.0/|70008||||||
 62.171.150.111|/Phore Core:1.7.0/|70008||||||
 64.253.19.19|/Phore Core:1.7.1/|70009||||||
-65.108.101.102|/Phore Core:1.8.0/|70009||||||
-65.108.101.103|/Phore Core:1.8.0/|70009||||||
+65.108.101.102|/Phore Core:1.8.0/|70009|24940|65.108.0.0/16|DE|ripencc|2001-02-09|HETZNER-AS, DE
+65.108.101.103|/Phore Core:1.8.0/|70009|24940|65.108.0.0/16|DE|ripencc|2001-02-09|HETZNER-AS, DE
 65.108.129.116|/Phore Core:1.8.0/|70009||||||
 65.21.136.170|/Phore Core:1.8.0/|70009||||||
 65.21.148.238|/Phore Core:1.7.0/|70008||||||
@@ -103,22 +104,21 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 75.119.159.160|/Phore Core:1.7.0/|70008||||||
 76.243.195.173|/Phore Core:1.8.0/|70009||||||
 77.6.110.98|/Phore Core:1.7.1/|70009||||||
-77.6.86.151|/Phore Core:1.7.1/|70009||||||
 77.78.23.237|/Phore Core:1.8.0/|70009||||||
-78.46.36.209|/Phore Core:1.7.0/|70008|24940|78.46.0.0/15|DE|ripencc|2007-04-16|HETZNER-AS, DE
+78.46.36.209|/Phore Core:1.7.0/|70008||||||
 78.46.37.50|/Phore Core:1.8.0/|70009||||||
-80.221.46.73|/Phore Core:1.8.0/|70009||||||
+80.221.46.73|/Phore Core:1.8.0/|70009|1759|80.220.0.0/14|FI|ripencc|2002-03-27|TSF-IP-CORE Telia Finland Oyj, FI
 84.166.32.238|/Phore Core:1.7.1/|70009||||||
 84.17.63.9|/Phore Core:1.7.1/|70009||||||
-84.62.30.89|/Phore Core:1.8.0/|70009||||||
+84.62.30.89|/Phore Core:1.8.0/|70009|3209|84.56.0.0/13|DE|ripencc|2004-08-17|VODANET International IP-Backbone of Vodafone, DE
 85.187.182.189|/Phore Core:1.8.0/|70009||||||
-86.1.113.199|/Phore Core:1.7.0/|70008|5089|86.1.0.0/16|GB|ripencc|2005-03-29|NTL, GB
+86.1.113.199|/Phore Core:1.7.0/|70008||||||
 86.95.107.144|/Phore Core:1.7.1/|70009||||||
 87.209.213.128|/Phore Core:1.7.1/|70009||||||
 89.0.168.234|/Phore Core:1.7.1/|70009||||||
 89.101.225.26|/Phore Core:1.7.1/|70009||||||
 89.151.220.172|/Phore Core:1.8.0/|70009||||||
-89.247.167.182|/Phore Core:1.7.0/|70008|8881|89.247.160.0/20|DE|ripencc|2006-05-04|VERSATEL, DE
+89.247.167.182|/Phore Core:1.7.0/|70008||||||
 92.204.53.227|/Phore Core:1.7.0/|70008||||||
 92.77.30.56|/Phore Core:1.7.1/|70009||||||
 94.156.189.241|/Phore Core:1.7.0/|70008||||||

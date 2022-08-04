@@ -81,6 +81,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 217.79.189.71|/LitecoinCashCore:0.16.3/|70015||||||
 24.67.205.102|/LitecoinCashCore:0.16.3/|70015||||||
 24.91.98.16|/LitecoinCashCore:0.16.3/|70015||||||
+27.102.129.54|/LitecoinCashCore:0.16.3/|70015||||||
 3.90.172.157|/LitecoinCashCore:0.16.3/|70015||||||
 31.25.241.224|/LitecoinCashCore:0.16.3/|70015||||||
 34.222.230.22|/LitecoinCashCore:0.16.3/|70015||||||
@@ -143,6 +144,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 83.195.190.81|/LitecoinCashCore:0.16.3/|70015||||||
 83.221.211.116|/LitecoinCashCore:0.16.3/|70015||||||
 83.233.2.113|/LitecoinCashCore:0.16.3/|70015||||||
+83.84.81.181|/LitecoinCashCore:0.16.3/|70015||||||
 84.141.123.177|/LitecoinCashCore:0.16.3/|70015||||||
 84.17.63.9|/LitecoinCashCore:0.16.3/|70015||||||
 84.226.120.115|/LitecoinCashCore:0.16.3/|70015||||||
@@ -160,10 +162,10 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 88.109.5.45|/LitecoinCashCore:0.16.3/|70015||||||
 88.212.55.252|/LitecoinCashCore:0.16.3/|70015||||||
 88.99.235.240|/LitecoinCashCore:0.16.3/|70015||||||
-89.143.41.24|/LitecoinCashCore:0.16.3/|70015||||||
-89.212.249.4|/LitecoinCashCore:0.16.3/|70015||||||
-90.52.34.237|/LitecoinCashCore:0.16.3/|70015||||||
-91.234.25.236|/LitecoinCashCore:0.16.3/|70015||||||
+89.143.41.24|/LitecoinCashCore:0.16.3/|70015|5603|89.143.0.0/18|SI|ripencc|2006-03-03|SIOL-NET Telekom Slovenije d.d., SI
+89.212.249.4|/LitecoinCashCore:0.16.3/|70015|34779|89.212.192.0/18|SI|ripencc|2006-05-03|T-2-AS AS set propagated by T-2 d.o.o., SI
+90.52.34.237|/LitecoinCashCore:0.16.3/|70015|3215|90.52.0.0/17|FR|ripencc|2006-03-02|France Telecom - Orange, FR
+91.234.25.236|/LitecoinCashCore:0.16.3/|70015|198356|91.234.24.0/22|UA|ripencc|2011-12-21|ASSKYNETUA ---FlyCOM---, UA
 91.92.61.116|/LitecoinCashCore:0.16.3/|70015||||||
 93.140.186.247|/LitecoinCashCore:0.16.3/|70015||||||
 94.244.24.175|/LitecoinCashCore:0.16.3/|70015||||||
@@ -174,5 +176,5 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 96.255.77.190|/LitecoinCashCore:0.16.3/|70015||||||
 96.56.209.230|/LitecoinCashCore:0.16.3/|70015||||||
 97.83.33.120|/LitecoinCashCore:0.16.3/|70015||||||
-99.232.72.107|/LitecoinCashCore:0.16.3/|70015|812|99.232.0.0/17|CA|arin|2007-03-12|ROGERS-COMMUNICATIONS, CA
-99.246.147.226|/LitecoinCashCore:0.16.3/|70015|812|99.246.0.0/16|CA|arin|2007-03-12|ROGERS-COMMUNICATIONS, CA
+99.232.72.107|/LitecoinCashCore:0.16.3/|70015||||||
+99.246.147.226|/LitecoinCashCore:0.16.3/|70015||||||
