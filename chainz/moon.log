@@ -12,8 +12,8 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 122.59.8.177|/MooncoinCore:0.17.1/|70017||||||
 141.164.61.213|/MooncoinCore:0.17.1/|70017||||||
 149.202.77.209|/MooncoinCore:0.17.1/|70017||||||
-149.248.55.181|/MooncoinCore:0.17.1/|70017||||||
-149.28.82.11|/MooncoinCore:0.17.1/|70017||||||
+149.248.55.181|/MooncoinCore:0.17.1/|70017|20473|149.248.48.0/20|US|arin|2018-07-03|AS-CHOOPA, US
+149.28.82.11|/MooncoinCore:0.17.1/|70017|20473|149.28.64.0/19|US|arin|2018-05-04|AS-CHOOPA, US
 154.21.212.194|/MooncoinCore:0.17.1/|70017||||||
 159.196.219.68|/MooncoinCore:0.17.1/|70017||||||
 161.97.172.98|/MooncoinCore:0.17.1/|70017||||||
@@ -25,6 +25,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 185.82.203.241|/MooncoinCore:0.17.1/|70017||||||
 203.10.99.174|/Mooncoin:0.13.9/|70016||||||
 217.240.193.12|/Mooncoin:0.13.9/|70016||||||
+223.72.65.132|/MooncoinCore:0.17.1/|70017||||||
 223.72.71.126|/MooncoinCore:0.17.1/|70017||||||
 24.75.197.65|/MooncoinCore:0.17.1/|70017||||||
 3.97.140.225|/MooncoinCore:0.17.1/|70017||||||
@@ -46,10 +47,9 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 82.64.185.60|/MooncoinCore:0.17.1/|70017||||||
 84.107.99.176|/Mooncoin:0.13.9/|70016||||||
 84.147.108.91|/MooncoinCore:0.17.1/|70017||||||
-84.2.34.93|/Mooncoin:0.13.9/|70016||||||
 84.234.52.190|/MooncoinCore:0.17.1/|70017||||||
 85.15.179.171|/Mooncoin:0.13.9/|70016||||||
-88.99.68.228|/Mooncoin:0.13.9/|70016||||||
+88.99.68.228|/Mooncoin:0.13.9/|70016|24940|88.99.0.0/16|DE|ripencc|2005-08-03|HETZNER-AS, DE
 89.137.179.15|/MooncoinCore:0.17.1/|70017||||||
 91.127.3.191|/MooncoinCore:0.17.1/|70017||||||
 91.200.41.32|/MooncoinCore:0.17.1/|70017||||||

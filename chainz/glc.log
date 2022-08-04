@@ -22,6 +22,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 114.10.16.248|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000||||||
 114.10.23.95|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000||||||
 114.124.240.113|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000||||||
+114.125.101.14|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000||||||
 114.125.101.38|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000||||||
 114.125.13.188|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000||||||
 114.125.200.154|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000||||||
@@ -70,6 +71,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 180.249.2.111|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000||||||
 182.1.107.164|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.0/|70000||||||
 182.1.111.123|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000||||||
+182.1.192.147|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000||||||
 182.1.51.56|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000||||||
 182.1.57.160|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.0/|70000||||||
 182.2.133.234|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000||||||
@@ -96,7 +98,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 31.0.61.16|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000||||||
 31.25.241.224|/GoldcoinCore:0.14.8/|70015||||||
 36.69.7.229|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000||||||
-36.72.19.152|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000||||||
 36.74.42.199|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000||||||
 36.75.131.53|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000||||||
 36.75.67.66|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000||||||
@@ -123,10 +124,9 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 85.249.17.64|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000||||||
 86.100.49.209|/GoldcoinCore:0.14.7/|70015||||||
 88.81.51.143|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000||||||
-88.99.68.228|/GoldcoinCore:0.14.8/|70015||||||
+88.99.68.228|/GoldcoinCore:0.14.8/|70015|24940|88.99.0.0/16|DE|ripencc|2005-08-03|HETZNER-AS, DE
 89.40.26.30|/GoldcoinCore:0.14.8/|70015||||||
 89.64.113.23|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000||||||
 91.202.26.23|/GoldcoinCore:0.14.8/|70015||||||
 91.204.115.161|/GoldcoinCore:0.14.8/|70015||||||
-94.254.173.120|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000||||||
 95.217.78.80|/GoldcoinCore:0.14.8/|70015||||||

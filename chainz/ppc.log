@@ -2,7 +2,7 @@
 # PeerCoin
 IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 101.177.207.134|/Satoshi:0.20.2/Peercoin:0.11.8/|70016||||||
-104.238.221.41|Satoshi:0.20.2/Peercoin:0.11.4|70016|23470|104.238.221.0/24|US|arin|2018-04-13|RELIABLESITE, US
+104.238.221.41|Satoshi:0.20.2/Peercoin:0.11.4|70016||||||
 107.185.174.246|/Satoshi:0.20.2/Peercoin:0.11.0/|70016||||||
 109.60.60.32|/Satoshi:0.20.2/Peercoin:0.11.8/|70016||||||
 109.60.63.48|/Satoshi:0.20.2/Peercoin:0.11.8/|70016||||||
@@ -27,8 +27,9 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 142.132.202.124|/Satoshi:0.20.2/Peercoin:0.11.8/|70016||||||
 142.132.212.130|/Satoshi:0.20.2/Peercoin:0.11.8/|70016||||||
 142.147.99.49|/Satoshi:0.20.2/Peercoin:0.11.8/|70016||||||
-144.172.73.66|/Satoshi:0.20.2/Peercoin:0.11.5/|70016||||||
+144.172.73.66|/Satoshi:0.20.2/Peercoin:0.11.5/|70016|49581|144.172.73.0/24|US|arin|2014-05-07|FERDINANDZINK, DE
 145.224.102.118|/Satoshi:0.20.2/Peercoin:0.11.0/|70016||||||
+145.224.125.172|/Satoshi:0.20.2/Peercoin:0.11.3/|70016||||||
 146.59.18.4|/Satoshi:0.20.2/Peercoin:0.11.1/|70016||||||
 147.185.192.64|/Satoshi:0.20.2/Peercoin:0.11.4/|70016||||||
 151.80.22.47|/Satoshi:0.20.2/Peercoin:0.11.2/|70016||||||
@@ -53,12 +54,12 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 195.201.207.43|/Satoshi:0.20.2/Peercoin:0.11.8/|70016||||||
 195.50.206.74|/Satoshi:0.20.2/Peercoin:0.11.0/|70016||||||
 199.102.155.227|/Satoshi:0.20.2/Peercoin:0.11.1/|70016||||||
-199.127.62.235|Satoshi:0.20.2/Peercoin:0.11.4|70016|23470|199.127.62.0/24|US|arin|2017-05-24|RELIABLESITE, US
+199.127.62.235|Satoshi:0.20.2/Peercoin:0.11.4|70016||||||
 203.214.36.207|/Satoshi:0.20.2/Peercoin:0.11.7/|70016||||||
 203.214.37.75|/Satoshi:0.20.2/Peercoin:0.11.7/|70016||||||
 203.214.74.187|/Satoshi:0.20.2/Peercoin:0.11.7/|70016||||||
 203.91.242.55|/Satoshi:0.20.2/Peercoin:0.11.8/|70016||||||
-206.189.131.144|Satoshi:0.20.2/Peercoin:0.11.4|70016|14061|206.189.128.0/20|US|arin|1995-11-15|DIGITALOCEAN-ASN, US
+206.189.131.144|Satoshi:0.20.2/Peercoin:0.11.4|70016||||||
 212.102.36.25|/Satoshi:0.20.2/Peercoin:0.11.4/|70016||||||
 212.202.31.167|/Satoshi:0.20.2/Peercoin:0.11.8/|70016||||||
 213.152.161.240|/Satoshi:0.20.2/Peercoin:0.11.8/|70016||||||
@@ -71,7 +72,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 24.229.236.161|/Satoshi:0.20.2/Peercoin:0.11.0/|70016||||||
 24.231.204.186|/Satoshi:0.20.2/Peercoin:0.11.7/|70016||||||
 24.57.240.58|/Satoshi:0.20.2/Peercoin:0.11.1/|70016||||||
-31.187.126.48|/Satoshi:0.20.2/Peercoin:0.11.0/|70016||||||
+31.187.114.181|/Satoshi:0.20.2/Peercoin:0.11.0/|70016||||||
 31.43.107.75|/Satoshi:0.20.2/Peercoin:0.11.4/|70016||||||
 34.242.205.169|/Satoshi:0.20.2/Peercoin:0.11.8/|70016||||||
 35.74.191.217|/Satoshi:0.20.2/Peercoin:0.11.1/|70016||||||
@@ -101,6 +102,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 67.248.149.255|/Satoshi:0.20.2/Peercoin:0.11.0/|70016||||||
 69.107.129.201|/Satoshi:0.20.2/Peercoin:0.11.7/|70016||||||
 70.91.250.149|/Satoshi:0.20.2/Peercoin:0.11.0/|70016||||||
+72.66.6.160|/Satoshi:0.20.2/Peercoin:0.11.1/|70016||||||
 73.142.139.2|/Satoshi:0.20.2/Peercoin:0.11.4/|70016||||||
 74.135.197.38|/Satoshi:0.20.2/Peercoin:0.11.3/|70016||||||
 74.44.207.163|/Satoshi:0.20.2/Peercoin:0.11.0/|70016||||||
@@ -108,7 +110,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 76.67.202.152|/Satoshi:0.20.2/Peercoin:0.11.4/|70016||||||
 77.119.114.251|/Satoshi:0.20.2/Peercoin:0.11.8/|70016||||||
 77.20.240.125|/Satoshi:0.20.2/Peercoin:0.11.8/|70016||||||
-77.75.36.104|/Satoshi:0.20.2/Peercoin:0.11.1/|70016|42926|77.75.36.0/24|TR|ripencc|2007-05-03|RADORE, TR
+77.75.36.104|/Satoshi:0.20.2/Peercoin:0.11.1/|70016||||||
 78.106.24.248|/Satoshi:0.20.2/Peercoin:0.11.1/|70016||||||
 78.115.18.37|/Satoshi:0.20.2/Peercoin:0.11.4/|70016||||||
 78.46.234.212|/Satoshi:0.20.2/Peercoin:0.11.2/|70016||||||

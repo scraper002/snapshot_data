@@ -3,7 +3,7 @@
 IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 138.201.196.237|/Satoshi:0.18.1/|70015||||||
 138.201.57.148|/Satoshi:0.18.1/|70015||||||
-142.112.0.42|/Satoshi:0.18.1/|70015|577|142.112.0.0/16|CA|arin|1993-04-05|BACOM, CA
+142.112.0.42|/Satoshi:0.18.1/|70015||||||
 144.76.222.140|/Satoshi:0.18.1/|70015||||||
 147.135.97.55|/Satoshi:0.18.1/|70015||||||
 149.56.155.28|/Satoshi:0.18.1/|70015||||||
@@ -23,7 +23,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 23.227.150.229|/Satoshi:0.16.4.1/|70015||||||
 31.25.241.224|/Satoshi:0.14.5/|70015||||||
 34.231.68.33|/Satoshi:0.16.4.1/|70015||||||
-34.236.45.33|/Satoshi:0.18.1/|70015||||||
+34.236.45.33|/Satoshi:0.18.1/|70015|14618|34.224.0.0/12|US|arin|2016-09-12|AMAZON-AES, US
 35.166.239.221|/Satoshi:0.16.4.1/|70015||||||
 40.115.13.33|/Satoshi:0.16.4/|70015||||||
 43.227.255.124|/Satoshi:0.16.4/|70015||||||
@@ -51,7 +51,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 83.221.211.116|/Satoshi:0.14.5.1/|70015||||||
 85.15.179.171|/Satoshi:0.18.1/|70015||||||
 85.19.25.38|/Satoshi:0.18.1/|70015||||||
-89.189.0.226|/Satoshi:0.16.4/|70015||||||
+89.189.0.226|/Satoshi:0.16.4/|70015|8371|89.189.0.0/19|RU|ripencc|2006-05-22|VIMPELCOM-NN Vimpelcom, Nizhniy Novgorod branch, fixed network, RU
 89.233.108.211|/Satoshi:0.18.1/|70015||||||
 91.206.16.214|/Satoshi:0.18.1/|70015||||||
 92.43.104.34|/Satoshi:0.16.4.1/|70015||||||
