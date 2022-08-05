@@ -7,7 +7,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 138.68.59.62|/WorldcoinCore:0.17.1/|70015||||||
 149.56.155.28|/WorldcoinCore:0.17.1/|70015||||||
 159.196.12.84|/WorldcoinCore:0.17.1/|70015||||||
-162.243.12.248|???|0|14061|162.243.0.0/17|US|arin|2013-09-06|DIGITALOCEAN-ASN, US
+162.243.12.248|???|0||||||
 213.32.6.132|/WorldcoinCore:0.17.1/|70015||||||
 218.166.142.125|/WorldcoinCore:0.17.1/|70015||||||
 218.166.148.34|/WorldcoinCore:0.17.1/|70015||||||
@@ -24,30 +24,36 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 72.18.200.11|/WorldcoinCore:0.17.1/|70015||||||
 84.234.52.190|/WorldcoinCore:0.17.1/|70015||||||
 85.249.160.157|/WorldcoinCore:0.17.1/|70015||||||
+85.249.160.25|/WorldcoinCore:0.17.1/|70015||||||
 85.249.160.46|/WorldcoinCore:0.17.1/|70015||||||
 85.249.161.18|/WorldcoinCore:0.17.1/|70015||||||
+85.249.161.45|/WorldcoinCore:0.17.1/|70015||||||
 85.249.161.6|/WorldcoinCore:0.17.1/|70015||||||
+85.249.161.7|/WorldcoinCore:0.17.1/|70015||||||
 85.249.162.154|/WorldcoinCore:0.17.1/|70015||||||
 85.249.162.35|/WorldcoinCore:0.17.1/|70015||||||
+85.249.163.184|/WorldcoinCore:0.17.1/|70015||||||
 85.249.163.221|/WorldcoinCore:0.17.1/|70015||||||
 85.249.163.92|/WorldcoinCore:0.17.1/|70015||||||
-85.249.165.113|/WorldcoinCore:0.17.1/|70015|16345|85.249.160.0/20|RU|ripencc|2005-01-24|BEE-AS Russia, RU
-85.249.165.35|/WorldcoinCore:0.17.1/|70015|16345|85.249.160.0/20|RU|ripencc|2005-01-24|BEE-AS Russia, RU
-85.249.166.9|/WorldcoinCore:0.17.1/|70015|16345|85.249.160.0/20|RU|ripencc|2005-01-24|BEE-AS Russia, RU
-85.249.166.95|/WorldcoinCore:0.17.1/|70015|16345|85.249.160.0/20|RU|ripencc|2005-01-24|BEE-AS Russia, RU
-85.249.168.173|/WorldcoinCore:0.17.1/|70015|16345|85.249.160.0/20|RU|ripencc|2005-01-24|BEE-AS Russia, RU
-85.249.169.64|/WorldcoinCore:0.17.1/|70015|16345|85.249.160.0/20|RU|ripencc|2005-01-24|BEE-AS Russia, RU
-85.249.169.90|/WorldcoinCore:0.17.1/|70015|16345|85.249.160.0/20|RU|ripencc|2005-01-24|BEE-AS Russia, RU
-85.249.170.59|/WorldcoinCore:0.17.1/|70015|16345|85.249.160.0/20|RU|ripencc|2005-01-24|BEE-AS Russia, RU
-85.249.173.115|/WorldcoinCore:0.17.1/|70015|16345|85.249.160.0/20|RU|ripencc|2005-01-24|BEE-AS Russia, RU
-85.249.173.88|/WorldcoinCore:0.17.1/|70015|16345|85.249.160.0/20|RU|ripencc|2005-01-24|BEE-AS Russia, RU
-85.249.174.198|/WorldcoinCore:0.17.1/|70015|16345|85.249.160.0/20|RU|ripencc|2005-01-24|BEE-AS Russia, RU
-85.249.175.108|/WorldcoinCore:0.17.1/|70015|16345|85.249.160.0/20|RU|ripencc|2005-01-24|BEE-AS Russia, RU
-85.249.175.64|/WorldcoinCore:0.17.1/|70015|16345|85.249.160.0/20|RU|ripencc|2005-01-24|BEE-AS Russia, RU
+85.249.165.113|/WorldcoinCore:0.17.1/|70015||||||
+85.249.165.35|/WorldcoinCore:0.17.1/|70015||||||
+85.249.166.252|/WorldcoinCore:0.17.1/|70015||||||
+85.249.166.9|/WorldcoinCore:0.17.1/|70015||||||
+85.249.166.95|/WorldcoinCore:0.17.1/|70015||||||
+85.249.168.173|/WorldcoinCore:0.17.1/|70015||||||
+85.249.169.64|/WorldcoinCore:0.17.1/|70015||||||
+85.249.169.90|/WorldcoinCore:0.17.1/|70015||||||
+85.249.170.59|/WorldcoinCore:0.17.1/|70015||||||
+85.249.173.115|/WorldcoinCore:0.17.1/|70015||||||
+85.249.173.88|/WorldcoinCore:0.17.1/|70015||||||
+85.249.174.198|/WorldcoinCore:0.17.1/|70015||||||
+85.249.175.108|/WorldcoinCore:0.17.1/|70015||||||
+85.249.175.120|/WorldcoinCore:0.17.1/|70015||||||
+85.249.175.64|/WorldcoinCore:0.17.1/|70015||||||
 88.99.68.228|/WorldcoinCore:0.17.1/|70015||||||
 89.137.179.15|/WorldcoinCore:0.17.1/|70015||||||
-89.163.242.207|/WorldcoinCore:0.17.1/|70015||||||
+89.163.242.207|/WorldcoinCore:0.17.1/|70015|24961|89.163.128.0/17|DE|ripencc|2006-02-17|MYLOC-AS IP Backbone of myLoc managed IT AG, DE
 93.228.71.228|/WorldcoinCore:0.17.1/|70015||||||
-94.19.194.72|/WorldcoinCore:0.17.1/|70015|35807|94.19.0.0/16|RU|ripencc|2008-07-03|SKYNET-SPB-AS, RU
+94.19.194.72|/WorldcoinCore:0.17.1/|70015||||||
 95.217.78.79|/WorldcoinCore:0.17.1/|70015||||||
 99.148.47.138|/WorldcoinCore:0.17.1/|70015||||||

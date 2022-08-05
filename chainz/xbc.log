@@ -8,6 +8,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 130.25.71.32|/bitcoinplus:2.8.2/|80016||||||
 136.34.173.174|/bitcoinplus:2.8.3/|80016||||||
 139.162.198.64|/bitcoinplus:2.8.2/|80016||||||
+141.134.67.144|/bitcoinplus:2.8.3/|80016||||||
 146.70.50.186|/bitcoinplus:2.7.0/|80010||||||
 157.90.88.178|/bitcoinplus:2.8.3/|80016||||||
 157.90.89.105|/bitcoinplus:2.8.3/|80016||||||
@@ -15,7 +16,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 165.22.87.209|/bitcoinplus:2.8.1/|80016||||||
 167.99.175.7|/bitcoinplus:2.8.1/|80016||||||
 169.150.204.34|/bitcoinplus:2.8.3/|80016||||||
-172.58.59.109|/bitcoinplus:2.7.3/|80013|21928|172.58.56.0/21|US|arin|2012-09-18|T-MOBILE-AS21928, US
+172.58.59.109|/bitcoinplus:2.7.3/|80013||||||
 178.115.66.26|/bitcoinplus:2.7.0/|80010||||||
 178.219.168.244|/bitcoinplus:2.8.2/|80016||||||
 178.252.127.223|/bitcoinplus:2.8.2/|80016||||||
@@ -52,7 +53,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 82.180.151.176|/bitcoinplus:2.8.3/|80016||||||
 82.180.151.20|/bitcoinplus:2.8.3/|80016||||||
 85.19.25.38|/bitcoinplus:2.8.3/|80016||||||
-85.76.35.28|/bitcoinplus:2.8.3/|80016||||||
+85.76.35.28|/bitcoinplus:2.8.3/|80016|719|85.76.0.0/14|FI|ripencc|2004-10-08|ELISA-AS Helsinki, Finland, FI
 86.101.113.216|/bitcoinplus:2.8.3/|80016||||||
 92.12.27.240|/bitcoinplus:2.8.2/|80016||||||
 92.21.82.170|/bitcoinplus:2.8.2/|80016||||||
